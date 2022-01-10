@@ -1,0 +1,11 @@
+- name: Privacy Policy
+  link: /privacy-policy
+
+- name: Terms of Use
+  link: /terms-of-use
+
+- name: Sitemap
+  link: /sitemap
+
+- name: Contact Us
+  link: /contact-us

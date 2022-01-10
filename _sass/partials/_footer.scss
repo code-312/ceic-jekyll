@@ -1,0 +1,112 @@
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 90%;
+  box-shadow: 0px -4px 20px rgba(210, 215, 223, 0.25);
+  padding: 2% 5% 2% 5%;
+  background-color: white;
+  color: black;
+  font-size: 1.13rem;
+  font-size: 18px;
+
+}
+
+.footer-content-container {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $light-green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  @include tablet {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+}
+// Newsletter Signup
+
+// Menu
+.footer-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  @include tablet {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+
+// Site Branding
+#footer-logo {
+  display: inline-block;
+}
+
+// Social Media
+.social-container {
+  color: black;
+  display: flex;
+  flex-direction: column;
+
+  @include tablet {
+    align-self: flex-end;
+  }
+
+  p {
+    margin: 0 0 0.75rem 0;
+    text-align: center;
+
+    @include tablet {
+      text-align: end;
+    }
+  }
+}
+
+.social-header {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0 0 .25rem 0;
+
+  @include tablet {
+  font-size: 1.75rem;
+  }
+}
+
+.social-email {
+
+}
+
+.social-icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1rem;
+
+  @include tablet{
+    justify-content: flex-end;
+  }
+}
+
+.social-media-icon {
+  width: 1.92rem;
+  height: 1.92rem;
+
+  &:hover {
+    fill: $light-green;
+  }
+
+  &:active {
+    fill: $active-link;
+  }
+}
+
+.social-link {
+  display: inline-block;
+}
+
+.footer-info {
+  color: black;
+  font-size: 1.13rem;
+}

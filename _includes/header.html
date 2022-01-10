@@ -1,0 +1,34 @@
+<header>
+  <!-- Navigation Menu -->
+  <nav>
+    <!-- Mobile Menu -->
+    <button class="mobile hamburger hamburger--collapse" type="button">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+    <!-- Tablet/Desktop Menu -->
+    <div class="tablet">
+      {% for item in site.data.menu-header %}
+      <a class= "footer-menu-link" href="{{ item.link }}">
+        {{ item.name }}
+      </a>
+      {% endfor %}
+    </div>
+  </nav>
+
+  <!-- Search -->
+
+
+  <!-- Site Branding -->
+  <!-- Jekyll will build in-line svgs-->
+  <a href="/" id="footer-logo">
+    <!-- Mobile Logo -->
+    {% include inline-svg/mobile-logo-green.svg %}
+    <!-- Tablet/Desktop Logo -->
+    {% include inline-svg/primary-logo-green.svg %}
+  </a>
+
+  <!-- Donate Button -->
+  <button class="tablet" id="donate-button" type="button">Donate</button>
+</header>

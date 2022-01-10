@@ -1,0 +1,45 @@
+
+<footer>
+  <div class="footer-content-container">
+
+    <!-- Newsletter Signup -->
+
+    <!-- Site Branding -->
+    <!-- Jekyll will build in-line svgs-->
+    <a href="/" id="footer-logo">
+      <!-- Mobile Logo -->
+      {% include inline-svg/mobile-logo-green.svg %}
+      <!-- Tablet/Desktop Logo -->
+      {% include inline-svg/primary-logo-green.svg %}
+    </a>
+
+    <!-- Menu -->
+    <nav class="footer-menu">
+      {% for item in site.data.menu-footer %}
+      <a class= "footer-menu-link" href="{{ item.link }}">
+        {{ item.name }}
+      </a>
+      {% endfor %}
+    </nav>
+
+    <!-- Social -->
+    <div class="social-container">
+      <p class="social-header">Connect with us</p>
+      <p class="social-email">Cannabisequityil@gmail.com</p>
+      <div class="social-icon-container">
+        <!-- Jekyll will build in-line svgs, allowing easy css hover-->
+        <a title="facebook" class="social-link" href="https://www.facebook.com/CannaEquityIL/" target="blank">
+          {% include inline-svg/facebook-icon-green.svg %}
+        </a>
+        <a title="instagram" class="social-link" href="https://www.instagram.com/CannaEquityIL/" target="blank">
+          {% include inline-svg/instagram-icon-green.svg %}
+        </a>
+        <a title="twitter" class="social-link" href="https://twitter.com/CannaEquityIL/" target="blank">
+          {% include inline-svg/twitter-icon-green.svg %}
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <p class="footer-info">Cannabis Equity Illinois Coalition is a 501(c)3 nonprofit</p>
+</footer>

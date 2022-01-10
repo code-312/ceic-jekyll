@@ -1,0 +1,8 @@
+- name: About Us
+  link: /about-us
+
+- name: Our Work
+  link: /our-work
+
+- name: Get Involved
+  link: /get-involved
