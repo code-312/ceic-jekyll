@@ -25,12 +25,12 @@ Thank you for joining up and helping us develop this site for an amazing non-pro
 We have few coding and workflow conventions we ask all contributors to follow, in order to maintain a clean, well documented code base. This site could be a nice portfolio piece that some devs may use during job search etc. Please read through them and feel free to discuss if you have any suggestions on how to improve them.
 
 ### Please don't break the build, do your work in a branch
-It's not the end of world of course, we can always revert the commit, but a nice workflow is:
+It's not the end of world of course, we can always revert the commit, but the workflow I use is:
 - create a new branch with a meaningful name `git branch amazing-feature`
 - switch to it with `git switch amazing-feature`
 - do your amazing work in the new branch with meaningful commits `git commit -am 'added excellent api connection for amazing feature'`
-- if master has diverged, merge it back `git merge master` and deal with any conflicts
-- push the branch to origin and make a merge request
+- check if master has diverged `git pull origin master`, merge it back `git merge master` and deal with any conflicts
+- push the branch to the repo `git push -u origin amazing-feature` and make a [pull request](https://github.com/nick-dolf/ceic-jekyll/pulls)
 - One other developer should look over the changes and approve or suggest changes
 
 If you see a merge request and want to approve it:
@@ -38,8 +38,8 @@ If you see a merge request and want to approve it:
 - do a code review and suggest changes if needed
 - approve the merge request after any needed changes are resolved
 
-After merging delete the branch to keep our repo pruned, new features can go in new well named branches
-- `git branch -d amazing-feature`
+After merging delete the branch `git branch -d amazing-feature` to keep our repo pruned, new features can go in new well named branches
+
 
 ### Code review
 We don't do big formal reviews, but productive discussions between developers is encouraged especially when merging. Please give and receive suggestions with grace. It is not personal, we have all written good and bad code at times and another person's eye can sometimes see what we missed.
