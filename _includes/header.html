@@ -10,10 +10,9 @@
     <!-- Tablet/Desktop Menu -->
     <div class="tablet">
       {% for item in site.data.menu-header %}
-      <a class= "footer-menu-link" href="{{ item.link }}">
+      <a href="{{ item.link | prepend: site.baseurl }}">
         {{ item.name }}
-      </a>
-      {% endfor %}
+      </a>{% endfor %}
     </div>
   </nav>
 
@@ -22,7 +21,7 @@
 
   <!-- Site Branding -->
   <!-- Jekyll will build in-line svgs-->
-  <a href="/" id="footer-logo">
+  <a href="{{ site.baseurl }}/" id="footer-logo">
     <!-- Mobile Logo -->
     {% include inline-svg/mobile-logo-green.svg %}
     <!-- Tablet/Desktop Logo -->

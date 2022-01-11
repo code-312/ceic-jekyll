@@ -1,6 +1,6 @@
 @font-face {
 	font-family: Karla;
-	src: url(/assets/fonts/karla-regular.woff);
+	src: url($baseurl + '/assets/fonts/karla-regular.woff');
 }
 
 .mobile {
