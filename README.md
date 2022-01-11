@@ -1,5 +1,5 @@
 # CEIC Website [In Development]
-Most recent build can be seen on the staging server [here](https://nickdolf.com/ceic-jekyll)
+Most recent build can be seen on the staging server [here](https://nickdolf.com/jekyll-ceic)
 
 [Code for Chicago](https://codeforchicago.org/) is developing a new website for [Cannabis Equity Illinois Coalition](https://cannabisequityil.org/)
 
