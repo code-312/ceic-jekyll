@@ -1,4 +1,3 @@
-
 <footer>
   <div class="footer-content-container">
 
@@ -6,7 +5,7 @@
 
     <!-- Site Branding -->
     <!-- Jekyll will build in-line svgs-->
-    <a href="/" id="footer-logo">
+    <a href="{{ site.baseurl }}" id="footer-logo">
       <!-- Mobile Logo -->
       {% include inline-svg/mobile-logo-green.svg %}
       <!-- Tablet/Desktop Logo -->
@@ -16,10 +15,9 @@
     <!-- Menu -->
     <nav class="footer-menu">
       {% for item in site.data.menu-footer %}
-      <a class= "footer-menu-link" href="{{ item.link }}">
+      <a class="footer-menu-link" href="{{ item.link | prepend: site.baseurl }}">
         {{ item.name }}
-      </a>
-      {% endfor %}
+      </a>{% endfor %}
     </nav>
 
     <!-- Social -->
