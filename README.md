@@ -26,8 +26,9 @@ We have few coding and workflow conventions we ask all contributors to follow, i
 
 ### Please don't break the build, do your work in a branch
 It's not the end of world of course, we can always revert the commit, but a nice workflow is:
-- create a new branch with a meaningful name `git branch -C amazing-feature`
-- do your amazing work in the new branch with meaningful commits `git commit -m 'added excellent api connection for amazing feature'`
+- create a new branch with a meaningful name `git branch amazing-feature`
+- switch to it with `git switch amazing-feature`
+- do your amazing work in the new branch with meaningful commits `git commit -am 'added excellent api connection for amazing feature'`
 - if master has diverged, merge it back `git merge master` and deal with any conflicts
 - push the branch to origin and make a merge request
 - One other developer should look over the changes and approve or suggest changes

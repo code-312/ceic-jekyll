@@ -31,13 +31,24 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 0.5rem;
 
   @include tablet {
     flex-direction: row;
     justify-content: space-between;
+    gap: 0.5rem
   }
 }
 
+.footer-menu-link {
+  color: $dark-green;
+  font-size: .88rem;
+  text-decoration: underline;
+
+  &:active {
+  color: #909090;
+  }
+}
 
 // Site Branding
 #footer-logo {
