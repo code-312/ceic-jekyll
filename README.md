@@ -10,7 +10,7 @@ This project is being developed with [Jekyll](https://jekyllrb.com/) and uses HT
 - Get Jekyll running on your local machine by following their [guide](https://jekyllrb.com/docs/)
 - Make sure you have your ssh key [setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 - Clone this repository `git clone git@github.com:nick-dolf/ceic-jekyll.git`
-- cd into the directory `cd ceic`
+- cd into the directory `cd ceic-jekyll`
 - Install dependencies with `bundle install`
 - Start the local server with `bundle exec jekyll serve`
 - check site at http://localhost:4000/
