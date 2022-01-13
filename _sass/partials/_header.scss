@@ -1,7 +1,7 @@
 header {
   min-height: 60px;
   box-shadow: 0px 4px 20px rgba(210, 215, 223, 0.25);
-  max-width: 100%;
+  width: 90%;
   padding: 1.25rem 5%;
   color: $link-green;
   font-size: 1.13rem;
@@ -13,8 +13,8 @@ header {
 // Menu
 
 
-// Donate Button
-#donate-button {
+// Button
+button {
   background-color: $dark-green;
   border: .1rem solid $dark-green;
   border-radius: 5px;
