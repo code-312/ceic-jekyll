@@ -25,6 +25,42 @@ footer {
 
 }
 // Newsletter Signup
+.newsletter-container {
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.newsletter-header {
+  width: 300px;
+  line-height: 21px;
+  margin: 0;
+}
+
+.newsletter-text {
+  margin: 5px 0 5px 0;
+}
+
+.newsletter-form {
+  font-size: 0;
+}
+
+.newsletter-email {
+  border-radius: 5px 0 0 5px;
+  margin: 0;
+  padding: 0;
+  height: 21px;
+  border-right: 0;
+}
+
+.newsletter-submit {
+  color: white;
+  border-radius: 0 5px 5px 0;
+  background-color: $dark-green;
+  margin: 0;
+  border: 0;
+  height: 25px;
+  width: 25px;
+}
 
 // Menu
 .footer-menu {
@@ -79,6 +115,7 @@ footer {
   font-size: 1.5rem;
   font-weight: bold;
   margin: 0 0 .25rem 0;
+  text-align: center;
 
   @include tablet {
   font-size: 1.75rem;
