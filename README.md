@@ -28,7 +28,7 @@ We have few coding and workflow conventions we ask all contributors to follow, i
 It's not the end of world of course, we can always revert the commit, but the workflow I use is:
 - create a new branch with a meaningful name `git branch amazing-feature`
 - switch to it with `git switch amazing-feature`
-- do your amazing work in the new branch with meaningful commits `git commit -am 'added excellent api connection for amazing feature'`
+- do your amazing work in the new branch with meaningful commits`git add .` and ` `git commit -m 'added excellent api connection for amazing feature'`
 - check if master has diverged `git pull origin master`, merge it back `git merge master` and deal with any conflicts
 - push the branch to the repo `git push -u origin amazing-feature` and make a [pull request](https://github.com/nick-dolf/ceic-jekyll/pulls)
 - One other developer should look over the changes and approve or suggest changes
