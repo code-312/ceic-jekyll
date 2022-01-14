@@ -9,35 +9,36 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  @include tablet {
+    display: grid;
+    grid-template-columns: [col-start] 25% [col-1] 35% [col-2] 25% [col-3] 15% [col-end];
+    grid-template-rows: [row-start] 25% [row-1] 25% [row-2] 25% [row-3] 25% [row-end];
+  }
 }
 // Menu
+#site-menu {
 
-
-// Button
-button {
-  background-color: $dark-green;
-  border: .1rem solid $dark-green;
-  border-radius: 5px;
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
-  color: white;
-  cursor: pointer;
-  display: flex;
-  font-size: 16px;
-  font-weight: 800;
-  line-height: 19px;
-  margin-left: 1.25rem;
-  margin-right: 0.37rem;
-  padding: 8px 23px;
-
-  &:hover, &:focus {
-    background-color: white;
-    border: .1rem solid $dark-green;
-    color: $dark-green;
-    cursor: pointer;
+  @include tablet {
+    justify-self: end;
+    grid-column: col-2 / col-end;
+    grid-row: row-3 / row-end;
   }
+}
 
-  &:active {
-    background-color: #D2D7DF;
+.header-nav-links {
+  font-size: 21px;
+  color: $link-green;
+  text-decoration: none;
+}
+
+// Search
+#search-container {
+
+  @include tablet {
+    justify-self: end;
+    grid-column: col-2 / col-3;
+    grid-row: row-1 / row-2;
   }
 }
 
@@ -45,4 +46,23 @@ button {
   fill: $dark-green;
   height: 48px;
   width: 48px;
+}
+
+// Site Branding
+#header-logo {
+
+  @include tablet {
+    grid-column: col-start / col-1;
+    grid-row: row-start / row-end;
+  }
+}
+
+// Donate Button
+#donate-button {
+
+  @include tablet {
+    justify-self: end;
+    grid-column: col-3 / col-end;
+    grid-row: row-1 / row-2;
+  }
 }

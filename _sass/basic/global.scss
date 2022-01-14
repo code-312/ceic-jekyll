@@ -45,6 +45,32 @@ strong {
   font-size: 16px;
 }
 
+.site-button {
+  background-color: $dark-green;
+  border: .1rem solid $dark-green;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 19px;
+  margin-left: 1.25rem;
+  margin-right: 0.37rem;
+  padding: 8px 23px;
+
+  &:hover, &:focus {
+    background-color: white;
+    border: .1rem solid $dark-green;
+    color: $dark-green;
+    cursor: pointer;
+  }
+
+  &:active {
+    background-color: #D2D7DF;
+  }
+}
+
 .mobile {
   display: inline-block;
 

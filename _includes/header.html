@@ -1,6 +1,6 @@
 <header>
   <!-- Navigation Menu -->
-  <nav>
+  <nav id="site-menu">
     <!-- Mobile Menu -->
     <button class="mobile hamburger hamburger--collapse" type="button">
       <span class="hamburger-box">
@@ -10,20 +10,20 @@
     <!-- Tablet/Desktop Menu -->
     <div class="tablet">
       {% for item in site.data.menu-header %}
-      <a href="{{ item.link | prepend: site.baseurl }}">
+      <a class="header-nav-links" href="{{ item.link | prepend: site.baseurl }}">
         {{ item.name }}
       </a>{% endfor %}
     </div>
   </nav>
 
   <!-- Search -->
-  <div class="search-container">
+  <div id="search-container">
     {% include inline-svg/search-icon.svg %}
   </div>
-  
+
   <!-- Site Branding -->
   <!-- Jekyll will build in-line svgs-->
-  <a href="{{ site.baseurl }}/" id="footer-logo">
+  <a href="{{ site.baseurl }}/" id="header-logo">
     <!-- Mobile Logo -->
     {% include inline-svg/mobile-logo-green.svg %}
     <!-- Tablet/Desktop Logo -->
@@ -31,5 +31,5 @@
   </a>
 
   <!-- Donate Button -->
-  <button class="" id="donate-button" type="button">Donate</button>
+  <button class="site-button" id="donate-button" type="button">Donate</button>
 </header>
