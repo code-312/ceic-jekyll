@@ -1,18 +1,17 @@
 <footer>
-  <div class="footer-content-container">
+  <div id="footer-content-container">
 
     <!-- Newsletter Signup -->
-    <div class="newsletter-container">
-      <div class="newsletter-text-container">
-        <h3 class="newsletter-header">GET THE GREENEST COALITION NEWS</h3>
-        <p class="newsletter-text">Sign up for our newsletter</p>
+    <div id="newsletter-container">
+      <div id="newsletter-text-container">
+        <h3 id="newsletter-header">GET THE GREENEST COALITION NEWS</h3>
+        <p id="newsletter-text">Sign up for our newsletter</p>
       </div>
-      <form class="newsletter-form">
-        <input class="newsletter-email" type="email" value="Your email address...">
+      <form id="newsletter-form">
+        <input id="newsletter-email" type="email" value="Your email address...">
+        <div id="mobile-submit" class="mobile">{% include inline-svg/mobile-newsletter-submit.svg %}</div>
         <button class="tablet site-button">Sign Up</button>
-        <input class="newsletter-submit mobile" type="submit" value=">">
       </form>
-
     </div>
 
     <!-- Site Branding -->
@@ -25,18 +24,19 @@
     </a>
 
     <!-- Menu -->
-    <nav class="footer-menu">
+    <nav id="footer-menu">
       {% for item in site.data.menu-footer %}
       <a class="footer-menu-link" href="{{ item.link | prepend: site.baseurl }}">
         {{ item.name }}
       </a>{% endfor %}
     </nav>
 
+
     <!-- Social -->
-    <div class="social-container">
-      <h2 class="social-header">Connect with us</h2>
-      <p class="social-email">Cannabisequityil@gmail.com</p>
-      <div class="social-icon-container">
+    <div id="social-container">
+      <h2 id="social-header">Connect with us</h2>
+      <p id="social-email">Cannabisequityil@gmail.com</p>
+      <div id="social-icon-container">
         <!-- Jekyll will build in-line svgs, allowing easy css hover-->
         <a title="facebook" class="social-link" href="https://www.facebook.com/CannaEquityIL/" target="blank">
           {% include inline-svg/facebook-icon-green.svg %}
@@ -51,5 +51,5 @@
     </div>
   </div>
 
-  <p class="footer-info">Cannabis Equity Illinois Coalition is a 501(c)3 nonprofit</p>
+  <p id="footer-info">Cannabis Equity Illinois Coalition is a 501(c)3 nonprofit</p>
 </footer>
