@@ -1,17 +1,15 @@
 footer {
   position: absolute;
   bottom: 0;
-  width: 90%;
-  box-shadow: 0px -4px 20px rgba(210, 215, 223, 0.25);
-  padding: 2% 5% 2% 5%;
-  background-color: white;
-  color: black;
-  font-size: 1.13rem;
-  font-size: 18px;
-
+  min-width: 320px;
+  width: 88%;
+  box-shadow: 0px -4px 20px $shadow;
+  background-color: $white;
+  color: $black;
+  padding: 15px 6% 5px 6%;
 }
 
-.footer-content-container {
+#footer-content-container {
   padding-bottom: 1rem;
   border-bottom: 1px solid $light-green;
   display: flex;
@@ -25,15 +23,14 @@ footer {
   }
 
 }
+
 // Newsletter Signup
-.newsletter-container {
-  max-width: 230px;
+#newsletter-container {
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
 
   @include tablet {
-    max-width: 100%;
     align-items: end;
     grid-column: col-2 / col-end;
     grid-row: row-start / row-2;
@@ -50,16 +47,7 @@ footer {
   }
 }
 
-.newsletter-header {
-  line-height: 21px;
-  margin: 0;
-
-  @include tablet {
-    width: 400px;
-  }
-}
-
-.newsletter-text-container {
+#newsletter-text-container {
   @include tablet {
     display: flex;
     flex-direction: column;
@@ -67,24 +55,35 @@ footer {
   }
 }
 
-.newsletter-text {
+#newsletter-header {
+  line-height: 1.31rem;
+  margin: 0;
+
+  @include tablet {
+    width: 400px;
+  }
+}
+
+#newsletter-text {
   margin: 5px 0 5px 0;
 }
 
-.newsletter-form {
+#newsletter-form {
+  display: flex;
   font-size: 0;
-
-
+  justify-content: end;
 }
 
-.newsletter-email {
+#newsletter-email {
+  width: 90%;
   border-radius: 5px 0 0 5px;
   margin: 0;
-  padding: 0;
-  height: 21px;
+  padding-left: 5px;
+  height: 31px;
   border-right: 0;
 
   @include tablet {
+    width: 50%;
     border-radius: 5px;
     border: 2px solid black;
     height: 32px;
@@ -92,24 +91,21 @@ footer {
   }
 }
 
-.newsletter-submit {
-  color: white;
-  border-radius: 0 5px 5px 0;
-  background-color: $dark-green;
-  margin: 0;
-  border: 0;
-  height: 25px;
-  width: 25px;
+#mobile-submit {
 
-  @include tablet {
-    content: 'Submit';
+}
+
+.mobile-submit-svg {
+  fill: $dark-green;
+
+  &:hover {
+    fill: $light-green;
   }
 }
 
 // Site Branding
 #footer-logo {
   display: inline-block;
-  max-width: 300px;
 
   @include tablet {
     grid-column: col-start / col-1;
@@ -124,11 +120,11 @@ footer {
 
 
 // Menu
-.footer-menu {
+#footer-menu {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.5rem;
+  gap: 1rem;
 
   @include tablet {
     grid-column: col-start / col-2;
@@ -156,10 +152,11 @@ footer {
 }
 
 // Social Media
-.social-container {
+#social-container {
   color: black;
   display: flex;
   flex-direction: column;
+  margin-top: 1rem;
 
   @include tablet {
     grid-column: col-2 / col-end;
@@ -176,7 +173,7 @@ footer {
   }
 }
 
-.social-header {
+#social-header {
   font-size: 1.5rem;
   font-weight: bold;
   margin: 0 0 .25rem 0;
@@ -188,15 +185,15 @@ footer {
   }
 }
 
-.social-email {
+#social-email {
 
 }
 
-.social-icon-container {
+#social-icon-container {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  gap: 1rem;
+  gap: 1.5rem;
 
   @include tablet{
     justify-content: flex-end;
@@ -220,7 +217,8 @@ footer {
   display: inline-block;
 }
 
-.footer-info {
+
+#footer-info {
   color: black;
-  font-size: 1.13rem;
+  font-size: 1rem;
 }
