@@ -1,19 +1,16 @@
 header {
-  min-height: 60px;
-  box-shadow: 0px 4px 20px rgba(210, 215, 223, 0.25);
-  width: 90%;
-  padding: 1.25rem 5%;
-  color: $link-green;
-  font-size: 1.13rem;
-  font-weight: 700;
+  min-width: 320px;
+  width: 88%;
+  box-shadow: 0px 4px 20px $shadow;
+  padding: 20px 6% 20px 6%;
   display: flex;
   justify-content: space-between;
   align-items: center;
 
   @include tablet {
-    display: grid;
-    grid-template-columns: [col-start] 25% [col-1] 35% [col-2] 25% [col-3] 15% [col-end];
-    grid-template-rows: [row-start] 25% [row-1] 25% [row-2] 25% [row-3] 25% [row-end];
+    display: inline-grid;
+    grid-template-columns: [col-start] 140px[col-1] 1fr [col-2] 130px [col-end];
+    grid-template-rows: [row-start] 50% [row-1] 50% [row-end];
   }
 }
 // Menu
@@ -21,13 +18,18 @@ header {
 
   @include tablet {
     justify-self: end;
-    grid-column: col-2 / col-end;
-    grid-row: row-3 / row-end;
+    grid-column: col-1 / col-end;
+    grid-row: row-1 / row-end;
+
+    display: flex;
+    flex-direction: row;
   }
 }
 
 .header-nav-links {
-  font-size: 21px;
+  min-width: 140px;
+  font-size: 1.31rem;
+  font-weight: bold;
   color: $link-green;
   text-decoration: none;
 }
@@ -37,15 +39,15 @@ header {
 
   @include tablet {
     justify-self: end;
-    grid-column: col-2 / col-3;
-    grid-row: row-1 / row-2;
+    grid-column: col-1 / col-2;
+    grid-row: row-start / row-1;
   }
 }
 
 .search-icon {
   fill: $dark-green;
-  height: 48px;
-  width: 48px;
+  height: 32px;
+  width: 32px;
 }
 
 // Site Branding
@@ -55,6 +57,10 @@ header {
     grid-column: col-start / col-1;
     grid-row: row-start / row-end;
   }
+
+  .logo {
+    
+  }
 }
 
 // Donate Button
@@ -62,7 +68,7 @@ header {
 
   @include tablet {
     justify-self: end;
-    grid-column: col-3 / col-end;
-    grid-row: row-1 / row-2;
+    grid-column: col-2 / col-end;
+    grid-row: row-start / row-1;
   }
 }
