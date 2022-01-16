@@ -8,12 +8,10 @@
       </span>
     </button>
     <!-- Tablet/Desktop Menu -->
-    <div class="tablet">
-      {% for item in site.data.menu-header %}
-      <a class="header-nav-links" href="{{ item.link | prepend: site.baseurl }}">
-        {{ item.name }}
-      </a>{% endfor %}
-    </div>
+    {% for item in site.data.menu-header %}
+    <a class="header-nav-links tablet" href="{{ item.link | prepend: site.baseurl }}">
+      {{ item.name }} {% include inline-svg/menu-arrow.svg %}
+    </a>{% endfor %}
   </nav>
 
   <!-- Search -->
@@ -31,5 +29,5 @@
   </a>
 
   <!-- Donate Button -->
-  <button class="site-button" id="donate-button" type="button">Donate</button>
+  <button id="donate-button" class="site-button" type="button">Donate</button>
 </header>
