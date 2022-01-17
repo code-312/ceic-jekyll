@@ -74,6 +74,7 @@ footer {
 }
 
 #newsletter-email {
+  color: $input-grey;
   width: 90%;
   border-radius: 5px 0 0 5px;
   margin: 0;
@@ -84,7 +85,7 @@ footer {
   @include tablet {
     width: 50%;
     border-radius: 5px;
-    border: 2px solid black;
+    border: 2px solid $input-grey;
     height: 32px;
     padding-left: 5px;
   }
