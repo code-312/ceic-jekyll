@@ -1,8 +1,21 @@
-- name: About Us
-  link: /about-us
+- title: About Us
+  subfolderitems:
+    - page: Mission & History
+    - link: test
+    - page: Our Impact
+    - link: /about-us/our-impact
+    - page: Our Partners
+    - link: /about-us/our-partners
 
-- name: Our Work
-  link: /our-work
+- title: Our Work
+  subfolderitems:
+    - page: Expungment
+    - link: /about-us/expungment
 
-- name: Get Involved
-  link: /get-involved
+
+- title: Get Involved
+  subfolderitems:
+    - page: Volunteer
+    - link: /about-us/volunteer
+    - page: Become a Member
+    - link: /about-us/become-a-member
