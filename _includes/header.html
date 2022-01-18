@@ -8,10 +8,19 @@
       </span>
     </button>
     <!-- Tablet/Desktop Menu -->
+
     {% for item in site.data.menu-header %}
-    <a class="header-nav-links tablet" href="{{ item.link | prepend: site.baseurl }}">
-      {{ item.name }} {% include inline-svg/menu-arrow.svg %}
-    </a>{% endfor %}
+    <div class="dropdown-container tablet">
+      <h2 class="menu-title">{{ item.title }}&nbsp&nbsp{% include inline-svg/menu-arrow.svg %}</h2>
+      <hr class="menu-underline">
+      <div class="dropdown-content">
+        {% for entry in item.subfolderitems %}
+        <a class="menu-link" href="{{ entry.link  | prepend: site.baseurl }}">{{ entry.page }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+
   </nav>
 
   <!-- Search -->
