@@ -3,42 +3,8 @@
 @import 'abstracts/colors';
 @import 'library/hamburgers/hamburgers';
 @import 'basic/global';
+@import 'components/plus-minus';
 @import 'partials/header';
+@import 'partials/content';
 @import 'partials/footer';
 @import 'partials/logos';
-
-// Displays the current responsive layout
-// Remove after header and footer are complete
-#show-responsive {
-  text-align: center;
-  color: orange;
-  transition: color 2s, transform 1s;
-
-  @include tablet {
-    color: red;
-    transform: translateY(80px) rotate(360deg);
-  }
-  @include desktop {
-    color: darkred;
-    transform: translateY(160px);
-  }
-}
-
-#show-responsive::before {
-  content: "Mobile ";
-
-  @include tablet {
-    content: "Tablet ";
-  }
-  @include desktop {
-    content: "Desktop ";
-  }
-}
-
-div.center {
-  display: flex;
-  flex-direction: column;
-  justify-content: start;
-  margin: auto;
-}
-// End of responsive layout display

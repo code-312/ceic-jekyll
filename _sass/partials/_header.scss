@@ -20,6 +20,24 @@ header {
     justify-self: end;
     grid-column: col-1 / col-end;
     grid-row: row-1 / row-end;
+  }
+}
+
+
+.menu-container {
+  display: none;
+
+  &.is-active {
+    position: absolute;
+    transform: translateY(60px);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  @include tablet {
+    position: static;
+    transform: translate(0);
 
     display: flex;
     flex-direction: row;
@@ -29,51 +47,89 @@ header {
 }
 
 .dropdown-container {
-  position: relative;
-  cursor: pointer;
+    position: relative;
+    cursor: pointer;
 
-  &:hover {
+    &:hover {
 
-    .menu-arrowhead {
-      transform: rotate(-180deg) translateY(.4rem);
+
+      .dropdown-content {
+        display: flex;
+        flex-direction: column;
+        gap: .25rem;
+        background-color: $white;
+      }
+
+      .plus-minus:before {
+        transform: rotate(90deg);
+      }
+
     }
 
-    .menu-underline {
-      background-color: $dark-green;
-    }
 
-    .dropdown-content {
-      display: flex;
-      flex-direction: column;
-      gap: 1rem;
+    @include tablet {
+      &:hover {
+
+        .menu-arrowhead {
+          transform: rotate(-180deg) translateY(.4rem);
+        }
+
+        .menu-underline {
+          background-color: $dark-green;
+        }
+
+        .dropdown-content {
+          display: flex;
+          flex-direction: column;
+          gap: 1rem;
+        }
+      }
     }
-  }
 }
 
 .menu-underline {
-  border: 0;
-  border-radius: 3px;
-  height: 3px;
-  background-color: $white;
+  display: none;
+
+  @include tablet{
+    border: 0;
+    border-radius: 3px;
+    height: 3px;
+    background-color: $white;
+  }
 }
 
 .dropdown-content {
+  list-style: none;
+  margin: 0;
   display: none;
-  position: absolute;
-  background-color: $white;
-  box-shadow: 0px 4px 20px $shadow;
-  z-index: 1;
-  padding: 1rem;
-  transform: translate(-80px);
+
+  @include tablet {
+    position: absolute;
+    box-shadow: 0px 4px 20px $shadow;
+    z-index: 1;
+    padding: 1rem;
+    transform: translateX(-80px);
+  }
+
+}
+
+.menu-title-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .menu-title {
   font-size: 1.31rem;
-  line-height: 1.31rem;
   font-weight: bold;
-  color: $link-green;
-  text-align: right;
-  margin: 1rem 0 0 0;
+
+  @include tablet {
+    color: $link-green;
+  }
+}
+
+.menu-item {
+  min-width: 280px;
 }
 
 .menu-link {
@@ -81,8 +137,11 @@ header {
   font-size: 1.13rem;
   line-height: 1.5rem;
   min-width: 280px;
+  color: $link-green;
 
-  color: $black;
+  @include tablet{
+    color: $black;
+  }
 }
 
 // Search
@@ -145,7 +204,6 @@ header {
   padding-left: 5px;
   height: 37px;
 }
-
 
 .search-icon {
   fill: $dark-green;

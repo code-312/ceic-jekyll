@@ -1,0 +1,30 @@
+- title: About Us
+  subfolderitems:
+    - page: Mission & History
+    - link: test
+    - page: Our Impact
+    - link: /about-us/our-impact
+    - page: Our Partners
+    - link: /about-us/our-partners
+
+- title: Our Work
+  subfolderitems:
+    - page: Policy & Advocacy
+    - link: /our-work/policy-advocacy
+    - page: Reentry Support
+    - link: /our-work/reentry-support
+    - page: Business Advising
+    - link: /our-work/business-advising
+    - page: Community Education
+    - link: /our-work/community-education
+
+- title: Get Involved
+  subfolderitems:
+    - page: Stay Informed
+    - link: /get-involved/stay-informed
+    - page: Donate
+    - link: /get-involved/donate
+    - page: Volunteer
+    - link: /get-involved/volunteer
+    - page: Membership
+    - link: /get-involved/become-a-member
