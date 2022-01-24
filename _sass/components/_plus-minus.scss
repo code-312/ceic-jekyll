@@ -1,0 +1,30 @@
+.plus-minus {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+
+  &:before,
+  &:after{
+      content: "";
+      position: absolute;
+      background-color: $link-green;
+      transition: transform 0.25s ease-out;
+  }
+  /* Vertical line */
+  &:before{
+      width: 4px;
+      height: 30px;
+      margin-left: 13px;
+  }
+
+  /* horizontal line */
+  &:after{
+      width: 30px;
+      height: 4px;
+      transform: translateY(13px);
+  }
+
+  @include tablet {
+    display: none;
+  }
+}

@@ -1,6 +1,12 @@
 @font-face {
-	font-family: Karla;
-	src: url($baseurl + '/assets/fonts/karla-regular.woff');
+  font-family: Karla;
+  src: url($baseurl + '/assets/fonts/karla-regular.woff');
+}
+
+@font-face {
+  font-family: Karla;
+  src: url($baseurl + '/assets/fonts/karla-bold.woff');
+  font-weight: bold;
 }
 
 html {

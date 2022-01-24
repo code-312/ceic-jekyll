@@ -1,25 +1,31 @@
 <header>
   <!-- Navigation Menu -->
   <nav id="site-menu">
-    <!-- Mobile Menu -->
+    <!-- Mobile Hamburger -->
     <button class="mobile hamburger hamburger--collapse" type="button">
       <span class="hamburger-box">
         <span class="hamburger-inner"></span>
       </span>
     </button>
-    <!-- Tablet/Desktop Menu -->
 
-    {% for item in site.data.menu-header %}
-    <div class="dropdown-container tablet">
-      <h2 class="menu-title">{{ item.title }}&nbsp&nbsp{% include inline-svg/menu-arrow.svg %}</h2>
-      <hr class="menu-underline">
-      <div class="dropdown-content">
-        {% for entry in item.subfolderitems %}
-        <a class="menu-link" href="{{ entry.link  | prepend: site.baseurl }}">{{ entry.page }}</a>
-        {% endfor %}
+    <!-- Responsive Menu -->
+    <div class="menu-container">
+      {% for item in site.data.main-navigation %}
+      <div class="dropdown-container">
+        <div class="menu-title-container">
+          <div class="plus-minus"></div>&nbsp&nbsp
+          <span class="menu-title">{{ item.title }}</span>
+          &nbsp&nbsp{% include inline-svg/menu-arrow.svg %}
+        </div>
+        <hr class="menu-underline">
+        <ul class="dropdown-content">
+          {% for entry in item.subfolderitems %}
+          <li class="menu-item"><a class="menu-link" href="{{ entry.link  | prepend: site.baseurl }}">{{ entry.page }}</a></li>
+          {% endfor %}
+        </ul>
       </div>
+      {% endfor %}
     </div>
-    {% endfor %}
 
   </nav>
 
