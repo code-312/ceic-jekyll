@@ -3,14 +3,14 @@
   padding-left: 0;
 }
 
-.nav .list-item {
+.list--responsive .list-item {
   text-align: center;
-  display: block;
+  display: flex;
   margin: 1rem 0;
 
 
   @include tablet {
-    display: inline-block;
+    display: inline-flex;
     margin-right: 2rem;
   }
 }
