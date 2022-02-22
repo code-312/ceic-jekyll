@@ -1,0 +1,19 @@
+html {
+  min-width: 320px;
+}
+
+.container {
+  max-width: 1096px;
+  margin: auto;
+}
+
+.input {
+  border: 1px solid $input-grey;
+  border-radius: 5px;
+  padding: 0.5rem 0.5rem;
+  min-width: 250px;
+}
+
+.input::placeholder {
+  color: $input-grey;
+}

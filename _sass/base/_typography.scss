@@ -1,0 +1,43 @@
+html {
+  font-size: 62.5%; // allows easy font size calc. std font is 16px *.625 = 10px
+  font-family: Karla, helvetica;
+  box-sizing: border-box;
+}
+
+/* Keeps box sizing consistent across elements, while allowing overides as neeeded*/
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.6rem; // set base font size to 16px, while allowing user to resize
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 3.8rem;
+  font-weight: bold;
+  line-height: 4.4rem;
+}
+
+h2 {
+  font-size: 2.4rem;
+  font-weight: bold;
+  line-height: 2.8rem;
+}
+
+h3 {
+  font-size: 2rem;
+  text-transform: uppercase;
+  line-height: 2.3rem;
+}
+
+p {
+  font-size: 1.8rem;
+  line-height: 2.1rem;
+}
+
+strong {
+  font-size: 1.6rem;
+  font-weight: bold;
+}

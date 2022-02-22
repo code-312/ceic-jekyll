@@ -1,0 +1,31 @@
+.logo {
+  margin: 1rem;
+  fill: $ceic-green;
+  transition: fill $speed-std;
+
+  &:hover {
+    fill: $dark-green;
+  }
+}
+
+.logo--mobile {
+  width: 234px;
+
+  @include tablet {
+    display: none;
+  }
+}
+
+.logo--primary {
+  display: none;
+  width: 149px;
+
+  @include tablet {
+    display: inline-block;
+  }
+}
+
+.link--logo {
+
+
+}
