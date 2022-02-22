@@ -1,0 +1,64 @@
+.btn {
+  padding: 0.5rem 2.5rem;
+  border: 2px solid;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: all $speed-std;
+  cursor: pointer;
+}
+
+.btn--ghost {
+  background: $white;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.btn--light-bg {
+  color: $white;
+  background: $dark-green;
+  border-color: $dark-green;
+
+  &:hover, &:focus {
+    background: $white;
+    color: $button-pressed;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  }
+
+  &:active {
+    background: $grey;
+    color: rgba(0,0,0, 0.5);
+  }
+
+  &:disabled {
+    color: $white;
+    box-shadow: none;
+    background: $button-deactivated;
+    border-color: $button-deactivated;
+  }
+}
+
+.btn--dark-bg {
+  color: $button-pressed;
+  background: $white;
+  border-color: $dark-green;
+
+  &:hover, &:focus {
+    background: $dark-green;
+    color: $white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  }
+
+  &:active {
+    background: $button-pressed;
+    border-color: $button-pressed;
+    color: rgba(255,255,255, 0.5);
+  }
+
+  &:disabled {
+    color: $button-deactivated;
+    box-shadow: none;
+    background: $white;
+    border-color: $button-deactivated;
+  }
+}

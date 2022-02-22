@@ -1,0 +1,62 @@
+.hamburger-menu {
+  background: $white;
+  border: 0;
+  width: 4.8rem;
+  height: 4.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
+  transition: all 1s ease-in;
+
+  &:hover, &:focus-visible {
+
+    .burger-layer {
+      background-color: $ceic-green;
+    }
+
+  }
+
+
+  @include tablet {
+    display: none;
+  }
+
+}
+
+.burger-layer {
+  background-color: $dark-green;
+  height: 0.4rem;
+  width: 3rem;
+  border-radius: 10px;
+  transition: transform $speed-std;
+  transform-origin: center;
+}
+
+.patty {
+  transition: all $speed-std ease-in-out;
+}
+
+.top-bun {
+  transition: all $speed-std ease-in-out;
+}
+
+.bottom-bun {
+  transition: all $speed-std ease-in-out;
+}
+
+.clicked {
+  //transform: translateX( calc(100vw - 80px) );
+}
+.menu-clicked .patty {
+  width: 0;
+}
+
+.menu-clicked .top-bun {
+  transform:  translateY(0.9rem) rotate(45deg);
+}
+
+.menu-clicked .bottom-bun {
+  transform:  translateY(-0.9rem) rotate(-45deg);
+}

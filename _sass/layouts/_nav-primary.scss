@@ -1,0 +1,16 @@
+.nav-primary {
+
+  max-height: 0;
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 9rem;
+  opacity: 0;
+  transition: opacity $speed-std, max-height 1s;
+}
+
+.nav-primary {
+  opacity: 1;
+  max-height: 20vh;
+
+}

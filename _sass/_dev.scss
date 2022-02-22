@@ -1,0 +1,15 @@
+// some little helper classses for easy dev'ng
+
+.dev-center {
+  background: gray;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dev-outline {
+  border: 2px solid lightgrey;
+  background: white;
+}

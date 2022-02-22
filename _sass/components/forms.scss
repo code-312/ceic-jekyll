@@ -1,0 +1,20 @@
+.form-search {
+  position: relative;
+
+  .search__input {
+    background-color: transparent;
+  }
+
+  .icon-search {
+    background: transparent;
+    position: absolute;
+    right: 0.5rem;
+    top: 0.5rem;
+
+  }
+
+  @include tablet {
+
+  }
+
+}

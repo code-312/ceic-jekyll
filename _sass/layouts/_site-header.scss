@@ -1,0 +1,25 @@
+.site-header {
+  box-shadow: 0px 4px 20px $shadow;
+  padding: 20px 1rem;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-header .logo {
+  width: 105px;
+}
+
+.site-header .btn {
+  padding: 0.5rem 1.5rem;
+  font-size: 1.2rem;
+
+  @include tablet {
+    padding: 0.5rem 2.5rem;
+    font-size: 1.6rem;
+  }
+}

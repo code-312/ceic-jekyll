@@ -1,0 +1,80 @@
+.site-footer {
+  border-top: 1px solid $grey;
+  padding: 20px 1rem;
+}
+
+.footer__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  border-bottom: 1px solid $ceic-green;
+
+  @include tablet {
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: [col-start] 1fr [col-1] 1fr [col-2] 1fr [col-3] 1fr [col-end];
+    grid-template-rows: [row-start] 1fr [row-1] 0 [row-2] 8rem [row-3] 4rem [row-end];
+  }
+
+}
+
+.footer-info {
+  text-align: center;
+
+  @include tablet {
+    text-align: left;
+  }
+}
+
+.footer-news-positioner {
+
+  @include tablet {
+    grid-column: col-1 / col-end;
+    grid-row: row-start / row-2;
+  }
+
+  @include desktop {
+    gap: 1rem;
+    align-self: start;
+    justify-self: end;
+    grid-column: col-1 / col-end;
+    grid-row: row-start / row-1;
+
+  }
+}
+
+.footer-logo-positioner {
+
+  @include tablet {
+    grid-column: col-start / col-1;
+    grid-row: row-1 / row-3;
+  }
+
+  @include desktop {
+    grid-column: col-start / col-1;
+    grid-row: row-2 / row-end;
+  }
+}
+
+.footer-nav-positioner {
+
+  @include tablet {
+    grid-column: col-start / col-3;
+    grid-row: row-3 / row-end;
+  }
+
+  @include desktop {
+    grid-column: col-1 / col-3;
+    grid-row: row-3 / row-end;
+  }
+}
+
+.footer-social-positioner {
+
+  @include tablet {
+    grid-column: col-2 / col-end;
+    grid-row: row-2 / row-end;
+  }
+}
