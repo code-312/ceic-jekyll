@@ -8,6 +8,12 @@
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+
+  @include tablet {
+    display: grid;
+    grid-template-columns: [col-start] 140px[col-1] 1fr [col-2] 130px [col-end];
+    grid-template-rows: [row-start] 50% [row-1] 50% [row-end];
+  }
 }
 
 .site-header .logo {
@@ -24,11 +30,39 @@
   }
 }
 
+.search-positioner {
+
+  @include tablet {
+    justify-self: end;
+    grid-column: col-1 / col-2;
+    grid-row: row-start / row-1;
+  }
+}
+
+.logo-positioner {
+
+  @include tablet {
+    grid-column: col-start / col-1;
+    grid-row: row-start / row-end;
+  }
+}
+
+.donate-positioner {
+
+  @include tablet {
+    grid-column: col-2 / col-end;
+    grid-row: row-start / row-1;
+  }
+}
+
 .menu-positioner {
   display: none;
 
   @include tablet {
     display: block;
+
+    grid-column: col-2 / col-end;
+    grid-row: row-1 / row-end;
   }
 }
 
