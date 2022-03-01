@@ -23,3 +23,16 @@
     font-size: 1.6rem;
   }
 }
+
+.menu-positioner {
+  display: none;
+
+  @include tablet {
+    display: block;
+  }
+}
+
+.menu-clicked .menu-positioner {
+  display: inline;
+  position: absolute;
+}

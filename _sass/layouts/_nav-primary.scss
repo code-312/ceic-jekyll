@@ -1,5 +1,4 @@
 .nav-primary {
-
   max-height: 0;
   overflow: hidden;
   position: absolute;
@@ -12,5 +11,34 @@
 .nav-primary {
   opacity: 1;
   max-height: 20vh;
+}
 
+.nav-primary .icon-triangle {
+  display: none;
+  fill: $dark-green;
+
+  @include tablet {
+    display: block;
+  }
+}
+
+.list-item-header {
+
+  @include tablet {
+    color: $dark-green;
+  }
+}
+
+.icon--small {
+  height: 1.6rem;
+}
+
+.list-item {
+
+  &:hover {
+    .icon-triangle {
+      transform: rotate(0deg)
+    }
+
+  }
 }
