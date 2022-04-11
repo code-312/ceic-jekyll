@@ -14,28 +14,85 @@ body {
   line-height: 1.5;
 }
 
+
+
 h1 {
-  font-size: 3.8rem;
+  font-size: 6.0rem;
   font-weight: bold;
-  line-height: 4.4rem;
+  line-height: 7.2rem;
 }
 
 h2 {
-  font-size: 2.4rem;
+  font-size: 4.8rem;
   font-weight: bold;
-  line-height: 2.8rem;
+  line-height: 5.6rem;
 }
 
 h3 {
-  font-size: 2rem;
-  text-transform: uppercase;
-  line-height: 2.3rem;
+  font-size: 4.0rem;
+  text-transform: bold;
+  line-height: 4.8rem;
+}
+
+h4 {
+  font-size: 3.2rem;
+  text-transform: bold;
+  line-height: 4.0rem;
+}
+
+h5 {
+  font-size: 2.4rem;
+  text-transform: bold;
+  line-height: 3.2rem;
+}
+
+h6 {
+  font-size: 2.0rem;
+  text-transform: bold;
+  line-height: 2.4rem;
 }
 
 p {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+
+.subtitle-1 {
+  font-size: 1.6rem;
+  line-height: 1.6rem;
+}
+
+.subtitle-2 {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  line-height: 1.6rem;
+}
+
+.body-1 {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+
+.body-2 {
+  font-size: 1.4rem;
+  line-height: 2.0rem;
+}
+
+.caption {
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+}
+
+.text-links {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+
+.utility-links {
+  font-size: 1.2rem;
   line-height: 2.1rem;
 }
+
 
 strong {
   font-size: 1.6rem;
