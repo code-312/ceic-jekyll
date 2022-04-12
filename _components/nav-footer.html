@@ -1,0 +1,8 @@
+<nav class="nav nav-footer">
+  <ul class="list list--horizontal">
+    {% for item in site.data.nav-footer %}
+    <li class="list-item"><a class="footer-menu-link utility-links" data-text="{{ item.name }}" href="{{ item.link | relative_url }}">
+      {{ item.name }}
+    </a></li>{% endfor %}
+  </ul>
+</nav>

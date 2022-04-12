@@ -1,5 +1,11 @@
 html {
   min-width: 320px;
+  box-sizing: border-box;
+}
+
+/* Keeps box sizing consistent across elements, while allowing overides as neeeded*/
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 .container {

@@ -1,8 +1,0 @@
-<nav class="nav nav-footer">
-  <ul class="list list--responsive">
-    {% for item in site.data.nav-footer %}
-    <li class="list-item"><a class="footer-menu-link" data-text="{{ item.name }}" href="{{ item.link | relative_url }}">
-      {{ item.name }}
-    </a></li>{% endfor %}
-  </ul>
-</nav>

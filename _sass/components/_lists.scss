@@ -8,24 +8,21 @@
   display: flex;
   margin: 1rem 0;
 
-
   @include tablet {
     display: inline-flex;
     margin-right: 2rem;
   }
 }
 
+.list--horizontal {
+  display: flex;
+  flex-direction: row;
+  gap: 1.25rem;
+}
+
+
 .list-item--icons {
   display: flex;
   align-items: center;
   gap: 1rem;
-}
-
-.nav-footer a {
-  color: $dark-green;
-  transition: color $speed-std;
-
-  &:hover {
-    color: $ceic-green;
-  }
 }

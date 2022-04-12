@@ -3,6 +3,7 @@
 @import 'abstracts/links';
 @import 'abstracts/media';
 @import 'abstracts/timings';
+
 @import 'base/typography';
 @import 'base/global';
 
@@ -13,8 +14,9 @@
 @import 'components/logos';
 @import 'components/icons';
 @import 'components/footer-news';
+@import 'components/nav';
 @import 'components/social';
-@import 'layouts/nav-primary';
+
 @import 'layouts/site-body';
 @import 'layouts/site-header';
 @import 'layouts/site-footer';
