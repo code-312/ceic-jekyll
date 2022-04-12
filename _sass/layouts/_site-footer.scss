@@ -6,9 +6,7 @@
 .footer__content {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
-  gap: 1rem;
   border-bottom: 1px solid $ceic-green;
 
   @include tablet {
@@ -29,6 +27,7 @@
 }
 
 .footer-news-positioner {
+  margin-bottom: 1rem;
 
   @include tablet {
     grid-column: col-1 / col-end;
@@ -46,6 +45,7 @@
 }
 
 .footer-logo-positioner {
+  margin-top: 3rem;
 
   @include tablet {
     grid-column: col-start / col-1;
@@ -59,7 +59,6 @@
 }
 
 .footer-nav-positioner {
-
 
   @include tablet {
     grid-column: col-start / col-3;
