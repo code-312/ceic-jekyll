@@ -3,6 +3,14 @@ Most recent build can be seen on the staging server [here](https://nickdolf.com/
 
 [Code for Chicago](https://codeforchicago.org/) is developing a new website for [Cannabis Equity Illinois Coalition](https://cannabisequityil.org/)
 
+### Design and Supporting Docs
+
+[Design System](https://www.figma.com/file/GdtORowLCJ95LE28ESWsFo/CEIC-Design-System?node-id=502%3A2) on Figma
+
+[Design Working File](https://www.figma.com/file/C4pcLvWyQBz2fKCvJ2fMdT/CEIC-Working-File?node-id=3660%3A0) on Figma
+
+[site layout](https://docs.google.com/document/d/1D74Eb7aSYbjoU7gelxx_sEGSNmSwgsM6luxeaF7NluY/edit)
+
 ### Technology
 This project is being developed with [Jekyll](https://jekyllrb.com/) and uses HTML, SCSS, Markdown and Liquid.
 
