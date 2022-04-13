@@ -40,8 +40,11 @@
 }
 
 .logo-positioner {
+  padding-top: 4px;
 
   @include tablet {
+    padding-top: 0;
+
     grid-column: col-start / col-1;
     grid-row: row-start / row-end;
   }
@@ -50,6 +53,8 @@
 .donate-positioner {
 
   @include tablet {
+    justify-self: right;
+
     grid-column: col-2 / col-end;
     grid-row: row-start / row-1;
   }
@@ -60,8 +65,9 @@
 
   @include tablet {
     display: block;
+    justify-self: right;
 
-    grid-column: col-2 / col-end;
+    grid-column: col-1 / col-end;
     grid-row: row-1 / row-end;
   }
 }

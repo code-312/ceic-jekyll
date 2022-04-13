@@ -1,7 +1,7 @@
 - title: About Us
   subfolderitems:
     - page: Mission & History
-    - link: test
+    - link: /about-us/mission-history
     - page: Our Impact
     - link: /about-us/our-impact
     - page: Our Partners
@@ -17,6 +17,13 @@
     - link: /our-work/business-advising
     - page: Community Education
     - link: /our-work/community-education
+
+- title: Services
+  subfolderitems:
+    - page: Clear Your Record
+    - link: /services/clear-your-record
+    - page: Know Your Rights
+    - link: /services/know-your-rights
 
 - title: Get Involved
   subfolderitems:
