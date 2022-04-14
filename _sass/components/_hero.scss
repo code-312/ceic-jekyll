@@ -1,0 +1,31 @@
+.hero-img {
+  width: 100%;
+}
+
+.gradient-overlay {
+  content:'';
+  position:absolute;
+  z-index: 1;
+  left:0; top:0;
+  width: 100%; 
+  height: 100%;
+  display:inline-block;
+  background: linear-gradient(90.03deg, #120923 -11.71%, rgba(196, 196, 196, 0) 99.97%);
+}
+
+.hero-container {
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+
+.hero-overlay {
+  position: absolute;
+  z-index: 2;
+  left: 10%;
+  top: 10%;
+  width: 60%;
+  text-align: left;
+  color: white;
+}
+
