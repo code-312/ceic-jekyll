@@ -1,5 +1,12 @@
+
+
 .hero-img {
+  object-fit: cover;
+  object-position: 70%;
+  height: 90vw;
+  max-height: 544px;
   width: 100%;
+  max-width: 14;
 }
 
 .gradient-overlay {
