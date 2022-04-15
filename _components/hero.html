@@ -1,8 +1,8 @@
 <div class="hero-container">
   <div class="gradient-overlay"></div>
-  <img class="hero-img" src="{{ 'assets/images/hero-policy.png' | relative_url }}" alt="">
+  <img class="hero-img" src="{{ include.image | relative_url }}" alt="">
   <div class="hero-overlay">
-    <h1>Policy & Political Education</h1>
-    <h5>We work to make cannabis policy in Illinois more inclusive, transparent and accountable</h5>
+    <h1>{{ include.heading }}</h1>
+    <h5>{{ include.text }}</h5>
   </div>
 </div>
