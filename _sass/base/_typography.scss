@@ -9,21 +9,26 @@ body {
 }
 
 h1 {
-  font-size: 6.0rem;
-  font-weight: bold;
-  line-height: 7.2rem;
+  font-size: 4.0rem;
+  line-height: 4.8rem;
+  text-transform: bold;
+
+  @include tablet {
+    font-size: 6.0rem;
+    line-height: 7.2rem;
+  }
 }
 
 h2 {
   font-size: 4.8rem;
-  font-weight: bold;
   line-height: 5.6rem;
+  font-weight: bold;
 }
 
 h3 {
   font-size: 4.0rem;
-  text-transform: bold;
   line-height: 4.8rem;
+  text-transform: bold;
 }
 
 h4 {
