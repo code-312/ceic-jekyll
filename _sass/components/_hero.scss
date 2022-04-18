@@ -45,14 +45,18 @@
 .hero-overlay {
   position: absolute;
   z-index: 2;
-  left: 10%;
-  top: 10%;
+  left: 32px;
+  top: 32px;;
   max-width: 42rem;
   text-align: left;
   color: white;
 
   @include tablet {
     max-width: 60rem;
+  }
+
+  @include desktop {
+    left: calc((100vw - 1024px)/2)
   }
 }
 
