@@ -20,33 +20,25 @@ h1 {
 }
 
 h2 {
-  font-size: 4.8rem;
-  line-height: 5.6rem;
-  font-weight: bold;
+  font-size: 3.2rem;
+  line-height: 4.0rem;
+  text-transform: bold;
+
+  @include tablet {
+    font-size: 4.0rem;
+    line-height: 4.8rem;
+  }
 }
 
 h3 {
-  font-size: 4.0rem;
-  line-height: 4.8rem;
-  text-transform: bold;
-}
-
-h4 {
-  font-size: 3.2rem;
-  text-transform: bold;
-  line-height: 4.0rem;
-}
-
-h5 {
-  font-size: 2.4rem;
-  text-transform: bold;
-  line-height: 3.2rem;
-}
-
-h6 {
   font-size: 2.0rem;
-  text-transform: bold;
   line-height: 2.4rem;
+  text-transform: bold;
+
+  @include tablet {
+    font-size: 2.4rem;
+    line-height: 3.2rem;
+  }
 }
 
 p {

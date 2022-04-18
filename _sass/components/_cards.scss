@@ -1,0 +1,42 @@
+.card-image-container {
+  margin: 32px 0;
+  padding: 2rem;
+  font-size: 0;
+  background-color: $neutrals50;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+
+  @include tablet {
+    flex-direction: row;
+  }
+}
+
+.card-image {
+  width: 100%;
+  aspect-ratio: fixed;
+  object-fit: contain;
+
+  @include tablet {
+    width: 50%;
+
+  }
+}
+
+.card-text {
+  width: 100%;
+
+  @include tablet {
+    width: 50%;
+  }
+}
+
+.card-image-container h3 {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+.card-image-container p {
+  margin: 0;
+}
