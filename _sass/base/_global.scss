@@ -13,6 +13,12 @@ html {
   margin: auto;
 }
 
+.container-padding {
+  max-width: 1096px;
+  margin: auto;
+  padding: 0 4vw;
+}
+
 .input {
   border: 1px solid $input-grey;
   border-radius: 5px;
