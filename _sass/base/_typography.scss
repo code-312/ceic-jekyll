@@ -87,7 +87,12 @@ p {
 .utility-links {
   font-size: 1.2rem;
   line-height: 2.1rem;
-  
+
+  @include tablet {
+    font-size: 1.4rem;
+    line-height: 1.5;
+  }
+
   color: $dark-green;
   transition: color $speed-std;
 
