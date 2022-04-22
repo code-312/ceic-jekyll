@@ -3,14 +3,17 @@
   padding-left: 0;
 }
 
-.list--responsive .list-item {
+.list--responsive {
   text-align: center;
-  display: flex;
-  margin: 1rem 0;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 32px;
+  margin: auto;
 
   @include tablet {
-    display: inline-flex;
-    margin-right: 2rem;
+    flex-direction: row;
+    
   }
 }
 
