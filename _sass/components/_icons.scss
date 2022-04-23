@@ -25,11 +25,10 @@
 .icon-triangle {
   transform-origin: center;
   transition: transform $speed-std;
-  transform: rotateZ(180deg);
 }
 
 .icon-triangle:hover {
-  transform: rotateZ(0deg);
+  transform: rotateZ(180deg);
 }
 
 /* Plus Icon */

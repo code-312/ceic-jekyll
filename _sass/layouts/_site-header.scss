@@ -18,6 +18,10 @@
 
 .site-header .logo {
   width: 105px;
+
+  @include tablet {
+    width: 149px;
+  }
 }
 
 .site-header .btn {
