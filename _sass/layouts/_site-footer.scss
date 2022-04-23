@@ -12,7 +12,7 @@
   @include tablet {
     display: grid;
     gap: 0.5rem;
-    grid-template-columns: [col-start] 1fr [col-1] 1fr [col-2] 1fr [col-3] 1fr [col-end];
+    grid-template-columns: [col-start] 1fr [col-1] 2fr [col-2] 1fr [col-3] 1fr [col-end];
     grid-template-rows: [row-start] 1fr [row-1] 0 [row-2] 8rem [row-3] 4rem [row-end];
   }
 
@@ -45,14 +45,16 @@
 }
 
 .footer-logo-positioner {
-  margin-top: 3rem;
+  margin-top: 1rem;
 
   @include tablet {
+    margin-top: 0;
     grid-column: col-start / col-1;
     grid-row: row-1 / row-3;
   }
 
   @include desktop {
+    margin-top: 2rem;
     grid-column: col-start / col-1;
     grid-row: row-2 / row-end;
   }
