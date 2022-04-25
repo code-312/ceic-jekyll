@@ -97,14 +97,18 @@
     order: 3;
   }
 
-  .donate-positioner {
-    display: none;
-  }
 
   .menu-positioner {
     margin-top: 2rem;
     margin-bottom: 2rem;
     max-height: 1200px;
+  }
+
+  @include tablet {
+
+    .donate-positioner {
+      display: revert;
+    }
   }
 }
 
@@ -124,6 +128,13 @@
 
   .donate-positioner {
     display: none;
+  }
+
+  @include tablet {
+
+    .donate-positioner {
+      display: revert;
+    }
   }
 
 }

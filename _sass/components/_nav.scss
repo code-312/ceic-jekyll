@@ -12,40 +12,104 @@
 .nav-primary {
   opacity: 1;
   max-height: 20vh;
-}
 
-.nav-primary .icon-triangle {
-  display: none;
-  fill: $dark-green;
-
-  @include tablet {
-    display: block;
-  }
-}
-
-
-
-.list-item-header {
-
-  @include tablet {
-      color: $dark-green;
-  }
-}
-
-  .icon--small {
-  height: 1.6rem;
-  }
-
-  .list-item {
-
-  &:hover {
-
-      .icon-triangle {
-      transform: rotate(180deg)
-      }
-
-      .icon-plus:after {
-        transform: rotate(0);
-      }
+  .icon-triangle {
+    display: none;
+    fill: $dark-green;
+  
+    @include tablet {
+      display: block;
     }
   }
+
+  .navigation {
+    color: $button-pressed;
+
+    @include tablet {
+      color: $dark-green;
+    }
+  }
+
+}
+
+.bar {
+  margin-top: 4px;
+  background-color: $white;
+  height: 3px;
+  width: 100%;
+  border-radius: 99px;
+}
+
+.icon--small {
+  height: 1.6rem;
+}
+
+.nav-primary button {
+
+  &:focus {
+    .icon-plus:after {
+      transform: rotate(0);
+    }
+  }
+
+  &:active {
+
+    .icon-plus:before, .icon-plus:after {
+      background-color: $ceic-green;
+    } 
+
+    .navigation {
+      color: $ceic-green;
+    }
+  }
+
+  @include tablet {
+
+    &:focus {
+
+      .icon-triangle {
+        transform: rotate(180deg)
+        }
+
+      .bar {
+        background-color: $dark-green;
+      }
+
+    }
+
+    &:active {
+
+      .navigation {
+        color: $button-pressed;
+      }
+
+      .icon-triangle {
+        fill: $button-pressed;
+      }
+
+      .bar {
+        background-color: $button-pressed;
+      }
+    }
+
+  }
+
+  @include desktop {
+
+    &:hover {
+      .navigation {
+        color: $button-pressed;
+      }
+
+      .icon-triangle {
+        fill: $button-pressed;
+      }
+
+      .bar {
+        background-color: $button-pressed;
+      }
+
+    }
+
+  }
+}
