@@ -10,8 +10,6 @@
 }
   
 .nav-primary {
-  opacity: 1;
-  max-height: 20vh;
 
   .icon-triangle {
     display: none;
@@ -68,8 +66,8 @@
     &:focus {
 
       .icon-triangle {
-        transform: rotate(180deg)
-        }
+        transform: rotate(180deg);
+      }
 
       .bar {
         background-color: $dark-green;
