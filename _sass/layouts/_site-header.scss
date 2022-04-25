@@ -104,6 +104,10 @@
     max-height: 1200px;
   }
 
+  .donate-positioner {
+    display: none;
+  }
+
   @include tablet {
 
     .donate-positioner {
