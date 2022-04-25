@@ -9,7 +9,7 @@ Most recent build can be seen on the staging server [here](https://nickdolf.com/
 
 [Design Working File](https://www.figma.com/file/C4pcLvWyQBz2fKCvJ2fMdT/CEIC-Working-File?node-id=3660%3A0) on Figma
 
-[site layout](https://docs.google.com/document/d/1D74Eb7aSYbjoU7gelxx_sEGSNmSwgsM6luxeaF7NluY/edit)
+[Site layout](https://docs.google.com/document/d/1D74Eb7aSYbjoU7gelxx_sEGSNmSwgsM6luxeaF7NluY/edit) on Google Docs
 
 ### Technology
 This project is being developed with [Jekyll](https://jekyllrb.com/) and uses HTML, SCSS, Markdown and Liquid.
