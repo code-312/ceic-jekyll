@@ -65,18 +65,65 @@
 }
 
 .menu-positioner {
-  display: none;
+  margin-left: 2rem;
+  max-height: 0;
+  overflow: hidden;
+  flex-basis: 100%;
+  transition: all $speed-std;
+  order: 5;
 
   @include tablet {
+    max-height: none;
     display: block;
     justify-self: right;
 
     grid-column: col-1 / col-end;
     grid-row: row-1 / row-end;
+
   }
 }
 
-.menu-clicked .menu-positioner {
-  display: inline;
-  position: absolute;
+.menu-clicked {
+
+  .burger-positioner {
+    order: 4;
+  }
+
+  .search-positioner {
+    order: 1;
+  }
+
+  .logo-positioner {
+    order: 3;
+  }
+
+  .donate-positioner {
+    display: none;
+  }
+
+  .menu-positioner {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    max-height: 1200px;
+  }
+}
+
+.search-clicked {
+
+  .burger-positioner {
+    order: 1;
+  }
+
+  .search-positioner {
+    order: 3;
+  }
+
+  .logo-positioner {
+    order: 2;
+  }
+
+  .donate-positioner {
+    display: none;
+  }
+
 }
