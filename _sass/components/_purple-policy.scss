@@ -1,0 +1,29 @@
+.purple-policy-container {
+  text-align: center;
+  padding: 2rem;
+
+  h4 {
+    font-size: 6.0rem;
+    line-height: 7.2rem;
+    margin: 4rem 0 0 0;
+    color: $white;
+  }
+
+  p  {
+    color: $white;
+    margin: 0 2rem 4rem 2rem;
+  }
+}
+
+.carousel {
+  display: flex;
+  gap: 2rem;
+  min-width: 900px;
+
+}
+
+.purple-box {
+  background-color: $purple;
+  flex-basis: 33%
+
+}
