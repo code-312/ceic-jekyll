@@ -1,16 +1,21 @@
 <nav class="nav-primary">
   <ul class="list list--responsive">
     {% for item in site.data.nav-header %}
-    <button class="btn--ghost">
-      <li class="list-item list-item--icons">
-        <div class="icon-plus"></div>
-        <span class="navigation">{{ item.title }}</span>
-        <svg class="icon icon-triangle icon--small" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-          <use xlink:href="{{ 'assets/images/sprites.svg#triangle' | relative_url }}" />
-        </svg>
+      <li class="list-item">
+        <button class="btn--ghost btn--icons">
+          <div class="icon-plus"></div>
+            <span class="navigation">{{ item.title }}</span>
+            <svg class="icon icon-triangle icon--small" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+              <use xlink:href="{{ 'assets/images/sprites.svg#triangle' | relative_url }}" />
+            </svg>
+          <div class="bar"></div>
+        </button>
+        <ul class="list sub-list">
+          {% for sub-item in item.pages %}
+          <li><a href="{{ sub-item.link | relative_url }}">{{ sub-item.page }}</a></li>
+          {% endfor %}
+        </ul>
       </li>
-      <div class="bar"></div>
-    </button>
     {% endfor %}
   </ul>
 </nav>

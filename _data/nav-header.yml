@@ -1,37 +1,37 @@
 - title: About Us
-  subfolderitems:
+  pages:
     - page: Mission & History
-    - link: /about-us/mission-history
+      link: /about-us/mission-history
     - page: Our Impact
-    - link: /about-us/our-impact
+      link: /about-us/our-impact
     - page: Our Partners
-    - link: /about-us/our-partners
+      link: /about-us/our-partners
 
 - title: Our Work
-  subfolderitems:
+  pages:
     - page: Policy & Advocacy
-    - link: /our-work/policy-and-advocacy
+      link: /our-work/policy-and-advocacy
     - page: Reentry Support
-    - link: /our-work/reentry-support
+      link: /our-work/reentry-support
     - page: Business Advising
-    - link: /our-work/business-advising
+      link: /our-work/business-advising
     - page: Community Education
-    - link: /our-work/community-education
+      link: /our-work/community-education
 
 - title: Services
-  subfolderitems:
+  pages:
     - page: Clear Your Record
-    - link: /services/clear-your-record
+      link: /services/clear-your-record
     - page: Know Your Rights
-    - link: /services/know-your-rights
+      link: /services/know-your-rights
 
 - title: Get Involved
-  subfolderitems:
+  pages:
     - page: Stay Informed
-    - link: /get-involved/stay-informed
+      link: /get-involved/stay-informed
     - page: Donate
-    - link: /get-involved/donate
+      link: /get-involved/donate
     - page: Volunteer
-    - link: /get-involved/volunteer
+      link: /get-involved/volunteer
     - page: Membership
-    - link: /get-involved/become-a-member
+      link: /get-involved/become-a-member

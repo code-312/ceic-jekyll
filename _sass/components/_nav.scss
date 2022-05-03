@@ -1,6 +1,5 @@
 .nav-primary {
 
-
   @include tablet {
     position: relative;
 
@@ -8,13 +7,13 @@
     left: auto;
   }
 }
-  
+
 .nav-primary {
 
   .icon-triangle {
     display: none;
     fill: $dark-green;
-  
+
     @include tablet {
       display: block;
     }
@@ -38,15 +37,22 @@
   border-radius: 99px;
 }
 
-.icon--small {
-  height: 1.6rem;
-}
-
 .nav-primary button {
+
+  + .sub-list {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 1s;
+  }
 
   &:focus {
     .icon-plus:after {
       transform: rotate(0);
+    }
+
+    + .sub-list {
+      max-height: 800px;
+      text-align: left;
     }
   }
 
@@ -54,12 +60,15 @@
 
     .icon-plus:before, .icon-plus:after {
       background-color: $ceic-green;
-    } 
+    }
 
     .navigation {
       color: $ceic-green;
     }
+
+
   }
+
 
   @include tablet {
 

@@ -62,3 +62,11 @@
     border-color: $button-deactivated;
   }
 }
+
+.btn--icons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  row-gap: 0;
+}
