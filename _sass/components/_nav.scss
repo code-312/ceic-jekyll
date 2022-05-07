@@ -6,6 +6,7 @@
     top: auto;
     left: auto;
   }
+
 }
 
 .nav-primary {
@@ -42,7 +43,7 @@
   + .sub-list {
     max-height: 0;
     overflow: hidden;
-    transition: max-height 1s;
+    transition: max-height $speed-slow;
   }
 
   &:focus {
@@ -51,8 +52,7 @@
     }
 
     + .sub-list {
-      max-height: 800px;
-      text-align: left;
+      max-height: 30rem;
     }
   }
 

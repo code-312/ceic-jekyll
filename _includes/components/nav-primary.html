@@ -12,7 +12,7 @@
         </button>
         <ul class="list sub-list">
           {% for sub-item in item.pages %}
-          <li><a href="{{ sub-item.link | relative_url }}">{{ sub-item.page }}</a></li>
+          <li><a class="menu-link" href="{{ sub-item.link | relative_url }}">{{ sub-item.page }}</a></li>
           {% endfor %}
         </ul>
       </li>

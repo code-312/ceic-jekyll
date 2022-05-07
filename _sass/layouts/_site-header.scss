@@ -76,6 +76,7 @@
     max-height: none;
     display: block;
     justify-self: right;
+    overflow: visible;
 
     grid-column: col-1 / col-end;
     grid-row: row-1 / row-end;

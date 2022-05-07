@@ -113,6 +113,27 @@ p {
   }
 }
 
+.menu-link {
+  text-decoration: none;
+  color: $dark-green;
+
+  line-height: 3rem;
+
+  &:active {
+    color: $input-grey;
+  }
+
+  @include tablet {
+    line-height: 4rem;
+    color: $black;
+
+    &:active {
+
+    }
+  }
+
+}
+
 strong {
   font-size: 1.6rem;
   font-weight: bold;
