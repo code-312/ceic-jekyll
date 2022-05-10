@@ -18,14 +18,47 @@
 
 .carousel {
   display: flex;
+  justify-content: center;
   gap: 2rem;
   overflow-x: auto;
-
-
 }
 
 .purple-box {
+  padding-top: 3rem;
   background-color: $purple;
   flex-basis: 33%;
-  min-width: 250px;
+  min-width: 320px;
+  max-width: 320px;
+  min-height: 300px;
+
+  h4 {
+    margin-bottom: 3rem;
+  }
+
+  p {
+    width: 200px;
+    margin: auto;
+  }
+}
+
+.green-box {
+  text-align: left;
+  padding: 3.2rem;
+  word-wrap: break-word;
+  background-color: $dark-green;
+  flex-basis: 33%;
+  min-width: 310px;
+  max-width: 310px;
+
+  h4 {
+    padding: 0;
+    margin: 0;
+    width: 160px;
+    min-height: 160px;
+  }
+
+  p {
+    margin: 0;
+    text-transform: uppercase;
+  }
 }
