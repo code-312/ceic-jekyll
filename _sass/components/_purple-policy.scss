@@ -1,6 +1,7 @@
 .purple-policy-container {
   text-align: center;
   padding: 2rem;
+  overflow: hidden;
 
   h4 {
     font-size: 6.0rem;
@@ -18,12 +19,13 @@
 .carousel {
   display: flex;
   gap: 2rem;
-  min-width: 900px;
+  overflow-x: auto;
+
 
 }
 
 .purple-box {
   background-color: $purple;
-  flex-basis: 33%
-
+  flex-basis: 33%;
+  min-width: 250px;
 }
