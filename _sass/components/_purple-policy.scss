@@ -18,9 +18,13 @@
 
 .carousel {
   display: flex;
-  justify-content: center;
+
   gap: 2rem;
   overflow-x: auto;
+
+  @include desktop {
+    justify-content: center;
+  }
 }
 
 .purple-box {
