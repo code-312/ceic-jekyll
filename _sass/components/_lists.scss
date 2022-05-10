@@ -8,11 +8,12 @@
   display: inline-flex;
   flex-direction: column;
   justify-content: center;
-  gap: 32px;
+  gap: 2rem;
   margin: auto;
 
   @include tablet {
     flex-direction: row;
+    gap: 3rem;
   }
 }
 
@@ -41,4 +42,14 @@
     }
   }
 
+}
+
+.list-item--icons {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+
+  .icon {
+    width: 2.4rem;
+  }
 }
