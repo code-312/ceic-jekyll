@@ -12,7 +12,7 @@
 
   p  {
     color: $white;
-    margin: 0 2rem 4rem 2rem;
+
   }
 }
 
@@ -53,6 +53,7 @@
   flex-basis: 33%;
   min-width: 310px;
   max-width: 310px;
+  position: relative;
 
   h4 {
     padding: 0;
@@ -62,7 +63,13 @@
   }
 
   p {
-    margin: 0;
+    margin-left: 0;
+    margin-bottom: 5rem;
     text-transform: uppercase;
+  }
+
+  button {
+    position: absolute;
+    bottom: 3.2rem;
   }
 }
