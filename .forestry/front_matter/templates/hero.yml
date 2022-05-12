@@ -22,5 +22,3 @@ fields:
       maxSize: 64
     label: Image
   label: Hero image
-pages:
-- our-work/business-page.md
