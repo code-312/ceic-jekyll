@@ -11,3 +11,20 @@ fields:
 - type: text
   name: permalink
   label: permalink
+- name: hero_image
+  type: field_group
+  config: {}
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Subtitle
+  label: Hero image
+pages:
+- our-work/business-page.md
