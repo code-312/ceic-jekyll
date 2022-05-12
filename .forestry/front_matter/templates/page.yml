@@ -1,4 +1,27 @@
 ---
 label: Page
 hide_body: true
-fields: []
+fields:
+- name: layout
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - default
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: layout
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
