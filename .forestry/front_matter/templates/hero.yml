@@ -2,15 +2,6 @@
 label: Hero
 hide_body: false
 fields:
-- type: text
-  name: layout
-  label: layout
-- type: text
-  name: title
-  label: title
-- type: text
-  name: permalink
-  label: permalink
 - name: hero_image
   type: field_group
   config: {}
@@ -25,6 +16,11 @@ fields:
     config:
       required: false
     label: Subtitle
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
   label: Hero image
 pages:
 - our-work/business-page.md
