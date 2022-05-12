@@ -14,6 +14,11 @@ h1 {
   text-transform: bold;
 
   @include tablet {
+    font-size: 5.0rem;
+    line-height: 6.0rem;
+  }
+
+  @include desktop {
     font-size: 6.0rem;
     line-height: 7.2rem;
   }

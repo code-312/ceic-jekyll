@@ -1,8 +1,6 @@
 .hero-container {
   width: 100%;
-
   position: relative;
-  text-align: center;
   font-size: 0;
 }
 
@@ -20,14 +18,21 @@
   position:absolute;
   z-index: 1;
   left:0; top:0;
-  width: 100%; 
+  width: 100%;
   height: 100%;
   display:inline-block;
   background: linear-gradient(90.03deg, #120923 -11.71%, rgba(196, 196, 196, 0) 99.97%);
 }
 
 .hero-container h1 {
-  margin: 0.5rem 0;
+  margin: 1rem 0;
+
+  max-width: 42rem;
+
+  @include tablet {
+    max-width: 50rem;
+
+  }
 }
 
 .hero-container p {
@@ -35,6 +40,13 @@
   line-height: 2.4rem;
 
   margin: 0.5rem 0;
+  max-width: 42rem;
+
+  @include tablet {
+    font-size: 2.4rem;
+    line-height: 3.2rem;
+    max-width: 50rem;
+  }
 
   @include tablet {
     font-size: 2.4rem;
@@ -45,18 +57,9 @@
 .hero-overlay {
   position: absolute;
   z-index: 2;
-  left: 32px;
-  top: 32px;;
-  max-width: 42rem;
-  text-align: left;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
   color: white;
 
-  @include tablet {
-    max-width: 60rem;
-  }
-
-  @include desktop {
-    left: calc((100vw - 1024px)/2)
-  }
 }
-

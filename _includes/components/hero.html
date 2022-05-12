@@ -1,9 +1,12 @@
-
+{% if page.hero %}
 <div class="hero-container">
   <div class="gradient-overlay"></div>
-  <img class="hero-img" src="{{ include.image | relative_url }}" alt="">
-  <div class="hero-overlay container">
-    <h1>{{ include.heading }}</h1>
-    <p>{{ include.text }}</p>
+  <img class="hero-img" src="{{ page.hero.image | relative_url }}" alt="{{ page.hero.alt_text }}">
+  <div class="hero-overlay container-padding">
+    <div class="container">
+      <h1>{{ page.hero.heading }}</h1>
+      <p>{{ page.hero.subtitle }}</p>
+    </div>
   </div>
 </div>
+{% endif %}

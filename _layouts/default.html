@@ -8,7 +8,10 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body class="site-body">
+    {% include site-header.html %}
+    {% include components/hero.html %}
     {{ content }}
+    {% include site-footer.html %}
     <script src="{{ 'assets/js/script.js' | relative_url }}" type="text/javascript"></script>
   </body>
 </html>
