@@ -21,5 +21,12 @@ fields:
     config:
       maxSize: 64
     label: Image
+  - name: alt_text
+    type: text
+    config:
+      required: false
+      min: 8
+    label: Image Alt Text
+    description: Alternate text in case image can't be displayed.
   label: Hero
   description: A banner image with optional text overlay

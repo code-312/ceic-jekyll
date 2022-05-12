@@ -14,5 +14,6 @@ hero:
     most impacted by prohibition, and support entrepreneurs in achieving their business
     goals.
   image: "/assets/images/our-work/reentry-support.png"
+  alt_text: Black background
 
 ---
