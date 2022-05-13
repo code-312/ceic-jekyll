@@ -12,5 +12,3 @@ fields:
   config: {}
   template: page
   label: page
-pages:
-- our-work/business-page.md
