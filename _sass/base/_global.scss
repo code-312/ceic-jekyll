@@ -27,3 +27,7 @@ html {
 .input::placeholder {
   color: $input-grey;
 }
+
+main {
+  flex-grow: 1;
+}
