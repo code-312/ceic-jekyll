@@ -1,7 +1,7 @@
 - title: About Us
   pages:
     - page: Mission & History
-      link: /about-us/mission-history
+      link: /about-us/mission-and-history
     - page: Our Impact
       link: /about-us/our-impact
     - page: Our Partners
@@ -34,4 +34,4 @@
     - page: Volunteer
       link: /get-involved/volunteer
     - page: Membership
-      link: /get-involved/become-a-member
+      link: /get-involved/membership

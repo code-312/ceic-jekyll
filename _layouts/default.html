@@ -10,7 +10,11 @@
   <body class="site-body">
     {% include site-header.html %}
     {% include components/hero.html %}
-    {{ content }}
+    <main class="container-padding">
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
     {% include site-footer.html %}
     <script src="{{ 'assets/js/script.js' | relative_url }}" type="text/javascript"></script>
   </body>

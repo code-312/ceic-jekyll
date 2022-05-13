@@ -7,7 +7,7 @@ hero:
   subtitle: CEIC works to ensure cannabis businesses in Illinois benefit the communities
     most impacted by prohibition, and support entrepreneurs in achieving their business
     goals.
-  image: "/assets/images/our-work/reentry-support.png"
-  alt_text: Black background
+  image: "/assets/images/placehold/1440x544.png"
+  alt_text: placeholder image
 
 ---

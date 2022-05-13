@@ -4,10 +4,6 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-{% include site-header.html %}
-
 <main class="container">
   <h1>{{ page.title }}</h1>
 </main>
-
-{% include site-footer.html %}

@@ -4,10 +4,7 @@ title: Sitemap
 permalink: /sitemap/
 ---
 
-{% include site-header.html %}
-
-<main class="container">
+<main class="container" markdown="1">
   <h1>{{ page.title }}</h1>
+  ## test
 </main>
-
-{% include site-footer.html %}
