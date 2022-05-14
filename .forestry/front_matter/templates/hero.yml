@@ -12,6 +12,7 @@ fields:
       maxSize: 64
     label: Image
     default: "/assets/images/placehold/1440x544.png"
+    description: Ideal image size  is 1440 x 544px
   - name: alt_text
     type: text
     config:
@@ -31,5 +32,4 @@ fields:
       required: false
     label: Subtitle
     description: "(optional)"
-  label: Hero
-  description: A banner image with optional text overlay
+  label: Hero Image
