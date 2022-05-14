@@ -1,4 +1,35 @@
 ---
 label: Hero Image
 hide_body: true
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+  description: Ideal image size is 1440 x 544px
+  default: "/assets/images/placehold/1440x544.png"
+- name: alt_text
+  type: text
+  config:
+    required: true
+    min: 8
+  label: Alt text
+  default: Blank placeholder image
+  description: Required to maintain accessibility standards.
+- name: header
+  type: text
+  config:
+    required: false
+  label: Header
+  description: optional
+  default: Excepteur sint occaecat cupidatat
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+  description: optional
+  default: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+    ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+    voluptate velit esse cillum dolore eu fugiat nulla pariatur."
