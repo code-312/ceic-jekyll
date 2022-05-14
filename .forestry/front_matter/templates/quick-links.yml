@@ -14,6 +14,7 @@ fields:
       - video
       - house
       - bill
+      - calendar
       source:
         type: simple
         section: 
