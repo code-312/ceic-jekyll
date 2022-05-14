@@ -17,3 +17,12 @@ fields:
   config: {}
   template: quick-links
   label: Quick Links
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - hero
+  - quick-links
+  config:
+    min: 
+    max: 
