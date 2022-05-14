@@ -2,7 +2,7 @@
 label: Quick Links
 hide_body: true
 fields:
-- name: links
+- name: quick_links
   type: field_group_list
   fields:
   - name: icon
@@ -10,7 +10,10 @@ fields:
     default: []
     config:
       required: false
-      options: []
+      options:
+      - video
+      - house
+      - bill
       source:
         type: simple
         section: 
@@ -31,4 +34,4 @@ fields:
     min: 
     max: 
     labelField: 
-  label: links
+  label: Quick Links
