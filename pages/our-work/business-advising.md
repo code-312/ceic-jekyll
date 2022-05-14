@@ -9,5 +9,12 @@ hero:
     goals.
   image: "/assets/images/placehold/1440x544.png"
   alt_text: placeholder image
+quick_links:
+- text: Download the CBA Toolkit
+  link: "#"
+  icon: bill
+- text: Schedule Support Session
+  link: "#"
+  icon: calendar
 
 ---
