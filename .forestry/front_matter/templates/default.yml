@@ -12,3 +12,8 @@ fields:
   config: {}
   template: page
   label: page
+- name: quick_links
+  type: include
+  config: {}
+  template: quick-links
+  label: Quick Links
