@@ -143,3 +143,22 @@ strong {
   font-size: 1.6rem;
   font-weight: bold;
 }
+
+.link-icon {
+  line-height: 3rem;
+  color: $black;
+  transition: color $speed-std;
+
+  .icon {
+    margin-right: 1rem;
+  }
+
+  &:hover {
+    color: $ceic-green;
+
+    .icon {
+      fill: $ceic-green;
+    }
+  }
+
+}
