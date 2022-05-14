@@ -1,4 +1,34 @@
 ---
 label: Quick Links
 hide_body: true
-fields: []
+fields:
+- name: links
+  type: field_group_list
+  fields:
+  - name: icon
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Icon
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: links
