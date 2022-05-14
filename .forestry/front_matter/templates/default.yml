@@ -2,21 +2,11 @@
 label: Default
 hide_body: true
 fields:
-- name: hero
-  type: include
-  config: {}
-  template: hero
-  label: Hero
 - name: page
   type: include
   config: {}
   template: page
   label: Page Details
-- name: quick_links
-  type: include
-  config: {}
-  template: quick-links
-  label: Quick Links
 - name: page_sections
   type: blocks
   label: Page Sections
