@@ -11,15 +11,15 @@ fields:
   type: include
   config: {}
   template: page
-  label: page
+  label: Page Details
 - name: quick_links
   type: include
   config: {}
   template: quick-links
   label: Quick Links
-- name: sections
+- name: page_sections
   type: blocks
-  label: Sections
+  label: Page Sections
   template_types:
   - hero
   - quick-links
