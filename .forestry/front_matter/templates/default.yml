@@ -11,7 +11,7 @@ fields:
   type: blocks
   label: Page Sections
   template_types:
-  - hero
+  - hero-image
   - quick-links
   config:
     min: 
