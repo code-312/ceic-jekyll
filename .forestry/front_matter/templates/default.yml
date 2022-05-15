@@ -7,9 +7,9 @@ fields:
   config: {}
   template: page
   label: Page Details
-- name: page_sections
+- name: sections
   type: blocks
-  label: Page Sections
+  label: Sections
   template_types:
   - hero-image
   - quick-links
