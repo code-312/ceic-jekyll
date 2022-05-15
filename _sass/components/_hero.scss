@@ -1,5 +1,4 @@
 .hero-container {
-  width: 100%;
   position: relative;
   font-size: 0;
 }
@@ -54,12 +53,34 @@
   }
 }
 
+p.nav-overlay {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  color: $white;
+
+  font-family: helvetica;
+  font-size: 1.2rem;
+
+  a {
+    color: $white;
+    font-size: 1.2rem
+  }
+
+  strong {
+    font-size: 1.2rem;
+  }
+}
+
 .hero-overlay {
   position: absolute;
   z-index: 2;
-  top: 50%;
+  top: 51%;
   transform: translateY(-50%);
-  width: 100%;
+  max-height: 95%;
   color: white;
 
+  @include tablet {
+    top: 50%;
+  }
 }

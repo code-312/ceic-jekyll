@@ -1,6 +1,8 @@
 html {
   min-width: 320px;
   box-sizing: border-box;
+  /* don't want horizontal scroll from full width escape.. sigh */
+  overflow-x: hidden;
 }
 
 /* Keeps box sizing consistent across elements, while allowing overides as neeeded*/
@@ -30,4 +32,17 @@ html {
 
 main {
   flex-grow: 1;
+  width: 92%;
+  max-width: 1096px;
+  margin: 0 auto;
+}
+
+/* ignores ancestors' horizontal constraints */
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }

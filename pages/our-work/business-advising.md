@@ -18,3 +18,5 @@ quick_links:
   icon: calendar
 
 ---
+
+{% include components/quick-links.html %}

@@ -1,0 +1,9 @@
+{% for block in page.sections %}
+  {% assign template = block.template %}
+  {% case template %}
+  {% when 'hero' %}
+    {% include sections/hero.html %}
+  {% when 'call-to-action' %}
+    {% include sections/cta.html %}
+  {% endcase %}
+{% endfor %}
