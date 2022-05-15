@@ -29,6 +29,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-menus (0.6.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-sass-converter (2.2.0)
       sassc (> 2.0.1, < 3.0)
     jekyll-watch (2.2.1)
@@ -62,6 +64,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-menus
 
 BUNDLED WITH
    2.3.10

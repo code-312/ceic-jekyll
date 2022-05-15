@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Index"
+menus: header
 permalink: /
 hero:
   heading: Site Under Construction
