@@ -7,7 +7,7 @@ fields:
   fields:
   - name: icon
     type: select
-    default: []
+    default: video
     config:
       required: false
       options:
@@ -26,11 +26,13 @@ fields:
     config:
       required: false
     label: Text
+    default: lorem ipsum
   - name: link
     type: text
     config:
       required: false
     label: Link
+    default: "#"
   config:
     min: 
     max: 
