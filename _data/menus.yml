@@ -1,15 +1,18 @@
 ---
 header:
-  - url: /
-    title: About Us
-    identifier: about-us
-  - url: /
-    title: Our Work
-    identifier: our-work
-  - url: /
-    title: Services
-    identifier: services
-  - url: /
-    title: Get Involved
-    identifier: get-involved
----
+- url: "/"
+  title: Get Involved
+  identifier: get-involved
+  weight: 1
+- url: "/"
+  title: Services
+  identifier: services
+  weight: 3
+- url: "/"
+  title: Our Work
+  identifier: our-work
+  weight: 4
+- url: "/"
+  title: About Us
+  identifier: about-us
+  weight: 2

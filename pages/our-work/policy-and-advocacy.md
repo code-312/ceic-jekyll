@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Policy & Advocacy
-menus: our-work
 permalink: "/our-work/policy-and-advocacy/"
 hero:
   heading: Policy & Political Education
@@ -16,9 +15,12 @@ quick_links:
 - text: Support HB 1443
   link: "#"
   icon: house
+menu:
+  our-work:
+    weight: 1
 
 ---
-  {% include components/quick-links.html %}
+{% include components/quick-links.html %}
   {% include components/purple-policy.html %}
 
   {% include components/card-image.html

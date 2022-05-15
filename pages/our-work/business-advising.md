@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Business Advising
-menus: our-work
 permalink: "/our-work/business-advising/"
 hero:
   heading: Business Support and Outreach
@@ -17,7 +16,9 @@ quick_links:
 - text: Schedule Support Session
   link: "#"
   icon: calendar
+menu:
+  our-work:
+    weight: 3
 
 ---
-
 {% include components/quick-links.html %}

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Know Your Rights
-menus: services
 permalink: "/services/know-your-rights/"
 sections:
 - template: hero
@@ -16,5 +15,8 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: video
+menu:
+  services:
+    weight: 1
 
 ---

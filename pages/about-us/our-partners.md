@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Our Partners
-menus: about-us
 permalink: "/about-us/our-partners/"
 hero:
   heading: Our Partners
@@ -10,5 +9,8 @@ hero:
     nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   image: "/assets/images/placehold/1440x544.png"
   alt_text: placeholder image
+menu:
+  about-us:
+    weight: 1
 
 ---

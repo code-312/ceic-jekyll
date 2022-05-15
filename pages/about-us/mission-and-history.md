@@ -1,13 +1,15 @@
 ---
 layout: default
 title: Mission & History
-menus: about-us
 permalink: "/about-us/mission-and-history/"
 hero:
   heading: Our Story
-  subtitle:
+  subtitle: 
   image: "/assets/images/placehold/1440x544.png"
   alt_text: placeholder image
+menu:
+  about-us:
+    weight: 3
 
 ---
 # Mission

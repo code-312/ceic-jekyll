@@ -14,5 +14,5 @@ fields:
   - hero
   - quick-links
   config:
-    min:
-    max:
+    min: 
+    max: 

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Our Impact
-menus: about-us
 permalink: "/about-us/our-impact/"
 hero:
   heading: Our Impact
@@ -10,5 +9,8 @@ hero:
     nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   image: "/assets/images/placehold/1440x544.png"
   alt_text: placeholder image
+menu:
+  about-us:
+    weight: 2
 
 ---

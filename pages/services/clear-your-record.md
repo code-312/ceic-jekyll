@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Clear Your Record
-menus: services
 permalink: "/services/clear-your-record/"
 sections:
 - template: hero
@@ -22,5 +21,8 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
+menu:
+  services:
+    weight: 2
 
 ---
