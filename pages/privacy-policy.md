@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Privacy Policy
-menus: footer
-permalink: /privacy-policy/
----
+permalink: "/privacy-policy/"
+menu:
+  footer:
+    weight: 1
 
+---
 <main class="container">
   <h1>{{ page.title }}</h1>
 </main>

@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Terms of Use
-menus: footer
-permalink: /terms-of-use/
----
+permalink: "/terms-of-use/"
+menu:
+  footer:
+    weight: 2
 
+---
 # {{ page.title }}
