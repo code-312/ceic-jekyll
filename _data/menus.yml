@@ -3,7 +3,7 @@ header:
 - url: "/"
   title: Get Involved
   identifier: get-involved
-  weight: 1
+  weight: 4
 - url: "/"
   title: Services
   identifier: services
@@ -11,8 +11,8 @@ header:
 - url: "/"
   title: Our Work
   identifier: our-work
-  weight: 4
+  weight: 2
 - url: "/"
   title: About Us
   identifier: about-us
-  weight: 2
+  weight: 1
