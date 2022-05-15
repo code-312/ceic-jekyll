@@ -2,12 +2,8 @@
 layout: default
 title: Clear Your Record
 permalink: "/services/clear-your-record/"
-hero:
-  heading: Clear Your Record
-  subtitle: 
-  image: "/assets/images/placehold/1440x544.png"
-  alt_text: placeholder image
 page_sections:
+- template: test
 - template: hero-image
   image: "/assets/images/placehold/1440x544.png"
   alt_text: Blank placeholder image

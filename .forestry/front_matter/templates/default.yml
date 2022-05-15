@@ -11,8 +11,8 @@ fields:
   type: blocks
   label: Sections
   template_types:
-  - hero-image
+  - hero
   - quick-links
   config:
-    min: 
-    max: 
+    min:
+    max:
