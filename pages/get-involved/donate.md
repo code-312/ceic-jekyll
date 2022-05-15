@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Donate
+menus: get-involved
 permalink: "/get-involved/donate/"
 hero:
   heading: Donate

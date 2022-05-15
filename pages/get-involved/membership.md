@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Membership
+menus: get-involved
 permalink: "/get-involved/membership/"
 hero:
   heading: Membership

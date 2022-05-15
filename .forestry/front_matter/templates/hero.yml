@@ -17,11 +17,11 @@ fields:
   label: Alt text
   default: Blank placeholder image
   description: Required to maintain accessibility standards.
-- name: header
+- name: heading
   type: text
   config:
     required: false
-  label: Header
+  label: Heading
   description: optional
   default: Excepteur sint occaecat cupidatat
 - name: subtitle

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Our Impact
+menus: about-us
 permalink: "/about-us/our-impact/"
 hero:
   heading: Our Impact

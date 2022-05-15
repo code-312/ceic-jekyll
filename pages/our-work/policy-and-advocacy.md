@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Policy & Advocacy
+menus: our-work
 permalink: "/our-work/policy-and-advocacy/"
 hero:
   heading: Policy & Political Education

@@ -7,9 +7,6 @@ hero:
   subtitle: Index
   image: "/assets/images/placehold/1440x544.png"
   alt_text: placeholder image
-menu:
-  header:
-    weight: 1
 
 ---
 ### Pages currently under construction:

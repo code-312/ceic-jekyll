@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Our Partners
+menus: about-us
 permalink: "/about-us/our-partners/"
 hero:
   heading: Our Partners
