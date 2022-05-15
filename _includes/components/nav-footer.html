@@ -1,8 +1,8 @@
 <nav class="nav nav-footer">
   <ul class="list list--horizontal">
-    {% for item in site.data.nav-footer %}
-    <li class="list-item"><a class="utility-links" data-text="{{ item.name }}" href="{{ item.link | relative_url }}">
-      {{ item.name }}
+    {% for item in site.menus.footer %}
+    <li class="list-item"><a class="utility-links" data-text="{{ item.title }}" href="{{ item.url | relative_url }}">
+      {{ item.title }}
     </a></li>{% endfor %}
   </ul>
 </nav>
