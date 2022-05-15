@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sitemap
+menus: footer
 permalink: /sitemap/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Us
+menus: footer
 permalink: /contact-us/
 ---
 
