@@ -34,5 +34,5 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: paragraph
   label: Event
