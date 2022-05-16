@@ -1,4 +1,13 @@
 ---
 label: Text Area
 hide_body: false
-fields: []
+fields:
+- name: text_area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text Area
