@@ -16,25 +16,23 @@ sections:
   - text: Expungement
     link: "#"
     icon: bill
+- template: card-with-image
+  image: "assets/images/our-work/record-cleaning.png"
+  alt_text: Group members in front of City of Chicago plaque
+  heading: Record Clearing
+  paragraph: "CEIC supports people across the state in starting the process of clearing their records. Regardless of where the record is, and whether it is cannabis or not, the Coalition will help you start the record clearing process."
+- template: card-with-image
+  image: "assets/images/our-work/community-resource.png"
+  alt_text: Members at a table with different household products.
+  heading: Community Resource Fairs
+  paragraph: "We organize & support wraparound resource fairs in communities across Illinois. These fairs bring vital resources such as housing, jobs, food assistance IDs, education, and more, directly to impacted communities."
+- template: card-with-image
+  image: "assets/images/our-work/legal-aid.png"
+  alt_text: Group members wearing t-shirts for nation engagement week 2019
+  heading: Legal Aid
+  paragraph: "We support people statewide access legal aid resources to help them navigate different issues."
 menu:
   our-work:
     weight: 2
 
 ---
-{% include components/card-image.html
-    image="assets/images/our-work/record-cleaning.png"
-    heading="Record Clearing"
-    text="CEIC supports people across the state in starting the process of clearing their records. Regardless of where the record is, and whether it is cannabis or not, the Coalition will help you start the record clearing process."
-  %}
-
-  {% include components/card-image.html
-    image="assets/images/our-work/community-resource.png"
-    heading="Community Resource Fairs"
-    text="We organize & support wraparound resource fairs in communities across Illinois. These fairs bring vital resources such as housing, jobs, food assistance IDs, education, and more, directly to impacted communities."
-  %}
-
-  {% include components/card-image.html
-    image="assets/images/our-work/legal-aid.png"
-    heading="Legal Aid"
-    text="We support people statewide access legal aid resources to help them navigate different issues."
-  %}

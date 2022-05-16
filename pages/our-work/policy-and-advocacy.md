@@ -18,30 +18,25 @@ sections:
   - text: Support HB 1443
     link: "#"
     icon: house
+- template: card-with-image
+  image: "assets/images/our-work/policy-and-advocacy/policy-research.png"
+  alt_text: Two people looking over a railing in the legislature building with a clipboard
+  heading: Policy Research
+  paragraph: "We research policies and practices that increase cannabis equity and share our findings with the public and with lawmakers. Our current areas of research include: opportunities for ownership for impacted entrepreneurs, increasing investment into impacted communities, and providing young people evidence-based education."
+- template: card-with-image
+  image: "assets/images/our-work/policy-and-advocacy/political-education.png"
+  alt_text: People signing up at Cannabis Equity Illinois Coalition table
+  heading: Political Education
+  paragraph: "We educate community members on the political process so they can effectively advocate for their communities. We host workshops, webinars, and social media campaigns to share tools & strategies to support people building power in their community."
+- template: card-with-image
+  image: "assets/images/our-work/policy-and-advocacy/advocacy.png"
+  alt_text: Group shot of Cannabis Equity Illinois Coalition members in front of statue
+  heading: Advocacy
+  paragraph: "We advocate for cannabis policies that support impacted communities and entrepreneurs while staying within the limits of a 501(c)3 organization"
 menu:
   our-work:
     weight: 1
 
 ---
 {% include components/purple-policy.html %}
-
-  {% include components/card-image.html
-    image="assets/images/our-work/policy-and-advocacy/policy-research.png"
-    heading="Policy Research"
-    text="We research policies and practices that increase cannabis equity and share our findings with the public and with lawmakers. Our current areas of research include: opportunities for ownership for impacted entrepreneurs, increasing investment into impacted communities, and providing young people evidence-based education."
-  %}
-
-  {% include components/card-image.html
-    image="assets/images/our-work/policy-and-advocacy/political-education.png"
-    heading="Political Education"
-    text="We educate community members on the political process so they can effectively advocate for their communities. We host workshops, webinars, and social media campaigns to share tools & strategies to support people building power in their community. "
-  %}
-
-  {% include components/card-image.html
-    image="assets/images/our-work/policy-and-advocacy/advocacy.png"
-    heading="Advocacy"
-    text="We advocate for cannabis policies that support impacted communities and entrepreneurs while staying within the limits of 501(C)3 organization
-    "
-  %}
-
-    {% include components/get-involved.html %}
+{% include components/get-involved.html %}
