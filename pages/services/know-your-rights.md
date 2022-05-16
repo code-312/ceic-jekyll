@@ -14,6 +14,5 @@ sections:
 menu:
   services:
     weight: 2
-published: false
 
 ---
