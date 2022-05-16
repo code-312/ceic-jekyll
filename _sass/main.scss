@@ -10,19 +10,19 @@
 @import 'components/cards';
 @import 'components/forms';
 @import 'components/hamburgers';
-@import 'components/hero';
 @import 'components/lists';
 @import 'components/logos';
 @import 'components/icons';
 @import 'components/footer-news';
 @import 'components/nav';
 @import 'components/purple-policy';
-@import 'components/quick-links';
 @import 'components/social';
 
 @import 'layouts/site-body';
 @import 'layouts/site-header';
 @import 'layouts/site-footer';
 
+@import 'sections/hero';
+@import 'sections/quick-links';
 //remove before production
 @import 'dev';
