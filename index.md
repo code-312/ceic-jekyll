@@ -15,11 +15,3 @@ sections:
   subtitle: Site under construction
 
 ---
-### Pages currently under construction:
-<a href="{{ 'our-work/policy-and-advocacy/' | relative-url }}">Policy & Advocacy</a>
-<br>
-<a href="{{ 'our-work/reentry-support/' | relative-url }}">Reentry Support</a>
-<br>
-<a href="{{ 'our-work/business-advising/' | relative-url }}">Business Advising</a>
-<br>
-<a href="{{ 'about-us/mission-and-history/' | relative-url }}">Mission & History</a>
