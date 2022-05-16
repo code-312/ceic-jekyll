@@ -15,6 +15,7 @@ fields:
   - quick-links
   - text-area
   - card-with-image
+  - history
   config:
     min: 
     max: 
