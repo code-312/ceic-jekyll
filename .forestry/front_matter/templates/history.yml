@@ -1,4 +1,35 @@
 ---
 label: History
 hide_body: true
-fields: []
+fields:
+- name: event
+  type: field_group_list
+  fields:
+  - name: date
+    type: datetime
+    label: date
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: paragraph
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Paragraph
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Event
