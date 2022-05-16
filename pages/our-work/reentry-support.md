@@ -1,31 +1,26 @@
 ---
 layout: default
 title: Reentry Support
+category: Our Work
 permalink: "/our-work/reentry-support/"
-hero:
+sections:
+- template: hero
+  image: "/assets/images/placehold/1440x544.png"
+  alt_text: Blank placeholder image
   heading: Reentry Support
   subtitle: CEIC supports community members with system involvement throughout the
     reentry process with record clearing, wraparound resources, and more, to ensure
     they have everything they need to be prosperous and whole.
-  image: "/assets/images/placehold/1440x544.png"
-  alt_text: Black background
+- template: quick-links
+  quick_links:
+  - text: Expungement
+    link: "#"
+    icon: bill
 menu:
   our-work:
     weight: 4
 
 ---
-<div class="quick-link-container">
-      <h3>Quick Links</h3>
-      <ul class="list list--responsive">
-        <li class="list-item list-item--icons">
-          <svg class="icon icon--dark" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-            <use xlink:href="{{ 'assets/images/sprites.svg#bill' | relative_url }}" />
-          </svg>
-          <a href="#">Expungement</a>
-        </li>
-      </ul>
-    </div>
-
   {% include components/card-image.html
     image="assets/images/our-work/record-cleaning.png"
     heading="Record Clearing"

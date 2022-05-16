@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Clear Your Record
+category: Services
 permalink: "/services/clear-your-record/"
 sections:
 - template: hero

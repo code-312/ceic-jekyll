@@ -64,7 +64,12 @@ p.nav-overlay {
 
   a {
     color: $white;
-    font-size: 1.2rem
+    font-size: 1.2rem;
+    transition: text-shadow $speed-std;
+  }
+
+  a:hover {
+    text-shadow: 0.2px 0.2px $white;
   }
 
   strong {

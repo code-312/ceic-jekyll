@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Know Your Rights
+category: Services
 permalink: "/services/know-your-rights/"
 sections:
 - template: hero

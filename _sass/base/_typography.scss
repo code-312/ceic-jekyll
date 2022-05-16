@@ -145,12 +145,18 @@ strong {
 }
 
 .link-icon {
-  line-height: 3rem;
+  line-height: 3.4rem;
   color: $black;
   transition: color $speed-std;
+  text-decoration: none;
+
+  span {
+    text-decoration: underline;
+  }
 
   .icon {
-    margin-right: 1rem;
+    width: 2.4rem;
+    margin-right: .5rem;
   }
 
   &:hover {

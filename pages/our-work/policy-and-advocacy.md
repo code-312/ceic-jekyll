@@ -1,26 +1,28 @@
 ---
 layout: default
 title: Policy & Advocacy
+category: Our Work
 permalink: "/our-work/policy-and-advocacy/"
-hero:
+sections:
+- template: hero
+  image: assets/images/our-work/policy-and-advocacy/hero-policy.png
+  alt_text: State Capitol dome behind a wall
   heading: Policy & Political Education
   subtitle: We work to make cannabis policy in Illinois more inclusive, transparent
     and accountable
-  image: assets/images/our-work/policy-and-advocacy/hero-policy.png
-  alt_text: Black background
-quick_links:
-- text: HB 327 Press Conference
-  link: "#"
-  icon: video
-- text: Support HB 1443
-  link: "#"
-  icon: house
+- template: quick-links
+  quick_links:
+  - text: HB 327 Press Conference
+    link: "#"
+    icon: video
+  - text: Support HB 1443
+    link: "#"
+    icon: house
 menu:
   our-work:
     weight: 1
 
 ---
-{% include components/quick-links.html %}
   {% include components/purple-policy.html %}
 
   {% include components/card-image.html

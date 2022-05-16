@@ -6,9 +6,10 @@
     <li class="list-item list-item--icons">
       <a class="link-icon" href="{{ item.link }}">
         {% include components/icon-social.html id=item.icon %}
-        {{ item.text }}
+        <span>{{ item.text }}</span>
       </a>
     </li>
   {% endfor %}
   </ul>
+
 </section>
