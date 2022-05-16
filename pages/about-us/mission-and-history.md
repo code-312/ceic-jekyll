@@ -9,6 +9,8 @@ sections:
   alt_text: Blank placeholder image
   heading: Our Story
   subtitle: 
+- template: text-area
+- template: text-area
 menu:
   about-us:
     weight: 1
