@@ -23,7 +23,9 @@ sections:
     link: "#"
     icon: house
 - template: text-area
-  text_area: asdfsafasfdfasdfawfwe
+  text_area: |-
+    # test
+    for great testing
 menu:
   about-us:
     weight: 1
