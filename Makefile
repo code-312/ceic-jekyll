@@ -8,4 +8,4 @@ background:
 
 # kills the background process
 kill:
-	killall bundle
+	pkill ruby2.7
