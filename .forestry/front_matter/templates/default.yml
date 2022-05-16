@@ -13,6 +13,7 @@ fields:
   template_types:
   - hero
   - quick-links
+  - text-area
   config:
     min: 
     max: 
