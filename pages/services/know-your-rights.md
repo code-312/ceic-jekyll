@@ -5,7 +5,7 @@ category: Services
 permalink: "/services/know-your-rights/"
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.png"
+  image: "/assets/images/dummy.jpeg"
   alt_text: Blank placeholder image
   heading: Excepteur sint occaecat cupidatat
   subtitle: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
@@ -18,6 +18,24 @@ sections:
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Lorem ipsum
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+- template: quick-links
+  quick_links:
+  - icon: video
+    text: lorem ipsum
+    link: "#"
+  - icon: video
+    text: lorem ipsum
+    link: "#"
+  - icon: video
+    text: lorem ipsum
+    link: "#"
 menu:
   services:
     weight: 2
