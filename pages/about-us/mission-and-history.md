@@ -12,6 +12,20 @@ sections:
 - template: text-area
 - template: history
   event:
+  - date: 2019-04-01 05:00:00 +0000
+    paragraph: During a series of town hall meetings hosted across the South Side
+      of Chicago by Ilinois legislators, community members demanded accountability
+      and transparency in the legalization law. This leads to the first Coalition
+      meeting at the Port Ministries in Back of the Yards where the group develops
+      a list of priorities for legalized cannabis.
+  - paragraph: Led by the Coalition, more than 100 people from across Chicagoland
+      meet with legislators in Springfield to advocate for equity and justice in the
+      legalization bill.
+    date: 2019-05-01 05:00:00 +0000
+  - date: 2020-04-01 05:00:00 +0000
+    paragraph: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+      nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+      in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
   - date: 2020-04-01 05:00:00 +0000
     paragraph: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
       nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
