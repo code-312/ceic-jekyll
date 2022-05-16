@@ -18,6 +18,6 @@ sections:
     icon: video
 menu:
   services:
-    weight: 1
+    weight: 2
 
 ---

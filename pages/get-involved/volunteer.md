@@ -24,6 +24,6 @@ sections:
     icon: house
 menu:
   get-involved:
-    weight: 1
+    weight: 3
 
 ---

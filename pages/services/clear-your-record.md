@@ -24,6 +24,6 @@ sections:
     icon: house
 menu:
   services:
-    weight: 2
+    weight: 1
 
 ---

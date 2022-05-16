@@ -18,10 +18,10 @@ sections:
     icon: bill
 menu:
   our-work:
-    weight: 4
+    weight: 2
 
 ---
-  {% include components/card-image.html
+{% include components/card-image.html
     image="assets/images/our-work/record-cleaning.png"
     heading="Record Clearing"
     text="CEIC supports people across the state in starting the process of clearing their records. Regardless of where the record is, and whether it is cannabis or not, the Coalition will help you start the record clearing process."

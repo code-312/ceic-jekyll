@@ -24,3 +24,4 @@ menu:
     weight: 3
 
 ---
+{% include components/quick-links.html %}

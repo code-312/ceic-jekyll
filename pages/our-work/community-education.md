@@ -24,6 +24,6 @@ sections:
     icon: house
 menu:
   our-work:
-    weight: 2
+    weight: 4
 
 ---

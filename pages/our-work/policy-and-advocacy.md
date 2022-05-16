@@ -23,7 +23,7 @@ menu:
     weight: 1
 
 ---
-  {% include components/purple-policy.html %}
+{% include components/purple-policy.html %}
 
   {% include components/card-image.html
     image="assets/images/our-work/policy-and-advocacy/policy-research.png"

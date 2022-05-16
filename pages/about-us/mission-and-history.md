@@ -8,10 +8,10 @@ sections:
   image: "/assets/images/placehold/1440x544.png"
   alt_text: Blank placeholder image
   heading: Our Story
-  subtitle:
+  subtitle: 
 menu:
   about-us:
-    weight: 3
+    weight: 1
 
 ---
 # Mission

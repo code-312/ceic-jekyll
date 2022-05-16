@@ -26,6 +26,6 @@ sections:
   text_area: "<h2>test</h2><p>asdfsdfd</p>"
 menu:
   about-us:
-    weight: 1
+    weight: 3
 
 ---

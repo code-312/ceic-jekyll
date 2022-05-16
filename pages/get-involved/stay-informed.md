@@ -24,6 +24,6 @@ sections:
     icon: housee
 menu:
   get-involved:
-    weight: 2
+    weight: 1
 
 ---
