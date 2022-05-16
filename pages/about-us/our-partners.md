@@ -22,6 +22,8 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
+- template: text-area
+  text_area: asdfsafasfdfasdfawfwe
 menu:
   about-us:
     weight: 1
