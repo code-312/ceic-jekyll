@@ -18,14 +18,6 @@ sections:
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
-- template: quick-links
-  quick_links:
-  - icon: video
-    text: lorem ipsum
-    link: "#"
-  - icon: video
-    text: lorem ipsum
-    link: "#"
 menu:
   services:
     weight: 2
