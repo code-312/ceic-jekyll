@@ -61,7 +61,7 @@ sections:
   - heading: Join
     subtitle: Join our Policy Research working groups
     button:
-      text: Become a Member
+      text: Join the Working Groups
       link: "#"
   - heading: Member
     subtitle: become an equity member to support this work
