@@ -1,4 +1,51 @@
 ---
 label: Green Carousel
 hide_body: true
-fields: []
+fields:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+  default: How to get involved
+- name: green_block
+  type: field_group_list
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+      max: 8
+    label: Heading
+    default: Pariatur
+  - name: subtitle
+    type: textarea
+    default: quis nostrud exercitation ullamco
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Subtitle
+  - name: button
+    type: field_group
+    config: {}
+    fields:
+    - name: text
+      type: text
+      config:
+        required: false
+      label: Text
+      default: lorem ipsum
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Link
+      default: "#"
+    label: Button
+  config:
+    min: 1
+    max: 
+    labelField: 
+  label: Green Block

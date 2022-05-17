@@ -16,6 +16,7 @@ fields:
   - text-area
   - card-with-image
   - history
+  - green-carousel
   config:
     min: 
     max: 
