@@ -17,20 +17,43 @@ sections:
     link: "#"
     icon: bill
 - template: card-with-image
-  image: "assets/images/our-work/record-cleaning.png"
+  image: assets/images/our-work/record-cleaning.png
   alt_text: Group members in front of City of Chicago plaque
   heading: Record Clearing
-  paragraph: "CEIC supports people across the state in starting the process of clearing their records. Regardless of where the record is, and whether it is cannabis or not, the Coalition will help you start the record clearing process."
+  paragraph: CEIC supports people across the state in starting the process of clearing
+    their records. Regardless of where the record is, and whether it is cannabis or
+    not, the Coalition will help you start the record clearing process.
 - template: card-with-image
-  image: "assets/images/our-work/community-resource.png"
+  image: assets/images/our-work/community-resource.png
   alt_text: Members at a table with different household products.
   heading: Community Resource Fairs
-  paragraph: "We organize & support wraparound resource fairs in communities across Illinois. These fairs bring vital resources such as housing, jobs, food assistance IDs, education, and more, directly to impacted communities."
+  paragraph: We organize & support wraparound resource fairs in communities across
+    Illinois. These fairs bring vital resources such as housing, jobs, food assistance
+    IDs, education, and more, directly to impacted communities.
 - template: card-with-image
-  image: "assets/images/our-work/legal-aid.png"
+  image: assets/images/our-work/legal-aid.png
   alt_text: Group members wearing t-shirts for nation engagement week 2019
   heading: Legal Aid
-  paragraph: "We support people statewide access legal aid resources to help them navigate different issues."
+  paragraph: We support people statewide access legal aid resources to help them navigate
+    different issues.
+- template: green-carousel
+  heading: How to get involved
+  green_block:
+  - heading: Support
+    subtitle: Support one of our community programs or join an event
+    button:
+      text: Ways to support
+      link: "#"
+  - heading: Expunge
+    subtitle: Clear your record
+    button:
+      text: Expungement
+      link: "#"
+  - heading: Participate
+    subtitle: Attend a community resource fair or one of our other events
+    button:
+      text: Events
+      link: "#"
 menu:
   our-work:
     weight: 2

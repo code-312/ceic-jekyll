@@ -46,6 +46,6 @@ fields:
     label: Button
   config:
     min: 1
-    max:
-    labelField:
+    max: 
+    labelField: 
   label: Green Block
