@@ -73,5 +73,3 @@ menu:
     weight: 1
 
 ---
-{% include components/purple-policy.html %}
-{% include components/get-involved.html %}

@@ -1,4 +1,4 @@
-.purple-policy-container {
+.carousel-container {
   text-align: center;
   padding: 2rem;
   overflow: hidden;
@@ -27,10 +27,9 @@
   }
 }
 
-.purple-box {
+.carousel-block-purple {
   padding-top: 3rem;
   background-color: $purple;
-  flex-basis: 33%;
   min-width: 320px;
   max-width: 320px;
   min-height: 300px;
