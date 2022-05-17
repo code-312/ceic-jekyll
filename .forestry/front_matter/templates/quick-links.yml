@@ -2,6 +2,12 @@
 label: Quick Links
 hide_body: true
 fields:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+  default: Quick Links
 - name: quick_links
   type: field_group_list
   fields:
