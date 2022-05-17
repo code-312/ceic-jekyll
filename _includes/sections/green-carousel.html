@@ -1,0 +1,14 @@
+<section class="carousel-container">
+  <h2>{{ block.heading }}</h2>
+
+  <div class="carousel">
+    {% for item in block.green_block %}
+    <div class="green-box">
+      <h4>{{ item.heading }}</h4>
+      <p>{{ item.subtitle }}</p>
+      <button class="btn btn--dark-bg">{{ item.button.text}}</button>
+    </div>
+    {% endfor %}
+  </div>
+
+</section>

@@ -15,7 +15,7 @@ fields:
     type: text
     config:
       required: false
-      max: 8
+      max: 12
     label: Heading
     default: Pariatur
   - name: subtitle
@@ -46,6 +46,6 @@ fields:
     label: Button
   config:
     min: 1
-    max: 
-    labelField: 
+    max:
+    labelField:
   label: Green Block
