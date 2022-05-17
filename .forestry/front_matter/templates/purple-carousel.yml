@@ -1,4 +1,32 @@
 ---
 label: Purple Carousel
 hide_body: true
-fields: []
+fields:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: purple_block
+  type: field_group_list
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+    default: '420'
+  - name: subtitle
+    type: textarea
+    default: Excepteur sint occaecat cupidatat non proident
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Subtitle
+  config:
+    min: 1
+    max: 
+    labelField: 
+  label: Purple Block
