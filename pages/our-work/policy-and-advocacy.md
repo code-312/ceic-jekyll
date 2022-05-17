@@ -19,6 +19,15 @@ sections:
     link: "#"
     icon: house
   heading: Quick Links
+- template: purple-carousel
+  heading: Policy in Action
+  purple_block:
+  - heading: 100+
+    subtitle: Coalition members visited Springfield in 2019
+  - heading: "3"
+    subtitle: working groups launched, inviting community involvement in policy
+  - heading: 100s
+    subtitle: of members educated on the political process
 - template: card-with-image
   image: assets/images/our-work/policy-and-advocacy/policy-research.png
   alt_text: Two people looking over a railing in the legislature building with a clipboard
