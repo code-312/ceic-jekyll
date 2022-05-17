@@ -56,14 +56,20 @@
   h4 {
     padding: 0;
     margin: 0;
-    width: 160px;
-    min-height: 15rem;
+    font-size: 7.2rem;
+    width: 20rem;
+    min-height: 14.4rem;
     text-transform: uppercase;
+  }
+
+  h4.large {
+    width: 23rem;
   }
 
   p {
     margin-left: 0;
     margin-bottom: 5rem;
+    width: 23rem;
     text-transform: uppercase;
   }
 
