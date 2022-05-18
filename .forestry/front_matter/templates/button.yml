@@ -2,6 +2,11 @@
 label: Button
 hide_body: true
 fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: Text
 - name: internal
   type: boolean
   default: true
