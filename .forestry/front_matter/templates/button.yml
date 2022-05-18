@@ -6,7 +6,7 @@ fields:
   type: boolean
   default: true
   label: Site Page or External Link
-- name: internal_link
+- name: site_page
   type: select
   default: []
   config:
@@ -17,10 +17,10 @@ fields:
       section: pages
       file: 
       path: 
-  label: Internal Link
   showOnly:
     field: internal
     value: false
+  label: Site Page
 - name: external_link
   type: text
   config:
