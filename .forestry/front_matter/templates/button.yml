@@ -4,8 +4,8 @@ hide_body: true
 fields:
 - name: internal
   type: boolean
-  label: Internal
   default: true
+  label: Site Page or External Link
 - name: internal_link
   type: select
   default: []
@@ -20,7 +20,7 @@ fields:
   label: Internal Link
   showOnly:
     field: internal
-    value: true
+    value: false
 - name: external_link
   type: text
   config:
@@ -28,3 +28,4 @@ fields:
   label: External Link
   showOnly:
     field: internal
+    value: true
