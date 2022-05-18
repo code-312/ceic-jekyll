@@ -24,5 +24,8 @@ sections:
     icon: house
 - template: text-area
   text_area: "<h2>test</h2><p>asdfsdfd</p>"
+menu:
+  about-us:
+    weight: 3
 
 ---
