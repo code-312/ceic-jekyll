@@ -68,8 +68,14 @@ sections:
     button:
       text: lorem ipsum
       link: "#"
-menu:
-  about-us:
-    weight: 1
+- template: quick-links
+  heading: Quick Links
+  quick_links:
+  - icon: video
+    text: lorem ipsum
+    link: "#"
+  - icon: video
+    text: lorem ipsum
+    link: "#"
 
 ---
