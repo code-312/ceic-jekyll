@@ -22,8 +22,5 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
-menu:
-  about-us:
-    weight: 1
 
 ---
