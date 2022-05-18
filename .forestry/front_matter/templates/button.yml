@@ -14,7 +14,7 @@ fields:
     options: []
     source:
       type: pages
-      section: jekyll-pages
+      section: our-work
       file: 
       path: 
   label: Internal Link
