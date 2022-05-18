@@ -6,12 +6,12 @@ fields:
   type: text
   config:
     required: false
-  label: Text
+  label: Button Text
 - name: internal
   type: boolean
   default: true
   label: Site Page or External Link
-- name: site_page
+- name: page
   type: select
   default: []
   config:
@@ -26,7 +26,7 @@ fields:
     field: internal
     value: false
   label: Site Page
-- name: external_link
+- name: link
   type: text
   config:
     required: false
