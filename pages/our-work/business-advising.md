@@ -21,6 +21,6 @@ sections:
     icon: calendar
 menu:
   our-work:
-    weight: 3
+    weight: 4
 
 ---

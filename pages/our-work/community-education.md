@@ -38,6 +38,6 @@ sections:
     sunt in culpa qui officia deserunt mollit anim id est laborum.
 menu:
   our-work:
-    weight: 2
+    weight: 3
 
 ---

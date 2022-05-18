@@ -70,6 +70,6 @@ sections:
       link: "#"
 menu:
   about-us:
-    weight: 1
+    weight: 2
 
 ---
