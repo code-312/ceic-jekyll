@@ -24,8 +24,14 @@ sections:
     icon: house
 - template: text-area
   text_area: "<h2>test</h2><p>asdfsdfd</p>"
-menu:
-  about-us:
-    weight: 3
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Lorem ipsum
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  internal: true
+  page: []
 
 ---
