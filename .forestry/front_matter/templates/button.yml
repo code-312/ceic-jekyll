@@ -11,7 +11,7 @@ fields:
   type: boolean
   default: true
   label: Site Page or External Link
-- name: page
+- name: site_page
   type: select
   default: []
   config:
