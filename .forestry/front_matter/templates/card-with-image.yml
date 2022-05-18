@@ -32,3 +32,8 @@ fields:
     schema:
       format: markdown
   label: Paragraph
+- name: button
+  type: include
+  config: {}
+  template: button
+  label: Button
