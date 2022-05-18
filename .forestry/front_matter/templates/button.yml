@@ -1,4 +1,32 @@
 ---
 label: Button
 hide_body: true
-fields: []
+fields:
+- name: internal
+  type: boolean
+  label: Internal
+  showOnly:
+    field: internal
+  default: true
+- name: internal_link
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: jekyll-pages
+      file: 
+      path: 
+  label: Internal Link
+  showOnly:
+    field: internal
+    value: true
+- name: external_link
+  type: text
+  config:
+    required: false
+  label: External Link
+  showOnly:
+    field: internal
