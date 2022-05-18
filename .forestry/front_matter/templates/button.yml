@@ -5,8 +5,6 @@ fields:
 - name: internal
   type: boolean
   label: Internal
-  showOnly:
-    field: internal
   default: true
 - name: internal_link
   type: select
