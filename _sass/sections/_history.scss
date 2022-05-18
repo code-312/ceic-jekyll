@@ -1,0 +1,41 @@
+.history {
+
+  h2 {
+    text-align: center;
+
+    @include tablet {
+      text-align: left;
+    }
+  }
+
+  .card-image-container {
+    margin: 2rem 0;
+    padding: 0;
+    gap: 0;
+
+    @include tablet {
+      gap: 3.2rem;
+    }
+  }
+}
+
+
+.purple-box {
+  background-color: $purple;
+  color: $white;
+  padding: 3.2rem;
+  text-align: center;
+  min-width: 18rem;
+
+  h2 {
+    text-align: center;
+    margin: 0;
+  }
+
+  @include tablet {
+
+    span {
+      display: block;
+    }
+  }
+}

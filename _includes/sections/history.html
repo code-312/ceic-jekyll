@@ -1,0 +1,16 @@
+<section class="history">
+  <h2>History</h2>
+  {% for item in block.event %}
+  <div class="card-image-container">
+    <div class="purple-box">
+      <h2>
+        <span>{{ item.date | date:  "%B" }}</span>
+        <span>{{ item.date | date: "%Y" }}</span>
+      </h2>
+    </div>
+    <div class="text-container">
+      <p>{{ item.paragraph }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</section>
