@@ -8,7 +8,7 @@ sections:
   image: "/assets/images/placehold/1440x544.png"
   alt_text: Blank placeholder image
   heading: Our Story
-  subtitle:
+  subtitle: 
 - template: text-area
   text_area: "<h2>Mission</h2><p>Founded in 2019, the Cannabis Equity Illinois Coalition
     is a grassroots nonprofit that advances equity in the State of Illinois by elevating
@@ -18,7 +18,7 @@ sections:
     the cannabis industry prioritizes people over profits.</p>"
 - template: history
   event:
-  - date: 2019-04-01 05:00:00 +0000
+  - date: 2019-04-01T05:00:00.000+00:00
     paragraph: During a series of town hall meetings hosted across the South Side
       of Chicago by Ilinois legislators, community members demanded accountability
       and transparency in the legalization law. This leads to the first Coalition
@@ -27,12 +27,12 @@ sections:
   - paragraph: Led by the Coalition, more than 100 people from across Chicagoland
       meet with legislators in Springfield to advocate for equity and justice in the
       legalization bill.
-    date: 2019-05-01 05:00:00 +0000
-  - date: 2020-04-01 05:00:00 +0000
+    date: 2019-05-01T05:00:00.000+00:00
+  - date: 2020-04-01T05:00:00.000+00:00
     paragraph: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
       nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
       in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  - date: 2020-04-01 05:00:00 +0000
+  - date: 2020-04-01T05:00:00.000+00:00
     paragraph: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
       nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
       in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -50,6 +50,24 @@ sections:
     to impacted communities.</p><p>The Coalition's grassroots membership shapes the
     development of the Coalition's legislative priorities, as we fight for changes
     that will bring the largest benefit to communities.</p>"
+- template: green-carousel
+  heading: How to get involved
+  green_block:
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+    button:
+      text: lorem ipsum
+      link: "#"
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+    button:
+      text: lorem ipsum
+      link: "#"
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+    button:
+      text: lorem ipsum
+      link: "#"
 menu:
   about-us:
     weight: 1
