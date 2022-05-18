@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: pages
-  label: Pages
-  create: all
-  match: "**/*"
-  templates:
-  - default
 - type: document
   path: index.md
   label: Home
@@ -42,9 +35,13 @@ sections:
   match: "**/*"
   templates:
   - default
-- type: jekyll-pages
-  label: All Pages
+- type: directory
+  path: pages
+  label: Pages
   create: all
+  match: "**/*"
+  templates:
+  - default
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
