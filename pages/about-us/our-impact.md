@@ -22,9 +22,28 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
-menu:
-  about-us:
-    weight: 2
-
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Lorem ipsum
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  internal: false
+  page: pages/get-involved/donate.md
+  add_button: true
+  text: Donate
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Lorem ipsum
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  internal: true
+  page: []
+  add_button: true
+  text: Youtube
+  link: www.youtube.com
 
 ---
