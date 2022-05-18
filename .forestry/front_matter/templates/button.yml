@@ -11,21 +11,6 @@ fields:
   type: boolean
   default: true
   label: Site Page or External Link
-- name: site_page
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: pages
-      file: 
-      path: 
-  showOnly:
-    field: internal
-    value: false
-  label: Site Page
 - name: link
   type: text
   config:
