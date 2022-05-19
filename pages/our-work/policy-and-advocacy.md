@@ -68,8 +68,6 @@ sections:
     button:
       text: Become a member
       link: "#"
-menu:
-  our-work:
-    weight: 1
+menu: our-work
 
 ---
