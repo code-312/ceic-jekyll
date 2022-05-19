@@ -18,6 +18,7 @@ fields:
   - card-with-image
   - history
   - green-carousel
+  - testimonial
   config:
     min: 
     max: 
