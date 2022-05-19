@@ -1,0 +1,30 @@
+// pls do scss work in easter egg container, just in case, lol
+.easter-egg {
+  background: green;
+
+  .egg {
+    margin: 40px;
+    height: 220px;
+    width: 180px;
+    overflow: hidden;
+    border-radius: 50% 60% 50% 50% / 70% 70% 40% 40%;
+    animation: rotating 3s linear infinite;
+
+    img {
+      width: 350px;
+      margin-left: -100px;
+    }
+  }
+
+  @keyframes rotating {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+
+
+}
