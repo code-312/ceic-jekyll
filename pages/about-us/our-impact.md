@@ -2,7 +2,6 @@
 layout: default
 title: Our Impact
 category: About Us
-menu: about-us
 permalink: "/about-us/our-impact/"
 sections:
 - template: hero
@@ -31,5 +30,8 @@ sections:
     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
   internal: true
+menu:
+  about-us:
+    weight: 1
 
 ---
