@@ -22,8 +22,6 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
-menu:
-  get-involved:
-    weight: 3
+menu: get-involved
 
 ---
