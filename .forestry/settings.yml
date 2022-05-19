@@ -5,9 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: _data/menus.yml
-  label: Menu
-- type: document
   path: index.md
   label: Home
 - type: directory
@@ -45,6 +42,9 @@ sections:
   match: "**/*"
   templates:
   - default
+- type: document
+  path: _data/menus.yml
+  label: Menu Config
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
