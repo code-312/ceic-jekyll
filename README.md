@@ -72,6 +72,8 @@ Please try to keep the names of classes, images etc. in a consistent format.
 We'd like to keep all the code in master branch as close to production as possible. Feel free to keep a personal branch(s) to play around in when testing etc. When you are ready: create a new branch, write only the code needed, test it, document it, make meaningful commits and then make a merge request.
 
 ### Where should I start?
+Complete the [first issue](https://github.com/Code-For-Chicago/ceic-jekyll/issues/12). Yes it's silly, but it lets a new dev test out the whole dev flow and all the tech works. 
+
 Look through the [issues](https://github.com/Code-For-Chicago/ceic-jekyll/issues), and assign one to yourself. Or create an issue if you see something else that needs fixing.
 
 #### Welcome onboard! (=^ ◡ ^=)
