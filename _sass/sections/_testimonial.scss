@@ -1,0 +1,13 @@
+.testimonial {
+  padding: 32px 0;
+  background: $purple-light;
+
+  @include tablet {
+    padding: 64px 0;
+  }
+
+  .card-image-container {
+    background: $purple;
+    margin: 0 auto;
+  }
+}
