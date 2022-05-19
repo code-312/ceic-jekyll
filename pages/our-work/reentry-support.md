@@ -36,6 +36,16 @@ sections:
   heading: Legal Aid
   paragraph: We support people statewide access legal aid resources to help them navigate
     different issues.
+- template: testimonial
+  alt_text: FPO image of person
+  image: "/assets/images/frame-128.png"
+  name: "[Person' name]"
+  paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Proin sagittis nisl rhoncus
+    mattis rhoncus urna neque viverra. Tincidunt arcu non sodales neque.
+  quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore et dolore magna aliqua. Proin sagittis nisl rhoncus mattis
+    rhoncus urna neque viverra. Tincidunt arcu non sodales neque.
 - template: green-carousel
   heading: How to get involved
   green_block:
