@@ -22,8 +22,6 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
-menu:
-  services:
-    weight: 1
+menu: services
 
 ---
