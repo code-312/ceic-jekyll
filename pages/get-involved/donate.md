@@ -19,8 +19,6 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: bill
-menu:
-  get-involved:
-    weight: 2
+menu: get-involved
 
 ---
