@@ -54,8 +54,6 @@ sections:
     button:
       text: Events
       link: "#"
-menu:
-  our-work:
-    weight: 2
+menu: our-work
 
 ---
