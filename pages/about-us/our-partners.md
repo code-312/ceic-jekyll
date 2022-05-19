@@ -26,8 +26,6 @@ sections:
   text_area: "<h2>test</h2><p>asdfsdfd</p>"
 details:
   menu: _data/menus.yml
-menu:
-  about-us:
-    weight: 2
+menu: about-us
 
 ---
