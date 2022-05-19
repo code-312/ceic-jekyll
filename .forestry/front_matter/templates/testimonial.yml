@@ -1,4 +1,40 @@
 ---
 label: Testimonial
 hide_body: true
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: alt_text
+  type: text
+  config:
+    required: true
+    min: 8
+  label: Alt Text
+  description: Required to maintain accessibility standards.
+  default: Blank placeholder image
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: paragraph
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Paragraph
+- name: quote
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Quote
