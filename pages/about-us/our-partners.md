@@ -2,7 +2,6 @@
 layout: default
 title: Our Partners
 category: About Us
-menu: about-us
 permalink: "/about-us/our-partners/"
 sections:
 - template: hero
@@ -25,6 +24,16 @@ sections:
     icon: house
 - template: text-area
   text_area: "<h2>test</h2><p>asdfsdfd</p>"
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Lorem ipsum
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  internal: true
+  add_button: true
+  link: www.youtube.com
 details:
   menu: _data/menus.yml
 
