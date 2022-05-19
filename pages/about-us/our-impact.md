@@ -2,6 +2,7 @@
 layout: default
 title: Our Impact
 category: About Us
+menu: about-us
 permalink: "/about-us/our-impact/"
 sections:
 - template: hero

@@ -2,6 +2,7 @@
 layout: default
 title: Our Partners
 category: About Us
+menu: about-us
 permalink: "/about-us/our-partners/"
 sections:
 - template: hero
