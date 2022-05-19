@@ -25,3 +25,7 @@ fields:
   config:
     required: false
   label: Permalink
+- name: details
+  type: field_group
+  config: {}
+  label: Details
