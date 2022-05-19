@@ -25,20 +25,3 @@ fields:
   config:
     required: false
   label: Permalink
-- name: details
-  type: field_group
-  config: {}
-  fields:
-  - name: menu
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: menu
-        file: 
-        path: 
-    label: Menu
-  label: Details
