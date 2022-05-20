@@ -5,12 +5,12 @@
 
   @include tablet {
     padding: 32px;
-    margin: 64px;
+    margin: 64px 32px;
   }
 
   @include desktop {
     margin: 64px auto;
-    width: 87.5%;
+    width: 88%;
     max-width: $max-content-width;
   }
 }
@@ -23,11 +23,26 @@
   }
 }
 
+@mixin left-margin-abs {
+  left: 16px;
+
+  @include tablet {
+    left: 32px;
+  }
+
+  @include desktop {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 88%;
+    max-width: $max-content-width;
+  }
+}
+
 @mixin content-width-std {
   @include desktop {
     margin-left: auto;
     margin-right: auto;
-    max-width: $max-content-width;
+
   }
 }
 

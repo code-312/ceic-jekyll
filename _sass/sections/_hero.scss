@@ -6,7 +6,7 @@
 .hero-img {
   object-fit: cover;
   object-position: 70%;
-  height: 80vw;
+  height: 90vw;
   max-height: 544px;
   width: 100%;
   min-height: 300px;
@@ -59,6 +59,8 @@ p.nav-overlay {
   top: 0;
   color: $white;
 
+  @include left-margin-abs;
+
   font-family: helvetica;
   font-size: 1.2rem;
 
@@ -85,7 +87,13 @@ p.nav-overlay {
   max-height: 95%;
   color: white;
 
+  @include left-margin-abs;
+
   @include tablet {
     top: 50%;
+  }
+
+  @include desktop {
+    top: 25%;
   }
 }
