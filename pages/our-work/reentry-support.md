@@ -39,7 +39,7 @@ sections:
 - template: testimonial
   alt_text: FPO image of person
   image: "/assets/images/frame-128.png"
-  name: "[Person' name]"
+  name: "[Person's name]"
   paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Proin sagittis nisl rhoncus
     mattis rhoncus urna neque viverra. Tincidunt arcu non sodales neque.

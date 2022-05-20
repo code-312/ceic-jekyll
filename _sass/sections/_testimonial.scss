@@ -11,3 +11,30 @@
     margin: 0 auto;
   }
 }
+
+
+.quote-container {
+  margin-top: 4rem;
+  position: relative;
+}
+
+.quote {
+  padding: 0 3rem;
+  color: $purple;
+}
+
+.quote:before {
+  position: absolute;
+  top: 2rem;
+  left: 0;
+  content: open-quote;
+  font-size: 7rem;
+}
+
+.quote:after {
+  position: absolute;
+  bottom: -2rem;
+  right: 1rem;
+  content: close-quote;
+  font-size: 7rem;
+}
