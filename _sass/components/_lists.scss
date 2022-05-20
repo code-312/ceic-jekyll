@@ -4,16 +4,18 @@
 }
 
 .list--responsive {
-  text-align: center;
   display: inline-flex;
   flex-direction: column;
   justify-content: center;
+  align-items: left;
+  text-align: left;
   gap: 2rem;
   margin: auto;
 
   @include tablet {
     flex-direction: row;
     gap: 3rem;
+    flex-wrap: wrap;
   }
 }
 

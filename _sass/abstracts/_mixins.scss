@@ -1,13 +1,21 @@
 /* COMMON SPACINGS */
-@mixin padding-std {
+@mixin spacing-std {
   padding: 16px;
+  margin: 32px 16px;
 
   @include tablet {
     padding: 32px;
+    margin: 64px;
+  }
+
+  @include desktop {
+    margin: 64px auto;
+    width: 87.5%;
+    max-width: $max-content-width;
   }
 }
 
-@mixin padding-large {
+@mixin spacing-large {
   padding: 32px;
 
   @include tablet {

@@ -1,17 +1,15 @@
 .quick-link-container {
-  width: 100%;
   background-color: $neutrals50;
-  margin-top: 48px;
-  padding: 16px;
-  display: flex;
-  flex-direction: column;
+  text-align: center;
+
+  @include spacing-std;
 
   @include tablet {
     padding: 32px;
   }
 
   h3 {
-    margin: 0px 0 32px 0;
+    margin: 0px 0 24px 0;
     text-align: center;
   }
 

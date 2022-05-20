@@ -1,9 +1,9 @@
 <section class="quick-link-container">
-  <h3>Quick Links</h3>
+  <h3>{{ block.heading }}</h3>
 
   <ul class="list list--responsive">
   {% for item in block.quick_links %}
-    <li class="list-item list-item--icons">
+    <li class="list-item">
       <a class="link-icon" href="{{ item.link }}">
         {% include components/icon-social.html id=item.icon %}
         <span>{{ item.text }}</span>
