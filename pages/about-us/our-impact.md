@@ -40,5 +40,6 @@ sections:
   internal: false
   add_button: true
   text: sdfasdf
+menu: about-us
 
 ---
