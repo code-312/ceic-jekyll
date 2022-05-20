@@ -1,3 +1,9 @@
+/* BREAKPOINTS */
+$tablet-width: 768px;
+$desktop-width: 1024px;
+$max-content-width: 1204px;
+
+/* COLORS */
 $ceic-green: #10A882;
 $dark-green: #126B55;
 $link-green: #368370;
@@ -18,3 +24,7 @@ $logo-green: #10ac84;
 $orange: #ec7907;
 $dark-grey: #525252;
 $light-grey: #eaeaea;
+
+/* TIMINGS */
+$speed-std: 0.4s;
+$speed-slow: 0.6s;

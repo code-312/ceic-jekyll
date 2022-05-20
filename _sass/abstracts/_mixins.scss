@@ -1,0 +1,52 @@
+/* COMMON SPACINGS */
+@mixin padding-std {
+  padding: 16px;
+
+  @include tablet {
+    padding: 32px;
+  }
+}
+
+@mixin padding-large {
+  padding: 32px;
+
+  @include tablet {
+    padding: 64px;
+  }
+}
+
+@mixin content-width-std {
+  @include desktop {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: $max-content-width;
+  }
+}
+
+/* MEDIA */
+@mixin tablet {
+  @media screen and (min-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media screen and (min-width: #{$desktop-width}) {
+    @content;
+  }
+}
+
+.mobile-only {
+
+  @include tablet {
+    display: none;
+  }
+}
+
+.tablet-plus {
+  display: none;
+
+  @include tablet {
+    display: revert;
+  }
+}
