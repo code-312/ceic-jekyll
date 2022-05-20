@@ -83,17 +83,19 @@ p.nav-overlay {
   position: absolute;
   z-index: 2;
   top: 51%;
-  transform: translateY(-50%);
   max-height: 95%;
   color: white;
-
+  transform: translateY(-50%);
   @include left-margin-abs;
+
 
   @include tablet {
     top: 50%;
+    transform: translateY(-50%);
   }
 
   @include desktop {
-    top: 25%;
+    top: 50%;
+    transform: translate(-50%,-50%);
   }
 }
