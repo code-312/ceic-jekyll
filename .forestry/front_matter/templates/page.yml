@@ -25,7 +25,7 @@ fields:
   config:
     required: false
   label: Permalink
-- name: menu
+- name: menus
   type: select
   default: []
   config:
