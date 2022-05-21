@@ -22,6 +22,7 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
+  heading: Quick Links
 - template: card-with-image
   image: "/assets/images/placehold/544x320.png"
   alt_text: Blank placeholder image
@@ -40,6 +41,5 @@ sections:
   internal: false
   add_button: true
   text: sdfasdf
-menu: about-us
 
 ---
