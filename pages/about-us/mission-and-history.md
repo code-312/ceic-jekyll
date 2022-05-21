@@ -77,8 +77,6 @@ sections:
   - icon: video
     text: lorem ipsum
     link: "#"
-menu:
-  about-us:
-    weight: 3
+menus: about-us
 
 ---
