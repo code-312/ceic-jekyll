@@ -1,0 +1,13 @@
+.text-area {
+  margin: 0 16px;
+
+  @include tablet {
+    margin: 0 32px;
+  }
+
+  @include desktop {
+    margin: 0 auto;
+    width: 88%;
+    max-width: $max-content-width;
+  };
+}
