@@ -22,6 +22,7 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
+  heading: Quick Links
 - template: text-area
   text_area: "<h2>test</h2><p>asdfsdfd</p>"
 - template: card-with-image
@@ -37,6 +38,5 @@ sections:
   link: www.youtube.com
 details:
   menu: _data/menus.yml
-menu: about-us
 
 ---
