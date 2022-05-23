@@ -32,14 +32,25 @@ fields:
     schema:
       format: markdown
   label: Paragraph
-- name: add_button
-  type: boolean
-  label: Add_button
+- name: button_or_links
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - button
+    - links
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Add Button or Links
 - name: button
   type: include
   config: {}
   template: button
   label: Button
   showOnly:
-    field: add_button
-    value: true
+    field: button_or_links
+    value: button
