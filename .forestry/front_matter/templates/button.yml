@@ -25,3 +25,11 @@ fields:
   label: Site Page
   showOnly:
     field: external
+- name: url
+  type: text
+  config:
+    required: false
+  label: External
+  showOnly:
+    field: external
+    value: true
