@@ -29,7 +29,7 @@ fields:
   type: text
   config:
     required: false
-  label: External
+  label: External URL
   showOnly:
     field: external
     value: true
