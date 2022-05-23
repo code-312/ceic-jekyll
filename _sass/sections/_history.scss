@@ -1,13 +1,11 @@
 .history {
 
-  @include spacing-std;
+  @include spacing-std-nopad;
+  padding: 0;
 
   h2 {
+    margin-top: 0;
     text-align: center;
-
-    @include tablet {
-      text-align: left;
-    }
   }
 
   .card-image-container {

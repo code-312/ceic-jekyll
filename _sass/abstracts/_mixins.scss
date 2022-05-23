@@ -15,6 +15,20 @@
   }
 }
 
+@mixin spacing-std-nopad {
+  margin: 32px 16px;
+
+  @include tablet {
+    margin: 64px 32px;
+  }
+
+  @include desktop {
+    margin: 64px auto;
+    width: 88%;
+    max-width: $max-content-width;
+  }
+}
+
 @mixin spacing-large {
   padding: 32px;
 
