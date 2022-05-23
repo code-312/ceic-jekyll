@@ -58,22 +58,15 @@ fields:
   type: field_group_list
   fields:
   - name: link
-    type: field_group
+    type: include
     config: {}
-    fields:
-    - name: text
-      type: text
-      config:
-        required: false
-      label: Text
-    - name: url
-      type: text
-      config:
-        required: false
-      label: Url
+    template: link
     label: Link
   config:
     min: 
     max: 
     labelField: 
   label: Links
+  showOnly:
+    field: button_or_links
+    value: links
