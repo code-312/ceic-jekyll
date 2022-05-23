@@ -19,6 +19,7 @@ sections:
   - text: Schedule Support Session
     link: "#"
     icon: calendar
+  heading: Quick Links
 menus: our-work
 
 ---
