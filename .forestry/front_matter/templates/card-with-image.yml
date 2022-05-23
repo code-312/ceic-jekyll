@@ -54,3 +54,26 @@ fields:
   showOnly:
     field: button_or_links
     value: button
+- name: links
+  type: field_group_list
+  fields:
+  - name: link
+    type: field_group
+    config: {}
+    fields:
+    - name: text
+      type: text
+      config:
+        required: false
+      label: Text
+    - name: url
+      type: text
+      config:
+        required: false
+      label: Url
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Links
