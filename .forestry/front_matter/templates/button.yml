@@ -7,15 +7,29 @@ fields:
   config:
     required: false
   label: Button Text
-- name: internal
+- name: external
   type: boolean
-  default: true
+  default: false
   label: Site Page or External Link
-- name: link
+- name: site_page
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: pages
+      file: 
+      path: 
+  label: Site Page
+  showOnly:
+    field: internal
+- name: url
   type: text
   config:
     required: false
-  label: External Link
+  label: External URL
   showOnly:
     field: internal
     value: true
