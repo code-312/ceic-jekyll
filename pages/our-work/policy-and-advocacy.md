@@ -68,6 +68,6 @@ sections:
     button:
       text: Become a member
       link: "#"
-menu: our-work
+menus: our-work
 
 ---
