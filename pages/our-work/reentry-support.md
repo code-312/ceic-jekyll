@@ -16,6 +16,7 @@ sections:
   - text: Expungement
     link: "#"
     icon: bill
+  heading: Quick Links
 - template: card-with-image
   image: assets/images/our-work/record-cleaning.png
   alt_text: Group members in front of City of Chicago plaque
@@ -64,6 +65,6 @@ sections:
     button:
       text: Events
       link: "#"
-menu: our-work
+menus: our-work
 
 ---
