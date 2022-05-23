@@ -40,6 +40,7 @@ fields:
     options:
     - button
     - links
+    - none
     source:
       type: simple
       section: 
