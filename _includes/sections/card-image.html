@@ -3,5 +3,24 @@
   <div class="card-text">
     <h3>{{ block.heading }}</h3>
     <p>{{ block.paragraph }}</p>
+    {% if block.button_or_links == "button" %}
+    <div class="foot">
+      <a href="#" class="btn btn--light-bg btn--svg-icon">
+        {{ block.text }}
+        {% if block.external %}
+        {% include components/icon-social.html id="external" %}
+        {% endif %}
+      </a>
+    </div>
+    {% elsif block.button_or_links == "links"%}
+    <div class="foot">
+    {% for link in block.links %}
+      <a href="{{ link.url }}" class="link-icon--green">
+        {{ link.text }}
+        {% include components/icon-social.html id="chevron" %}
+      </a><br>
+    {% endfor %}
+    </div>
+    {% endif %}
   </div>
 </section>

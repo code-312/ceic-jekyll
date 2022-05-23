@@ -3,6 +3,7 @@
   border: 2px solid;
   border-radius: 8px;
   font-weight: bold;
+  font-size: 1.6rem;
   transition: all $speed-std;
   cursor: pointer;
 }
@@ -69,4 +70,23 @@
   gap: 1rem;
   flex-wrap: wrap;
   row-gap: 0;
+}
+
+.btn--svg-icon {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.6rem;
+  padding: 0 25px;
+  text-decoration: none;
+
+  .icon {
+    height: 1.6rem;
+    fill: $white;
+  }
+
+  &:hover {
+    .icon {
+      fill: $black;
+    }
+  }
 }

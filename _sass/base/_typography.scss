@@ -168,3 +168,34 @@ strong {
   }
 
 }
+
+.link-icon--green {
+  line-height: 3.4rem;
+  color: $dark-green;
+  transition: color $speed-std;
+  text-decoration: none;
+
+  display: inline-flex;
+  align-items: center;
+
+  span {
+    text-decoration: underline;
+  }
+
+  .icon {
+    display: inline-block;
+    vertical-align: middle;
+    height: 1.6rem;
+    margin-left: .5rem;
+    fill: $dark-green;
+  }
+
+  &:hover {
+    color: $ceic-green;
+
+    .icon {
+      fill: $ceic-green;
+    }
+  }
+
+}
