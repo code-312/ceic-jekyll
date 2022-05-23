@@ -1,5 +1,5 @@
 ---
-label: Card with Image
+label: Image Card
 hide_body: true
 fields:
 - name: image
