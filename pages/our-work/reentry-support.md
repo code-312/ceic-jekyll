@@ -44,6 +44,17 @@ sections:
   heading: Legal Aid
   paragraph: We support people statewide access legal aid resources to help them navigate
     different issues.
+  button_or_links: links
+  links:
+  - text: New Leaf Illinois
+    external: true
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  - text: Illinois Legal Aid
+    external: true
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  - text: Public Benefits at LAC
+    external: true
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - template: testimonial
   alt_text: FPO image of person
   image: "/assets/images/frame-128.png"
