@@ -38,5 +38,6 @@ sections:
   link: www.youtube.com
 details:
   menu: _data/menus.yml
+menus: about-us
 
 ---
