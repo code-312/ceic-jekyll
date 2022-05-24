@@ -20,6 +20,48 @@ sections:
     link: "#"
     icon: calendar
   heading: Quick Links
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Starting a Cannabis Business
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  site_page: []
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Community Benefits Agreement
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  site_page: []
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Corporate Social Responsibility
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  site_page: []
+- template: green-carousel
+  heading: How to get involved
+  green_block:
+  - heading: Support
+    subtitle: quis nostrud exercitation ullamco
+    button:
+      text: Ways to Support
+      link: "#"
+  - heading: Join
+    subtitle: quis nostrud exercitation ullamco
+    button:
+      text: Join Our Group
+      link: "#"
+  - heading: Member
+    subtitle: quis nostrud exercitation ullamco
+    button:
+      text: Become A Member
+      link: "#"
 menus: our-work
 
 ---
