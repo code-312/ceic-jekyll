@@ -5,7 +5,7 @@
     <p>{{ block.paragraph }}</p>
     {% if block.button_or_links == "button" %}
     <div class="foot">
-      <a href="#" class="btn btn--light-bg btn--svg-icon">
+      <a href="{{ block.url }}" class="btn btn--light-bg btn--svg-icon">
         {{ block.text }}
         {% if block.external %}
         {% include components/icon-social.html id="external" %}

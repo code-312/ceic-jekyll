@@ -40,7 +40,7 @@ sections:
   site_page: []
   text: lorem ipsum
   external: true
-  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  url: https://www.youtube.com/watch?v=klfT41uZniI
 - template: card-with-image
   image: "/assets/images/placehold/544x320.png"
   alt_text: Blank placeholder image
