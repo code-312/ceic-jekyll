@@ -13,6 +13,15 @@ sections:
   alt_text: Blank placeholder image
   heading: Home
   subtitle: Site under construction
+- template: purple-carousel
+  purple_block:
+  - heading: "420"
+    subtitle: Excepteur sint occaecat cupidatat non proident
+  - heading: "420"
+    subtitle: Excepteur sint occaecat cupidatat non proident
+  - heading: "420"
+    subtitle: Excepteur sint occaecat cupidatat non proident
+  heading: Lorem ipsum
 - template: text-area
   text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
     adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
@@ -27,8 +36,11 @@ sections:
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
-  button_or_links: []
+  button_or_links: button
   site_page: []
+  text: lorem ipsum
+  external: true
+  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - template: card-with-image
   image: "/assets/images/placehold/544x320.png"
   alt_text: Blank placeholder image
@@ -38,14 +50,23 @@ sections:
     sunt in culpa qui officia deserunt mollit anim id est laborum.
   button_or_links: []
   site_page: []
-- template: purple-carousel
-  purple_block:
-  - heading: "420"
-    subtitle: Excepteur sint occaecat cupidatat non proident
-  - heading: "420"
-    subtitle: Excepteur sint occaecat cupidatat non proident
-  - heading: "420"
-    subtitle: Excepteur sint occaecat cupidatat non proident
-  heading: Lorem ipsum
+- template: green-carousel
+  heading: How to get involved
+  green_block:
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+    button:
+      text: lorem ipsum
+      link: "#"
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+    button:
+      text: lorem ipsum
+      link: "#"
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+    button:
+      text: lorem ipsum
+      link: "#"
 
 ---
