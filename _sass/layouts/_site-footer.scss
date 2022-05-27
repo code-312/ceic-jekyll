@@ -1,7 +1,6 @@
 .site-footer {
-  margin-top: 4rem;
+  margin-top: 48px;
   border-top: 1px solid $grey;
-  padding: 1rem 4vw;
 }
 
 .footer__content {
@@ -17,6 +16,10 @@
     grid-template-rows: [row-start] 1fr [row-1] 0 [row-2] 8rem [row-3] 4rem [row-end];
   }
 
+}
+
+.site-footer-container {
+  @include spacing-skinny-nopad;
 }
 
 .footer-info {
