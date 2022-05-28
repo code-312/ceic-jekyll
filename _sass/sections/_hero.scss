@@ -54,36 +54,11 @@
   }
 }
 
-p.nav-overlay {
-  position: absolute;
-  z-index: 2;
-  top: 0;
-  color: $white;
-
-  @include left-margin-abs;
-
-  font-family: helvetica;
-  font-size: 1.2rem;
-
-  a {
-    color: $white;
-    font-size: 1.2rem;
-    transition: text-shadow $speed-std;
-  }
-
-  a:hover {
-    text-shadow: 0.2px 0.2px $white;
-  }
-
-  strong {
-    font-size: 1.2rem;
-  }
-}
 
 .hero-overlay {
   position: absolute;
   z-index: 2;
-  top: 51%;
+  top: 50%;
   max-height: 95%;
   color: white;
   transform: translateY(-50%);
@@ -91,12 +66,10 @@ p.nav-overlay {
 
 
   @include tablet {
-    top: 50%;
     transform: translateY(-50%);
   }
 
   @include desktop {
-    top: 50%;
     transform: translate(-50%,-50%);
   }
 }
