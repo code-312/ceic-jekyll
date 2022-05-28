@@ -44,5 +44,14 @@ sections:
     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
   site_page: []
+- template: green-carousel
+  heading: How to get involved
+  green_block:
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
 
 ---
