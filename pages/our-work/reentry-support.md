@@ -73,16 +73,22 @@ sections:
     button:
       text: Ways to support
       link: "#"
+    text: Ways to Support
+    site_page: pages/get-involved/volunteer.md
   - heading: Expunge
     subtitle: Clear your record
     button:
       text: Expungement
       link: "#"
+    text: Expungement
+    site_page: pages/services/clear-your-record.md
   - heading: Participate
     subtitle: Attend a community resource fair or one of our other events
     button:
       text: Events
       link: "#"
-menus: our-work
+    external: true
+    text: Events
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ---
