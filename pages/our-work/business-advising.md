@@ -44,24 +44,5 @@ sections:
     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
   site_page: []
-- template: green-carousel
-  heading: How to get involved
-  green_block:
-  - heading: Support
-    subtitle: quis nostrud exercitation ullamco
-    button:
-      text: Ways to Support
-      link: "#"
-  - heading: Join
-    subtitle: quis nostrud exercitation ullamco
-    button:
-      text: Join Our Group
-      link: "#"
-  - heading: Member
-    subtitle: quis nostrud exercitation ullamco
-    button:
-      text: Become A Member
-      link: "#"
-menus: our-work
 
 ---
