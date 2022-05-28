@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Policy & Advocacy Test
+title: Policy & Advocacy
 category: Our Work
 permalink: "/our-work/policy-and-advocacy/"
 sections:
