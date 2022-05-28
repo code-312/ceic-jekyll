@@ -28,21 +28,9 @@ fields:
         format: markdown
     label: Subtitle
   - name: button
-    type: field_group
+    type: include
     config: {}
-    fields:
-    - name: text
-      type: text
-      config:
-        required: false
-      label: Text
-      default: lorem ipsum
-    - name: link
-      type: text
-      config:
-        required: false
-      label: Link
-      default: "#"
+    template: button
     label: Button
   config:
     min: 1
