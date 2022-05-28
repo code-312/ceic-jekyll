@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Policy & Advocacy
+title: Policy & Advocacy Test
 category: Our Work
 permalink: "/our-work/policy-and-advocacy/"
 sections:
@@ -68,6 +68,5 @@ sections:
     button:
       text: Become a member
       link: "#"
-menus: our-work
 
 ---
