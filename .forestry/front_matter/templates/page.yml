@@ -25,19 +25,3 @@ fields:
   config:
     required: false
   label: Permalink
-- name: menus
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - get-involved
-    - services
-    - our-work
-    - about-us
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Menu
