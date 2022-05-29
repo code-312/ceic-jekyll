@@ -2,11 +2,34 @@
 label: Layout-Default
 hide_body: true
 fields:
-- name: page
-  type: include
-  config: {}
-  template: page
-  label: Page Details
+- name: title
+  type: text
+  config:
+    required: true
+    max: 64
+    min: 4
+  label: Title
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
+  hidden: true
+  default: "/:path/:basename/"
+- name: layout
+  type: select
+  default: default
+  config:
+    required: false
+    options:
+    - default
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  hidden: true
+  label: Layout
 - name: sections
   type: blocks
   label: Sections
