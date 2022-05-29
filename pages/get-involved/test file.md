@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test
+title: Test File
 sections:
 - template: quick-links
   heading: Quick Links
