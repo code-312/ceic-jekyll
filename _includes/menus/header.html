@@ -1,6 +1,6 @@
 <nav class="nav-primary">
   <ul class="list list--responsive">
-    {% for item in site.menus.header %}
+    {% for item in site.data.menu-header %}
       <li class="list-item">
         <button class="btn--ghost btn--icons">
           <div class="icon-plus"></div>
@@ -11,8 +11,8 @@
           <div class="bar"></div>
         </button>
         <ul class="list sub-list">
-          {% for sub-item in item.children %}
-          <li><a class="menu-link" href="{{ sub-item.url | relative_url }}">{{ sub-item.title }}</a></li>
+          {% for sub-item in item.pages %}
+          <li><a class="menu-link" href="{{ sub-item.link | relative_url }}">{{ sub-item.page }}</a></li>
           {% endfor %}
         </ul>
       </li>
