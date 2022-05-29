@@ -1,9 +1,12 @@
 .btn {
-  padding: 0.5rem 2.5rem;
-  border: 2px solid;
-  border-radius: 8px;
+  padding: 8px 24px;
+  border: 1px solid;
+  border-radius: 4px;
   font-weight: bold;
   font-size: 1.6rem;
+  line-height: 2rem;
+  text-decoration: none;
+  text-transform: capitalize;
   transition: all $speed-std;
   cursor: pointer;
 }
@@ -17,50 +20,54 @@
 
 .btn--light-bg {
   color: $white;
-  background: $dark-green;
-  border-color: $dark-green;
+  background: $green-600;
+  border-color: $green-600;
 
-  &:hover, &:focus {
+  &:hover, &:focus-visible {
     background: $white;
-    color: $button-pressed;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    color: $green-800;
+    box-shadow: $shadow-box;
   }
 
   &:active {
-    background: $grey;
-    color: rgba(0,0,0, 0.5);
+    background: $neutrals-100;
+    color: $green-800-semi;
+    box-shadow: $shadow-box;
   }
 
   &:disabled {
     color: $white;
     box-shadow: none;
-    background: $button-deactivated;
-    border-color: $button-deactivated;
+    background: $green-600;
+    border-color: $green-600;
+    opacity: 0.25;
   }
 }
 
 .btn--dark-bg {
-  color: $button-pressed;
+  color: $green-800;
   background: $white;
-  border-color: $dark-green;
+  border-color: $green-600;
 
-  &:hover, &:focus {
-    background: $dark-green;
+  &:hover, &:focus-visible {
+    background: $green-600;
     color: $white;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: $shadow-box;
   }
 
   &:active {
-    background: $button-pressed;
-    border-color: $button-pressed;
-    color: rgba(255,255,255, 0.5);
+    color: $white;
+    background: $green-800;
+    border-color: $green-800;
+    box-shadow: $shadow-box;
   }
 
   &:disabled {
-    color: $button-deactivated;
+    color: $green-600;
     box-shadow: none;
     background: $white;
-    border-color: $button-deactivated;
+    border-color: $green-600;
+    opacity: 0.25;
   }
 }
 
@@ -75,18 +82,57 @@
 .btn--svg-icon {
   display: inline-flex;
   align-items: center;
-  gap: 1.6rem;
-  padding: 0 25px;
-  text-decoration: none;
+  gap: 8px;
 
   .icon {
     height: 1.6rem;
+  }
+}
+
+.btn--svg-icon.btn--dark-bg {
+  .icon {
+    fill: $green-800;
+  }
+
+  &:hover, &:focus-visible {
+    .icon {
+      fill: $white;
+    }
+  }
+
+  &:active {
+    .icon {
+      fill: $white;
+    }
+  }
+
+  &:disabled {
+    .icon {
+      fill: $green-600;
+    }
+  }
+}
+
+.btn--light-bg.btn--svg-icon {
+  .icon {
     fill: $white;
   }
 
-  &:hover {
+  &:hover, &:focus-visible {
     .icon {
-      fill: $black;
+      fill: $green-800;
+    }
+  }
+
+  &:active {
+    .icon {
+      fill: $green-800-semi;
+    }
+  }
+
+  &:disabled {
+    .icon {
+      fill: $white;
     }
   }
 }

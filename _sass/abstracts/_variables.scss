@@ -4,13 +4,21 @@ $desktop-width: 1024px;
 $max-content-width: 1204px;
 
 /* COLORS */
+$white: #FFFFFF;
+$black: #000000;
+$green-600: #126B55;
+$green-800: #093228;
+$green-800-semi: rgba(9, 50, 40, 0.5);
+$neutrals-100: #E7E7E7;
+
+$shadow-box: 0px 1px 2px rgba(0, 0, 0, 0.04), 0px 1px 3px rgba(0, 0, 0, 0.1);
+
+// Old colors-to be removed in polish pass
 $ceic-green: #10A882;
 $dark-green: #126B55;
 $link-green: #368370;
 $grey: #D2D7DF;
-$white: #FFFFFF;
 $charcoal: #444444;
-$black: #000000;
 $button-pressed: #093228;
 $button-deactivated: #909090;
 $purple-light: #EDE9FD;
@@ -18,8 +26,6 @@ $purple: #3E2F76;
 $input-grey: #909090;
 $shadow: rgba(210, 215, 223, 0.25);
 $neutrals50: #F3F3F3;
-
-// Old colors-to be removed in polish pass
 $logo-green: #10ac84;
 $orange: #ec7907;
 $dark-grey: #525252;
