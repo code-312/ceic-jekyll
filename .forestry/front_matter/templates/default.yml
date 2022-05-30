@@ -25,9 +25,9 @@ fields:
     - default
     source:
       type: simple
-      section: 
-      file: 
-      path: 
+      section:
+      file:
+      path:
   hidden: true
   label: Layout
 - name: sections
@@ -36,12 +36,12 @@ fields:
   template_types:
   - hero
   - quick-links
-  - text-area
   - purple-carousel
   - card-with-image
-  - history
+  - text-area
   - green-carousel
   - testimonial
+  - history
   config:
-    min: 
-    max: 
+    min:
+    max:

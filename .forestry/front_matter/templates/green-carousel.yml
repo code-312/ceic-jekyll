@@ -1,5 +1,5 @@
 ---
-label: Green Carousel
+label: Get Involve Carousel (green)
 hide_body: true
 fields:
 - name: heading
@@ -34,6 +34,6 @@ fields:
     label: Button
   config:
     min: 1
-    max: 
-    labelField: 
+    max:
+    labelField:
   label: Green Block

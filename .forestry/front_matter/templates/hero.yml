@@ -1,10 +1,11 @@
 ---
-label: Hero
+label: Hero Image
 hide_body: true
 fields:
 - name: image
   type: file
   config:
+    required: true
     maxSize: 64
   label: Image
   description: Ideal image size is 1440 x 544px
@@ -22,8 +23,8 @@ fields:
   config:
     required: false
   label: Heading
-  description: optional
-  default: Excepteur sint occaecat cupidatat
+  description: Optional. Will display page title if exactly "page-title"
+  default: page-title
 - name: subtitle
   type: text
   config:

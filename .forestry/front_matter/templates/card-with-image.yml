@@ -1,5 +1,5 @@
 ---
-label: Section-Card
+label: Card
 hide_body: true
 fields:
 - name: image
@@ -43,9 +43,9 @@ fields:
     - none
     source:
       type: simple
-      section: 
-      file: 
-      path: 
+      section:
+      file:
+      path:
   label: Add Button or Links
 - name: button
   type: include
@@ -64,9 +64,9 @@ fields:
     template: link
     label: Link
   config:
-    min: 
-    max: 
-    labelField: 
+    min:
+    max:
+    labelField:
   label: Links
   showOnly:
     field: button_or_links

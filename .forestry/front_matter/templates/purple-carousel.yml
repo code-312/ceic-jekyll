@@ -1,5 +1,5 @@
 ---
-label: Purple Carousel
+label: Policy Carousel (purple)
 hide_body: true
 fields:
 - name: heading
@@ -27,6 +27,6 @@ fields:
     label: Subtitle
   config:
     min: 1
-    max: 
-    labelField: 
+    max:
+    labelField:
   label: Purple Block
