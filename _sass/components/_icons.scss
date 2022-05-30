@@ -31,10 +31,6 @@
   transition: transform $speed-std;
 }
 
-.icon-triangle:hover {
-  transform: rotateZ(180deg);
-}
-
 /* Plus Icon */
 .icon-plus {
   display: flex;

@@ -14,12 +14,14 @@
 @import 'components/logos';
 @import 'components/icons';
 @import 'components/footer-news';
-@import 'components/nav';
 @import 'components/social';
 
 @import 'layouts/site-body';
 @import 'layouts/site-header';
 @import 'layouts/site-footer';
+
+@import 'menus/header';
+@import 'menus/footer';
 
 @import 'sections/hero';
 @import 'sections/history';

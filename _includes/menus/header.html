@@ -8,7 +8,11 @@
             <svg class="icon icon-triangle icon--small" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
               <use xlink:href="{{ 'assets/images/sprites.svg#triangle' | relative_url }}" />
             </svg>
+          {% if page.url contains item.folder %}
+          <div class="bar visible"></div>
+          {% else %}
           <div class="bar"></div>
+          {% endif %}
         </button>
         <ul class="list sub-list">
           {% for page in site.pages %}
