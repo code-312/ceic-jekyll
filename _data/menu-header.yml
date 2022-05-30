@@ -1,37 +1,11 @@
 - title: About Us
-  pages:
-    - page: Mission & History
-      link: /about-us/mission-and-history
-    - page: Our Impact
-      link: /about-us/our-impact
-    - page: Our Partners
-      link: /about-us/our-partners
+  folder: about-us
 
 - title: Our Work
-  pages:
-    - page: Policy & Advocacy
-      link: /our-work/policy-and-advocacy
-    - page: Reentry Support
-      link: /our-work/reentry-support
-    - page: Business Advising
-      link: /our-work/business-advising
-    - page: Community Education
-      link: /our-work/community-education
+  folder: our-work
 
 - title: Services
-  pages:
-    - page: Clear Your Record
-      link: /services/clear-your-record
-    - page: Know Your Rights
-      link: /services/know-your-rights
+  folder: services
 
 - title: Get Involved
-  pages:
-    - page: Stay Informed
-      link: /get-involved/stay-informed
-    - page: Donate
-      link: /get-involved/donate
-    - page: Volunteer
-      link: /get-involved/volunteer
-    - page: Membership
-      link: /get-involved/membership
+  folder: get-involved
