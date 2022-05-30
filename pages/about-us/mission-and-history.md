@@ -54,18 +54,17 @@ sections:
   green_block:
   - heading: Pariatur
     subtitle: quis nostrud exercitation ullamco
-    button:
-      text: lorem ipsum
-      link: "#"
+    text: lorem ipsum
+    site_page: pages/our-work/business-advising.md
   - heading: Pariatur
     subtitle: quis nostrud exercitation ullamco
-    button:
-      text: lorem ipsum
-      link: "#"
+    text: loreum ipsum
+    external: true
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - heading: Pariatur
     subtitle: quis nostrud exercitation ullamco
-    button:
-      text: lorem ipsum
-      link: "#"
+    external: true
+    text: lorum
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ---

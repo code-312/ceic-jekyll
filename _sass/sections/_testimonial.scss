@@ -1,12 +1,14 @@
 .testimonial {
   padding: 32px 0;
+  margin: 32px 0;
   background: $purple-light;
 
   @include tablet {
     padding: 64px 0;
+    margin: 64px 0;
   }
 
-  .card-image-container {
+  .card {
     background: $purple;
     margin: 0 auto;
     max-width: 994px;

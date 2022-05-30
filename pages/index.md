@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Home
 permalink: "/"
 hero:
   heading: Site Under Construction

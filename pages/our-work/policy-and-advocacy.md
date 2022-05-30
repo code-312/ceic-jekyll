@@ -54,18 +54,15 @@ sections:
   green_block:
   - heading: Support
     subtitle: Support our Political Education program or join an event
-    button:
-      text: Ways to Support
-      link: "#"
+    text: Ways to Support
+    site_page: pages/get-involved/donate.md
   - heading: Join
     subtitle: Join our Policy Research working groups
-    button:
-      text: Join the Working Groups
-      link: "#"
+    text: Join the Working Groups
+    site_page: pages/get-involved/volunteer.md
   - heading: Member
     subtitle: become an equity member to support this work
-    button:
-      text: Become a member
-      link: "#"
+    text: Become a member
+    site_page: pages/get-involved/membership.md
 
 ---

@@ -3,6 +3,10 @@
   {{ include.text }}
   {% include components/icon-social.html id="external" %}
 </a>
+{% elsif include.site_page contains "pages/index" %}
+<a href="/" class="btn btn--dark-bg">
+  {{ include.text }}
+</a>
 {% else %}
 <a href="{{ include.site_page | replace: ".md" "/" | relative_url }}" class="btn btn--dark-bg">
   {{ include.text }}
