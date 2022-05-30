@@ -2,7 +2,7 @@
 layout: default
 title: Clear Your Record
 category: Services
-permalink: "/services/clear-your-record/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"

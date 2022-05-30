@@ -10,16 +10,12 @@
       <h4 class="large">{{ item.heading }}</h4>
       {% endif %}
       <p>{{ item.subtitle }}</p>
-        {% if item.external %}
-        <a href="{{ item.url }}" class="btn btn--dark-bg btn--svg-icon">
-          {{ item.text}}
-          {% include components/icon-social.html id="external" %}
-        </a>
-        {% else %}
-        <a href="{{ block.url }}" class="btn btn--dark-bg">
-          {{ item.text}}
-        </a>
-        {% endif %}
+      {% include components/button-link--dark-bg.html
+        text = item.text
+        external = item.external
+        url = item.url
+        site_page = item.site_page
+      %}
     </div>
     {% endfor %}
   </div>
