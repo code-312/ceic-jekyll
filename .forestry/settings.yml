@@ -7,7 +7,6 @@ sections:
 - type: jekyll-pages
   label: All pages
   create: all
-  match: "**/*"
 - type: document
   path: pages/index.md
   label: Home
