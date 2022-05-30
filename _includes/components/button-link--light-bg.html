@@ -4,7 +4,7 @@
   {% include components/icon-social.html id="external" %}
 </a>
 {% elsif include.site_page contains "pages/index" %}
-<a href="/" class="btn btn--light-bg">
+<a href="{{ / | relative_url }}" class="btn btn--light-bg">
   {{ include.text }}
 </a>
 {% else %}
