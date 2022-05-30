@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Donate
-category: Get Involved
-permalink: "/get-involved/donate/"
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"
@@ -19,6 +17,5 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: bill
-menu: get-involved
 
 ---

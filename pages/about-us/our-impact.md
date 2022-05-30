@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Our Impact
-category: About Us
-permalink: "/about-us/our-impact/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"
@@ -41,6 +40,6 @@ sections:
   internal: false
   add_button: true
   text: sdfasdf
-menus: about-us
+
 
 ---

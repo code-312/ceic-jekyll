@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Our Partners
-category: About Us
-permalink: "/about-us/our-partners/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"
@@ -46,7 +45,5 @@ sections:
   site_page: pages/index.md
   button_or_links: button
   text: home
-details:
-  menu: _data/menus.yml
 
 ---

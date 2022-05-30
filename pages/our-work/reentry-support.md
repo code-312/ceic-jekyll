@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Reentry Support
-category: Our Work
-permalink: "/our-work/reentry-support/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"
@@ -27,6 +26,7 @@ sections:
   button_or_links: button
   text: Expungement
   external: false
+  site_page: pages/services/clear-your-record.md
 - template: card-with-image
   image: assets/images/our-work/community-resource.png
   alt_text: Members at a table with different household products.
@@ -70,23 +70,14 @@ sections:
   green_block:
   - heading: Support
     subtitle: Support one of our community programs or join an event
-    button:
-      text: Ways to support
-      link: "#"
     text: Ways to Support
     site_page: pages/get-involved/volunteer.md
   - heading: Expunge
     subtitle: Clear your record
-    button:
-      text: Expungement
-      link: "#"
     text: Expungement
     site_page: pages/services/clear-your-record.md
   - heading: Participate
     subtitle: Attend a community resource fair or one of our other events
-    button:
-      text: Events
-      link: "#"
     external: true
     text: Events
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ

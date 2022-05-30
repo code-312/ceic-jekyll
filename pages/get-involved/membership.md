@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Membership
-category: Get Involved
-permalink: "/get-involved/membership/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"
@@ -22,6 +21,4 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
-menu: get-involved
-
 ---

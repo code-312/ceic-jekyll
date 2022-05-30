@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Community Education
-category: Our Work
-permalink: "/our-work/community-education/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"
@@ -37,6 +36,5 @@ sections:
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
-menus: our-work
 
 ---

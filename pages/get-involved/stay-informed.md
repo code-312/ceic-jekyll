@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Stay Informed
-category: Get Involved
-permalink: "/get-involved/stay-informed/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"
@@ -22,6 +21,5 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: housee
-menu: get-involved
 
 ---

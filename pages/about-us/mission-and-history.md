@@ -1,14 +1,13 @@
 ---
 layout: default
 title: Mission & History
-category: About Us
-permalink: "/about-us/mission-and-history/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"
   alt_text: Blank placeholder image
   heading: Our Story
-  subtitle: 
+  subtitle:
 - template: text-area
   text_area: "<h2>Mission</h2><p>Founded in 2019, the Cannabis Equity Illinois Coalition
     is a grassroots nonprofit that advances equity in the State of Illinois by elevating
@@ -68,6 +67,5 @@ sections:
     button:
       text: lorem ipsum
       link: "#"
-menus: about-us
 
 ---

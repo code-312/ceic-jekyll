@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Policy & Advocacy
-category: Our Work
-permalink: "/our-work/policy-and-advocacy/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: assets/images/our-work/policy-and-advocacy/hero-policy.png
@@ -68,6 +67,5 @@ sections:
     button:
       text: Become a member
       link: "#"
-menus: our-work
 
 ---

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Business Advising
-category: Our Work
-permalink: "/our-work/business-advising/"
+permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.png"

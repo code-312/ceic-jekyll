@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Clear Your Record
-category: Services
 permalink: /:path/:basename/
 sections:
 - template: hero
@@ -22,6 +21,5 @@ sections:
   - text: lorem ipsum
     link: "#"
     icon: house
-menu: services
 
 ---
