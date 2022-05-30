@@ -20,7 +20,7 @@ fields:
     options: []
     source:
       type: pages
-      section: jekyll-pages
+      section: pages
       file: 
       path: 
   label: Site Page
