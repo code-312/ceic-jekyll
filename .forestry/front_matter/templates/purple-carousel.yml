@@ -27,6 +27,6 @@ fields:
     label: Subtitle
   config:
     min: 1
-    max:
-    labelField:
+    max: 
+    labelField: 
   label: Purple Block

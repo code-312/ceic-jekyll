@@ -23,9 +23,9 @@ fields:
       - calendar
       source:
         type: simple
-        section:
-        file:
-        path:
+        section: 
+        file: 
+        path: 
     label: Icon
   - name: text
     type: text
@@ -40,7 +40,7 @@ fields:
     label: Link
     default: "#"
   config:
-    min:
-    max:
-    labelField:
+    min: 
+    max: 
+    labelField: 
   label: Quick Links

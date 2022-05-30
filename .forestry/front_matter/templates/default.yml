@@ -25,9 +25,9 @@ fields:
     - default
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
   hidden: true
   label: Layout
 - name: sections
@@ -43,5 +43,5 @@ fields:
   - testimonial
   - history
   config:
-    min:
-    max:
+    min: 
+    max: 
