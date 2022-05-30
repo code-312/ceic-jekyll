@@ -1,5 +1,5 @@
-.card-image-container {
-  @include spacing-std;
+.card {
+  @include spacing-short;
 
   font-size: 0;
 
@@ -17,7 +17,8 @@
   }
 }
 
-.card-container--grey {
+
+.card--grey {
   background-color: $neutrals50;
 }
 

@@ -1,19 +1,19 @@
 .carousel-container {
   text-align: center;
-  margin: 16px 0;
+  margin: 32px 0;
   padding: 0 16px;
   overflow: hidden;
   width: 100%;
 
   @include tablet {
-    margin: 32px 0;
+    margin: 64px 0;
     padding: 0 32px;
   }
 
   @include desktop {
     padding: 0;
     width: 88%;
-    margin: 32px auto;
+    margin: 64px auto;
   }
 
   h2 {
