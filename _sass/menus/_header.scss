@@ -112,6 +112,12 @@
 }
 
 .sub-list li {
+
+  &.current a{
+    color: $input-grey;
+  }
+
+
   @include tablet {
     &:hover, &:focus-within {
       background: $green-600;
@@ -119,10 +125,17 @@
         color: $white
       }
     }
+
+    &.current {
+      background: $green-800;
+    }
+
+    &.current a{
+      color: $white;
+    }
+
     &:active {
         background: $green-800;
     }
   }
-
-
 }
