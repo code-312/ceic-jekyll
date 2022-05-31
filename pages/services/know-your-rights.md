@@ -14,11 +14,14 @@ sections:
 - template: quick-links
   heading: Quick Links
   quick_links:
-  - icon: video
-    text: Test
-  - icon: video
+  - icon: house
     text: Sample
+    external: true
+    url: www.google.com
   - icon: video
+    external: false
+    text: Test
+    site_page: pages/get-involved/donate.md
 - template: card-with-image
   image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image
