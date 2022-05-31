@@ -4,7 +4,7 @@ title: Business Advising
 permalink: /:path/:basename/
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.png"
+  image: "/assets/images/placehold/1440x544.webp"
   alt_text: Blank placeholder image
   heading: Business Support and Outreach
   subtitle: CEIC works to ensure cannabis businesses in Illinois benefit the communities
@@ -20,7 +20,7 @@ sections:
     icon: calendar
   heading: Quick Links
 - template: card-with-image
-  image: "/assets/images/placehold/544x320.png"
+  image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image
   heading: Starting a Cannabis Business
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
@@ -28,7 +28,7 @@ sections:
     sunt in culpa qui officia deserunt mollit anim id est laborum.
   site_page: []
 - template: card-with-image
-  image: "/assets/images/placehold/544x320.png"
+  image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image
   heading: Community Benefits Agreement
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
@@ -36,7 +36,7 @@ sections:
     sunt in culpa qui officia deserunt mollit anim id est laborum.
   site_page: []
 - template: card-with-image
-  image: "/assets/images/placehold/544x320.png"
+  image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image
   heading: Corporate Social Responsibility
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum

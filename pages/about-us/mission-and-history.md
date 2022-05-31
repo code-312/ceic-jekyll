@@ -4,7 +4,7 @@ title: Mission & History
 permalink: /:path/:basename/
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.png"
+  image: "/assets/images/placehold/1440x544.webp"
   alt_text: Blank placeholder image
   heading: Our Story
   subtitle:

@@ -5,11 +5,11 @@ permalink: "/"
 hero:
   heading: Site Under Construction
   subtitle: Index
-  image: "/assets/images/placehold/1440x544.png"
+  image: "/assets/images/placehold/1440x544.webp"
   alt_text: placeholder image
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.png"
+  image: "/assets/images/placehold/1440x544.webp"
   alt_text: Blank placeholder image
   heading: Home
   subtitle: Site under construction
@@ -30,7 +30,7 @@ sections:
     vestibulum. Orci eu lobortis elementum nibh tellus. Libero nunc consequat interdum
     varius sit.</p>"
 - template: card-with-image
-  image: "/assets/images/placehold/544x320.png"
+  image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image
   heading: Lorem ipsum
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
@@ -42,7 +42,7 @@ sections:
   text: lorem
   url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - template: card-with-image
-  image: "/assets/images/placehold/544x320.png"
+  image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image
   heading: Lorem ipsum
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
@@ -52,7 +52,7 @@ sections:
   site_page: pages/services/clear-your-record.md
   text: lorem ipsum
 - template: card-with-image
-  image: "/assets/images/placehold/544x320.png"
+  image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image
   heading: Lorem ipsum
   paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum

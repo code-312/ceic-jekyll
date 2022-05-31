@@ -6,7 +6,7 @@ description:  We work to make cannabis policy in Illinois more inclusive, transp
 permalink: /:path/:basename/
 sections:
 - template: hero
-  image: assets/images/our-work/policy-and-advocacy/hero-policy.png
+  image: assets/images/our-work/policy-and-advocacy/hero-policy.webp
   alt_text: State Capitol dome behind a wall
   heading: Policy & Political Education
   subtitle: We work to make cannabis policy in Illinois more inclusive, transparent
@@ -30,7 +30,7 @@ sections:
   - heading: 100s
     subtitle: of members educated on the political process
 - template: card-with-image
-  image: assets/images/our-work/policy-and-advocacy/policy-research.png
+  image: assets/images/our-work/policy-and-advocacy/policy-research.webp
   alt_text: Two people looking over a railing in the legislature building with a clipboard
   heading: Policy Research
   paragraph: 'We research policies and practices that increase cannabis equity and
@@ -38,7 +38,7 @@ sections:
     include: opportunities for ownership for impacted entrepreneurs, increasing investment
     into impacted communities, and providing young people evidence-based education.'
 - template: card-with-image
-  image: assets/images/our-work/policy-and-advocacy/political-education.png
+  image: assets/images/our-work/policy-and-advocacy/political-education.webp
   alt_text: People signing up at Cannabis Equity Illinois Coalition table
   heading: Political Education
   paragraph: We educate community members on the political process so they can effectively
@@ -46,7 +46,7 @@ sections:
     campaigns to share tools & strategies to support people building power in their
     community.
 - template: card-with-image
-  image: assets/images/our-work/policy-and-advocacy/advocacy.png
+  image: assets/images/our-work/policy-and-advocacy/advocacy.webp
   alt_text: Group shot of Cannabis Equity Illinois Coalition members in front of statue
   heading: Advocacy
   paragraph: We advocate for cannabis policies that support impacted communities and

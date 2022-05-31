@@ -3,7 +3,7 @@ layout: default
 title: Donate
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.png"
+  image: "/assets/images/placehold/1440x544.webp"
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
