@@ -1,0 +1,16 @@
+{% if include.external %}
+<a class="link-icon" href="{{ include.url }}">
+  {% include components/icon-social.html id=include.icon %}
+  <span>{{ include.text }}</span>
+</a>
+{% elsif include.site_page contains "pages/index" %}
+<a class="link-icon" href="{{ / | relative_url }}">
+  {% include components/icon-social.html id=include.icon %}
+  <span>{{ include.text }}</span>
+</a>
+{% else %}
+<a class="link-icon" href="{{ include.site_page | replace: ".md" "/" | relative_url }}">
+  {% include components/icon-social.html id=include.icon %}
+  <span>{{ include.text }}</span>
+</a>
+{% endif %}

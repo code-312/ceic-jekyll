@@ -4,10 +4,13 @@
   <ul class="list list--responsive">
   {% for item in block.quick_links %}
     <li class="list-item">
-      <a class="link-icon" href="{{ item.link }}">
-        {% include components/icon-social.html id=item.icon %}
-        <span>{{ item.text }}</span>
-      </a>
+      {% include components/link-svg.html
+        text = item.text
+        external = item.external
+        url = item.url
+        site_page = item.site_page
+        icon = item.icon
+      %}
     </li>
   {% endfor %}
   </ul>

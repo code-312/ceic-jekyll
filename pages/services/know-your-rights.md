@@ -17,7 +17,7 @@ sections:
   - icon: house
     text: Sample
     external: true
-    url: www.google.com
+    url: https://www.google.com
   - icon: video
     external: false
     text: Test
