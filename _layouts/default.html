@@ -7,7 +7,7 @@ layout: compress
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     {% seo %}
-    <title>{{ page.title }} - {{ site.title }}</title>
+
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <link rel="icon" href="{{ "/favicon.ico" | relative_url }}" sizes="any">
     <link rel="icon" href="{{ "/favicon.svg" | relative_url }}" type="image/svg+xml">
@@ -22,6 +22,6 @@ layout: compress
         {{ content }}
     </main>
     {% include site-footer.html %}
-    <script src="{{ 'assets/js/script.js' | relative_url }}" type="text/javascript" defer></script>
+    <script src="{{ 'assets/js/script.js' | relative_url }}" defer></script>
   </body>
 </html>
