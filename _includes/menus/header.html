@@ -18,7 +18,7 @@
           {% for courier in site.pages %}
           {% if courier.url contains item.folder %}
           {% if courier.url == page.url %}
-          <li class="current"><a class="menu-link">{{ courier.title }}</a></li>
+          <li class="current"><span class="menu-link">{{ courier.title }}</span></li>
           {% else %}
           <li><a class="menu-link" href="{{ courier.url | relative_url }}">{{ courier.title }}</a></li>
           {% endif %}
