@@ -11,5 +11,18 @@ sections:
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
+- template: quick-links
+  heading: Quick Links
+  quick_links:
+  - icon: house
+    text: Donate
+    site_page: pages/get-involved/donate.md
+    external: false
+    url: ''
+  - icon: video
+    text: Another
+    external: true
+    url: https://en.wikipedia.org/wiki/Squirrel
+    site_page: ''
 
 ---
