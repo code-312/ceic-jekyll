@@ -35,5 +35,5 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: text
   label: Quick Links
