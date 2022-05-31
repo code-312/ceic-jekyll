@@ -12,7 +12,7 @@ sections:
   image: "/assets/images/placehold/1440x544.webp"
   alt_text: Blank placeholder image
   heading: Home
-  subtitle: Site under construction
+  subtitle: page-description
 - template: purple-carousel
   purple_block:
   - heading: "420"
@@ -76,5 +76,6 @@ sections:
     external: true
     text: lorum
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+description: Site under construction
 
 ---
