@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Know Your Rights
-description: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-  ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-  voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+  ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+  velit esse cillum dolore eu fugiat nulla pariatur.
 permalink: "/:path/:basename/"
 sections:
 - template: hero
@@ -12,20 +12,13 @@ sections:
   heading: page-title
   subtitle: page-description
 - template: quick-links
-  quick_links:
-  - icon: house
-    text: house of cards
-    link: "#"
-  - icon: bill
-    text: bill of rights
-    link: "#"
-  - icon: video
-    text: lorem ipsum
-    link: "#"
-  - icon: video
-    text: lorem ipsum
-    link: "#"
   heading: Quick Links
+  quick_links:
+  - icon: video
+    text: Test
+  - icon: video
+    text: Sample
+  - icon: video
 - template: card-with-image
   image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image
