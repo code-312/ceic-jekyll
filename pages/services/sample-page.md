@@ -7,7 +7,7 @@ layout: default
 title: Sample Page
 sections:
 - template: hero
-  image: "/assets/images/hero.webp"
+  image: "/assets/images/chip.webp"
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
