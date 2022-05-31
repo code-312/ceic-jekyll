@@ -27,18 +27,11 @@ fields:
         file: 
         path: 
     label: Icon
-  - name: text
-    type: text
-    config:
-      required: false
-    label: Text
-    default: lorem ipsum
   - name: link
-    type: text
-    config:
-      required: false
+    type: include
+    config: {}
+    template: link
     label: Link
-    default: "#"
   config:
     min: 
     max: 
