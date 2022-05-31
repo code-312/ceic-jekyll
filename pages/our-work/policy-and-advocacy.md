@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Policy & Advocacy
+description:  We work to make cannabis policy in Illinois more inclusive, transparent
+  and accountable
 permalink: /:path/:basename/
 sections:
 - template: hero
