@@ -34,5 +34,11 @@ sections:
     eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
     in culpa qui officia deserunt mollit anim id est laborum.
   image: "/assets/images/fievel.webp"
+- template: text-area
+  text_area: "<h2>Squirrels</h2><p>Squirrels are members of the family Sciuridae,
+    a family that includes small or medium-size rodents. The squirrel family includes
+    tree squirrels, ground squirrels (including chipmunks and prairie dogs, among
+    others), and flying squirrels. Squirrels are indigenous to the Americas, Eurasia,
+    and Africa, and were introduced by humans to Australia.</p><p></p>"
 
 ---
