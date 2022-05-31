@@ -1,15 +1,16 @@
 ---
 layout: default
 title: Business Advising
+description: CEIC works to ensure cannabis businesses in Illinois benefit the communities
+  most impacted by prohibition, and support entrepreneurs in achieving their business
+  goals.
 permalink: /:path/:basename/
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.webp"
   alt_text: Blank placeholder image
   heading: Business Support and Outreach
-  subtitle: CEIC works to ensure cannabis businesses in Illinois benefit the communities
-    most impacted by prohibition, and support entrepreneurs in achieving their business
-    goals.
+  subtitle: page-description
 - template: quick-links
   quick_links:
   - text: Download the CBA Toolkit

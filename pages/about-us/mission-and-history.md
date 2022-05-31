@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Mission & History
+description: "Founded in 2019, the Cannabis Equity Illinois Coalition
+  is a grassroots nonprofit that advances equity in the State of Illinois by elevating
+  community voices and collaborating with partners to create change in the cannabis
+  industry."
 permalink: /:path/:basename/
 sections:
 - template: hero

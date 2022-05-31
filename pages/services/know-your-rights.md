@@ -1,15 +1,16 @@
 ---
 layout: default
 title: Know Your Rights
+description: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+  ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+  voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 permalink: "/:path/:basename/"
 sections:
 - template: hero
   image: "/assets/images/placehold/1440x544.webp"
   alt_text: Blank placeholder image
   heading: page-title
-  subtitle: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-    ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-    voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  subtitle: page-description
 - template: quick-links
   quick_links:
   - icon: house
@@ -24,6 +25,7 @@ sections:
   - icon: video
     text: lorem ipsum
     link: "#"
+  heading: Quick Links
 - template: card-with-image
   image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image

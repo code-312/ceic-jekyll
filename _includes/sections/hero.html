@@ -8,6 +8,11 @@
     {% else %}
     <h1>{{ block.heading }}</h1>
     {% endif %}
+
+    {% if block.subtitle == "page-description"%}
+    <p>{{ page.description }}</p>
+    {% else %}
     <p>{{ block.subtitle }}</p>
+    {% endif %}
   </div>
 </section>
