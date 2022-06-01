@@ -20,6 +20,11 @@ sections:
 - template: quick-links
   heading: Quick Links
   quick_links:
+  - icon: bill
+    text: Third Link
+    external: false
+    site_page: pages/our-work/business-advising.md
+    url: ''
   - icon: house
     text: Donate
     site_page: pages/get-involved/donate.md
