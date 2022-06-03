@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-permalink: "/privacy-policy/"
+permalink: "/:path/:basename/"
 
 ---
 <main class="container">

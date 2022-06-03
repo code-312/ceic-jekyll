@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Us
-permalink: "/contact-us/"
+permalink: "/:path/:basename/"
 
 ---
 <main class="container">

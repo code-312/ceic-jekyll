@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Use
-permalink: "/terms-of-use/"
+permalink: "/:path/:basename/"
 
 ---
 # {{ page.title }}

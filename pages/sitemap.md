@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sitemap
-permalink: "/sitemap/"
+permalink: "/:path/:basename/"
 
 ---
 <main class="container" markdown="1">
