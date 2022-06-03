@@ -14,11 +14,13 @@ sections:
 - template: quick-links
   quick_links:
   - text: HB 327 Press Conference
-    link: "#"
     icon: video
+    external: true
+    url: https://en.wikipedia.org/wiki/Squirrel
   - text: Support HB 1443
-    link: "#"
     icon: house
+    external: true
+    url: https://en.wikipedia.org/wiki/Squirrel
   heading: Quick Links
 - template: purple-carousel
   heading: Policy in Action

@@ -1,4 +1,4 @@
-.quick-link-container {
+.quick-links {
   background-color: $neutrals50;
   text-align: center;
 
@@ -8,10 +8,14 @@
     padding: 32px;
   }
 
-  h3 {
-    margin: 0px 0 24px 0;
+  h2 {
+    margin: 0px 0 32px 0;
     text-align: center;
+
+    font-size: 2.0rem;
+
+    @include tablet {
+      font-size: 2.4rem;
+    }
   }
-
-
 }

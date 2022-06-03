@@ -5,9 +5,9 @@
     {% for item in block.green_block %}
     <div class="green-box">
       {% if item.heading.size < 10 %}
-      <h4>{{ item.heading }}</h4>
+      <h3>{{ item.heading }}</h3>
       {% else %}
-      <h4 class="large">{{ item.heading }}</h4>
+      <h3 class="large">{{ item.heading }}</h3>
       {% endif %}
       <p>{{ item.subtitle }}</p>
       {% include components/button-link--dark-bg.html

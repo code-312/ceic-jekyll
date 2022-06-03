@@ -20,7 +20,7 @@
     margin-top: 0;
   }
 
-  h4 {
+  h3 {
     font-size: 6.0rem;
     line-height: 7.2rem;
     margin: 4rem 0 0 ;
@@ -40,57 +40,5 @@
 
   @include desktop {
     justify-content: center;
-  }
-}
-
-.carousel-block-purple {
-  padding-top: 3rem;
-  background-color: $purple;
-  min-width: 320px;
-  max-width: 320px;
-  min-height: 300px;
-
-  h4 {
-    margin-bottom: 3rem;
-  }
-
-  p {
-    width: 200px;
-    margin: auto;
-  }
-}
-
-.green-box {
-  text-align: left;
-  padding: 3.2rem;
-  word-wrap: break-word;
-  background-color: $dark-green;
-  min-width: 310px;
-  max-width: 310px;
-  position: relative;
-
-  h4 {
-    padding: 0;
-    margin: 0;
-    font-size: 7.2rem;
-    width: 20rem;
-    min-height: 14.4rem;
-    text-transform: uppercase;
-  }
-
-  h4.large {
-    width: 23rem;
-  }
-
-  p {
-    margin-left: 0;
-    margin-bottom: 6rem;
-    width: 23rem;
-    text-transform: uppercase;
-  }
-
-  .btn {
-    position: absolute;
-    bottom: 3.2rem;
   }
 }
