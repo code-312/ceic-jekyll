@@ -65,6 +65,10 @@
     }
   }
 
+  .menu-link {
+    padding: 1rem;
+  }
+
   @include tablet {
     &:focus-within {
       .icon-triangle {
