@@ -1,9 +1,9 @@
 html {
   font-size: 62.5%; // allows easy font size calc. std font is 16px *.625 = 10px
-  font-family: Karla, helvetica;
 }
 
 body {
+  font-family: Karla, helvetica;
   font-size: 1.6rem; // set base font size to 16px, while allowing user to resize
   line-height: 1.5;
 }
