@@ -1,47 +1,25 @@
 ---
 layout: default
 title: Know Your Rights
-description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-  ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-  velit esse cillum dolore eu fugiat nulla pariatur.
+description: We provide legal education and support to help communities know how their
+  rights have changed with legalized cannabis.
 permalink: "/:path/:basename/"
 sections:
-- template: hero
-  image: "/assets/images/placehold/1440x544.webp"
-  alt_text: Blank placeholder image
-  heading: page-title
-  subtitle: page-description
-- template: quick-links
-  heading: Quick Links
-  quick_links:
-  - icon: house
-    text: Sample
-    external: true
-    url: google.com
-  - icon: video
-    external: false
-    text: Test
-    site_page: pages/get-involved/donate.md
-- template: card-with-image
-  image: "/assets/images/placehold/544x320.webp"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-- template: card-with-image
-  image: "/assets/images/placehold/544x320.webp"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-- template: card-with-image
-  image: "/assets/images/placehold/544x320.webp"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
+- template: text-area
+  text_area: <h2>Know Your Rights!</h2><p>We need communities to know how their rights
+    have changed with legalized cannabis.</p><p>We focus on providing legal education
+    and support under the new laws to ensure everyone is staying safe.</p><p>We support
+    this mission through:</p><ul><li><p>Creating educational resources like our crutch
+    cards, designed to inform the public of continued prohibited situations for the
+    possession and consumption of cannabis.</p></li><li><p>Live workshops with partners
+    Legal Aid Chicago &amp;Herbal Legal on how cannabis can impact your housing, employment,
+    and immigration status. Check them out in our partners section!</p></li><li><p>Sharing
+    resources and hosting events on expungement, and promoting awareness of newly
+    developing legal vulnerabilities or protections afforded for the use of cannabis.</p></li><li><p>Online
+    resources and videos</p></li></ul><p>If you are interested in supporting this
+    mission by hosting an event, sponsoring printing of crutch cards, or providing
+    production of online resources, DM us <a href="https://www.facebook.com/CannaEquityIL"
+    target="_blank">@CannaEquityIL</a> or <a href="https://www.cannabisequityil.org/contact"
+    target="_blank">email</a></p>
 
 ---
