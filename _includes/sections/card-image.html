@@ -1,10 +1,8 @@
 <section class="card card--grey">
 
 <div class="card-image-container">
-{% include components/image-card.html
-    src=block.image
-    alt=block.alt_text
-%}
+  <img src="{{ block.image | relative_url }}" alt="{{ block.alt }}" class="card-image">
+
 </div>
 
 <div class="card-text">
