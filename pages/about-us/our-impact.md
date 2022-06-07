@@ -1,46 +1,15 @@
 ---
 layout: default
 title: Our Impact
-description: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-  ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-  voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-permalink: /:path/:basename/
+description: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+  nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+  in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+permalink: "/:path/:basename/"
 sections:
-- template: hero
-  image: "/assets/images/placehold/1440x544.webp"
-  alt_text: Blank placeholder image
-  heading: page-title
-  subtitle: page-description
-- template: quick-links
-  quick_links:
-  - text: lorem ipsum
-    link: "#"
-    icon: video
-  - text: lorem ipsum
-    link: "#"
-    icon: bill
-  - text: lorem ipsum
-    link: "#"
-    icon: house
-  heading: Quick Links
-- template: card-with-image
-  image: "/assets/images/placehold/544x320.webp"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-  internal: true
-- template: card-with-image
-  image: "/assets/images/placehold/544x320.webp"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-  internal: false
-  add_button: true
-  text: sdfasdf
-
+- template: text-area
+  text_area: <p>Check out the Coalition’s 2021 Impact Report! In this report, we highlight
+    all of the Coalition’s work for the last 12 months, and the impact we made.</p><p>[EMBEDDED
+    REPORT GOES HERE]</p><p><a href="https://www.canva.com/design/DAEyvLK9lOI/HJo00X8beXliHOcKIObjzw/view">Coalition
+    Impact Report</a> by Kay V</p>
 
 ---
