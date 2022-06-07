@@ -37,6 +37,5 @@ sections:
     target="_blank">@CannaEquityIL</a>. We welcome everyone across the state to engage
     with this campaign, so that the “plus-1” dispensaries statewide are working with
     community partners.</p>'
-published: false
 
 ---
