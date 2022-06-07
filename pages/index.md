@@ -14,6 +14,26 @@ sections:
     in front of a goverment building
   heading: ''
   subtitle: ''
+- template: text-area
+  text_area: "<h2>What We Do</h2><p>Formed in 2019, the Coalition provides a space
+    for community members to come together to share their experiences, and to organize
+    and advocate to fight for cannabis equity and justice. The Coalition supports
+    individuals and communities in the following ways:<br><br>Provides services and
+    support for individuals to expunge or seal their criminal records, especially
+    for cannabis offenses. We advocate to promote the expansion of automatic expungement,
+    and to ensure anyone with a criminal record is able to access record clearing
+    in a timely manner.<br><br>We host Know Your Rights education sessions and promote
+    KYR information to ensure nobody else is criminalized for cannabis.</p><p>Advocate
+    for cannabis dispensaries to formally partner with community organizations by
+    encouraging the implementation of Community Benefits Agreements. These agreements
+    ensure that new dispensaries directly support disproportionately impacted communities.<br><br>Using
+    legislative education to increase engagement amongst our community members in
+    the policy process.<br><br>We are the watchdog of the government and of the industry,
+    working to ensure legalization benefits those most impacted by cannabis prohibition.</p><p>We
+    meet every Thursday at 6PM Central Time on Zoom. Please reach out to the Coalition
+    on email to get the link.<br><br>We are in the midst of our expungement programming!
+    Check us out on @CannaEquityIL on Facebook, Instagram, &amp; Twitter for more
+    information about our events!</p>"
 - template: purple-carousel
   purple_block:
   - heading: "420"
@@ -23,13 +43,6 @@ sections:
   - heading: "420"
     subtitle: Excepteur sint occaecat cupidatat non proident
   heading: Lorem ipsum
-- template: text-area
-  text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
-    adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
-    hendrerit dolor. Lacus vestibulum sed arcu non odio euismod lacinia at. Pharetra
-    magna ac placerat vestibulum lectus mauris ultrices eros. Pharetra magna ac placerat
-    vestibulum. Orci eu lobortis elementum nibh tellus. Libero nunc consequat interdum
-    varius sit.</p>"
 - template: card-with-image
   image: "/assets/images/placehold/544x320.webp"
   alt_text: Blank placeholder image
