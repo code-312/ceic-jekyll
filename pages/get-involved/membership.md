@@ -4,11 +4,6 @@ title: Membership
 description: will this work
 permalink: "/:path/:basename/"
 sections:
-- template: hero
-  image: "/assets/images/placehold/1440x544.webp"
-  alt_text: Blank placeholder image
-  heading: page-title
-  subtitle: page-description
 - template: text-area
   text_area: <h2>Membership</h2><p>The work of the Coalition is not possible without
     supporters like you! We are a community of organizers, advocates, neighbors, and
