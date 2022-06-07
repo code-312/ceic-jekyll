@@ -7,10 +7,10 @@ description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.webp"
+  image: "/assets/images/volunteer.jpg"
   alt_text: Blank placeholder image
-  heading: page-title
-  subtitle: page-description
+  heading: ''
+  subtitle: ''
 - template: text-area
   text_area: <h2>Volunteer Opportunities</h2><p class="welcome-text">We welcome anyone
     who believes in our mission to get involved! We need all talents to help!</p><h2>How
