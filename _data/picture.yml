@@ -1,0 +1,15 @@
+media-queries:
+  mobile: 'max-width: 767px'
+  tablet: 'max-width: 1023px'
+  desktop: 'min-width: 1024px'
+
+presets:
+  card:
+    formats: [webp]
+    widths: [554]
+    format_quality:
+      png: 85
+      jpg: 85
+      webp: 85
+    dimension_attributes: true
+    fallback_width: 554

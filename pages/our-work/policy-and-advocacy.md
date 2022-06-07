@@ -32,7 +32,7 @@ sections:
   - heading: 100s
     subtitle: of members educated on the political process
 - template: card-with-image
-  image: assets/images/our-work/policy-and-advocacy/policy-research.webp
+  image: assets/images/our-work/policy-and-advocacy/policy-research.png
   alt_text: Two people looking over a railing in the legislature building with a clipboard
   heading: Policy Research
   paragraph: 'We research policies and practices that increase cannabis equity and

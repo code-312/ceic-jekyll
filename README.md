@@ -15,6 +15,9 @@ Most recent build can be seen on the staging server [here](https://nickdolf.com/
 This project is being developed with [Jekyll](https://jekyllrb.com/) and uses HTML, SCSS, Markdown and Liquid.
 
 ## Setup
+** Dependency **
+We're using [Jekyll Picture Tag](https://rbuchberger.github.io/jekyll_picture_tag/) to generate responsive images. It needs [libvips](https://www.libvips.org/install.html), on Linux `sudo apt install libvips-dev`.
+
 - Get Jekyll running on your local machine by following their [guide](https://jekyllrb.com/docs/)
 - Make sure you have your ssh key [setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 - Clone this repository `git clone git@github.com:Code-For-Chicago/ceic-jekyll.git`
@@ -72,7 +75,7 @@ Please try to keep the names of classes, images etc. in a consistent format.
 We'd like to keep all the code in master branch as close to production as possible. Feel free to keep a personal branch(s) to play around in when testing etc. When you are ready: create a new branch, write only the code needed, test it, document it, make meaningful commits and then make a merge request.
 
 ### Where should I start?
-Complete the [first issue](https://github.com/Code-For-Chicago/ceic-jekyll/issues/12). Yes it's silly, but it lets a new dev test out the whole dev flow and all the tech works. 
+Complete the [first issue](https://github.com/Code-For-Chicago/ceic-jekyll/issues/12). Yes it's silly, but it lets a new dev test out the whole dev flow and all the tech works.
 
 Look through the [issues](https://github.com/Code-For-Chicago/ceic-jekyll/issues), and assign one to yourself. Or create an issue if you see something else that needs fixing.
 

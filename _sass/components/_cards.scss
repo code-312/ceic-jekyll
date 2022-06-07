@@ -23,9 +23,13 @@
 }
 
 .card-image {
+  height: 100%;
   width: 100%;
   object-fit: cover;
-  aspect-ratio: fixed;
+}
+
+.card-image-container {
+  width: 100%;
 
   @include tablet {
     width: 50%;
