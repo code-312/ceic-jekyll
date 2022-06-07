@@ -9,10 +9,11 @@ hero:
   alt_text: placeholder image
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.webp"
-  alt_text: Blank placeholder image
-  heading: Home
-  subtitle: page-description
+  image: "/assets/images/canna_equity_lobby_day_cropped.jpg"
+  alt_text: Dozens of people in bright green t-shirts standing with their fists raised
+    in front of a goverment building
+  heading: ''
+  subtitle: ''
 - template: purple-carousel
   purple_block:
   - heading: "420"
