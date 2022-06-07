@@ -30,5 +30,6 @@ fields:
   config:
     required: false
   label: Subtitle
-  description: Optional. Will display description if exactly "page-description"
+  description: <strong>Optional</strong><br>This should be 1 sentence, &lt;20 words,
+    &lt;150 characters.<br>Will display description if exactly "page-description"
   default: page-description
