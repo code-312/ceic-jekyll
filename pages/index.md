@@ -15,7 +15,7 @@ sections:
   heading: ''
   subtitle: ''
 - template: text-area
-  text_area: "<h2>What We Do</h2><p>Formed in 2019, the Coalition provides a space
+  text_area: <h2>What We Do</h2><p>Formed in 2019, the Coalition provides a space
     for community members to come together to share their experiences, and to organize
     and advocate to fight for cannabis equity and justice. The Coalition supports
     individuals and communities in the following ways:<br><br>Provides services and
@@ -33,46 +33,20 @@ sections:
     meet every Thursday at 6PM Central Time on Zoom. Please reach out to the Coalition
     on email to get the link.<br><br>We are in the midst of our expungement programming!
     Check us out on @CannaEquityIL on Facebook, Instagram, &amp; Twitter for more
-    information about our events!</p>"
-- template: purple-carousel
-  purple_block:
-  - heading: "420"
-    subtitle: Excepteur sint occaecat cupidatat non proident
-  - heading: "420"
-    subtitle: Excepteur sint occaecat cupidatat non proident
-  - heading: "420"
-    subtitle: Excepteur sint occaecat cupidatat non proident
-  heading: Lorem ipsum
-- template: card-with-image
-  image: "/assets/images/placehold/544x320.webp"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-  button_or_links: button
-  site_page: []
-  external: true
-  text: lorem
-  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-- template: card-with-image
-  image: "/assets/images/placehold/544x320.webp"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-  button_or_links: button
-  site_page: pages/services/clear-your-record.md
-  text: lorem ipsum
-- template: card-with-image
-  image: "/assets/images/placehold/544x320.webp"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-  site_page: []
+    information about our events!</p><h2>Get Involved!</h2><p class="column-one">We
+    welcome anyone who believes in our mission to get involved with us.<br><br>If
+    you would like to support record clearing, you can get involved in organizing
+    events and opportunities for expungement, assist people through the expungement
+    process, or help promote education on record clearing!<br><br>If you’re a creative,
+    we encourage you to engage with the programming of the Coalition, and use your
+    skills to promote this work, present these programs to the public through graphic
+    design, video, etc., and to help curate content for our social media!<br><br>We
+    are organizing events like National Expungement Week, Know Your Rights, and resource
+    fairs. We need to support to ensure those events are effective, safe, and impactful
+    for all involved!</p><h2>Donate</h2><p class="column-two">The Coalition recently
+    launched a monthly membership program to help supporters like you maximize your
+    impact towards equity and justice.<br><br>To help The Coalition expand our programming,
+    and maximize our impact, we welcome you to join us at:<br>bit.ly/DonateCEIC</p>
 - template: green-carousel
   heading: How to get involved
   green_block:
