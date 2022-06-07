@@ -7,7 +7,7 @@ description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.webp"
+  image: "/assets/images/clearyourrecord.jpg"
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
@@ -43,17 +43,5 @@ sections:
     out our Expungement 101 webinar, here!</em></strong></a></p><p><a href="https://www.facebook.com/watch/?v=1262070770807141"><strong><em>Check
     out our Virtual Wraparound Reentry Resource Fair, here!</em></strong></a></p><p>If
     you are in need of expungement support, please reach out to the Coalition CannabisEquityIL@gmail.com.</p>
-- template: quick-links
-  quick_links:
-  - text: lorem ipsum
-    link: "#"
-    icon: video
-  - text: lorem ipsum
-    link: "#"
-    icon: bill
-  - text: lorem ipsum
-    link: "#"
-    icon: house
-  heading: Quick Links
 
 ---
