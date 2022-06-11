@@ -73,8 +73,9 @@
 
 .btn--icons {
   display: flex;
+  justify-content: space-between;
+  gap: 6px;
   align-items: center;
-  gap: 1rem;
   flex-wrap: wrap;
   row-gap: 0;
 }
