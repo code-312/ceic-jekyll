@@ -1,10 +1,10 @@
 # runs jekyll with live reload
-serve:
+dev:
 	bundle exec jekyll serve -l
 
 # runs staging build
 staging:
-	bundle exec jekyll build -d ~/src/ceic -b /staging/ceic
+	bundle exec jekyll build -d ~/staging/ceic -b /staging/ceic
 
 # puts the bundle process in the background
 background:
