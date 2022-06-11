@@ -4,6 +4,14 @@ media-queries:
   desktop: 'min-width: 1024px'
 
 presets:
+  hero:
+    formats: [webp]
+    widths: [1440]
+    format_quality:
+      png: 85
+      jpg: 85
+      webp: 85
+    dimension_attributes: true
   card:
     formats: [webp]
     widths: [554]

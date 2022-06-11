@@ -1,5 +1,5 @@
 <section class="hero-container">
-  <img class="hero-img" src="{{ block.image | relative_url }}" alt="{{ block.alt_text }}">
+  {% include components/image-hero.html link=block.image alt=block.alt_text %}
   <div class="gradient-overlay"></div>
 
   <div class="hero-overlay">
