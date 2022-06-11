@@ -1,5 +1,8 @@
-.form-search {
+.form {
   position: relative;
+}
+
+.form-search {
 
   .search__input {
     background-color: transparent;
@@ -10,11 +13,42 @@
     position: absolute;
     right: 0.5rem;
     top: 0.5rem;
+  }
+}
+
+.form-email {
+
+  @include tablet {
+      text-align: right;
+  }
+
+  @include desktop {
+    height: inherit;
+    display: inline-block;
 
   }
 
-  @include tablet {
+  @media screen and (max-width: #{$tablet-width}) {
 
+    .btn {
+      font-size: 0;
+      position: absolute;
+      right: 0;
+      height: 100%;
+      padding: 10px;
+      border-radius: 0 4px 4px 0;
+      gap: 0;
+    }
+  }
+
+  @include tablet {
+    .icon {
+      display: none;
+    }
+
+    .btn {
+      margin-left: 16px;
+    }
   }
 
 }

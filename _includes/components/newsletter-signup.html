@@ -3,13 +3,5 @@
     <p class="newsletter-header subtitle-1">GET THE GREENEST COALITION NEWS</p>
     <p class="newsletter-text body-2">Sign up for our newsletter</p>
   </div>
-  <form class="newsletter__form">
-    <input class="input newsletter__input" type="email" placeholder="Your email address...">
-    <button aria-label="Sign up" class="btn--news-mobile" type="button" name="button">
-      <svg class="icon icon--dark form__icon" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-        <use xlink:href="{{ 'assets/images/sprites.svg#news' | relative_url }}" />
-      </svg>
-    </button>
-    <button class="btn btn--light-bg btn__news">Sign Up</button>
-  </form>
+  {% include components/form-email.html %}
 </div>
