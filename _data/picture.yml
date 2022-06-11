@@ -19,5 +19,5 @@ presets:
       png: 85
       jpg: 85
       webp: 85
-    dimension_attributes: true
     fallback_width: 554
+    dimension_attributes: true
