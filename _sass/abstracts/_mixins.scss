@@ -102,18 +102,3 @@
     @content;
   }
 }
-
-.mobile-only {
-
-  @include tablet {
-    display: none;
-  }
-}
-
-.tablet-plus {
-  display: none;
-
-  @include tablet {
-    display: revert;
-  }
-}

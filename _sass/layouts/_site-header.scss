@@ -45,11 +45,8 @@
 }
 
 .logo-positioner {
-  padding-top: 4px;
 
   @include tablet {
-    padding-top: 0;
-
     grid-column: col-start / col-1;
     grid-row: row-start / row-end;
   }

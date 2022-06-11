@@ -1,9 +1,7 @@
 .logo {
-  margin: 1rem;
-
   fill: $green-400;
   transition: fill $speed-std;
-
+  display: block;
   &:active {
     fill: $neutrals-800;
   }
@@ -19,8 +17,6 @@
   }
 }
 
-
-
 .logo--mobile {
   width: 234px;
 }
@@ -29,7 +25,22 @@
   width: 149px;
 }
 
-.link--logo {
+.logo-responsive {
   text-decoration: 0;
   font-size: 0;
+
+  .logo--primary {
+    display: none;
+  }
+
+  @include tablet {
+    .logo--mobile {
+      display: none;
+    }
+    .logo--primary {
+      display: revert;
+    }
+
+  }
+
 }
