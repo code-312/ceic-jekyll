@@ -5,21 +5,33 @@
   transition: fill $speed-std;
 }
 
-.icon--dark {
-  fill: $dark-green;
-
-  &:hover {
-    fill: $ceic-green;
-  }
-}
-
-.icon--light {
-  fill: $ceic-green;
+.icon-svg--light {
+  fill: $green-400;
 
   &:hover {
     fill: $dark-green;
   }
 }
+
+.icon-svg--dark {
+  fill: $green-400;
+  transition: fill $speed-std;
+
+  &:active {
+    fill: $neutrals-800;
+  }
+
+  &:hover, &:focus-visible {
+    fill: $neutrals-800;
+  }
+
+  @include desktop {
+    &:active {
+      fill: $green-400;
+    }
+  }
+}
+
 
 .icon--small {
   height: 1.6rem;

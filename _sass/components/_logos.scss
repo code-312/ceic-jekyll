@@ -1,10 +1,21 @@
 .logo {
   margin: 1rem;
-  fill: $ceic-green;
+
+  fill: $green-400;
   transition: fill $speed-std;
 
-  &:hover {
-    fill: $dark-green;
+  &:active {
+    fill: $neutrals-800;
+  }
+
+  &:hover, &:focus-visible {
+    fill: $neutrals-800;
+  }
+
+  @include desktop {
+    &:active {
+      fill: $green-400;
+    }
   }
 }
 
