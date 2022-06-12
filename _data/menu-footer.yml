@@ -5,7 +5,7 @@
   link: pages/terms-of-use
 
 - name: Sitemap
-  link: pages/sitemap
+  link: sitemap.xml
 
 - name: Contact Us
   link: pages/contact-us
