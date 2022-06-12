@@ -4,11 +4,11 @@ title: Reentry Support
 description: CEIC supports community members with system involvement throughout the
   reentry process with record clearing, wraparound resources, and more, to ensure
   they have everything they need to be prosperous and whole.
-permalink: /:path/:basename/
+permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.webp"
-  alt_text: Blank placeholder image
+  image: "/assets/images/forest-road.png"
+  alt_text: A road through the forest with a large patch of light.
   heading: page-title
   subtitle: page-description
 - template: quick-links
