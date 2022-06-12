@@ -16,6 +16,14 @@ sections:
     Explore our exclusive membership benefits below, and <a href="https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93"><strong>click
     here to become a member!</strong></a></p><p><img src="/assets/images/cannaequitymembership-tiers-1024x1024.png"></p><p><img
     src="/assets/images/new-3-1024x576.png"></p>
+- template: image
+  image: "/assets/images/cannaequitymembership-tiers-1024x1024.png"
+  alt_text: 'Image of membership options: grassroots supporter for $4.20 a month,
+    and equity champion for $15 a month.'
+- template: image
+  image: "/assets/images/new-3-1024x576.png"
+  alt_text: 'Corporate Membership Options: Entrepreneur for $250 a year, small business
+    for $1000 to $5000 a year, and corporate for $5000+ a year.'
 - template: quick-links
   quick_links:
   - text: lorem ipsum
