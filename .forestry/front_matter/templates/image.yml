@@ -1,4 +1,15 @@
 ---
 label: Image
 hide_body: true
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: alt_text
+  type: text
+  config:
+    required: true
+  label: Alt Text
+  description: Required for accessibility.
