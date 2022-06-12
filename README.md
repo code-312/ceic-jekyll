@@ -18,7 +18,6 @@ This project is being developed with [Jekyll](https://jekyllrb.com/)/[Forestry](
 
 ## Setup
 **Dependency**
-
 We're using [Jekyll Picture Tag](https://rbuchberger.github.io/jekyll_picture_tag/) to generate responsive images. It needs [libvips](https://www.libvips.org/install.html), on Linux `sudo apt install libvips-dev`.
 
 - Get Jekyll running on your local machine by following their [guide](https://jekyllrb.com/docs/)
