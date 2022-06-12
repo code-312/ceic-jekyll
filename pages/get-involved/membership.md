@@ -14,8 +14,7 @@ sections:
     impact we had on our communities. See <a href="https://cannabisequityil.org/2020-impact-report/">Page
     13 of the Impact Report</a> for our Earned Media!</p><p>Want to support the Coalition?
     Explore our exclusive membership benefits below, and <a href="https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93"><strong>click
-    here to become a member!</strong></a></p><p><img src="/assets/images/cannaequitymembership-tiers-1024x1024.png"></p><p><img
-    src="/assets/images/new-3-1024x576.png"></p>
+    here to become a member!</strong></a></p>
 - template: image
   image: "/assets/images/cannaequitymembership-tiers-1024x1024.png"
   alt_text: 'Image of membership options: grassroots supporter for $4.20 a month,
