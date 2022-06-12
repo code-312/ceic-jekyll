@@ -53,6 +53,7 @@ fields:
   - history
   - embed
   - image
+  - card-with-youtube
   config:
     min: 
     max: 
