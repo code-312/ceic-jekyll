@@ -1,5 +1,7 @@
 # CEIC Website [In Development]
-Most recent build can be seen on the staging server [here](https://nickdolf.com/jekyll-ceic)
+Most recent build can be seen on the [staging server](https://nickdolf.com/staging/ceic/)
+
+Content can be uploaded to the [admin panel](https://nickdolf.com/staging/ceic/admin/)
 
 [Code for Chicago](https://codeforchicago.org/) is developing a new website for [Cannabis Equity Illinois Coalition](https://cannabisequityil.org/)
 
@@ -12,10 +14,11 @@ Most recent build can be seen on the staging server [here](https://nickdolf.com/
 [Site layout](https://docs.google.com/document/d/1D74Eb7aSYbjoU7gelxx_sEGSNmSwgsM6luxeaF7NluY/edit) on Google Docs
 
 ### Technology
-This project is being developed with [Jekyll](https://jekyllrb.com/) and uses HTML, SCSS, Markdown and Liquid.
+This project is being developed with [Jekyll](https://jekyllrb.com/)/[Forestry](https://forestry.io/) and uses HTML, SCSS, Markdown and Liquid.
 
 ## Setup
-** Dependency **
+**Dependency**
+
 We're using [Jekyll Picture Tag](https://rbuchberger.github.io/jekyll_picture_tag/) to generate responsive images. It needs [libvips](https://www.libvips.org/install.html), on Linux `sudo apt install libvips-dev`.
 
 - Get Jekyll running on your local machine by following their [guide](https://jekyllrb.com/docs/)
