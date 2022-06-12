@@ -1,4 +1,13 @@
 ---
 label: Embed
 hide_body: true
-fields: []
+fields:
+- name: code
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Embed Code
