@@ -22,11 +22,14 @@
   background-color: $neutrals50;
 }
 
+.card--purple {
+  background: $purple-600;
+}
+
 .card-image {
   object-fit: cover;
   width: 100%;
   height: 100%;
-
 }
 
 .card-image-container {
@@ -34,6 +37,24 @@
 
   @include tablet {
     width: 50%;
+  }
+}
+
+.card-video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  width: 100%;
+
+  @include tablet {
+    width: 50%;
+  };
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 }
 
