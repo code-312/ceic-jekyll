@@ -1,6 +1,6 @@
 // pls do scss work in easter egg container, just in case, lol
 .easter-egg {
-  background: green;
+  background: chartreuse;
 
   .egg {
     margin: 40px;
@@ -23,6 +23,19 @@
     to {
       transform: rotate(360deg);
     }
+  }
+
+  .ducks {
+
+    color: darkmagenta;
+    text-align: center;
+    font-family: cursive;
+
+    img {
+      height: 220px;
+      width: 220px;
+    }
+
   }
 
 
