@@ -41,7 +41,7 @@ sections:
     in culpa qui officia deserunt mollit anim id est laborum.
   image: "/assets/images/fievel.webp"
 - template: hero
-  image: "/assets/images/chip.webp"
+  image: "/assets/images/train-tunnel.png"
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
