@@ -6,11 +6,6 @@ permalink: "/:path/:basename/"
 layout: default
 title: Sample Page
 sections:
-- template: hero
-  image: "/assets/images/chip.webp"
-  alt_text: Blank placeholder image
-  heading: page-title
-  subtitle: page-description
 - template: text-area
   text_area: "<h2>Squirrels</h2><p>Squirrels are members of the family Sciuridae,
     a family that includes small or medium-size rodents. The squirrel family includes
@@ -45,5 +40,10 @@ sections:
     eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
     in culpa qui officia deserunt mollit anim id est laborum.
   image: "/assets/images/fievel.webp"
+- template: hero
+  image: "/assets/images/chip.webp"
+  alt_text: Blank placeholder image
+  heading: page-title
+  subtitle: page-description
 
 ---
