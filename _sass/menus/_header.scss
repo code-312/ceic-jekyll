@@ -20,6 +20,20 @@
   .icon-plus:before, .icon-plus:after {
     background-color: $green-800;
   }
+
+}
+
+.nav-drop-down-only {
+  margin-top: 32px;
+
+  @include tablet {
+    display: none;
+  }
+
+  .btn {
+    font-size: 1.6rem;
+    line-height: 2rem;
+  }
 }
 
 .bar {
