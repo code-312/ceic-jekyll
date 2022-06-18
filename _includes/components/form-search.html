@@ -1,4 +1,7 @@
-<form class="form-search">
-  <input class="input search__input" type="text" name="" value="">
-  <div class="icon-search"></div>
+<form class="form form-search">
+  <div class="input-container">
+    <input class="input search__input" type="text" name="" value="" placeholder="Search">
+    <span class="icon-search"></span>
+  </div>
+  {% include components/button.html class="btn btn--light-bg search-submit" text="Submit" %}
 </form>

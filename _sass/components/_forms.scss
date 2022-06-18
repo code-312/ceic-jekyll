@@ -2,18 +2,39 @@
   position: relative;
 }
 
+.input-container {
+  position: relative;
+}
+
 .form-search {
+  display: inline-block;
 
   .search__input {
     background-color: transparent;
+
+      @include tablet {
+        visibility: hidden;
+      }
   }
 
   .icon-search {
     background: transparent;
     position: absolute;
-    right: 0.5rem;
-    top: 0.5rem;
+    margin: auto;
+    top: 0; bottom: 0; right: 8px;
   }
+
+  .search-submit {
+    margin: 2rem auto 0 auto;
+    display: block;
+
+    @include tablet {
+      display: none;
+    }
+
+  }
+
+
 }
 
 .form-email {

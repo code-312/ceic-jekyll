@@ -128,7 +128,7 @@
   }
 
 
-  .search-clicked  &::before {
+  .search-clicked .search-button-positioner &::before {
     border-width: 0;
     width: 3rem;
     height: 0.4rem;
@@ -138,7 +138,7 @@
     transform: translate(0, 0) rotate(-45deg);
   }
 
-  .search-clicked &::after {
+  .search-clicked .search-button-positioner &::after {
     height: 0.4rem;
     width: 3rem;
     transform: rotate(45deg);
