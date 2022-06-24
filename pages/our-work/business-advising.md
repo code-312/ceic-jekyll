@@ -69,7 +69,7 @@ sections:
     to reinvest in our communities and to enact positive change. Not only do we believe
     in the beneficial properties of the plant, but we also believe the industry can
     provide the community and state with much economic gain.
-  embed: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d739K8dt-lE"
+  embed: <iframe src="https://www.youtube-nocookie.com/embed/d739K8dt-lE"
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

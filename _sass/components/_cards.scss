@@ -42,8 +42,14 @@
 
 .card-video-container {
   position: relative;
-  padding-bottom: 56.25%;
+  overflow: hidden;
   width: 100%;
+
+  &::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+  }
 
   @include tablet {
     width: 50%;
