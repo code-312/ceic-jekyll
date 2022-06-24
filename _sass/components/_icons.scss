@@ -8,7 +8,7 @@
   fill: $green-400;
 
   &:hover {
-    fill: $dark-green;
+    fill: $green-600;
   }
 }
 
@@ -17,11 +17,11 @@
   transition: fill $speed-std;
 
   &:active {
-    fill: $neutrals-800;
+    fill: $neutral-800;
   }
 
   &:hover, &:focus-visible {
-    fill: $neutrals-800;
+    fill: $neutral-800;
   }
 
   @include desktop {
@@ -92,11 +92,11 @@
 
   &:hover, &:focus-visible {
     .lens {
-      border-color: $ceic-green;
+      border-color: $green-400;
     }
 
     .handle {
-      background: $ceic-green;
+      background: $green-400;
     }
   }
 
@@ -104,7 +104,7 @@
     content: "";
     position: absolute;
     background-color: $white;
-    border: 0.3rem solid $dark-green;
+    border: 0.3rem solid $green-600;
     height: 1.5rem;
     width: 1.5rem;
     border-radius: 50%;
@@ -117,7 +117,7 @@
   &::after {
     content: "";
     position: absolute;
-    background-color: $dark-green;
+    background-color: $green-600;
     height: 0.3rem;
     width: 1.1rem;
     border-radius: 10px;
@@ -133,7 +133,7 @@
     width: 3rem;
     height: 0.4rem;
     border-radius: 10px;
-    background-color: $dark-green;
+    background-color: $green-600;
 
     transform: translate(0, 0) rotate(-45deg);
   }
@@ -146,7 +146,7 @@
 
   &:hover.clicked, &:focus-visible.clicked {
     .lens {
-      background-color: $ceic-green;
+      background-color: $green-400;
     }
   }
 
@@ -166,7 +166,7 @@
   &:hover, &:focus-visible {
 
     .burger-layer {
-      background-color: $ceic-green;
+      background-color: $green-400;
     }
 
   }
@@ -179,7 +179,7 @@
 }
 
 .burger-layer {
-  background-color: $dark-green;
+  background-color: $green-600;
   height: 0.4rem;
   width: 3rem;
   border-radius: 10px;

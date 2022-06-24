@@ -4,11 +4,11 @@
   display: block;
 
   &:active {
-    fill: $neutrals-800;
+    fill: $neutral-800;
   }
 
   &:hover, &:focus-visible {
-    fill: $neutrals-800;
+    fill: $neutral-800;
   }
 
   @include desktop {

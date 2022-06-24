@@ -110,18 +110,17 @@ p {
     line-height: 1.5;
   }
 
-  color: $dark-green;
+  color: $green-600;
   transition: color $speed-std;
 
   &:hover {
-    color: $ceic-green;
+    color: $green-400;
   }
 }
 
 .menu-link {
   text-decoration: none;
-  color: $dark-green;
-
+  color: $green-600;
   line-height: 3rem;
 
   &:active {
@@ -131,10 +130,6 @@ p {
   @include tablet {
     line-height: 4rem;
     color: $black;
-
-    &:active {
-
-    }
   }
 
 }
@@ -160,10 +155,10 @@ strong {
   }
 
   &:hover {
-    color: $ceic-green;
+    color: $green-400;
 
     .icon {
-      fill: $ceic-green;
+      fill: $green-400;
     }
   }
 
@@ -171,7 +166,7 @@ strong {
 
 .link-icon--green {
   line-height: 3.4rem;
-  color: $dark-green;
+  color: $green-600;
   transition: color $speed-std;
   text-decoration: none;
 
@@ -187,14 +182,14 @@ strong {
     vertical-align: middle;
     height: 1.6rem;
     margin-left: .5rem;
-    fill: $dark-green;
+    fill: $green-600;
   }
 
   &:hover {
-    color: $ceic-green;
+    color: $green-400;
 
     .icon {
-      fill: $ceic-green;
+      fill: $green-400;
     }
   }
 

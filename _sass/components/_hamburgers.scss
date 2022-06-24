@@ -13,7 +13,7 @@
   &:hover, &:focus-visible {
 
     .burger-layer {
-      background-color: $ceic-green;
+      background-color: $green-400;
     }
 
   }
@@ -26,7 +26,7 @@
 }
 
 .burger-layer {
-  background-color: $dark-green;
+  background-color: $green-600;
   height: 0.4rem;
   width: 3rem;
   border-radius: 10px;
