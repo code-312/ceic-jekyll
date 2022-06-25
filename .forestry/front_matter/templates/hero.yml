@@ -33,3 +33,12 @@ fields:
   description: <strong>Optional</strong><br>This should be 1 sentence, &lt;20 words,
     &lt;150 characters.<br>Will display description if exactly "page-description"
   default: page-description
+- name: gradient
+  type: boolean
+  label: Gradient
+  description: Add gradient overlay to darken image and make white text more visible.
+  default: true
+- name: margin_color
+  type: boolean
+  label: Margin Color
+  description: White/Black
