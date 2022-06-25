@@ -1,6 +1,13 @@
-.hero-container {
+.hero {
+  background: $black;
   position: relative;
   font-size: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.hero-img-container {
+  position: relative;
 }
 
 .hero-img {
@@ -8,7 +15,7 @@
   object-position: 70%;
   height: 90vw;
   max-height: 544px;
-  width: 100%;
+  max-width: 100%;
   min-height: 300px;
 }
 
@@ -23,7 +30,7 @@
   background: linear-gradient(90.03deg, #120923 -11.71%, rgba(196, 196, 196, 0) 99.97%);
 }
 
-.hero-container h1 {
+.hero h1 {
   text-align: left;
   margin: 1rem 0;
 
@@ -35,7 +42,7 @@
   }
 }
 
-.hero-container p {
+.hero p {
   font-size: 2.0rem;
   line-height: 2.4rem;
 

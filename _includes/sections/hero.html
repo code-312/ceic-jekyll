@@ -1,6 +1,8 @@
-<section class="hero-container">
-  {% include components/image-hero.html link=block.image alt=block.alt_text %}
-  <div class="gradient-overlay"></div>
+<section class="hero">
+  <div class="hero-img-container">
+    {% include components/image-hero.html link=block.image alt=block.alt_text %}
+    <div class="gradient-overlay"></div>
+  </div>
 
   <div class="hero-overlay">
     {% if block.heading == "page-title"%}
