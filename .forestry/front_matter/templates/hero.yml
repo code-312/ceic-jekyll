@@ -40,5 +40,6 @@ fields:
   default: true
 - name: margin_color
   type: boolean
-  label: Margin Color
-  description: White/Black
+  label: White/Black Margin Color
+  description: Select the color of the margin to show if the image needs to be letter
+    boxed or pillar boxed. White is default, toggle for black.
