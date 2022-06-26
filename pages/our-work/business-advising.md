@@ -11,6 +11,8 @@ sections:
   alt_text: Business person working.
   heading: Business Support and Outreach
   subtitle: page-description
+  gradient: true
+  margin_color: false
 - template: quick-links
   quick_links:
   - text: Download the CBA Toolkit

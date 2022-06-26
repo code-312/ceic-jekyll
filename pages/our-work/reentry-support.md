@@ -11,6 +11,8 @@ sections:
   alt_text: A road through the forest with a large patch of light.
   heading: page-title
   subtitle: page-description
+  gradient: false
+  margin_color: false
 - template: quick-links
   quick_links:
   - text: Expungement

@@ -9,12 +9,13 @@ sections:
 - template: hero
   image: "/assets/images/volunteer.jpg"
   alt_text: Blank placeholder image
-  heading: ''
-  subtitle: ''
+  heading: 'Volunteer Opportunities'
+  subtitle: 'We welcome anyone
+    who believes in our mission to get involved! We need all talents to help!'
+  gradient: true
+  margin_color: false
 - template: text-area
-  text_area: <h2>Volunteer Opportunities</h2><p class="welcome-text">We welcome anyone
-    who believes in our mission to get involved! We need all talents to help!</p><h2>How
-    do you want to help?</h2><h3 class="column-heading">Event organizers</h3><p class="column-description">If
+  text_area: </h2><h3 class="column-heading">Event organizers</h3><p class="column-description">If
     you would like to support record clearing, you can get involved in organizing
     events and opportunities for expungement, assist people through the expungement
     process, or help promote education on record clearing!</p><h3 class="column-heading">Policy

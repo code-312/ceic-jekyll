@@ -15,7 +15,7 @@ sections:
   heading: ''
   subtitle: ''
   gradient: false
-  margin_color: true
+  margin_color: false
 - template: text-area
   text_area: <h2>What We Do</h2><p>Formed in 2019, the Coalition provides a space
     for community members to come together to share their experiences, and to organize

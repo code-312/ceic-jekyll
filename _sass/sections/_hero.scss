@@ -1,9 +1,16 @@
 .hero {
-  background: $black;
   position: relative;
   font-size: 0;
   display: flex;
   justify-content: center;
+}
+
+.hero--black {
+  background: $black;
+}
+
+.hero--white {
+  background: $white;
 }
 
 .hero-img-container {

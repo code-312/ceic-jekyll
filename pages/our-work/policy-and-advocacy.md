@@ -11,6 +11,8 @@ sections:
   heading: Policy & Political Education
   subtitle: We work to make cannabis policy in Illinois more inclusive, transparent
     and accountable
+  gradient: true
+  margin_color: false
 - template: quick-links
   quick_links:
   - text: HB 327 Press Conference

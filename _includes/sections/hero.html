@@ -1,7 +1,13 @@
-<section class="hero">
+{% if block.margin_color == true%}
+<section class="hero hero--black">
+{% else %}
+<section class="hero hero--white">
+{% endif %}
   <div class="hero-img-container">
     {% include components/image-hero.html link=block.image alt=block.alt_text %}
+    {% if block.gradient == true %}
     <div class="gradient-overlay"></div>
+    {% endif %}
   </div>
 
   <div class="hero-overlay">

@@ -12,6 +12,8 @@ sections:
   alt_text: Blank placeholder image
   heading: Our Story
   subtitle:
+  gradient: true
+  margin_color: false
 - template: text-area
   text_area: "<h2>Mission</h2><p>Founded in 2019, the Cannabis Equity Illinois Coalition
     is a grassroots nonprofit that advances equity in the State of Illinois by elevating

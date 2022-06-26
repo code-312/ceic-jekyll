@@ -45,5 +45,7 @@ sections:
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
+  gradient: false
+  margin_color: false
 
 ---

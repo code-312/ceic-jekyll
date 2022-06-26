@@ -11,6 +11,8 @@ sections:
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
+  gradient: true
+  margin_color: false
 - template: quick-links
   quick_links:
   - text: lorem ipsum

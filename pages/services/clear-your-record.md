@@ -9,6 +9,8 @@ sections:
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
+  gradient: false
+  margin_color: false
 - template: text-area
   text_area: <h2>What We Believe</h2><p>The Cannabis Equity Illinois Coalition believes
     that if Illinois is going to address the injustices of prohibition, then everyone
