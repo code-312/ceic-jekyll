@@ -76,8 +76,8 @@
   max-height: 95%;
   color: white;
   transform: translateY(-50%);
-  @include left-margin-abs;
 
+  @include left-margin-abs;
 
   @include tablet {
     transform: translateY(-50%);

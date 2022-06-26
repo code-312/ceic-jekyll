@@ -8,19 +8,19 @@
     {% if block.gradient == true %}
     <div class="gradient-overlay"></div>
     {% endif %}
-  </div>
 
-  <div class="hero-overlay">
-    {% if block.heading == "page-title"%}
-    <h1>{{ page.title }}</h1>
-    {% else %}
-    <h1>{{ block.heading }}</h1>
-    {% endif %}
+    <div class="hero-overlay">
+      {% if block.heading == "page-title"%}
+      <h1>{{ page.title }}</h1>
+      {% else %}
+      <h1>{{ block.heading }}</h1>
+      {% endif %}
 
-    {% if block.subtitle == "page-description"%}
-    <p>{{ page.description }}</p>
-    {% else %}
-    <p>{{ block.subtitle }}</p>
-    {% endif %}
+      {% if block.subtitle == "page-description"%}
+      <p>{{ page.description }}</p>
+      {% else %}
+      <p>{{ block.subtitle }}</p>
+      {% endif %}
+    </div>
   </div>
 </section>
