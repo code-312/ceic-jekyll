@@ -14,8 +14,8 @@ sections:
     in front of a goverment building
   heading: ''
   subtitle: ''
-  gradient: true
-  margin_color: true
+  gradient: false
+  margin_color: false
 - template: text-area
   text_area: <h2>What We Do</h2><p>Formed in 2019, the Coalition provides a space
     for community members to come together to share their experiences, and to organize
