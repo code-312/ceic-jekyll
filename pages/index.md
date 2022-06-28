@@ -14,7 +14,7 @@ sections:
     in front of a goverment building
   heading: ''
   subtitle: ''
-  gradient: false
+  gradient: true
   margin_color: true
 - template: text-area
   text_area: <h2>What We Do</h2><p>Formed in 2019, the Coalition provides a space
