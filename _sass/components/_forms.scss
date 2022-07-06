@@ -2,20 +2,8 @@
   position: relative;
 }
 
-.input-container {
+.search-container {
   position: relative;
-}
-
-.form-search {
-  display: inline-block;
-
-  .search__input {
-    background-color: transparent;
-
-      @include tablet {
-        visibility: hidden;
-      }
-  }
 
   .icon-search {
     background: transparent;
@@ -31,10 +19,42 @@
     @include tablet {
       display: none;
     }
-
   }
 
+  .search-button {
+    visibility: hidden;
 
+    @include tablet {
+      visibility: visible;
+    }
+  }
+
+  .search-span {
+    @include tablet {
+      visibility: hidden;
+    }
+  }
+}
+
+.form-search {
+  display: inline-block;
+
+  .search__input {
+    background-color: transparent;
+
+    @include tablet {
+      width: 48px;
+      visibility: hidden;
+      transition: width $speed-std;
+    }
+  }
+
+  &.active {
+    .search__input {
+      width: 300px;
+      visibility: visible;
+    }
+  }
 }
 
 .form-email {

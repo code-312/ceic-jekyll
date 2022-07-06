@@ -1,7 +1,8 @@
-<form class="form form-search">
-  <div class="input-container">
+<div class="search-container ">
+  <form class="form form-search">
     <input class="input search__input" type="text" name="" value="" placeholder="Search">
-    <span class="icon-search"></span>
-  </div>
+    <span class="icon-search search-span" aria-label="expand search"></span>
+  </form>
+  <button onClick="toggleSearchInput()" class="btn btn--ghost icon-search search-button" aria-label="expand search"></button>
   {% include components/button.html class="btn btn--light-bg search-submit" text="Submit" %}
-</form>
+</div>
