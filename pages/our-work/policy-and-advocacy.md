@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Policy & Advocacy
-description:  We work to make cannabis policy in Illinois more inclusive, transparent
+description: We work to make cannabis policy in Illinois more inclusive, transparent
   and accountable
-permalink: /:path/:basename/
+permalink: "/:path/:basename/"
 sections:
 - template: hero
   image: assets/images/our-work/policy-and-advocacy/hero-policy.png
@@ -15,10 +15,10 @@ sections:
   margin_color: false
 - template: quick-links
   quick_links:
-  - text: HB 327 Press Conference
-    icon: video
+  - text: 'Sign Up '
+    icon: bill
     external: true
-    url: https://en.wikipedia.org/wiki/Squirrel
+    url: https://bit.ly/ceicpolicy
   - text: Support HB 1443
     icon: house
     external: true
