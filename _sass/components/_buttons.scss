@@ -53,12 +53,13 @@
     background: $green-600;
     color: $white;
     box-shadow: $shadow-box;
+    border-color: $white
   }
 
   &:active {
     color: $white;
     background: $green-800;
-    border-color: $green-800;
+    border-color:  $white;
     box-shadow: $shadow-box;
   }
 
