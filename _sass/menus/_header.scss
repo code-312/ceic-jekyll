@@ -131,8 +131,12 @@
 
 .sub-list li {
 
+  &.current {
+    background-color: $green-600;
+  }
+
   &.current span{
-    color: $input-grey;
+    color: $white;
   }
 
 
@@ -149,7 +153,7 @@
     }
 
     &.current span{
-      color: $input-grey;
+      color: $white;
     }
 
     &:active {
