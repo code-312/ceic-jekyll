@@ -17,6 +17,22 @@
   }
 
   h2 {
+    margin-bottom: 32px
+  }
+
+}
+
+.carousel {
+  display: flex;
+
+  gap: 2rem;
+  overflow-x: auto;
+
+  @include desktop {
+    justify-content: center;
+  }
+
+  h2 {
     margin-top: 0;
   }
 
@@ -29,16 +45,5 @@
 
   p  {
     color: $white;
-  }
-}
-
-.carousel {
-  display: flex;
-
-  gap: 2rem;
-  overflow-x: auto;
-
-  @include desktop {
-    justify-content: center;
   }
 }
