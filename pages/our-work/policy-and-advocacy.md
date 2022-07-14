@@ -19,12 +19,13 @@ sections:
     icon: bill
     external: true
     url: https://bit.ly/ceicpolicy
-  - text: Support HB 1443
+  - text: Alliance Priorities
     icon: house
     external: true
     url: https://en.wikipedia.org/wiki/Squirrel
-    type: PDF/IMAGE
+    type: File
     pdf/image: "/assets/images/alliance-priorities-one-pager-_-4_5.pdf"
+    file: "/assets/images/alliance-priorities-one-pager-_-4_5.pdf"
   heading: Quick Links
 - template: purple-carousel
   heading: Policy in Action
