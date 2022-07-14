@@ -23,6 +23,8 @@ sections:
     icon: house
     external: true
     url: https://en.wikipedia.org/wiki/Squirrel
+    type: PDF/IMAGE
+    pdf/image: "/assets/images/alliance-priorities-one-pager-_-4_5.pdf"
   heading: Quick Links
 - template: purple-carousel
   heading: Policy in Action
