@@ -14,18 +14,7 @@ sections:
   gradient: true
   margin_color: false
 - template: quick-links
-  quick_links:
-  - text: 'Sign Up '
-    icon: bill
-    external: true
-    url: https://bit.ly/ceicpolicy
-  - text: Alliance Priorities
-    icon: house
-    external: true
-    url: https://en.wikipedia.org/wiki/Squirrel
-    type: File
-    pdf/image: "/assets/images/alliance-priorities-one-pager-_-4_5.pdf"
-    file: "/assets/images/alliance-priorities-one-pager-_-4_5.pdf"
+  quick_links: []
   heading: Quick Links
 - template: purple-carousel
   heading: Policy in Action
