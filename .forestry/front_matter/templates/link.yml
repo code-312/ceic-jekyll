@@ -12,6 +12,21 @@ fields:
   type: boolean
   label: Site Page or External Link
   default: false
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Site Page
+    - External Link
+    - PDF/IMAGE
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
 - name: site_page
   type: select
   default: []
@@ -34,3 +49,11 @@ fields:
   showOnly:
     field: external
     value: true
+- name: pdf/image
+  type: file
+  config:
+    maxSize: 64
+  label: PDF/IMAGE
+  showOnly:
+    field: type
+    value: PDF/IMAGE
