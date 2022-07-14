@@ -8,10 +8,6 @@ fields:
   config:
     required: false
   label: Text
-- name: external
-  type: boolean
-  label: Site Page or External Link
-  default: false
 - name: type
   type: select
   default: []
@@ -20,13 +16,17 @@ fields:
     options:
     - Site Page
     - External Link
-    - PDF/IMAGE
+    - File
     source:
       type: simple
       section: 
       file: 
       path: 
   label: Type
+- name: external
+  type: boolean
+  label: Site Page or External Link
+  default: false
 - name: site_page
   type: select
   default: []
@@ -49,7 +49,7 @@ fields:
   showOnly:
     field: external
     value: true
-- name: pdf/image
+- name: file
   type: file
   config:
     maxSize: 64
