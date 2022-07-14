@@ -18,6 +18,8 @@ sections:
   - text: Expungement
     link: "#"
     icon: bill
+    type: Site Page
+    site_page: pages/services/clear-your-record.md
   heading: Quick Links
 - template: card-with-image
   image: assets/images/our-work/record-cleaning.webp
