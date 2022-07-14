@@ -1,10 +1,20 @@
-{% if include.external %}
-<a class="link-icon" href="{{ include.url }}">
+{% if include.type == "File" %}
+<a class="link-icon" href="{{ include.file | relative_url }}" target="_blank">
+  {% include components/icon-social.html id=include.icon %}
+  <span>{{ include.text }}</span>
+</a>
+{% elsif include.type == "External Link" %}
+<a class="link-icon" href="{{ include.url }}" target="_blank">
   {% include components/icon-social.html id=include.icon %}
   <span>{{ include.text }}</span>
 </a>
 {% elsif include.site_page contains "pages/index" %}
 <a class="link-icon" href="{{ / | relative_url }}">
+  {% include components/icon-social.html id=include.icon %}
+  <span>{{ include.text }}</span>
+</a>
+{% elsif include.external %}
+<a class="link-icon" href="{{ include.url }}">
   {% include components/icon-social.html id=include.icon %}
   <span>{{ include.text }}</span>
 </a>
