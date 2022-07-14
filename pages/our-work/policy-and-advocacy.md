@@ -14,7 +14,15 @@ sections:
   gradient: true
   margin_color: false
 - template: quick-links
-  quick_links: []
+  quick_links:
+  - icon: house
+    text: Alliance Priorities
+    type: File
+    file: "/assets/images/alliance-priorities-one-pager-_-4_5.pdf"
+  - icon: bill
+    text: Sign Up
+    type: External Link
+    url: https://bit.ly/ceicpolicy
   heading: Quick Links
 - template: purple-carousel
   heading: Policy in Action
