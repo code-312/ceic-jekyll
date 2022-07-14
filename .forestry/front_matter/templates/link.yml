@@ -53,4 +53,4 @@ fields:
   label: PDF/IMAGE
   showOnly:
     field: type
-    value: PDF/IMAGE
+    value: File
