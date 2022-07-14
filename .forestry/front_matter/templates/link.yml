@@ -40,15 +40,16 @@ fields:
       path: 
   label: Site Page
   showOnly:
-    field: external
+    field: type
+    value: Site Page
 - name: url
   type: text
   config:
     required: false
   label: External URL
   showOnly:
-    field: external
-    value: true
+    field: type
+    value: External Link
 - name: file
   type: file
   config:
