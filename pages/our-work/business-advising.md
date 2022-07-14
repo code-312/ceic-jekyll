@@ -23,6 +23,7 @@ sections:
   - text: Schedule Support Session
     link: "#"
     icon: calendar
+    type: External Link
   heading: Quick Links
 - template: card-with-image
   image: "/assets/images/business-table.png"
