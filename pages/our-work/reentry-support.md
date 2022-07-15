@@ -52,14 +52,14 @@ sections:
   button_or_links: links
   links:
   - text: New Leaf Illinois
-    external: true
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    type: External Link
+    url: https://www.youtube.com/watch?v=Foi3Hblg21s
   - text: Illinois Legal Aid
-    external: true
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    type: External Link
+    url: https://www.youtube.com/watch?v=Foi3Hblg21s
   - text: Public Benefits at LAC
-    external: true
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    type: External Link
+    url: https://www.youtube.com/watch?v=Foi3Hblg21s
 - template: testimonial
   alt_text: FPO image of person
   image: "/assets/images/frame-128.webp"

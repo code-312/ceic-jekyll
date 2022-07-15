@@ -15,11 +15,13 @@ sections:
   margin_color: false
 - template: quick-links
   quick_links:
-  - text: lorem ipsum
-    link: "#"
-    icon: video
-  - text: lorem ipsum
-    link: "#"
-    icon: bill
+  - icon: bill
+    text: Lorem ipsum
+    type: Site Page
+    url:
+  - icon: video
+    text: Lorem ipsum
+    type: Site Page
+    url:
   heading: Quick Links
 ---

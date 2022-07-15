@@ -25,15 +25,10 @@ sections:
     for $1000 to $5000 a year, and corporate for $5000+ a year.'
 - template: quick-links
   quick_links:
-  - text: lorem ipsum
-    link: "#"
-    icon: video
-  - text: lorem ipsum
-    link: "#"
-    icon: bill
-  - text: lorem ipsum
-    link: "#"
-    icon: house
+  - icon: video
+    text: Lorem ipsum
+    type: Site Page
+    url:
   heading: Quick Links
 
 ---

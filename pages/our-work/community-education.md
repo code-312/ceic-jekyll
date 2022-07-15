@@ -15,15 +15,10 @@ sections:
   margin_color: false
 - template: quick-links
   quick_links:
-  - text: lorem ipsum
-    link: "#"
-    icon: video
-  - text: lorem ipsum
-    link: "#"
-    icon: bill
-  - text: lorem ipsum
-    link: "#"
-    icon: house
+  - icon: bill
+    text: Lorem ipsum
+    type: Site Page
+    url:
   heading: Quick Links
 - template: card-with-image
   image: "/assets/images/placehold/544x320.webp"
