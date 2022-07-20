@@ -41,7 +41,7 @@ sections:
     community partners.</p>'
 - template: embed
   code: |-
-    <iframe style="width: 100%; height: 600px" src="https://www.canva.com/design/DAFG_ri-XyQ/view">
+    <iframe style="width: 100%; height: 600px" src="https://www.canva.com/design/DAEyvLK9lOI/HJo00X8beXliHOcKIObjzw/view?embed">
     </iframe>
 
 ---
