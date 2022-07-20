@@ -9,6 +9,8 @@ sections:
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
+  gradient: false
+  margin_color: false
 - template: text-area
   text_area: '<h2>What is a Community Benefit Agreement?</h2><p>As part of cannabis
     legalization, Illinois lawmakers allowed for the existing medical cannabis dispensary
@@ -37,5 +39,9 @@ sections:
     target="_blank">@CannaEquityIL</a>. We welcome everyone across the state to engage
     with this campaign, so that the “plus-1” dispensaries statewide are working with
     community partners.</p>'
+- template: embed
+  code: |-
+    <iframe style="width: 100%; height: 600px" src="https://www.canva.com/design/DAEyvLK9lOI/HJo00X8beXliHOcKIObjzw/view?embed">
+    </iframe>
 
 ---
