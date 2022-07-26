@@ -24,9 +24,6 @@
 
 .carousel {
   display: flex;
-
-  gap: 2rem;
-  overflow-x: auto;
   justify-content: center;
 
   @include desktop {
@@ -46,4 +43,12 @@
   p  {
     color: $white;
   }
+}
+
+.carousel-box-container {
+  display: flex;
+
+  gap: 2rem;
+  overflow-x: auto;
+  justify-content: left;
 }

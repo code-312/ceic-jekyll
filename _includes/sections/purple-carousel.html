@@ -2,12 +2,14 @@
   <h2>{{ block.heading }}</h2>
 
   <div class="carousel">
-    {% for item in block.purple_block %}
-    <div class="carousel-block-purple">
-      <h3>{{ item.heading }}</h3>
-      <p>{{ item.subtitle }}</p>
+    <div class="carousel-box-container">
+      {% for item in block.purple_block %}
+      <div class="carousel-block-purple">
+        <h3>{{ item.heading }}</h3>
+        <p>{{ item.subtitle }}</p>
+      </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
   <!-- <p>swipe right for more</p> -->
 </section>

@@ -3,10 +3,15 @@
   padding: 3.2rem;
   word-wrap: break-word;
   background-color: $green-600;
-  min-width: 220px;
-  width: 30%;
-  max-width: 320px;
-  position: relative;
+
+  width: 300px;
+  min-width: 300px;
+  @include tablet {
+    min-width: 250px;
+    width: 30vw;
+    max-width: 320px;
+  }
+
 
   h3 {
     padding: 0;
@@ -31,6 +36,12 @@
 
   .btn {
     position: absolute;
-    bottom: 3.2rem;
+    bottom: 0;
   }
+}
+
+.green-box-container {
+  height: 100%;
+  position: relative;
+  width: 240px;
 }

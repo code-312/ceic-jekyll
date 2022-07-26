@@ -2,22 +2,27 @@
   <h2>{{ block.heading }}</h2>
 
   <div class="carousel">
-    {% for item in block.green_block %}
-    <div class="green-box">
-      {% if item.heading.size < 10 %}
-      <h3>{{ item.heading }}</h3>
-      {% else %}
-      <h3 class="large">{{ item.heading }}</h3>
-      {% endif %}
-      <p>{{ item.subtitle }}</p>
-      {% include components/button-link--dark-bg.html
-        text = item.text
-        external = item.external
-        url = item.url
-        site_page = item.site_page
-      %}
+    <div class="carousel-box-container">
+
+      {% for item in block.green_block %}
+      <div class="green-box">
+        <div class="green-box-container">
+          {% if item.heading.size < 10 %}
+          <h3>{{ item.heading }}</h3>
+          {% else %}
+          <h3 class="large">{{ item.heading }}</h3>
+          {% endif %}
+          <p>{{ item.subtitle }}</p>
+          {% include components/button-link--dark-bg.html
+            text = item.text
+            external = item.external
+            url = item.url
+            site_page = item.site_page
+          %}
+        </div>
+      </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
   <p>swipe right for more</p>
 </section>
