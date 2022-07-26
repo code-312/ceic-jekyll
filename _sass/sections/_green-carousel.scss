@@ -1,6 +1,6 @@
 .green-box {
   text-align: left;
-  padding: 3.2rem;
+  padding: 3.2rem 0 3.2rem 0;
   word-wrap: break-word;
   background-color: $green-600;
 
@@ -41,6 +41,7 @@
 }
 
 .green-box-container {
+  margin: auto;
   height: 100%;
   position: relative;
   width: 240px;
