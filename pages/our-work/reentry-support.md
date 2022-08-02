@@ -85,6 +85,6 @@ sections:
     subtitle: Attend a community resource fair or one of our other events
     external: true
     text: Events
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    url: https://www.facebook.com/CannaEquityIL/events/
 
 ---
