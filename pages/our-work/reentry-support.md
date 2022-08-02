@@ -42,7 +42,7 @@ sections:
   button_or_links: button
   text: Events
   external: true
-  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  url: https://www.facebook.com/CannaEquityIL/events/
 - template: card-with-image
   image: assets/images/our-work/legal-aid.webp
   alt_text: Group members wearing t-shirts for nation engagement week 2019
