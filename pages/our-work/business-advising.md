@@ -24,6 +24,7 @@ sections:
     link: "#"
     icon: calendar
     type: External Link
+    url: https://www.facebook.com/CannaEquityIL/events/
   heading: Quick Links
 - template: card-with-image
   image: "/assets/images/business-table.png"
