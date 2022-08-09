@@ -65,7 +65,7 @@ sections:
     site_page: pages/get-involved/donate.md
   - heading: Join
     subtitle: Join our Policy Research working groups
-    text: Join the Working Groups
+    text: Join a Working Group
     type: Site Page
     site_page: pages/get-involved/volunteer.md
   - heading: Member
