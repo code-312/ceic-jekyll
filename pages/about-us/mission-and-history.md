@@ -29,33 +29,36 @@ sections:
       of Chicago by Ilinois legislators, community members demanded accountability
       and transparency in the legalization law. This leads to the first Coalition
       meeting at the Port Ministries in Back of the Yards where the group develops
-      a list of priorities for legalized cannabis.
-  - paragraph: Led by the Coalition, more than 100 people from across Chicagoland
-      meet with legislators in Springfield to advocate for equity and justice in the
-      legalization bill.
-    date: '2019-05-01T05:00:00.000+00:00'
-  - date: '2020-04-01T05:00:00.000+00:00'
-    paragraph: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-      nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-      in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  - date: '2020-04-01T05:00:00.000+00:00'
-    paragraph: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-      nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-      in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      a list of priorities for legalized cannabis. During the Coalition’s first year,
+      they meet with legislators, participate in National Expungement Week events,
+      and launch the Know Your Rights program.
+  - paragraph: 'The Coalition announces the first ever Community Benefits Agreement
+      for a cannabis business in the nation, holds its first fundraiser raising thousands
+      of dollars for record clearing programming, and launches an expanded expungement
+      program that includes RAP Sheet Assistance Day, a community resource fair, and
+      virtual resource fair. '
+    date: '2020-05-01 00:00:00 -0500'
+  - date: '2021-04-01 00:00:00 -0500'
+    paragraph: The Coalition celebrates the passing of HB1443, legislation that Coalition
+      members helped draft, secures the first of a number of grants for its work in
+      community policy research, advocacy training, and education, and forms committees
+      to research key legislative items.
+  - date: '2022-04-01 00:00:00 -0500'
+    paragraph: The Coalition launches a community legislative working group and invites
+      the community to learn and engage with legislative session. The Coalition also
+      hosts its first in-person fundraiser in partnership with Hush raising thousands
+      of dollars to support our ongoing community programs.
 - template: text-area
-  text_area: "<h2>Values</h2><p>The Coalition utilizes its grassroots strength to
-    advocate for ‘Plus-1’ dispensaries to sign onto a Community Benefits Agreements,
-    tying the economic success of those dispensaries to impacted communities.</p><p>The
-    Coalition's grassroots structure shapes the development of the Coalition's legislative
-    priorities, as we gather community feedback to ensure we're fighting for changes
-    that will bring the largest benefit to communities.</p><p>The Coalition organizes
-    to expand record clearing opportunities in Chicagoland and across Illinois, and
-    educates communities about their rights and record clearing opportunities.</p><p>CEIC
-    utilized its grassroots strength to advocate for ‘Plus-1’ dispensaries to sign
-    onto a Community Benefits Agreements, tying the economic success of those dispensaries
-    to impacted communities.</p><p>The Coalition's grassroots membership shapes the
-    development of the Coalition's legislative priorities, as we fight for changes
-    that will bring the largest benefit to communities.</p>"
+  text_area: "<h2>A Grassroots Approach</h2><p>The Coalition organizes as a grassroots
+    collective to expand opportunities for record clearing in Chicagoland and across
+    Illinois, and to educate communities about their rights and record clearing opportunities.</p><p>The
+    Coalition utilizes its grassroots strength to advocate for ‘Plus-1’ dispensaries
+    to sign onto a Community Benefits Agreements, tying the economic success of those
+    dispensaries to impacted communities.</p><p>The Coalition's grassroots structure
+    shapes the development of the Coalition's legislative priorities, as we gather
+    community feedback to ensure we're fighting for changes that will bring the largest
+    benefit to communities.</p>"
+  style: Plain
 - template: green-carousel
   heading: How to get involved
   green_block:
