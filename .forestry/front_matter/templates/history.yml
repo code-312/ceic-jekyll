@@ -11,7 +11,7 @@ fields:
     description: ''
     config:
       required: false
-      date_format: MM/YY
+      date_format: YY
       time_format: 
       display_utc: false
     default: '2020-04-01 05:00:00 +0000'
