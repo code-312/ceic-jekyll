@@ -62,20 +62,22 @@ sections:
 - template: green-carousel
   heading: How to get involved
   green_block:
-  - heading: Pariatur
-    subtitle: quis nostrud exercitation ullamco
-    text: lorem ipsum
-    type: Site Page
+  - heading: Toolkit
+    subtitle: DOWNLOAD THE CBA TOOLKIT
+    text: Download Toolkit
+    type: File
     site_page: pages/our-work/business-advising.md
-  - heading: Pariatur
-    subtitle: quis nostrud exercitation ullamco
-    text: loreum ipsum
+    file: "/assets/images/cba-toolkit-final.pdf"
+  - heading: Schedule
+    subtitle: Schedule an entrepreneur support session
+    text: Schedule a Session
     type: External Link
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-  - heading: Pariatur
+  - heading: Participate
     subtitle: quis nostrud exercitation ullamco
-    text: lorum
-    type: External Link
+    text: Become a Member
+    type: Site Page
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    site_page: pages/get-involved/membership.md
 
 ---
