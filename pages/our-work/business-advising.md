@@ -59,7 +59,7 @@ sections:
     subtitle: Download the CBA Toolkit
     text: Download Toolkit
     type: File
-    site_page: "/assets/images/cba-toolkit-final.pdf"
+    file: "/assets/images/cba-toolkit-final.pdf"
   - heading: Schedule
     subtitle: Schedule an entrepreneurs session
     text: Schedule a session
