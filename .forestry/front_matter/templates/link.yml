@@ -7,7 +7,7 @@ fields:
   type: text
   config:
     required: false
-  label: Text
+  label: Link Text
 - name: type
   type: select
   default: []

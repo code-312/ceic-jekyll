@@ -8,6 +8,21 @@ fields:
   config:
     required: false
   label: Button Text
+- name: type
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Site Page
+    - External Link
+    - File
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
 - name: external
   type: boolean
   default: false
@@ -25,12 +40,21 @@ fields:
       path: 
   label: Site Page
   showOnly:
-    field: external
+    field: type
+    value: Site Page
 - name: url
   type: text
   config:
     required: false
   label: External URL
   showOnly:
-    field: external
-    value: true
+    field: type
+    value: External Link
+- name: file
+  type: file
+  config:
+    maxSize: 64
+  label: PDF/IMAGE
+  showOnly:
+    field: type
+    value: File
