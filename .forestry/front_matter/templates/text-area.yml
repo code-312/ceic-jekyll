@@ -2,6 +2,21 @@
 label: Text Area
 hide_body: false
 fields:
+- name: style
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Plain
+    - Two Column
+    - Slightly Flashy
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Style
 - name: text_area
   type: textarea
   default: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
