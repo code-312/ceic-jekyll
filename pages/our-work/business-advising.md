@@ -68,7 +68,7 @@ sections:
   - heading: Member
     subtitle: 'lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do '
     text: Become a member
-    type: External Link
+    type: Site Page
     site_page: pages/get-involved/membership.md
 - template: card-with-youtube
   heading: Nature’s Care Company
