@@ -23,10 +23,6 @@ fields:
       file: 
       path: 
   label: Type
-- name: external
-  type: boolean
-  default: false
-  label: Site Page or External Link
 - name: site_page
   type: select
   default: []
