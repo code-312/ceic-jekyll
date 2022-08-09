@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Mission & History
-description: "Founded in 2019, the Cannabis Equity Illinois Coalition
-  is a grassroots nonprofit that advances equity in the State of Illinois by elevating
-  community voices and collaborating with partners to create change in the cannabis
-  industry."
-permalink: /:path/:basename/
+description: Founded in 2019, the Cannabis Equity Illinois Coalition is a grassroots
+  nonprofit that advances equity in the State of Illinois by elevating community voices
+  and collaborating with partners to create change in the cannabis industry.
+permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/placehold/1440x544.webp"
+  image: "/assets/images/canna_equity_lobby_day_cropped.jpg"
   alt_text: Blank placeholder image
   heading: Our Story
-  subtitle:
+  subtitle: Elevating community voices and collaborating with partners to create change
+    in the cannabis industry
   gradient: true
   margin_color: false
 - template: text-area
@@ -21,9 +21,10 @@ sections:
     industry. We fight to make sure the legalization of cannabis in Illinois repairs
     and reinvests in the communities most impacted by the War on Drugs, and to ensure
     the cannabis industry prioritizes people over profits.</p>"
+  style: Flashy
 - template: history
   event:
-  - date: 2019-04-01T05:00:00.000+00:00
+  - date: '2019-04-01T05:00:00.000+00:00'
     paragraph: During a series of town hall meetings hosted across the South Side
       of Chicago by Ilinois legislators, community members demanded accountability
       and transparency in the legalization law. This leads to the first Coalition
@@ -32,12 +33,12 @@ sections:
   - paragraph: Led by the Coalition, more than 100 people from across Chicagoland
       meet with legislators in Springfield to advocate for equity and justice in the
       legalization bill.
-    date: 2019-05-01T05:00:00.000+00:00
-  - date: 2020-04-01T05:00:00.000+00:00
+    date: '2019-05-01T05:00:00.000+00:00'
+  - date: '2020-04-01T05:00:00.000+00:00'
     paragraph: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
       nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
       in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  - date: 2020-04-01T05:00:00.000+00:00
+  - date: '2020-04-01T05:00:00.000+00:00'
     paragraph: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
       nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
       in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
