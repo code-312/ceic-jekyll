@@ -15,9 +15,10 @@
           <p>{{ item.subtitle }}</p>
           {% include components/button-link--dark-bg.html
             text = item.text
-            external = item.external
+            type = item.type
             url = item.url
             site_page = item.site_page
+            file = item.file
           %}
         </div>
       </div>
