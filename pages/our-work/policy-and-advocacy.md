@@ -61,13 +61,16 @@ sections:
   - heading: Support
     subtitle: Support our Political Education program or join an event
     text: Ways to Support
+    type: Site Page
     site_page: pages/get-involved/donate.md
   - heading: Join
     subtitle: Join our Policy Research working groups
     text: Join the Working Groups
+    type: Site Page
     site_page: pages/get-involved/volunteer.md
   - heading: Member
     subtitle: become an equity member to support this work
+    type: Site Page
     text: Become a member
     site_page: pages/get-involved/membership.md
 

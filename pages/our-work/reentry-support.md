@@ -76,15 +76,18 @@ sections:
   - heading: Support
     subtitle: Support one of our community programs or join an event
     text: Ways to Support
+    type: Site Page
     site_page: pages/get-involved/volunteer.md
   - heading: Expunge
     subtitle: Clear your record
     text: Expungement
+    type: Site Page
     site_page: pages/services/clear-your-record.md
   - heading: Participate
     subtitle: Attend a community resource fair or one of our other events
     external: true
     text: Events
+    type: External Link
     url: https://www.facebook.com/CannaEquityIL/events/
 
 ---

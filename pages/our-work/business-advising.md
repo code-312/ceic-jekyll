@@ -58,15 +58,17 @@ sections:
   - heading: Toolkit
     subtitle: Download the CBA Toolkit
     text: Download Toolkit
-    site_page: pages/index.md
+    type: File
+    site_page: "/assets/images/cba-toolkit-final.pdf"
   - heading: Schedule
     subtitle: Schedule an entrepreneurs session
     text: Schedule a session
-    external: true
+    type: External Link
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - heading: Member
     subtitle: 'lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do '
     text: Become a member
+    type: External Link
     site_page: pages/get-involved/membership.md
 - template: card-with-youtube
   heading: Nature’s Care Company

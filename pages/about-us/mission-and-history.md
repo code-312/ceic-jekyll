@@ -61,16 +61,17 @@ sections:
   - heading: Pariatur
     subtitle: quis nostrud exercitation ullamco
     text: lorem ipsum
+    type: Site Page
     site_page: pages/our-work/business-advising.md
   - heading: Pariatur
     subtitle: quis nostrud exercitation ullamco
     text: loreum ipsum
-    external: true
+    type: External Link
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - heading: Pariatur
     subtitle: quis nostrud exercitation ullamco
-    external: true
     text: lorum
+    type: External Link
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ---
