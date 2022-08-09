@@ -24,7 +24,7 @@ sections:
   style: Flashy
 - template: history
   event:
-  - date: '2019-04-01T05:00:00.000+00:00'
+  - date: '2019-04-01 00:00:00 -0500'
     paragraph: During a series of town hall meetings hosted across the South Side
       of Chicago by Ilinois legislators, community members demanded accountability
       and transparency in the legalization law. This leads to the first Coalition
