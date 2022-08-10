@@ -16,6 +16,11 @@
   h1, h2, h3 {
     color: $green-800;
   }
+}
 
+.splashy {
+  @include spacing-skinny;
+  color: $neutral-900;
+  border: 1px solid $green-600;
 
 }
