@@ -15,12 +15,40 @@
   }
 }
 
+@mixin spacing-std-nopad {
+  margin: 32px 16px;
+
+  @include tablet {
+    margin: 64px 32px;
+  }
+
+  @include desktop {
+    margin: 64px auto;
+    width: 94%;
+    max-width: $std-content-width-max;
+  }
+}
+
 @mixin spacing-skinny {
   padding: 16px;
   margin: 32px;
 
   @include tablet {
     padding: 32px;
+    margin: 64px;
+  }
+
+  @include desktop {
+    margin: 64px auto;
+    width: 88%;
+    max-width: $skinny-content-width-max;
+  }
+}
+
+@mixin spacing-skinny-nopad {
+  margin: 32px;
+
+  @include tablet {
     margin: 64px;
   }
 
@@ -47,45 +75,6 @@
   }
 }
 
-@mixin spacing-wide {
-  padding: 32px 0;
-  margin: 32px 0;
-
-  @include tablet {
-    padding: 64px 0;
-    margin: 64px 0;
-  }
-}
-
-@mixin spacing-std-nopad {
-  margin: 32px 16px;
-
-  @include tablet {
-    margin: 64px 32px;
-  }
-
-  @include desktop {
-    margin: 64px auto;
-    width: 88%;
-    max-width: $std-content-width-max;
-  }
-}
-
-@mixin spacing-skinny-nopad {
-  margin: 12px 16px;
-
-  @include tablet {
-    margin: 22px 32px;
-  }
-
-  @include desktop {
-    margin: 24px auto;
-    width: 88%;
-    max-width: $skinny-content-width-max;
-  }
-}
-
-
 @mixin spacing-short-nopad {
   margin: 16px;
 
@@ -97,6 +86,16 @@
     margin: 32px auto;
     width: 94%;
     max-width: $std-content-width-max;
+  }
+}
+
+@mixin spacing-wide {
+  padding: 32px 0;
+  margin: 32px 0;
+
+  @include tablet {
+    padding: 64px 0;
+    margin: 64px 0;
   }
 }
 
