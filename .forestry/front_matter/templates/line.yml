@@ -1,4 +1,18 @@
 ---
 label: Line
 hide_body: true
-fields: []
+fields:
+- name: style
+  type: select
+  default: Dotted
+  config:
+    required: false
+    options:
+    - Dotted
+    - Solid
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: style
