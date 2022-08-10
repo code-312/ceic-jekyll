@@ -1,7 +1,10 @@
 /* BREAKPOINTS */
 $tablet-width: 768px;
 $desktop-width: 1024px;
-$max-content-width: 1204px;
+
+/* CONTENT WIDTHS */
+$std-content-width-max: 1204px;
+$skinny-content-width-max: 896px;
 
 /* COLORS */
 $white: #FFFFFF;
@@ -12,7 +15,9 @@ $green-800: #093228;
 $green-800-semi: rgba(9, 50, 40, 0.5);
 $neutral-50: #F3F3F3;
 $neutral-100: #E7E7E7;
+$neutral-300: #B9B0B9;
 $neutral-500: #8A8A8A;
+$green-700: #0E4F3F;
 $neutral-800: #444444;
 $purple-50: #EDE9FD;
 $purple-400: #775BE4;

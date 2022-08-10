@@ -1,8 +1,21 @@
 .text-area {
+  @include spacing-skinny-nopad;
 
-  @include spacing-std-nopad;
 
-  &:first-child {
+  h2:first-child {
     margin-top: 0;
   }
+}
+
+.flashy {
+  @include spacing-skinny;
+  color: $green-700;
+  border: 1px solid $neutral-300;
+
+
+  h1, h2, h3 {
+    color: $green-800;
+  }
+
+
 }

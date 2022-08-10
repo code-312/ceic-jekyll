@@ -10,24 +10,40 @@
 
   @include desktop {
     margin: 64px auto;
+    width: 94%;
+    max-width: $std-content-width-max;
+  }
+}
+
+@mixin spacing-skinny {
+  padding: 16px;
+  margin: 32px;
+
+  @include tablet {
+    padding: 32px;
+    margin: 64px;
+  }
+
+  @include desktop {
+    margin: 64px auto;
     width: 88%;
-    max-width: $max-content-width;
+    max-width: $skinny-content-width-max;
   }
 }
 
 @mixin spacing-short {
   padding: 16px;
-  margin: 16px 16px;
+  margin: 16px;
 
   @include tablet {
     padding: 32px;
-    margin: 32px 32px;
+    margin: 32px;
   }
 
   @include desktop {
     margin: 32px auto;
-    width: 88%;
-    max-width: $max-content-width;
+    width: 94%;
+    max-width: $std-content-width-max;
   }
 }
 
@@ -41,20 +57,6 @@
   }
 }
 
-@mixin spacing-skinny-nopad {
-  margin: 12px 16px;
-
-  @include tablet {
-    margin: 22px 32px;
-  }
-
-  @include desktop {
-    margin: 24px auto;
-    width: 88%;
-    max-width: $max-content-width;
-  }
-}
-
 @mixin spacing-std-nopad {
   margin: 32px 16px;
 
@@ -65,7 +67,36 @@
   @include desktop {
     margin: 64px auto;
     width: 88%;
-    max-width: $max-content-width;
+    max-width: $std-content-width-max;
+  }
+}
+
+@mixin spacing-skinny-nopad {
+  margin: 12px 16px;
+
+  @include tablet {
+    margin: 22px 32px;
+  }
+
+  @include desktop {
+    margin: 24px auto;
+    width: 88%;
+    max-width: $skinny-content-width-max;
+  }
+}
+
+
+@mixin spacing-short-nopad {
+  margin: 16px;
+
+  @include tablet {
+    margin: 32px;
+  }
+
+  @include desktop {
+    margin: 32px auto;
+    width: 94%;
+    max-width: $std-content-width-max;
   }
 }
 
@@ -88,7 +119,7 @@
     left: 50%;
     transform: translateX(-50%);
     width: 88%;
-    max-width: $max-content-width;
+    max-width: $std-content-width-max;
   }
 }
 

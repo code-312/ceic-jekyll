@@ -3,7 +3,7 @@
 }
 
 .header__container {
-  @include spacing-skinny-nopad;
+  @include spacing-short-nopad;
 
   display: flex;
   justify-content: space-between;
