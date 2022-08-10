@@ -31,3 +31,8 @@ fields:
     max: 
     labelField: paragraph
   label: Event
+- name: bottom_paragraph
+  type: text
+  config:
+    required: false
+  label: Bottom Paragraph
