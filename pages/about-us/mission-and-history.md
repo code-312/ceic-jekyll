@@ -22,6 +22,8 @@ sections:
     and reinvests in the communities most impacted by the War on Drugs, and to ensure
     the cannabis industry prioritizes people over profits.</p>"
   style: Flashy
+- template: line
+  style: Dotted
 - template: history
   event:
   - date: '2019-04-01 00:00:00 -0500'
@@ -48,6 +50,8 @@ sections:
       the community to learn and engage with legislative session. The Coalition also
       hosts its first in-person fundraiser in partnership with Hush raising thousands
       of dollars to support our ongoing community programs.
+- template: line
+  style: Dotted
 - template: text-area
   text_area: "<h2>A Grassroots Approach</h2><p>The Coalition organizes as a grassroots
     collective to expand opportunities for record clearing in Chicagoland and across
