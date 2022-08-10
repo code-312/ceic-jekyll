@@ -7,7 +7,7 @@ description: Founded in 2019, the Cannabis Equity Illinois Coalition is a grassr
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/canna_equity_lobby_day_cropped.jpg"
+  image: "/assets/images/placehold/1440x544.webp"
   alt_text: Blank placeholder image
   heading: Our Story
   subtitle: Elevating community voices and collaborating with partners to create change
