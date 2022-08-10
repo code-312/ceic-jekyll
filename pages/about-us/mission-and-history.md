@@ -67,6 +67,35 @@ sections:
     community feedback to ensure we're fighting for changes that will bring the largest
     benefit to communities.</p>"
   style: Plain
+- template: text-area
+  style: Two Column
+  text_area: "<p>The Coalition utilizes its grassroots strength to advocate for ‘Plus-1’
+    dispensaries to sign onto a Community Benefits Agreements, tying the economic
+    success of those dispensaries to impacted communities.</p><p>The Coalition's grassroots
+    structure shapes the development of the Coalition's legislative priorities, as
+    we gather community feedback to ensure we're fighting for changes that will bring
+    the largest benefit to communities.</p><p>The Coalition organizes to expand record
+    clearing opportunities in Chicagoland and across Illinois, and educates communities
+    about their rights and record clearing opportunities.</p><p>CEIC utilized its
+    grassroots strength to advocate for ‘Plus-1’ dispensaries to sign onto a Community
+    Benefits Agreements, tying the economic success of those dispensaries to impacted
+    communities.</p><p>The Coalition's grassroots membership shapes the development
+    of the Coalition's legislative priorities, as we fight for changes that will bring
+    the largest benefit to communities.</p>"
+  heading: Values
+  column_two: "<p>The Coalition utilizes its grassroots strength to advocate for ‘Plus-1’
+    dispensaries to sign onto a Community Benefits Agreements, tying the economic
+    success of those dispensaries to impacted communities.</p><p>The Coalition's grassroots
+    structure shapes the development of the Coalition's legislative priorities, as
+    we gather community feedback to ensure we're fighting for changes that will bring
+    the largest benefit to communities.</p><p>The Coalition organizes to expand record
+    clearing opportunities in Chicagoland and across Illinois, and educates communities
+    about their rights and record clearing opportunities.</p><p>CEIC utilized its
+    grassroots strength to advocate for ‘Plus-1’ dispensaries to sign onto a Community
+    Benefits Agreements, tying the economic success of those dispensaries to impacted
+    communities.</p><p>The Coalition's grassroots membership shapes the development
+    of the Coalition's legislative priorities, as we fight for changes that will bring
+    the largest benefit to communities.</p>"
 - template: green-carousel
   heading: How to get involved
   green_block:
