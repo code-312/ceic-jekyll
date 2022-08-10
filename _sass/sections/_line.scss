@@ -1,0 +1,25 @@
+.line {
+  @include spacing-std-nopad;
+
+  display: flex;
+  gap: 32px;
+
+  hr {
+    height: 1px;
+    width: 100%;
+    border: none;
+    border-top: 1px solid $green-800;
+  }
+
+  &.dotted {
+    hr {
+      border-top: 1px dotted $green-800;
+    }
+  }
+
+  &.dashed {
+    hr {
+      border-top: 1px dashed $green-800;
+    }
+  }
+}
