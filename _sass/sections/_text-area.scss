@@ -24,3 +24,16 @@
   border: 1px solid $green-600;
 
 }
+
+.two-column {
+  @include spacing-std;
+}
+
+.row {
+  display: flex;
+  gap: 32px;
+}
+
+.column {
+  flex: 50%;
+}
