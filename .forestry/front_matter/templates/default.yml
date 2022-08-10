@@ -47,13 +47,14 @@ fields:
   - quick-links
   - purple-carousel
   - card-with-image
+  - card-with-youtube
   - text-area
+  - image
   - green-carousel
   - testimonial
   - history
   - embed
-  - image
-  - card-with-youtube
+  - line
   config:
     min: 
     max: 
