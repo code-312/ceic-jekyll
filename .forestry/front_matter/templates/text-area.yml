@@ -10,14 +10,22 @@ fields:
     options:
     - Plain
     - Two Column
-    - Slightly Flashy
     - Flashy
+    - Splashy
     source:
       type: simple
       section: 
       file: 
       path: 
   label: Style
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+  showOnly:
+    field: style
+    value: Two Column
 - name: text_area
   type: textarea
   default: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
@@ -32,3 +40,15 @@ fields:
     schema:
       format: html-blocks
   label: Text Area
+- name: column_two
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Column Two
+  showOnly:
+    field: style
+    value: Two Column
