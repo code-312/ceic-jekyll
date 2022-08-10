@@ -50,6 +50,10 @@ sections:
       the community to learn and engage with legislative session. The Coalition also
       hosts its first in-person fundraiser in partnership with Hush raising thousands
       of dollars to support our ongoing community programs.
+  bottom_paragraph: 'Since Legalization, the Coalition has continued to meet weekly,
+    advocate for impacted communities in policy, organizing events & campaigns to
+    promote our mission, and watchdogging the state & the cannabis industry as legalization
+    is implemented. '
 - template: line
   style: Dotted
 - template: text-area
