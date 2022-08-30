@@ -24,7 +24,7 @@ sections:
     individuals and communities in the following ways:</p>"
   style: Plain
 - template: green-carousel
-  heading: How to get involved
+  heading: ''
   green_block:
   - heading: Expungement
     subtitle: Provides services and support for individuals to expunge or seal their
@@ -34,12 +34,18 @@ sections:
     type: Site Page
     site_page: pages/services/clear-your-record.md
     text: Button
-  - heading: Pariatur
-    subtitle: quis nostrud exercitation ullamco
-  - heading: Pariatur
-    subtitle: quis nostrud exercitation ullamco
-  - heading: Pariatur
-    subtitle: quis nostrud exercitation ullamco
+  - heading: Know
+    subtitle: We host Know Your Rights education sessions and promote KYR information
+      to ensure nobody else is criminalized for cannabis.
+    text: Button
+  - heading: Community
+    subtitle: 'Advocate for cannabis dispensaries to formally partner with community
+      organizations by encouraging the implementation of Community Benefits Agreements. '
+    text: Button
+  - heading: Legislative
+    subtitle: Using legislative education to increase engagement amongst our community
+      members in the policy process.
+    text: Button
 - template: card-with-image
   image: "/assets/images/group-new2020-1.png"
   alt_text: Blank placeholder image
