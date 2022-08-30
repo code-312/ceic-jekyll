@@ -23,6 +23,15 @@ sections:
     and advocate to fight for cannabis equity and justice. The Coalition supports
     individuals and communities in the following ways:</p>"
   style: Plain
+- template: green-carousel
+  heading: How to get involved
+  green_block:
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
+  - heading: Pariatur
+    subtitle: quis nostrud exercitation ullamco
 - template: card-with-image
   image: "/assets/images/group-new2020-1.png"
   alt_text: Blank placeholder image
