@@ -26,6 +26,14 @@ sections:
 - template: green-carousel
   heading: How to get involved
   green_block:
+  - heading: Expungement
+    subtitle: Provides services and support for individuals to expunge or seal their
+      criminal records, especially for cannabis offenses. We advocate to promote the
+      expansion of automatic expungement, and to ensure anyone with a criminal record
+      is able to access record clearing in a timely manner.
+    type: Site Page
+    site_page: pages/services/clear-your-record.md
+    text: Button
   - heading: Pariatur
     subtitle: quis nostrud exercitation ullamco
   - heading: Pariatur
