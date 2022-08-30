@@ -23,23 +23,22 @@ sections:
     and advocate to fight for cannabis equity and justice. The Coalition supports
     individuals and communities in the following ways:</p>"
   style: Plain
-- template: green-carousel
-  heading: How to get involved
-  green_block:
-  - heading: Pariatur
-    subtitle: quis nostrud exercitation ullamco
-    text: lorem ipsum
-    site_page: pages/our-work/business-advising.md
-  - heading: Pariatur
-    subtitle: quis nostrud exercitation ullamco
-    text: loreum ipsum
-    external: true
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-  - heading: Pariatur
-    subtitle: quis nostrud exercitation ullamco
-    external: true
-    text: lorum
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+- template: card-with-image
+  image: "/assets/images/group-new2020-1.png"
+  alt_text: Blank placeholder image
+  heading: Get Involved
+  paragraph: |
+    We welcome anyone who believes in our mission to get involved with us.
+
+    If you would like to support record clearing, you can get involved in organizing events and opportunities for expungement, assist people through the expungement process, or help promote education on record clearing!
+
+    If you’re a creative, we encourage you to engage with the programming of the Coalition, and use your skills to promote this work, present these programs to the public through graphic design, video, etc., and to help curate content for our social media!
+
+    We are organizing events like National Expungement Week, Know Your Rights, and resource fairs. We need support to ensure those events are effective, safe, and impactful for all involved!
+  site_page: pages/get-involved/membership.md
+  button_or_links: button
+  text: Link Here
+  type: Site Page
 description: Site under construction
 
 ---
