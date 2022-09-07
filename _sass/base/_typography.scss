@@ -27,6 +27,20 @@ h1 {
   }
 }
 
+// same styling as h1 to allow semantically accurate html
+.h1 {
+  font-size: 4.0rem;
+  font-weight: bold;
+
+  @include tablet {
+    font-size: 5.0rem;
+  }
+
+  @include desktop {
+    font-size: 6.0rem;
+  }
+}
+
 h2 {
   font-size: 3.2rem;
   font-weight: bold;
@@ -51,6 +65,24 @@ h4 {
   font-weight: bold;
 
 }
+
+.h4 {
+  font-size: 2.0rem;
+  line-height: 2.4rem;
+  font-weight: bold;
+
+  @include tablet {
+    font-size: 2.6rem;
+    line-height: 3.2rem;
+  }
+
+  @include desktop {
+    font-size: 3.2rem;
+    line-height: 4.0rem;
+  }
+
+}
+
 
 p {
   font-size: 1.6rem;

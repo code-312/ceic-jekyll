@@ -1,0 +1,13 @@
+.banner-purple {
+  @include spacing-large;
+  
+  background-color: $purple-600;
+  color: $white;
+  h2 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+}

@@ -1,0 +1,8 @@
+{% if block.style == "purple" %}
+<section class="banner banner-purple">
+{% else %}
+<section class="banner">
+{% endif %}
+  <h2 class="h1">{{ block.heading }}</h2>
+  <p class="h4">{{ block.paragraph }}</p>
+</section>
