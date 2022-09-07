@@ -55,6 +55,7 @@ fields:
   - history
   - embed
   - line
+  - banner
   config:
     min: 
     max: 
