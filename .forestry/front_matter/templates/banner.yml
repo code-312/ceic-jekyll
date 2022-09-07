@@ -1,4 +1,27 @@
 ---
 label: Banner
 hide_body: true
-fields: []
+fields:
+- name: style
+  type: select
+  default: purple
+  config:
+    required: false
+    options:
+    - purple
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Style
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: paragraph
+  type: text
+  config:
+    required: false
+  label: Paragraph
