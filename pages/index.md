@@ -46,6 +46,11 @@ sections:
     subtitle: Using legislative education to increase engagement amongst our community
       members in the policy process.
     text: Button
+- template: banner
+  style: purple
+  heading: WE ARE THE WATCHDOG
+  paragraph: of the government and of the industry, working to ensure legalization
+    benefits those most impacted by cannabis prohibition.
 - template: card-with-image
   image: "/assets/images/group-new2020-1.png"
   alt_text: Blank placeholder image
