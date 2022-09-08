@@ -44,6 +44,15 @@ sections:
   button_or_links: button
   text: Link Here
   type: Site Page
+- template: banner
+  style: green
+  site_page: []
+  heading: Donate
+  paragraph: The Coalition recently launched a monthly membership program to help
+    supporters like you maximize your impact towards equity and justice.
+  text: Donate
+  type: External Link
+  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/
 description: Site under construction
 
 ---
