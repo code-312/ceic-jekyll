@@ -9,6 +9,7 @@ fields:
     required: false
     options:
     - purple
+    - green
     source:
       type: simple
       section: 
@@ -25,3 +26,11 @@ fields:
   config:
     required: false
   label: Paragraph
+- name: button
+  type: include
+  config: {}
+  template: button
+  label: Button
+  showOnly:
+    field: style
+    value: green
