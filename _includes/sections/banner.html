@@ -1,8 +1,19 @@
 {% if block.style == "purple" %}
 <section class="banner banner-purple">
-{% else %}
-<section class="banner">
-{% endif %}
   <h2 class="h1">{{ block.heading }}</h2>
   <p class="h4">{{ block.paragraph }}</p>
+{% else block.style == "green" %}
+<section class="banner banner-green">
+  <h2 class="h1">{{ block.heading }}</h2>
+  <div>
+    <p>{{ block.paragraph }}</p>
+    <br>
+    {% include components/button-link--dark-bg.html
+      text = block.text
+      type = block.type
+      url = block.url
+      site_page = block.site_page
+  %}
+  </div>
+{% endif %}
 </section>

@@ -11,3 +11,22 @@
     text-align: center;
   }
 }
+
+.banner-green {
+  @include spacing-large;
+  color: $white;
+  background-color: $green-600;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  @include tablet {
+    flex-direction: row;
+    gap: 64px;
+  }
+
+  div {
+    max-width: 587px;
+  }
+}

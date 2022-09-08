@@ -47,7 +47,7 @@ sections:
 - template: banner
   style: green
   site_page: []
-  heading: Donate
+  heading: DONATE
   paragraph: The Coalition recently launched a monthly membership program to help
     supporters like you maximize your impact towards equity and justice.
   text: Donate
