@@ -17,6 +17,8 @@ sections:
     experiences, and to organize and advocate to fight for cannabis equity and justice.
   gradient: true
   margin_color: false
+  style: Home
+  scroll_button: Learn More
 - template: text-area
   text_area: "<h2>What We Do</h2><p>Formed in 2019, the Coalition provides a space
     for community members to come together to share their experiences, and to organize
