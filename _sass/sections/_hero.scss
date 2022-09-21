@@ -20,8 +20,17 @@
 .hero-img {
   object-fit: cover;
   object-position: 70%;
-  height: 90vw;
+  height: 100vw;
   max-height: 544px;
+  max-width: 100%;
+  min-height: 318px;
+}
+
+.hero-img-home {
+  object-fit: cover;
+  object-position: 70%;
+  height: 90vw;
+  max-height: 812px;
   max-width: 100%;
   min-height: 300px;
 }
@@ -49,6 +58,10 @@
   }
 }
 
+.hero.hero--home h1 {
+  max-width: 100%;
+}
+
 .hero p {
   font-size: 2.0rem;
   line-height: 2.4rem;
@@ -69,12 +82,12 @@
 }
 
 
-.hero-overlay {
+.hero--standard .hero-overlay {
   position: absolute;
   z-index: 2;
   top: 50%;
   max-height: 95%;
-  color: white;
+  color: $white;
   transform: translateY(-50%);
 
   @include left-margin-abs;
@@ -86,4 +99,28 @@
   @include desktop {
     transform: translate(-50%,-50%);
   }
+}
+
+.hero--home .hero-overlay {
+  position: relative;
+  z-index: 2;
+  color: $white;
+  background-color: $black;
+  padding: 16px;
+
+  @include tablet {
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    max-height: 95%;
+    transform: translateY(-50%);
+    background-color: transparent;
+
+    @include left-margin-abs;
+  }
+
+  @include desktop {
+    transform: translate(-50%,-50%);
+  }
+
 }

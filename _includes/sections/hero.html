@@ -1,10 +1,19 @@
-{% if block.margin_color == true%}
-<section class="hero hero--black">
+{% if block.style == "Home" and block.margin_color == true %}
+<section class="hero hero--home hero--black">
+{% elsif block.style == "Home" %}
+<section class="hero hero--home hero--white">
+{% elsif block.margin_color == true%}
+<section class="hero hero--standard hero--black">
 {% else %}
-<section class="hero hero--white">
+<section class="hero hero--standard hero--white">
 {% endif %}
   <div class="hero-img-container">
+    {% if block.style == "Home" %}
+    {% include components/image-hero-home.html link=block.image alt=block.alt_text %}
+    {% else %}
     {% include components/image-hero.html link=block.image alt=block.alt_text %}
+    {% endif%}
+
     {% if block.gradient == true %}
     <div class="gradient-overlay"></div>
     {% endif %}

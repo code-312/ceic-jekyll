@@ -2,20 +2,15 @@
 layout: default
 title: Home
 permalink: "/"
-hero:
-  heading: Site Under Construction
-  subtitle: Index
-  image: "/assets/images/placehold/1440x544.webp"
-  alt_text: placeholder image
 sections:
 - template: hero
   image: "/assets/images/hero-image-briefing-for-the-client-2048x1152-1.png"
   alt_text: Dozens of people in bright green t-shirts standing with their fists raised
     in front of a goverment building
-  heading: ''
-  subtitle: Providing a space for community members to come together to share their
+  heading: Providing a space for community members to come together to share their
     experiences, and to organize and advocate to fight for cannabis equity and justice.
-  gradient: true
+  subtitle: 
+  gradient: false
   margin_color: false
   style: Home
   scroll_button: Learn More
