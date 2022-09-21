@@ -2,6 +2,28 @@
 label: Hero Image
 hide_body: true
 fields:
+- name: style
+  type: select
+  default: Standard
+  config:
+    required: false
+    options:
+    - Home
+    - Standard
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Style
+- name: scroll_button
+  type: text
+  config:
+    required: false
+  label: Scroll Button
+  showOnly:
+    field: style
+    value: Home
 - name: image
   type: file
   config:
