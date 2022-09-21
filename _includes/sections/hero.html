@@ -31,5 +31,10 @@
       <p>{{ block.subtitle }}</p>
       {% endif %}
     </div>
+
+    {% if block.style == "Home" %}
+    {% include components/button-scroll.html text=block.scroll_button %}
+    {% endif%}
+
   </div>
 </section>
