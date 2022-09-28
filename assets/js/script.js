@@ -10,11 +10,14 @@ function searchToggle() {
   header.classList.remove("menu-clicked")
 }
 
-
-
 const searchForm = document.querySelector(".form-search");
 const searchInput = document.querySelector(".search__input");
 function toggleSearchInput() {
   searchForm.classList.toggle("active")
   searchInput.focus()
+}
+
+function scrollToNextSection(event) {
+  const sections = document.getElementsByTagName('section')
+  sections[1].scrollIntoView({behavior: "smooth"})
 }
