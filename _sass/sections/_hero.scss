@@ -106,7 +106,7 @@
   z-index: 2;
   color: $white;
   background-color: $black;
-  padding: 16px;
+  padding: 16px 16px 48px 16px;
 
   @include tablet {
     padding: 0;
