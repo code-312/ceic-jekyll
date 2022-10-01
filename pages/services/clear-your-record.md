@@ -72,7 +72,7 @@ sections:
     for expungement using a computer.</p><p>The Coalition believes in expunging cannabis
     records as widely as possible, especially those that are not ‘Stand-alone’ offenses.</p>"
 - template: text-area
-  style: Plain
+  style: Two Column
   text_area: <h2>What We Do</h2><p>The Coalition organizes events quarterly in Chicago,
     along with annual events for <a href="https://nationalexpungementweek.org/">National
     Expungement Week</a>. We hope to expand our impact outside of Chicagoland, and
@@ -82,9 +82,9 @@ sections:
     partners in Boston, the <a href="https://massreccouncil.com/">Massachusetts Recreational
     Consumer Council</a>. The Coalition hosted events in Back of the Yards and North
     Lawndale, where community members were able to learn about the expungement process
-    and connect with an expungement attorney, FOR FREE!</p><p>Despite the COVID-19
-    pandemic the Coalition successfully hosted more events for National Expungement
-    Week 2020.</p><p>If you are in need of expungement support, please reach out to
-    the Coalition CannabisEquityIL@gmail.com..</p>
+    and connect with an expungement attorney, FOR FREE!</p>
+  column_two: "<p>Despite the COVID-19 pandemic the Coalition successfully hosted
+    more events for National Expungement Week 2020.</p><p>If you are in need of expungement
+    support, please reach out to the Coalition CannabisEquityIL@gmail.com.</p>"
 
 ---
