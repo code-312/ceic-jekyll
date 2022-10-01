@@ -64,8 +64,6 @@ sections:
     href="https://massreccouncil.com/">Massachusetts Recreational Consumer Council</a></p></li><li><p><a
     href="https://www.hoodincubator.org/">The Hood Incubator</a></p></li></ul><p></p>
   heading: ''
-- template: line
-  style: Dashed
 - template: card-with-image
   image: "/assets/images/romain-dancre-doplsdelx7e-unsplash.jpg"
   alt_text: People signing papers
@@ -88,7 +86,23 @@ sections:
     of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
     R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
     Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
-- template: line
-  style: Solid
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Lorem ipsum
+  paragraph: Check out some of the resources the City of Chicago and State of Illinois
+    have published about cannabis.
+  site_page: []
+  button_or_links: links
+  links:
+  - text: Illinois Dept of Commerce for Cannabis Equity
+    type: External Link
+    url: https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx
+  - text: Illinois R3 Program Site
+    type: External Link
+    url: https://r3.illinois.gov/
+  - text: City of Chicago Cannabis Information Center
+    type: External Link
+    url: https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html
 
 ---
