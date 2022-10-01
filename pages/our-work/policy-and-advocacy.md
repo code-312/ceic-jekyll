@@ -6,7 +6,7 @@ description: We work to make cannabis policy in Illinois more inclusive, transpa
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: assets/images/our-work/policy-and-advocacy/hero-policy.png
+  image: "/assets/images/tucker-good-t2gyvhmks98-unsplash.jpg"
   alt_text: State Capitol dome behind a wall
   heading: Policy & Advocacy
   subtitle: We work to make cannabis policy in Illinois more inclusive, transparent
