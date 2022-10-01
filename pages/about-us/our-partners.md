@@ -49,7 +49,7 @@ sections:
     Partners</h3><ul><li><p><a href="https://wocc.world/">Women of Color in Cannabis</a></p></li><li><p><a
     href="https://massreccouncil.com/">Massachusetts Recreational Consumer Council</a></p></li><li><p><a
     href="https://www.hoodincubator.org/">The Hood Incubator</a></p></li></ul><p></p>
-  heading: ''
+  heading: Partner Organizations
 - template: card-with-image
   image: "/assets/images/romain-dancre-doplsdelx7e-unsplash.jpg"
   alt_text: People signing papers
