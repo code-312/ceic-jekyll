@@ -49,8 +49,6 @@ sections:
     Consumer Council</a>. The Coalition hosted events in Back of the Yards and North
     Lawndale, where community members were able to learn about the expungement process
     and connect with an expungement attorney, FOR FREE!</p>
-- template: line
-  style: Dotted
 - template: card-with-image
   image: "/assets/images/group-new2020-1.png"
   alt_text: An image of Legal Aid Chicago and Cannabis Equity Illinois Coalition at
