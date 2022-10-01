@@ -11,11 +11,13 @@ sections:
   image: "/assets/images/cytonn-photography-n95vmlxqm2i-unsplash.jpg"
   alt_text: Handshake between two people
   heading: Partners & Resources
-  subtitle: 'The Coalition would not be where it is today without our partners. We
-    are incredibly grateful for the relationships we’ve built along the way with these
-    trusted organizations. '
+  subtitle: Organizations we trust to help our community
   gradient: true
   margin_color: true
+- template: quick-links
+  heading: Quick Links
+  quick_links:
+  - icon: video
 - template: text-area
   text_area: '<h2>Partner Organizations</h2><p>The Coalition would not be where it
     is today without our partners. We are incredibly grateful for the relationships
@@ -56,7 +58,5 @@ sections:
     of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
     R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
     Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>'
-- template: quick-links
-  heading: Quick Links
 
 ---

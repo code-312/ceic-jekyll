@@ -14,6 +14,13 @@ sections:
     have their record cleared immediately
   gradient: true
   margin_color: false
+- template: quick-links
+  heading: Quick Links
+  quick_links:
+  - icon: calendar
+    text: National Expungement Week
+    type: External Link
+    url: https://nationalexpungementweek.org/
 - template: text-area
   text_area: <h2>What We Believe</h2><p>The Cannabis Equity Illinois Coalition believes
     that if Illinois is going to address the injustices of prohibition, then everyone
