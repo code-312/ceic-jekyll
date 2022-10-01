@@ -45,9 +45,11 @@ sections:
   heading: Cannabis Rights Education
   button_or_links: links
   links:
-  - text: "@CannaEquityIL"
-    type: External Link
-    url: https://twitter.com/CannaEquityIL/
+  - text: Contact Us
+    type: Site Page
+    url: https://www.cannabisequityil.org/contact
+    site_page: pages/contact-us.md
+  - {}
 - template: text-area
   style: Flashy
   text_area: <p>If you are interested in supporting this mission by hosting an event,
