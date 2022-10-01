@@ -49,6 +49,7 @@ sections:
     href="https://wocc.world/">Women of Color in Cannabis</a></p></li><li><p><a href="https://massreccouncil.com/">Massachusetts
     Recreational Consumer Council</a></p></li><li><p><a href="https://www.hoodincubator.org/">The
     Hood Incubator</a></p></li></ul>
+  heading: Partner Organizations
 - template: text-area
   style: Two Column
   text_area: '<h2>Illinois Cannabis Unions</h2><p class="has-text-align-left">As part
