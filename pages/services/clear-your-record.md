@@ -30,7 +30,7 @@ sections:
     type: External Link
     url: https://www.facebook.com/watch/?v=1262070770807141
 - template: text-area
-  style: Plain
+  style: Two Column
   text_area: "<h2>What We Believe</h2><p>The Cannabis Equity Illinois Coalition believes
     that if Illinois is going to address the injustices of prohibition, then everyone
     who has a criminal record for a cannabis offense should have their record cleared
@@ -39,11 +39,7 @@ sections:
     also supports the transition to E-Filing, so that someone can submit their petition
     for expungement using a computer.</p><p>The Coalition believes in expunging cannabis
     records as widely as possible, especially those that are not ‘Stand-alone’ offenses.</p>"
-- template: line
-  style: Dotted
-- template: text-area
-  style: Plain
-  text_area: <h2>What We Do</h2><p>The Coalition organizes events quarterly in Chicago,
+  column_two: <h2>What We Do</h2><p>The Coalition organizes events quarterly in Chicago,
     along with annual events for <a href="https://nationalexpungementweek.org/">National
     Expungement Week</a>. We hope to expand our impact outside of Chicagoland, and
     to partner with organizations across the state to host events. Please reach out
@@ -53,6 +49,11 @@ sections:
     Consumer Council</a>. The Coalition hosted events in Back of the Yards and North
     Lawndale, where community members were able to learn about the expungement process
     and connect with an expungement attorney, FOR FREE!</p>
+- template: line
+  style: Dotted
+- template: text-area
+  style: Plain
+  text_area: "<p></p>"
 - template: card-with-image
   image: "/assets/images/group-new2020-1.png"
   alt_text: An image of Legal Aid Chicago and Cannabis Equity Illinois Coalition at
