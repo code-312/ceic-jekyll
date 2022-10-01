@@ -16,6 +16,8 @@ sections:
   gradient: true
 - template: purple-carousel
   purple_block:
+  - heading: "2"
+    subtitle: Grants awarded to the coalition
   - heading: "8"
     subtitle: Coalition working groups officially established
   - heading: "152"
