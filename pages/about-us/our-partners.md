@@ -57,7 +57,7 @@ sections:
 - template: line
   style: Dotted
 - template: text-area
-  style: Two Column
+  style: Plain
   text_area: '<h3>Illinois Cannabis Unions</h3><p class="has-text-align-left">As part
     of the Cannabis Regulation and Tax Act, those applying for cannabis business licenses
     from the State can earn additional points towards their license by signing a labor
