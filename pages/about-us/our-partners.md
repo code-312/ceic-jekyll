@@ -20,7 +20,7 @@ sections:
   - icon: video
 - template: text-area
   style: Flashy
-  text_area: "<h2>Partner Organizations</h2><p>The Coalition would not be where it
+  text_area: "<h1>Partner Organizations</h1><p>The Coalition would not be where it
     is today without our partners. We are incredibly grateful for the relationships
     we’ve built with all of the listed organizations, and encourage you to plug in
     with our partners!</p>"
