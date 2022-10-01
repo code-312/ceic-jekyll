@@ -45,7 +45,7 @@ sections:
   heading: Community Partners
 - template: text-area
   style: Plain
-  text_area: <h2><strong>Expungement &amp; Legal Aid Partners</strong></h2><ul><li><p><a
+  text_area: <h3><strong>Expungement &amp; Legal Aid Partners</strong></h3><ul><li><p><a
     href="https://nationalexpungementweek.org/">National Expungement Week</a></p></li><li><p><a
     href="https://www.legalaidchicago.org/">Legal Aid Chicago</a></p></li><li><p><a
     href="https://www.cgla.net/">Cabrini Green Legal Aid</a></p></li><li><p><a href="https://newleafillinois.org/s/">New
