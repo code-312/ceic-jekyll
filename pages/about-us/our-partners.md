@@ -44,7 +44,9 @@ sections:
     Aid Chicago</a></p></li><li><p><a href="https://www.cgla.net/">Cabrini Green Legal
     Aid</a></p></li><li><p><a href="https://newleafillinois.org/s/">New Leaf Illinois</a></p></li><li><p><a
     href="https://www.herballegal.co/">Herbal Legal</a></p></li></ul><p></p><h3>National
-    Partners</h3><p></p>
+    Partners</h3><ul><li><p><a href="https://wocc.world/">Women of Color in Cannabis</a></p></li><li><p><a
+    href="https://massreccouncil.com/">Massachusetts Recreational Consumer Council</a></p></li><li><p><a
+    href="https://www.hoodincubator.org/">The Hood Incubator</a></p></li></ul><p></p>
   heading: ''
 - template: text-area
   style: Two Column
