@@ -14,7 +14,7 @@ sections:
     url: https://www.instagram.com/CannaEquityIL/
   - heading: Facebook
     subtitle: Share your voice and RSVP to events
-    text: Canna Equity IL
+    text: Facebook page
     type: External Link
     url: https://www.facebook.com/CannaEquityIL/?ref=page_internal
   - heading: Twitter
