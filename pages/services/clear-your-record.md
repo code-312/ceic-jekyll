@@ -62,7 +62,7 @@ sections:
     out our Virtual Wraparound Reentry Resource Fair, here!</em></strong></a></p><p>If
     you are in need of expungement support, please reach out to the Coalition CannabisEquityIL@gmail.com.</p>
 - template: text-area
-  style: Splashy
+  style: Flashy
   text_area: "<h2>What We Believe</h2><p>The Cannabis Equity Illinois Coalition believes
     that if Illinois is going to address the injustices of prohibition, then everyone
     who has a criminal record for a cannabis offense should have their record cleared
