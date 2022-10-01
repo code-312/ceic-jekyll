@@ -71,10 +71,10 @@ sections:
     type: External Link
     site_page: pages/get-involved/volunteer.md
     url: https://docs.google.com/forms/d/e/1FAIpQLScLS52BiGAslDTJ5orW6i2JnMAIo4iHjdFWj_2iViKn3RwiVQ/viewform
-  - heading: Member
-    subtitle: become an equity member to support this work
+  - heading: Learn
+    subtitle: Attend?
     type: Site Page
-    text: Become a member
-    site_page: pages/get-involved/membership.md
+    text: This is fake
+    site_page: pages/about-us/our-impact.md
 
 ---
