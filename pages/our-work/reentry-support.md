@@ -62,7 +62,7 @@ sections:
     url: https://www.youtube.com/watch?v=Foi3Hblg21s
 - template: testimonial
   alt_text: Image of Jefferson Davis
-  image: "/assets/images/img_20210724_214949103.jpg"
+  image: "/assets/images/jefferson.jpg"
   name: Jefferson Davis
   paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Proin sagittis nisl rhoncus
