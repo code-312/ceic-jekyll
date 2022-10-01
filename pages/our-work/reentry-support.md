@@ -7,7 +7,7 @@ description: CEIC supports community members with system involvement throughout 
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/forest-road.png"
+  image: "/assets/images/john-towner-3kv48ns4wuu-unsplash-1.jpg"
   alt_text: A road through the forest with a large patch of light.
   heading: page-title
   subtitle: page-description
