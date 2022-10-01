@@ -22,24 +22,25 @@ sections:
   heading: Partner Organizations
   column_two: "<p></p>"
 - template: text-area
-  text_area: <ul><li><p><a href="https://chicagovotes.com/">Chicago Votes</a></p></li><li><p><a
-    href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a href="https://www.theportministries.org/">Port
-    Ministries</a></p></li><li><p><a href="https://www.herbalnotes.co/home">Herbal
-    Notes</a></p></li><li><p><a href="https://www.instagram.com/movementandmedicine420/?hl=en">Movement
+  text_area: <h3>Community Partners</h3><ul><li><p><a href="https://chicagovotes.com/">Chicago
+    Votes</a></p></li><li><p><a href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a
+    href="https://www.theportministries.org/">Port Ministries</a></p></li><li><p><a
+    href="https://www.herbalnotes.co/home">Herbal Notes</a></p></li><li><p><a href="https://www.instagram.com/movementandmedicine420/?hl=en">Movement
     &amp; Medicine / Jean &amp; Jane</a></p></li><li><p><a href="https://www.organizedcommunities.org/">Organized
     Communities Against Deportation</a></p></li><li><p><a href="https://www.chicagonorml.org/">Chicago
     NORML</a></p></li><li><p><a href="https://home.equityempower.org/">Social Equity
     Empowerment Network</a></p><p></p></li></ul>
   style: Two Column
-  column_two: <ul><li><p><a href="https://www.eatchicago.org/">Equity And Transformation</a></p></li><li><p><a
-    href="http://google.com/">PURE Coalition</a></p></li><li><p><a href="https://www.illinoisequitystaffing.com/">IL
-    Equity Staffing</a></p></li><li><p><a href="https://www.thcstaffinggroup.com/">THC
-    Staffing Group</a></p></li><li><p><a href="https://themedicalcannabiscommunity.org/">The
-    Medical Cannabis Community</a></p></li><li><p><a href="https://endmoneybond.org/">Coalition
-    to End Money Bond</a></p></li><li><p><a href="https://endmoneybond.org/illinois-network-for-pretrial-justice/">Illinois
+  column_two: <p></p><p></p><ul><li><p><a href="https://www.eatchicago.org/">Equity
+    And Transformation</a></p></li><li><p><a href="http://google.com/">PURE Coalition</a></p></li><li><p><a
+    href="https://www.illinoisequitystaffing.com/">IL Equity Staffing</a></p></li><li><p><a
+    href="https://www.thcstaffinggroup.com/">THC Staffing Group</a></p></li><li><p><a
+    href="https://themedicalcannabiscommunity.org/">The Medical Cannabis Community</a></p></li><li><p><a
+    href="https://endmoneybond.org/">Coalition to End Money Bond</a></p></li><li><p><a
+    href="https://endmoneybond.org/illinois-network-for-pretrial-justice/">Illinois
     Network for Pretrial Justice</a></p></li><li><p><a href="https://www.illinoiscannabistrainingcenter.com/">Illinois
     Cannabis Training Center</a></p></li></ul>
-  heading: Community Partners
+  heading: ''
 - template: text-area
   style: Two Column
   text_area: <ul><li><p><a href="https://nationalexpungementweek.org/">National Expungement
