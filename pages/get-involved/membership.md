@@ -7,7 +7,7 @@ permalink: "/:path/:basename/"
 sections:
 - template: hero
   style: Standard
-  image: "/assets/images/placehold/1440x544.png"
+  image: "/assets/images/coalition-planning.jpg"
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
