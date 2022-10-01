@@ -17,10 +17,10 @@ sections:
 - template: text-area
   style: Two Column
   text_area: "<p>The Coalition would not be where it is today without our partners.
-    </p>"
+    We are incredibly grateful for the relationships we’ve built with all of the listed
+    organizations.</p>"
   heading: Partner Organizations
-  column_two: "<p>We are incredibly grateful for the relationships we’ve built with
-    all of the listed organizations, and encourage you to plug in with our partners!</p>"
+  column_two: "<p>We encourage you to plug in with our partners!</p>"
 - template: text-area
   text_area: <ul><li><p><a href="https://chicagovotes.com/">Chicago Votes</a></p></li><li><p><a
     href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a href="https://www.theportministries.org/">Port
