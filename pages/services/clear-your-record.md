@@ -17,6 +17,14 @@ sections:
 - template: quick-links
   heading: Quick Links
   quick_links:
+  - icon: video
+    text: Virtual Wraparound Reentry Resource Fair
+    type: External Link
+    url: https://www.facebook.com/watch/?v=1262070770807141
+  - icon: video
+    text: Expungement 101
+    type: External Link
+    url: https://www.facebook.com/watch/?v=757545795007193&extid=317FVRy2rHqdpH0D
   - icon: calendar
     text: National Expungement Week
     type: External Link
