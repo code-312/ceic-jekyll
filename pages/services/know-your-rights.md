@@ -26,17 +26,28 @@ sections:
     resources and hosting events on expungement, and promoting awareness of newly
     developing legal vulnerabilities or protections afforded for the use of cannabis.</p></li><li><p>Online
     resources and videos</p></li></ul>"
-- template: banner
-  style: purple
-  site_page: []
-  heading: POSSESSION LIMITS
-  paragraph: Illinois residents can possess up to 30 grams of flower, 5 grams of cannabis
-    concentrate, and less than 500mg of THC infused product.
 - template: text-area
   style: Flashy
   text_area: <p>If you are interested in supporting this mission by hosting an event,
     sponsoring printing of crutch cards, or providing production of online resources,
     DM us <a href="https://www.facebook.com/CannaEquityIL">@CannaEquityIL</a> or <a
     href="https://www.cannabisequityil.org/contact">email</a></p>
+- template: banner
+  style: purple
+  site_page: []
+  heading: POSSESSION LIMITS
+  paragraph: Illinois residents can possess up to 30 grams of flower, 5 grams of cannabis
+    concentrate, and less than 500mg of THC infused product.
+- template: banner
+  style: green
+  site_page: []
+  heading: WHAT TO SAY IF YOU ENCOUNTER LAW ENFORCEMENT | QUE DECIR SI TE ENCUENTRAS
+    CON LA LEY
+  paragraph: '"Am I free to go?" "I do not consent to any search." "I will not talk
+    and I want my lawyer." | "¿Soy libre de irme?" "No autorizo ninguna búsqueda."
+    "No hablarmé, quiero mi abogado."'
+  text: Learn more
+  type: External Link
+  url: https://www.prevention.org/lets-talk-cannabis/the-law/
 
 ---
