@@ -67,7 +67,7 @@ sections:
   alt_text: Image of Jefferson Davis
   image: "/assets/images/jefferson.jpg"
   name: From the community
-  paragraph: Jefferson Davis
+  paragraph: More info here about Jefferson Davis and how the Coalition helped him
   quote: Having the expungement brings me great joy.  It allows me to let go of a
     past that no longer represents who I am.  I'm now a proud owner of my own company,
     provider for my family and mentor for my community.
