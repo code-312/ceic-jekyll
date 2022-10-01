@@ -15,23 +15,24 @@ sections:
   subtitle: We need communities to know how their rights have changed with legalized
     cannabis
   gradient: true
+- template: text-area
+  text_area: "<h2>Know Your Rights!</h2><p>We focus on providing legal education and
+    support under the new laws to ensure everyone is staying safe.</p><p>We support
+    this mission through:</p><ul><li><p>Creating educational resources like our crutch
+    cards, designed to inform the public of continued prohibited situations for the
+    possession and consumption of cannabis.</p></li><li><p>Live workshops with partners
+    Legal Aid Chicago &amp;Herbal Legal on how cannabis can impact your housing, employment,
+    and immigration status. Check them out in our partners section!</p></li><li><p>Sharing
+    resources and hosting events on expungement, and promoting awareness of newly
+    developing legal vulnerabilities or protections afforded for the use of cannabis.</p></li><li><p>Online
+    resources and videos</p></li></ul>"
 - template: card-with-image
   image: "/assets/images/kyr5.jpeg"
   alt_text: Blank placeholder image
-  heading: Know Your Rights
-  paragraph: |-
-    We focus on providing legal education and support under the new laws to ensure everyone is staying safe.
-
-    We support this mission through:
-
-    Creating educational resources like our crutch cards, designed to inform the public of continued prohibited situations for the possession and consumption of cannabis.
-
-    Live workshops with partners Legal Aid Chicago &Herbal Legal on how cannabis can impact your housing, employment, and immigration status. Check them out in our partners section!
-
-    Sharing resources and hosting events on expungement, and promoting awareness of newly developing legal vulnerabilities or protections afforded for the use of cannabis.
-
-    Online resources and videos
+  paragraph: Coalition member speaks at National ABLE Network about cannabis and housing.
+    Pilsen, Chicago. January, 2020.
   site_page: []
+  heading: Cannabis Rights Education
 - template: text-area
   style: Flashy
   text_area: <p>If you are interested in supporting this mission by hosting an event,
@@ -58,16 +59,5 @@ sections:
   text: Learn more
   type: External Link
   url: https://www.prevention.org/lets-talk-cannabis/the-law/
-- template: text-area
-  text_area: "<h2>Know Your Rights!</h2><p>We focus on providing legal education and
-    support under the new laws to ensure everyone is staying safe.</p><p>We support
-    this mission through:</p><ul><li><p>Creating educational resources like our crutch
-    cards, designed to inform the public of continued prohibited situations for the
-    possession and consumption of cannabis.</p></li><li><p>Live workshops with partners
-    Legal Aid Chicago &amp;Herbal Legal on how cannabis can impact your housing, employment,
-    and immigration status. Check them out in our partners section!</p></li><li><p>Sharing
-    resources and hosting events on expungement, and promoting awareness of newly
-    developing legal vulnerabilities or protections afforded for the use of cannabis.</p></li><li><p>Online
-    resources and videos</p></li></ul>"
 
 ---
