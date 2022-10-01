@@ -14,16 +14,12 @@ sections:
   subtitle: Organizations we trust to help our community
   gradient: true
   margin_color: true
-- template: quick-links
-  heading: Quick Links
-  quick_links:
-  - icon: video
 - template: text-area
-  style: Flashy
-  text_area: "<h2>Partner Organizations</h2><p>The Coalition would not be where it
-    is today without our partners. We are incredibly grateful for the relationships
-    we’ve built with all of the listed organizations, and encourage you to plug in
-    with our partners!</p>"
+  style: Two Column
+  text_area: "<p>The Coalition would not be where it is today without our partners.
+    We are incredibly grateful for the relationships we’ve built with all of the listed
+    organizations, and encourage you to plug in with our partners!</p>"
+  heading: Partner Organizations
 - template: text-area
   text_area: <ul><li><p><a href="https://chicagovotes.com/">Chicago Votes</a></p></li><li><p><a
     href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a href="https://www.theportministries.org/">Port
