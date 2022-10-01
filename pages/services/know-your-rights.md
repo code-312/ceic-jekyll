@@ -38,10 +38,16 @@ sections:
 - template: card-with-image
   image: "/assets/images/kyr5.jpeg"
   alt_text: Blank placeholder image
-  paragraph: Coalition member speaks at National ABLE Network about cannabis and housing.
-    Pilsen, Chicago. January, 2020.
+  paragraph: If you are interested in supporting this mission by hosting an event,
+    sponsoring printing of crutch cards, or providing production of online resources,
+    DM us on social media or via email.
   site_page: []
   heading: Cannabis Rights Education
+  button_or_links: links
+  links:
+  - text: "@CannaEquityIL"
+    type: External Link
+    url: https://twitter.com/CannaEquityIL/
 - template: text-area
   style: Flashy
   text_area: <p>If you are interested in supporting this mission by hosting an event,
