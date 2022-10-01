@@ -8,7 +8,7 @@ sections:
 - template: hero
   image: assets/images/our-work/policy-and-advocacy/hero-policy.png
   alt_text: State Capitol dome behind a wall
-  heading: Policy & Political Education
+  heading: Policy & Advocacy
   subtitle: We work to make cannabis policy in Illinois more inclusive, transparent
     and accountable
   gradient: true
