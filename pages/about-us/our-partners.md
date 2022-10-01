@@ -19,7 +19,7 @@ sections:
   quick_links:
   - icon: video
 - template: text-area
-  text_area: '<h2>Partner Organizations</h2><p>The Coalition would not be where it
+  text_area: <h2>Partner Organizations</h2><p>The Coalition would not be where it
     is today without our partners. We are incredibly grateful for the relationships
     we’ve built with all of the listed organizations, and encourage you to plug in
     with our partners!</p><h3><strong>Community Partners</strong></h3><ul><li><p><a
@@ -47,7 +47,9 @@ sections:
     Partners</strong></h3><ul><li><p><a href="https://wocc.world/">Women of Color
     in Cannabis</a></p></li><li><p><a href="https://massreccouncil.com/">Massachusetts
     Recreational Consumer Council</a></p></li><li><p><a href="https://www.hoodincubator.org/">The
-    Hood Incubator</a></p></li></ul><h2>Illinois Cannabis Unions</h2><p class="has-text-align-left">As
+    Hood Incubator</a></p><p></p></li></ul>
+  style: Two Column
+  column_two: '<h2>Illinois Cannabis Unions</h2><p class="has-text-align-left">As
     part of the Cannabis Regulation and Tax Act, those applying for cannabis business
     licenses from the State can earn additional points towards their license by signing
     a labor peace agreement.<br><br>Learn more about what labor peace agreements and
@@ -58,6 +60,5 @@ sections:
     of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
     R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
     Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>'
-  style: Two Column
 
 ---
