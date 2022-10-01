@@ -13,6 +13,7 @@ sections:
     and accountable
   gradient: true
   margin_color: false
+  style: Standard
 - template: quick-links
   quick_links:
   - icon: house
