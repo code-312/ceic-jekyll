@@ -11,7 +11,9 @@ sections:
   image: "/assets/images/cytonn-photography-n95vmlxqm2i-unsplash.jpg"
   alt_text: Handshake between two people
   heading: Partners & Resources
-  subtitle: Organizations we trust to help our community
+  subtitle: The Coalition would not be where it is today without our partners. We
+    are incredibly grateful for the relationships we’ve built with all of the listed
+    organizations.
   gradient: true
   margin_color: true
 - template: card-with-image
@@ -19,7 +21,7 @@ sections:
   heading: Partner Organizations
   paragraph: The Coalition would not be where it is today without our partners. We
     are incredibly grateful for the relationships we’ve built with all of the listed
-    organization, and encourage you to plug in with our partners!
+    organizations, and encourage you to plug in with our partners!
   site_page: []
   alt_text: Resource fair with partner booths
   button_or_links: none
