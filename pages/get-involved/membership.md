@@ -19,7 +19,7 @@ sections:
     change, and advocating for Community Benefits Agreements for cannabis businesses.</p>"
 - template: text-area
   style: Splashy
-  text_area: "<h2>Grassroots Supporter<br>$4.20/month or $50/annually</h2><ul><li><p>Curated
+  text_area: "<h3>Grassroots Supporter<br>$4.20/month or $50/annually</h3><ul><li><p>Curated
     member newsletter with playlists, infused recipes, interviews, and more</p></li><li><p>Exclusive
     member sessions with Movement and Medicine</p></li></ul>"
 - template: image
