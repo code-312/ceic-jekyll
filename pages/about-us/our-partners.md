@@ -87,22 +87,22 @@ sections:
     R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
     Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
 - template: card-with-image
-  image: "/assets/images/placehold/544x320.png"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
+  image: "/assets/images/patrick-fore-h5lf0ngyetk-unsplash.jpg"
+  alt_text: Interior of a city building with vaulted ceilings and columns
+  heading: City & State Resources
   paragraph: Check out some of the resources the City of Chicago and State of Illinois
     have published about cannabis.
   site_page: []
   button_or_links: links
   links:
-  - text: Illinois Dept of Commerce for Cannabis Equity
-    type: External Link
-    url: https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx
-  - text: Illinois R3 Program Site
-    type: External Link
-    url: https://r3.illinois.gov/
   - text: City of Chicago Cannabis Information Center
     type: External Link
     url: https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html
+  - text: Illinois R3 Program Site
+    type: External Link
+    url: https://r3.illinois.gov/
+  - text: Illinois Dept of Commerce for Cannabis Equity
+    type: External Link
+    url: https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx
 
 ---
