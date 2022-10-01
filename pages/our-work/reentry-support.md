@@ -67,9 +67,9 @@ sections:
   paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Proin sagittis nisl rhoncus
     mattis rhoncus urna neque viverra. Tincidunt arcu non sodales neque.
-  quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Proin sagittis nisl rhoncus mattis
-    rhoncus urna neque viverra. Tincidunt arcu non sodales neque.
+  quote: Having the expungement brings me great joy.  It allows me to let go of a
+    past that no longer represents who I am.  I'm now a proud owner of my own company,
+    provider for my family and mentor for my community.
 - template: green-carousel
   heading: How to get involved
   green_block:
