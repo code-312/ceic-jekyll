@@ -86,5 +86,15 @@ sections:
   column_two: "<p>Despite the COVID-19 pandemic the Coalition successfully hosted
     more events for National Expungement Week 2020.</p><p>If you are in need of expungement
     support, please reach out to the Coalition CannabisEquityIL@gmail.com.</p>"
+- template: card-with-image
+  image: "/assets/images/group-new2020-1.png"
+  alt_text: An image of Legal Aid Chicago and Cannabis Equity Illinois Coalition at
+    a resource fair. The members are standing in front of tables with their logos
+    on them.
+  heading: Legal Aid Partners
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  site_page: []
 
 ---
