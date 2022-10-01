@@ -62,8 +62,8 @@ sections:
     url: https://www.youtube.com/watch?v=Foi3Hblg21s
 - template: testimonial
   alt_text: FPO image of person
-  image: "/assets/images/frame-128.webp"
-  name: "[Person's name]"
+  image: "/assets/images/img_20210724_214949103.jpg"
+  name: Jefferson Davis
   paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Proin sagittis nisl rhoncus
     mattis rhoncus urna neque viverra. Tincidunt arcu non sodales neque.
