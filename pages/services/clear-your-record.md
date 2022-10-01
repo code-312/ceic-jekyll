@@ -6,7 +6,7 @@ description: We believe everyone who has a criminal record for a cannabis offens
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/new19-group-2048x1536.jpeg"
+  image: "/assets/images/expungementgroup.jpg"
   alt_text: Image of the Coalition at National Expungement Week wearing matching blue
     t-shirts
   heading: page-title
