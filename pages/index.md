@@ -2,6 +2,11 @@
 layout: default
 title: Home
 permalink: "/"
+hero:
+  heading: Site Under Construction
+  subtitle: Index
+  image: "/assets/images/placehold/1440x544.webp"
+  alt_text: placeholder image
 sections:
 - template: hero
   image: "/assets/images/hero-image-briefing-for-the-client-2048x1152-1.png"
