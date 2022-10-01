@@ -18,9 +18,9 @@ sections:
   style: Two Column
   text_area: "<p>The Coalition would not be where it is today without our partners.
     We are incredibly grateful for the relationships we’ve built with all of the listed
-    organizations.</p>"
+    organizations.</p><p>We encourage you to plug in with our partners!</p>"
   heading: Partner Organizations
-  column_two: "<p>We encourage you to plug in with our partners!</p>"
+  column_two: "<p></p>"
 - template: text-area
   text_area: <ul><li><p><a href="https://chicagovotes.com/">Chicago Votes</a></p></li><li><p><a
     href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a href="https://www.theportministries.org/">Port
@@ -50,6 +50,12 @@ sections:
   heading: Expungement & Legal Aid Partners
 - template: text-area
   style: Plain
+  text_area: <h2><strong>National Partners</strong></h2><ul><li><p><a href="https://wocc.world/">Women
+    of Color in Cannabis</a></p></li><li><p><a href="https://massreccouncil.com/">Massachusetts
+    Recreational Consumer Council</a></p></li><li><p><a href="https://www.hoodincubator.org/">The
+    Hood Incubator</a></p></li></ul><p></p>
+- template: text-area
+  style: Plain
   text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
     the City of Chicago and State of Illinois have published about cannabis.</p><ul><li><p><a
     href="https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html">City
@@ -73,11 +79,5 @@ sections:
     Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
 - template: line
   style: Solid
-- template: text-area
-  style: Plain
-  text_area: <h2><strong>National Partners</strong></h2><ul><li><p><a href="https://wocc.world/">Women
-    of Color in Cannabis</a></p></li><li><p><a href="https://massreccouncil.com/">Massachusetts
-    Recreational Consumer Council</a></p></li><li><p><a href="https://www.hoodincubator.org/">The
-    Hood Incubator</a></p></li></ul><p></p>
 
 ---
