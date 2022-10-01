@@ -17,7 +17,7 @@ sections:
 - template: quick-links
   quick_links:
   - icon: house
-    text: Alliance Priorities
+    text: Our Legislative Priorities
     type: File
     file: "/assets/images/alliance-priorities-one-pager-_-4_5.pdf"
   - icon: bill
