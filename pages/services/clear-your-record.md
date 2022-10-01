@@ -7,8 +7,8 @@ permalink: "/:path/:basename/"
 sections:
 - template: hero
   image: "/assets/images/expungementgroup.jpg"
-  alt_text: Image of the Coalition at National Expungement Week wearing matching blue
-    t-shirts
+  alt_text: Image of the Coalition at National Expungement Week 2019 wearing matching
+    blue t-shirts
   heading: page-title
   subtitle: We believe everyone who has a criminal record for a cannabis offense should
     have their record cleared immediately
