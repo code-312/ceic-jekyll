@@ -14,7 +14,7 @@ sections:
     type: External Link
     url: https://www.instagram.com/CannaEquityIL/
   - heading: Facebook
-    subtitle: "Share your voice and RSVP to events. \n#CannabisCBA #CannabisEquityIL"
+    subtitle: "Share your voice and RSVP to events. \n#CannabisCBA \n#CannabisEquityIL"
     text: Our FB page
     type: External Link
     url: https://www.facebook.com/CannaEquityIL/?ref=page_internal
