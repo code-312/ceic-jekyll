@@ -38,5 +38,8 @@ sections:
 - template: text-area
   style: Flashy
   text_area: "<h2>Previous Reports</h2><p>2020 Impact Report</p>"
+- template: text-area
+  style: Plain
+  text_area: "<h2>Our 2021 Impact Report</h2>"
 
 ---
