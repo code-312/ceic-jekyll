@@ -14,6 +14,13 @@ sections:
   subtitle: Organizations we trust to help our community
   gradient: true
   margin_color: true
+- template: banner
+  style: green
+  site_page: []
+  heading: Partner Organizations
+  paragraph: The Coalition would not be where it is today without our partners. We
+    are incredibly grateful for the relationships we’ve built with all of the listed
+    organization, and encourage you to plug in with our partners!
 - template: text-area
   style: Two Column
   text_area: "<p>The Coalition would not be where it is today without our partners.
