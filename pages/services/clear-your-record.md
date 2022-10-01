@@ -39,6 +39,20 @@ sections:
     also supports the transition to E-Filing, so that someone can submit their petition
     for expungement using a computer.</p><p>The Coalition believes in expunging cannabis
     records as widely as possible, especially those that are not ‘Stand-alone’ offenses.</p>"
+- template: line
+  style: Dotted
+- template: text-area
+  style: Plain
+  text_area: <h2>What We Do</h2><p>The Coalition organizes events quarterly in Chicago,
+    along with annual events for <a href="https://nationalexpungementweek.org/">National
+    Expungement Week</a>. We hope to expand our impact outside of Chicagoland, and
+    to partner with organizations across the state to host events. Please reach out
+    if your organization in interested in partnering!</p><p>The Coalition got involved
+    in National Expungement Week in 2019, having been introduced to NEW through our
+    partners in Boston, the <a href="https://massreccouncil.com/">Massachusetts Recreational
+    Consumer Council</a>. The Coalition hosted events in Back of the Yards and North
+    Lawndale, where community members were able to learn about the expungement process
+    and connect with an expungement attorney, FOR FREE!</p>
 - template: card-with-image
   image: "/assets/images/group-new2020-1.png"
   alt_text: An image of Legal Aid Chicago and Cannabis Equity Illinois Coalition at
@@ -70,19 +84,5 @@ sections:
   - type: External Link
     url: https://newleafillinois.org/s/
     text: New Leaf Illinois
-- template: line
-  style: Dotted
-- template: text-area
-  style: Plain
-  text_area: <h2>What We Do</h2><p>The Coalition organizes events quarterly in Chicago,
-    along with annual events for <a href="https://nationalexpungementweek.org/">National
-    Expungement Week</a>. We hope to expand our impact outside of Chicagoland, and
-    to partner with organizations across the state to host events. Please reach out
-    if your organization in interested in partnering!</p><p>The Coalition got involved
-    in National Expungement Week in 2019, having been introduced to NEW through our
-    partners in Boston, the <a href="https://massreccouncil.com/">Massachusetts Recreational
-    Consumer Council</a>. The Coalition hosted events in Back of the Yards and North
-    Lawndale, where community members were able to learn about the expungement process
-    and connect with an expungement attorney, FOR FREE!</p>
 
 ---
