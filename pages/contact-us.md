@@ -20,12 +20,6 @@ sections:
     <a href="https://www.facebook.com/CannaEquityIL/?ref=page_internal" title="">Facebook</a>,
     and <a href="https://twitter.com/CannaEquityIL/" title="">Twitter</a> using #CannabisEquityIL
     and #CannabisCBA</p>'
-- template: line
-  style: Dotted
-- template: text-area
-  style: Plain
-  text_area: "<h2>Social Media</h2><p>and follow us on social media using #CannabisEquityIL
-    and #CannabisCBA</p>"
 
 ---
 <main class="container">
