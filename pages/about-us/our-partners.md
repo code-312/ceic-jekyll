@@ -76,9 +76,9 @@ sections:
 - template: line
   style: Solid
 - template: card-with-image
-  image: "/assets/images/placehold/544x320.png"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
+  image: "/assets/images/romain-dancre-doplsdelx7e-unsplash.jpg"
+  alt_text: People signing papers
+  heading: Illinois Cannabis Unions
   paragraph: |-
     As part of the Cannabis Regulation and Tax Act, those applying for cannabis business licenses from the State can earn additional points towards their license by signing a labor peace agreement.
 
