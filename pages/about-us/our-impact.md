@@ -36,6 +36,6 @@ sections:
     Impact Report</a> by Kay V</p>
 - template: text-area
   style: Plain
-  text_area: "<h2>Previous Reports</h2><p>2020 Impact Rport</p>"
+  text_area: "<h2>Previous Reports</h2><p>2020 Impact Report</p>"
 
 ---
