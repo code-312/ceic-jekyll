@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Membership
-description: 'Become a member and support the Coalition’s grassroots movement to ensure
-  the cannabis industry is equitable for all. '
+title: Become a Member
+description: 'Be a part of financially supporting the Coalition’s grassroots movement
+  to ensure the cannabis industry is equitable for all. '
 permalink: "/:path/:basename/"
 sections:
 - template: hero
