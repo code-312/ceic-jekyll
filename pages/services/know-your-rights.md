@@ -55,9 +55,10 @@ sections:
 - template: card-with-image
   image: "/assets/images/kyr5.jpeg"
   alt_text: Blank placeholder image
-  heading: We focus on providing legal education and support under the new laws to
-    ensure everyone is staying safe.
+  heading: Know Your Rights
   paragraph: |-
+    We focus on providing legal education and support under the new laws to ensure everyone is staying safe.
+
     We support this mission through:
 
     Creating educational resources like our crutch cards, designed to inform the public of continued prohibited situations for the possession and consumption of cannabis.
