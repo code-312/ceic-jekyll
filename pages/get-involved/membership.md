@@ -18,7 +18,7 @@ sections:
     business ownership, fighting for investment in our communities through policy
     change, and advocating for Community Benefits Agreements for cannabis businesses.</p>"
 - template: text-area
-  style: Splashy
+  style: Flashy
   text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
     adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
     hendrerit dolor. Lacus vestibulum sed arcu non odio euismod lacinia at. Pharetra

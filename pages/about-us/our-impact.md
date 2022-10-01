@@ -6,6 +6,17 @@ description: " Ut enim ad minim veniam, quis nostrud exercitation ullamco labori
   in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 permalink: "/:path/:basename/"
 sections:
+- template: hero
+  style: Standard
+  image: "/assets/images/placehold/1440x544.png"
+  alt_text: Blank placeholder image
+  heading: page-title
+  subtitle: page-description
+  gradient: true
+- template: purple-carousel
+  purple_block:
+  - heading: "152"
+    subtitle: Community members initiated expungement
 - template: text-area
   text_area: "<p>Check out the Coalition’s 2021 Impact Report! In this report, we
     highlight all of the Coalition’s work for the last 12 months, and the impact we
