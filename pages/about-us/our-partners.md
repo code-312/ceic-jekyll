@@ -19,12 +19,11 @@ sections:
   quick_links:
   - icon: video
 - template: text-area
-  text_area: <h2>Partner Organizations</h2><p>The Coalition would not be where it
-    is today without our partners. We are incredibly grateful for the relationships
-    we’ve built with all of the listed organizations, and encourage you to plug in
-    with our partners!</p><h3><strong>Community Partners</strong></h3><ul><li><p><a
-    href="https://chicagovotes.com/">Chicago Votes</a></p></li><li><p><a href="https://codeforchicago.org/">Code
-    for Chicago</a></p></li><li><p><a href="https://www.theportministries.org/">Port
+  text_area: <p>The Coalition would not be where it is today without our partners.
+    We are incredibly grateful for the relationships we’ve built with all of the listed
+    organizations, and encourage you to plug in with our partners!</p><h3><strong>Community
+    Partners</strong></h3><ul><li><p><a href="https://chicagovotes.com/">Chicago Votes</a></p></li><li><p><a
+    href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a href="https://www.theportministries.org/">Port
     Ministries</a></p></li><li><p><a href="https://www.herbalnotes.co/home">Herbal
     Notes</a></p></li><li><p><a href="https://www.instagram.com/movementandmedicine420/?hl=en">Movement
     &amp; Medicine / Jean &amp; Jane</a></p></li><li><p><a href="https://www.organizedcommunities.org/">Organized
