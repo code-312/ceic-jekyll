@@ -19,7 +19,7 @@ sections:
     url: https://www.facebook.com/CannaEquityIL/?ref=page_internal
   - heading: Twitter
     subtitle: Tweet and tag along with us
-    text: "@CannaEquityIL"
+    text: Twitter page
     type: External Link
     url: https://twitter.com/CannaEquityIL/
 
