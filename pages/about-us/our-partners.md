@@ -15,7 +15,7 @@ sections:
   gradient: true
   margin_color: true
 - template: banner
-  style: green
+  style: purple
   site_page: []
   heading: Partner Organizations
   paragraph: The Coalition would not be where it is today without our partners. We
