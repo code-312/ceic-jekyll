@@ -6,7 +6,7 @@ description: 'Be a part of financially supporting the Coalition’s grassroots m
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  style: Home
+  style: Standard
   image: "/assets/images/coalition-planning.jpg"
   alt_text: Blank placeholder image
   heading: page-title
