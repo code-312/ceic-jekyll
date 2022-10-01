@@ -59,11 +59,12 @@ sections:
 - template: green-carousel
   heading: How to get involved
   green_block:
-  - heading: Support
-    subtitle: Support our Political Education program or join an event
-    text: Ways to Support
-    type: Site Page
+  - heading: Donate
+    subtitle: Support our Policy & Advocacy work with a donation
+    text: Make a Donation
+    type: External Link
     site_page: pages/get-involved/donate.md
+    url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/
   - heading: Join
     subtitle: Join our Policy Research working groups
     text: Join a Working Group
