@@ -2,7 +2,7 @@
 layout: default
 title: Contact Us
 permalink: "/:path/:basename/"
-description: Ways to reach out and connect with the coalition
+description: Ways to reach out and connect with the Coalition
 sections:
 - template: hero
   style: Standard
@@ -12,31 +12,20 @@ sections:
   gradient: true
   alt_text: Person on laptop
 - template: text-area
-  style: Plain
-  text_area: '<h3>Email us</h3><p>CannabisEquityIL@gmail.com - <a href="CannabisEquityIL@gmail.com"
-    title="">launch email</a></p><p>and follow us on social media using #CannabisEquityIL
+  style: Two Column
+  text_area: <h3>Email us</h3><p>CannabisEquityIL@gmail.com - <a href="CannabisEquityIL@gmail.com"
+    title="">launch email</a></p>
+  heading: Ways to Connect
+  column_two: '<h3>Social Media</h3><p>Follow us on <a href="" title="">Instagram</a>,
+    <a href="https://www.facebook.com/CannaEquityIL/?ref=page_internal" title="">Facebook</a>,
+    and <a href="https://twitter.com/CannaEquityIL/" title="">Twitter</a> using #CannabisEquityIL
     and #CannabisCBA</p>'
-- template: green-carousel
-  heading: How to get involved
-  green_block:
-  - heading: Insta
-    subtitle: "Keep up to date on events and programming. \n#CannabisJusticeNow #CannabisEquityIL
-      #SupportLocalWeed"
-    text: Our Instagram
-    type: External Link
-    url: https://www.instagram.com/CannaEquityIL/
-  - heading: Facebook
-    subtitle: "Share your voice and RSVP to events. \n#CannabisCBA \n#CannabisEquityIL"
-    text: Our FB page
-    type: External Link
-    url: https://www.facebook.com/CannaEquityIL/?ref=page_internal
-  - heading: Twitter
-    subtitle: |-
-      Tweet along with us.
-      #CannabisJusticeNow #CannabisEquityIL #SupportLocalWeed
-    text: Our Twitter
-    type: External Link
-    url: https://twitter.com/CannaEquityIL/
+- template: line
+  style: Dotted
+- template: text-area
+  style: Plain
+  text_area: "<h2>Social Media</h2><p>and follow us on social media using #CannabisEquityIL
+    and #CannabisCBA</p>"
 
 ---
 <main class="container">
