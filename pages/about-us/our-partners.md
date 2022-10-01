@@ -41,13 +41,13 @@ sections:
     Cannabis Training Center</a></p></li></ul>
   heading: Community Partners
 - template: text-area
-  style: Plain
-  text_area: <h3><strong>Expungement &amp; Legal Aid Partners</strong></h3><ul><li><p><a
-    href="https://nationalexpungementweek.org/">National Expungement Week</a></p></li><li><p><a
-    href="https://www.legalaidchicago.org/">Legal Aid Chicago</a></p></li><li><p><a
+  style: Two Column
+  text_area: <ul><li><p><a href="https://nationalexpungementweek.org/">National Expungement
+    Week</a></p></li><li><p><a href="https://www.legalaidchicago.org/">Legal Aid Chicago</a></p></li><li><p><a
     href="https://www.cgla.net/">Cabrini Green Legal Aid</a></p></li><li><p><a href="https://newleafillinois.org/s/">New
     Leaf Illinois</a></p></li><li><p><a href="https://www.herballegal.co/">Herbal
     Legal</a></p></li></ul>
+  heading: Expungement & Legal Aid Partners
 - template: text-area
   style: Plain
   text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
