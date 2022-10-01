@@ -8,11 +8,14 @@ permalink: "/:path/:basename/"
 sections:
 - template: hero
   style: Standard
-  image: "/assets/images/placehold/1440x544.png"
-  alt_text: Blank placeholder image
-  heading: page-title
-  subtitle: page-description
+  image: "/assets/images/cytonn-photography-n95vmlxqm2i-unsplash.jpg"
+  alt_text: Handshake between two people
+  heading: Partners & Resources
+  subtitle: 'The Coalition would not be where it is today without our partners. We
+    are incredibly grateful for the relationships we’ve built along the way with these
+    trusted organizations. '
   gradient: true
+  margin_color: true
 - template: text-area
   text_area: '<h2>Partner Organizations</h2><p>The Coalition would not be where it
     is today without our partners. We are incredibly grateful for the relationships
