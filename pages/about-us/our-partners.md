@@ -29,9 +29,7 @@ sections:
     &amp; Medicine / Jean &amp; Jane</a></p></li><li><p><a href="https://www.organizedcommunities.org/">Organized
     Communities Against Deportation</a></p></li><li><p><a href="https://www.chicagonorml.org/">Chicago
     NORML</a></p></li><li><p><a href="https://home.equityempower.org/">Social Equity
-    Empowerment Network</a></p><p></p></li></ul>
-  style: Two Column
-  column_two: <blockquote><pre><code></code></pre></blockquote><ul><li><p><a href="https://www.eatchicago.org/">Equity
+    Empowerment Network</a></p></li><li><p><a href="https://www.eatchicago.org/">Equity
     And Transformation</a></p></li><li><p><a href="http://google.com/">PURE Coalition</a></p></li><li><p><a
     href="https://www.illinoisequitystaffing.com/">IL Equity Staffing</a></p></li><li><p><a
     href="https://www.thcstaffinggroup.com/">THC Staffing Group</a></p></li><li><p><a
@@ -39,7 +37,9 @@ sections:
     href="https://endmoneybond.org/">Coalition to End Money Bond</a></p></li><li><p><a
     href="https://endmoneybond.org/illinois-network-for-pretrial-justice/">Illinois
     Network for Pretrial Justice</a></p></li><li><p><a href="https://www.illinoiscannabistrainingcenter.com/">Illinois
-    Cannabis Training Center</a></p></li></ul>
+    Cannabis Training Center</a></p><p></p></li></ul>
+  style: Two Column
+  column_two: "<blockquote><pre><code></code></pre></blockquote>"
   heading: ''
 - template: text-area
   style: Two Column
