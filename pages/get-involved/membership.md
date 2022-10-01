@@ -19,12 +19,9 @@ sections:
     change, and advocating for Community Benefits Agreements for cannabis businesses.</p>"
 - template: text-area
   style: Splashy
-  text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
-    adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
-    hendrerit dolor. Lacus vestibulum sed arcu non odio euismod lacinia at. Pharetra
-    magna ac placerat vestibulum lectus mauris ultrices eros. Pharetra magna ac placerat
-    vestibulum. Orci eu lobortis elementum nibh tellus. Libero nunc consequat interdum
-    varius sit.</p>"
+  text_area: "<h2>Grassroots Supporter<br>$4.20/month or $50/annually</h2><ul><li><p>Curated
+    member newsletter with playlists, infused recipes, interviews, and more</p></li><li><p>Exclusive
+    member sessions with Movement and Medicine</p></li></ul>"
 - template: image
   image: "/assets/images/cannaequitymembership-tiers-1024x1024.png"
   alt_text: 'Image of membership options: grassroots supporter for $4.20 a month,
