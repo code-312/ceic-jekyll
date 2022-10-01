@@ -10,7 +10,7 @@ sections:
   style: Standard
   image: "/assets/images/placehold/1440x544.png"
   alt_text: Blank placeholder image
-  heading: Our Impact Reports
+  heading: Our Impact
   subtitle: It’s been another year of growth for the Coalition, and we remain steadfast
     in our mission to end the War on Drugs and achieve true justice for our communities.
   gradient: true
