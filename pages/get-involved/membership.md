@@ -29,6 +29,15 @@ sections:
     membership</p></li><li><p>Curated member newsletter with playlists, infused recipes,
     interviews, and more</p></li><li><p>Exclusive member sessions with Movement and
     Medicine</p></li></ul>"
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Lorem ipsum
+  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  button_or_links: []
+  site_page: []
 - template: text-area
   style: Splashy
   text_area: "<h3>Equity Champion<br>$15/month or $120/annually</h3><ul><li><p>Individual
