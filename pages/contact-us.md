@@ -19,9 +19,10 @@ sections:
     type: External Link
     url: https://www.facebook.com/CannaEquityIL/?ref=page_internal
   - heading: Twitter
-    subtitle: 'Through grassroots organizing, community programs, & advocacy, we fight
-      for justice & equity in IL. #CannabisJusticeNow #CannabisEquityIL #SupportLocalWeed'
-    text: Twitter page
+    subtitle: |-
+      Tweet along with us.
+      #CannabisJusticeNow #CannabisEquityIL #SupportLocalWeed
+    text: Our Twitter
     type: External Link
     url: https://twitter.com/CannaEquityIL/
 
