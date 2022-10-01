@@ -24,7 +24,7 @@ sections:
     member sessions with Movement and Medicine</p></li></ul>"
 - template: text-area
   style: Splashy
-  text_area: "<h3>Equity Champion<br>$15/month or $120/annual</h3><ul><li><p>Access
+  text_area: "<h3>Equity Champion<br>$15/month or $120/annually</h3><ul><li><p>Access
     to exclusive events co-hosted by Coalition equity partners</p></li><li><p>Discounts
     on Coalition merch and events</p></li><li><p>Curated member newsletter with playlists,
     infused recipes, interviews, and more</p></li><li><p>Exclusive member sessions
