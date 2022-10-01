@@ -17,12 +17,12 @@ sections:
 - template: quick-links
   heading: Quick Links
   quick_links:
-  - icon: bill
+  - icon: house
     type: External Link
     site_page: pages/about-us/our-partners.md
     text: Illinois Cannabis Unions
     url: https://www.ilcannabisunions.com/
-  - icon: bill
+  - icon: house
     text: Chicago Cannabis Information Center
     type: External Link
     url: https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html
