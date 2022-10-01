@@ -13,11 +13,11 @@ sections:
   subtitle: page-description
   gradient: true
 - template: text-area
-  text_area: "<h2>Become a Member</h2><p>The Coalition is a member-supported movement.
-    Monthly and annual donations help us continue the work of cannabis justice that
-    includes record clearing programming, increasing opportunities for black and brown
-    business ownership, fighting for investment in our communities through policy
-    change, and advocating for Community Benefits Agreements for cannabis businesses.</p>"
+  text_area: "<h2>A member-supported movement</h2><p>Monthly and annual donations
+    help us continue the work of cannabis justice that includes record clearing programming,
+    increasing opportunities for black and brown business ownership, fighting for
+    investment in our communities through policy change, and advocating for Community
+    Benefits Agreements for cannabis businesses.</p>"
 - template: text-area
   style: Splashy
   text_area: "<h3>Grassroots Supporter<br>$4.20/month or $50/annually</h3><ul><li><p>Curated
