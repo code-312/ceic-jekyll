@@ -86,7 +86,13 @@ sections:
     allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture;
     web-share" allowFullScreen="true"></iframe>
   heading: Expungement 101 with Legal Aid Chicago
-  text: Learn about facts and processes around expungement through our collaboration
-    with Legal Aid Chicago.
+  text: |-
+    Learn about facts and processes around expungement through our collaboration with Legal Aid Chicago.
+
+    Topics covered include:
+    RAP Sheets
+    Adult Records
+    Cannabis Charges
+    Juvenile Expungement
 
 ---
