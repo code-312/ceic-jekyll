@@ -19,7 +19,7 @@ sections:
   quick_links:
   - icon: video
 - template: text-area
-  style: Flashy
+  style: Splashy
   text_area: "<h2>Partner Organizations</h2><p>The Coalition would not be where it
     is today without our partners. We are incredibly grateful for the relationships
     we’ve built with all of the listed organizations, and encourage you to plug in
