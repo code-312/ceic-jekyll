@@ -31,7 +31,7 @@ sections:
     NORML</a></p></li><li><p><a href="https://home.equityempower.org/">Social Equity
     Empowerment Network</a></p><p></p></li></ul>
   style: Two Column
-  column_two: <p></p><p></p><ul><li><p><a href="https://www.eatchicago.org/">Equity
+  column_two: <p></p><pre><code>&lt;br&gt;&lt;br&gt;</code></pre><ul><li><p><a href="https://www.eatchicago.org/">Equity
     And Transformation</a></p></li><li><p><a href="http://google.com/">PURE Coalition</a></p></li><li><p><a
     href="https://www.illinoisequitystaffing.com/">IL Equity Staffing</a></p></li><li><p><a
     href="https://www.thcstaffinggroup.com/">THC Staffing Group</a></p></li><li><p><a
