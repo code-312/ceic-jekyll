@@ -30,6 +30,15 @@ sections:
     text: Chicago Cannabis Information Center
     type: External Link
     url: https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html
+- template: card-with-image
+  image: "/assets/images/our-work/policy-and-advocacy/political-education.png"
+  heading: Partner Organizations
+  paragraph: The Coalition would not be where it is today without our partners. We
+    are incredibly grateful for the relationships we’ve built with all of the listed
+    organization, and encourage you to plug in with our partners!
+  site_page: []
+  alt_text: Resource fair with partner booths
+  button_or_links: none
 - template: banner
   style: purple
   site_page: []
@@ -78,14 +87,6 @@ sections:
   - text: Illinois Cannabis Unions
     type: External Link
     url: https://www.ilcannabisunions.com/
-- template: text-area
-  style: Plain
-  text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
-    the City of Chicago and State of Illinois have published about cannabis.</p><ul><li><p><a
-    href="https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html">City
-    of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
-    R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
-    Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
 - template: card-with-image
   image: "/assets/images/patrick-fore-h5lf0ngyetk-unsplash.jpg"
   alt_text: Interior of a city building with vaulted ceilings and columns
