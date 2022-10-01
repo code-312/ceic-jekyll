@@ -52,16 +52,6 @@ sections:
   heading: ''
 - template: line
   style: Dashed
-- template: text-area
-  style: Plain
-  text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
-    the City of Chicago and State of Illinois have published about cannabis.</p><ul><li><p><a
-    href="https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html">City
-    of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
-    R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
-    Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
-- template: line
-  style: Solid
 - template: card-with-image
   image: "/assets/images/romain-dancre-doplsdelx7e-unsplash.jpg"
   alt_text: People signing papers
@@ -76,5 +66,15 @@ sections:
   - text: Illinois Cannabis Unions
     type: External Link
     url: https://www.ilcannabisunions.com/
+- template: text-area
+  style: Plain
+  text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
+    the City of Chicago and State of Illinois have published about cannabis.</p><ul><li><p><a
+    href="https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html">City
+    of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
+    R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
+    Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
+- template: line
+  style: Solid
 
 ---
