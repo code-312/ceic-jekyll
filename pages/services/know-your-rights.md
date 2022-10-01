@@ -5,6 +5,16 @@ description: We need communities to know how their rights have changed with lega
   cannabis.
 permalink: "/:path/:basename/"
 sections:
+- template: hero
+  style: Standard
+  image: "/assets/images/20220326_111536_08.jpg"
+  alt_text: Image of the Coalition helping share Know Your Rights resources as a fair.
+    The image includes three people, one of which is behind a table with the Coalition's
+    logo on it.
+  heading: page-title
+  subtitle: We need communities to know how their rights have changed with legalized
+    cannabis
+  gradient: true
 - template: text-area
   text_area: <h2>Know Your Rights!</h2><p>We need communities to know how their rights
     have changed with legalized cannabis.</p><p>We focus on providing legal education
@@ -21,15 +31,5 @@ sections:
     production of online resources, DM us <a href="https://www.facebook.com/CannaEquityIL"
     target="_blank">@CannaEquityIL</a> or <a href="https://www.cannabisequityil.org/contact"
     target="_blank">email</a></p>
-- template: hero
-  style: Standard
-  image: "/assets/images/20220326_111536_08.jpg"
-  alt_text: Image of the Coalition helping share Know Your Rights resources as a fair.
-    The image includes three people, one of which is behind a table with the Coalition's
-    logo on it.
-  heading: page-title
-  subtitle: We need communities to know how their rights have changed with legalized
-    cannabis
-  gradient: true
 
 ---
