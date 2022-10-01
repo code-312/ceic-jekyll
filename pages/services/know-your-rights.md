@@ -26,5 +26,11 @@ sections:
     resources and hosting events on expungement, and promoting awareness of newly
     developing legal vulnerabilities or protections afforded for the use of cannabis.</p></li><li><p>Online
     resources and videos</p></li></ul>"
+- template: text-area
+  style: Flashy
+  text_area: <p>If you are interested in supporting this mission by hosting an event,
+    sponsoring printing of crutch cards, or providing production of online resources,
+    DM us <a href="https://www.facebook.com/CannaEquityIL">@CannaEquityIL</a> or <a
+    href="https://www.cannabisequityil.org/contact">email</a></p>
 
 ---
