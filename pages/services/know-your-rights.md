@@ -36,7 +36,7 @@ sections:
   type: External Link
   url: https://www.prevention.org/lets-talk-cannabis/the-law/
 - template: card-with-image
-  image: "/assets/images/kyr5.jpeg"
+  image: "/assets/images/kyr6.jpg"
   alt_text: Blank placeholder image
   paragraph: If you are interested in supporting this mission by hosting an event,
     sponsoring printing of crutch cards, or providing production of online resources,
