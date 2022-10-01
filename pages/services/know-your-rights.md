@@ -52,5 +52,21 @@ sections:
   text: Learn more
   type: External Link
   url: https://www.prevention.org/lets-talk-cannabis/the-law/
+- template: card-with-image
+  image: "/assets/images/kyr5.jpeg"
+  alt_text: Blank placeholder image
+  heading: We focus on providing legal education and support under the new laws to
+    ensure everyone is staying safe.
+  paragraph: |-
+    We support this mission through:
+
+    Creating educational resources like our crutch cards, designed to inform the public of continued prohibited situations for the possession and consumption of cannabis.
+
+    Live workshops with partners Legal Aid Chicago &Herbal Legal on how cannabis can impact your housing, employment, and immigration status. Check them out in our partners section!
+
+    Sharing resources and hosting events on expungement, and promoting awareness of newly developing legal vulnerabilities or protections afforded for the use of cannabis.
+
+    Online resources and videos
+  site_page: []
 
 ---
