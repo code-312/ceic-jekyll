@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Membership
-description: will this work
+description: 'Become a member and support the Coalition’s grassroots movement to ensure
+  the cannabis industry is equitable for all. '
 permalink: "/:path/:basename/"
 sections:
 - template: hero
