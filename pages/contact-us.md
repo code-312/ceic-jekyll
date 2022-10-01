@@ -6,7 +6,7 @@ description: Ways to reach out and connect with the Coalition
 sections:
 - template: hero
   style: Standard
-  image: "/assets/images/computer-1280x854.jpg"
+  image: "/assets/images/computer-6720x4480.jpg"
   heading: Contact Us
   subtitle: page-description
   gradient: true
