@@ -40,6 +40,8 @@ sections:
   text_area: "<h2>Previous Reports</h2><p>2020 Impact Report</p>"
 - template: text-area
   style: Plain
-  text_area: "<h2>Our 2021 Impact Report</h2>"
+  text_area: "<h2>Our 2021 Impact Report</h2><p>Check out the Coalition’s 2021 Impact
+    Report! In this report, we highlight all of the Coalition’s work for the last
+    12 months, and the impact we made.</p>"
 
 ---

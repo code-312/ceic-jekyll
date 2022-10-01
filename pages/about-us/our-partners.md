@@ -49,11 +49,11 @@ sections:
     Legal</a></p></li></ul>
   heading: Expungement & Legal Aid Partners
 - template: text-area
-  style: Plain
-  text_area: <h2><strong>National Partners</strong></h2><ul><li><p><a href="https://wocc.world/">Women
-    of Color in Cannabis</a></p></li><li><p><a href="https://massreccouncil.com/">Massachusetts
-    Recreational Consumer Council</a></p></li><li><p><a href="https://www.hoodincubator.org/">The
-    Hood Incubator</a></p></li></ul><p></p>
+  style: Two Column
+  text_area: <ul><li><p><a href="https://wocc.world/">Women of Color in Cannabis</a></p></li><li><p><a
+    href="https://massreccouncil.com/">Massachusetts Recreational Consumer Council</a></p></li><li><p><a
+    href="https://www.hoodincubator.org/">The Hood Incubator</a></p></li></ul><p></p>
+  heading: National Partners
 - template: text-area
   style: Plain
   text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
