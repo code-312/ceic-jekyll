@@ -68,8 +68,9 @@ sections:
   - heading: Join
     subtitle: Join our Policy Research working groups
     text: Join a Working Group
-    type: Site Page
+    type: External Link
     site_page: pages/get-involved/volunteer.md
+    url: https://docs.google.com/forms/d/e/1FAIpQLScLS52BiGAslDTJ5orW6i2JnMAIo4iHjdFWj_2iViKn3RwiVQ/viewform
   - heading: Member
     subtitle: become an equity member to support this work
     type: Site Page
