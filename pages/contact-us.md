@@ -4,6 +4,11 @@ title: Contact Us
 permalink: "/:path/:basename/"
 description: Ways to reach out and connect with the coalition
 sections:
+- template: text-area
+  style: Plain
+  text_area: '<h1>Contact </h1><h3>Email us</h3><p>CannabisEquityIL@gmail.com - <a
+    href="CannabisEquityIL@gmail.com" title="">launch email</a></p><p>and follow us
+    on social media using #CannabisEquityIL and #CannabisCBA</p>'
 - template: green-carousel
   heading: How to get involved
   green_block:
