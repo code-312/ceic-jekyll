@@ -8,10 +8,9 @@ sections:
   heading: How to get involved
   green_block:
   - heading: Instagram
-    subtitle: |-
-      Keep up to date on events and programming. #CannabisJusticeNow #CannabisEquityIL #SupportLocalWeed
-      linktr.ee/Cannaequityil
-    text: Instagram page
+    subtitle: "Keep up to date on events and programming. \n#CannabisJusticeNow #CannabisEquityIL
+      #SupportLocalWeed"
+    text: Our Insta
     type: External Link
     url: https://www.instagram.com/CannaEquityIL/
   - heading: Facebook
