@@ -2,6 +2,21 @@
 layout: default
 title: Contact Us
 permalink: "/:path/:basename/"
+description: Ways to reach out and connect with the coalition
+sections:
+- template: green-carousel
+  heading: How to get involved
+  green_block:
+  - heading: Instagram
+    subtitle: Keep up to date on events and programming
+    text: "@Cannaequityil"
+    type: External Link
+    url: https://www.instagram.com/CannaEquityIL/
+  - heading: Facebook
+    subtitle: Share your voice and RSVP to events
+    text: Canna Equity IL
+    type: External Link
+    url: https://www.facebook.com/CannaEquityIL/?ref=page_internal
 
 ---
 <main class="container">
