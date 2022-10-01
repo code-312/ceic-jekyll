@@ -49,7 +49,9 @@ sections:
     type: Site Page
     url: https://www.cannabisequityil.org/contact
     site_page: pages/contact-us.md
-  - {}
+  - text: "@CannaEquityIL"
+    type: External Link
+    url: https://www.facebook.com/CannaEquityIL
 - template: text-area
   style: Flashy
   text_area: <p>If you are interested in supporting this mission by hosting an event,
