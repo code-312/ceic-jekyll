@@ -92,9 +92,10 @@ sections:
     a resource fair. The members are standing in front of tables with their logos
     on them.
   heading: Legal Aid Partners
-  paragraph: 'The Coalition partners with legal aids organizations across the state
-    to support record clearing, with greater emphasis in Chicagoland. You can also
-    utilize online support through our partners here:'
+  paragraph: |2-
+
+
+    The Coalition partners with legal aids organizations across the state to support record clearing, with greater emphasis in Chicagoland. You can also utilize online support through our partners here:
   site_page: []
   button_or_links: links
   links:
