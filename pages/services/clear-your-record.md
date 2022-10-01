@@ -110,8 +110,8 @@ sections:
   button_or_links: links
   links:
   - type: External Link
-    url: https://pslegal.org/
-    text: Prairie State Legal Aid
+    url: https://newleafillinois.org/s/
+    text: New Leaf Illinois
   - type: External Link
     url: https://www.cgla.net/get-legal-help
     text: Cabrini-Green Legal Aid
@@ -124,5 +124,8 @@ sections:
   - text: Illinois Legal Aid Online
     type: External Link
     url: https://www.illinoislegalaid.org/legal-information/expunging-or-sealing-criminal-record
+  - type: External Link
+    url: https://pslegal.org/
+    text: Prairie State Legal Aid
 
 ---
