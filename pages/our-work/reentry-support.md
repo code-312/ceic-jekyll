@@ -13,7 +13,7 @@ sections:
   subtitle: CEIC supports community members with system involvement throughout the
     reentry process with record clearing, wraparound resources, and more, to ensure
     they have everything they need to be prosperous and whole.
-  gradient: false
+  gradient: true
   margin_color: false
   style: Standard
 - template: quick-links
