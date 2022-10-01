@@ -80,11 +80,5 @@ sections:
   - type: External Link
     url: https://newleafillinois.org/s/
     text: New Leaf Illinois
-- template: text-area
-  style: Plain
-  text_area: "<p></p>"
-  column_two: "<p>Despite the COVID-19 pandemic the Coalition successfully hosted
-    more events for National Expungement Week 2020.</p><p>If you are in need of expungement
-    support, please reach out to the Coalition CannabisEquityIL@gmail.com.</p>"
 
 ---
