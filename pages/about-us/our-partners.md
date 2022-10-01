@@ -18,6 +18,10 @@ sections:
   heading: Quick Links
   quick_links:
   - icon: house
+    text: Legal Aid Chicago
+    type: External Link
+    url: https://www.legalaidchicago.org/
+  - icon: house
     type: External Link
     site_page: pages/about-us/our-partners.md
     text: Illinois Cannabis Unions
