@@ -61,5 +61,15 @@ sections:
     out our Expungement 101 webinar, here!</em></strong></a></p><p><a href="https://www.facebook.com/watch/?v=1262070770807141"><strong><em>Check
     out our Virtual Wraparound Reentry Resource Fair, here!</em></strong></a></p><p>If
     you are in need of expungement support, please reach out to the Coalition CannabisEquityIL@gmail.com.</p>
+- template: text-area
+  style: Flashy
+  text_area: "<h2>What We Believe</h2><p>The Cannabis Equity Illinois Coalition believes
+    that if Illinois is going to address the injustices of prohibition, then everyone
+    who has a criminal record for a cannabis offense should have their record cleared
+    immediately. </p><p>We strongly believe in utilizing technology to support this
+    work, and fully support the use of automatic expungement in Illinois. The Coalition
+    also supports the transition to E-Filing, so that someone can submit their petition
+    for expungement using a computer.</p><p>The Coalition believes in expunging cannabis
+    records as widely as possible, especially those that are not ‘Stand-alone’ offenses.</p>"
 
 ---
