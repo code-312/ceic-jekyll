@@ -51,9 +51,6 @@ sections:
     and connect with an expungement attorney, FOR FREE!</p>
 - template: line
   style: Dotted
-- template: text-area
-  style: Plain
-  text_area: "<p></p>"
 - template: card-with-image
   image: "/assets/images/group-new2020-1.png"
   alt_text: An image of Legal Aid Chicago and Cannabis Equity Illinois Coalition at

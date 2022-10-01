@@ -58,12 +58,12 @@ sections:
   style: Dotted
 - template: text-area
   style: Two Column
-  text_area: '<h2>Illinois Cannabis Unions</h2><p class="has-text-align-left">As part
+  text_area: '<h3>Illinois Cannabis Unions</h3><p class="has-text-align-left">As part
     of the Cannabis Regulation and Tax Act, those applying for cannabis business licenses
     from the State can earn additional points towards their license by signing a labor
     peace agreement.<br><br>Learn more about what labor peace agreements and about
     the participating unions here: <a href="https://www.ilcannabisunions.com/" title="https://www.ilcannabisunions.com/">https://www.ilcannabisunions.com/</a></p>'
-  column_two: <h2>City &amp; State Resources</h2><p>Check out some of the resources
+  column_two: <h3>City &amp; State Resources</h3><p>Check out some of the resources
     the City of Chicago and State of Illinois have published about cannabis.</p><ul><li><p><a
     href="https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html">City
     of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
