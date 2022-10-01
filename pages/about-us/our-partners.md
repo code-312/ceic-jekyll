@@ -39,7 +39,12 @@ sections:
     Network for Pretrial Justice</a></p></li><li><p><a href="https://www.illinoiscannabistrainingcenter.com/">Illinois
     Cannabis Training Center</a></p><p></p></li></ul>
   style: Two Column
-  column_two: "<blockquote><pre><code></code></pre></blockquote>"
+  column_two: <h3>Expungement &amp; Legal Aid Partners</h3><ul><li><p><a href="https://nationalexpungementweek.org/">National
+    Expungement Week</a></p></li><li><p><a href="https://www.legalaidchicago.org/">Legal
+    Aid Chicago</a></p></li><li><p><a href="https://www.cgla.net/">Cabrini Green Legal
+    Aid</a></p></li><li><p><a href="https://newleafillinois.org/s/">New Leaf Illinois</a></p></li><li><p><a
+    href="https://www.herballegal.co/">Herbal Legal</a></p></li></ul><p></p><h3>National
+    Partners</h3><p></p>
   heading: ''
 - template: text-area
   style: Two Column
