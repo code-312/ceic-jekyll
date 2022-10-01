@@ -16,6 +16,12 @@ sections:
   margin_color: true
 - template: quick-links
   heading: Quick Links
+  quick_links:
+  - icon: bill
+    type: External Link
+    site_page: pages/about-us/our-partners.md
+    text: Illinois Cannabis Unions
+    url: https://www.ilcannabisunions.com/
 - template: banner
   style: purple
   site_page: []
