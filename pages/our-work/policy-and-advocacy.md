@@ -60,7 +60,7 @@ sections:
   heading: How to get involved
   green_block:
   - heading: Donate
-    subtitle: Support our Policy & Advocacy work with a donation
+    subtitle: Support our work with a donation
     text: Make a Donation
     type: External Link
     site_page: pages/get-involved/donate.md
