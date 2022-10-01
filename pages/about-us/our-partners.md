@@ -19,6 +19,12 @@ sections:
   quick_links:
   - icon: video
 - template: text-area
+  style: Plain
+  text_area: "<h2>Partner Organizations</h2><p>The Coalition would not be where it
+    is today without our partners. We are incredibly grateful for the relationships
+    we’ve built with all of the listed organizations, and encourage you to plug in
+    with our partners!</p>"
+- template: text-area
   text_area: <p>The Coalition would not be where it is today without our partners.
     We are incredibly grateful for the relationships we’ve built with all of the listed
     organizations, and encourage you to plug in with our partners!</p><h3><strong>Community
