@@ -16,6 +16,8 @@ sections:
   gradient: true
 - template: purple-carousel
   purple_block:
+  - heading: "8"
+    subtitle: Coalition working groups officially established
   - heading: "152"
     subtitle: Community members initiated expungement
 - template: text-area
