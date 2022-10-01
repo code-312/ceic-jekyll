@@ -16,15 +16,6 @@ sections:
     organizations.
   gradient: true
   margin_color: true
-- template: card-with-image
-  image: "/assets/images/our-work/policy-and-advocacy/political-education.png"
-  heading: Partner Organizations
-  paragraph: The Coalition would not be where it is today without our partners. We
-    are incredibly grateful for the relationships we’ve built with all of the listed
-    organizations, and encourage you to plug in with our partners!
-  site_page: []
-  alt_text: Resource fair with partner booths
-  button_or_links: none
 - template: text-area
   text_area: <h3>Community Partners</h3><ul><li><p><a href="https://chicagovotes.com/">Chicago
     Votes</a></p></li><li><p><a href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a
