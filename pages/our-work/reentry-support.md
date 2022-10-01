@@ -9,10 +9,13 @@ sections:
 - template: hero
   image: "/assets/images/john-towner-3kv48ns4wuu-unsplash-1.jpg"
   alt_text: A road through the forest with a large patch of light.
-  heading: page-title
-  subtitle: page-description
+  heading: Reentry Support
+  subtitle: CEIC supports community members with system involvement throughout the
+    reentry process with record clearing, wraparound resources, and more, to ensure
+    they have everything they need to be prosperous and whole.
   gradient: false
   margin_color: false
+  style: Standard
 - template: quick-links
   quick_links:
   - text: Expungement
