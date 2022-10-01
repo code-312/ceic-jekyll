@@ -39,14 +39,6 @@ sections:
 - template: text-area
   style: Splashy
   text_area: "<h3>Entrepreneur<br>$250/annually</h3><ul><li><p>Corporate membership</p></li><li><p></p></li></ul>"
-- template: image
-  image: "/assets/images/cannaequitymembership-tiers-1024x1024.png"
-  alt_text: 'Image of membership options: grassroots supporter for $4.20 a month,
-    and equity champion for $15 a month.'
-- template: image
-  image: "/assets/images/new-3-1024x576.png"
-  alt_text: 'Corporate Membership Options: Entrepreneur for $250 a year, small business
-    for $1000 to $5000 a year, and corporate for $5000+ a year.'
 - template: quick-links
   quick_links:
   - icon: video
