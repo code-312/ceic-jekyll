@@ -7,7 +7,7 @@ description: CEIC supports community members with system involvement throughout 
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/john-towner-3kv48ns4wuu-unsplash-1.jpg"
+  image: "/assets/images/john-towner-3kv48ns4wuu-unsplash-2.jpg"
   alt_text: A road through the forest with a large patch of light.
   heading: Reentry Support
   subtitle: CEIC supports community members with system involvement throughout the
