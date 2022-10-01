@@ -55,7 +55,7 @@ sections:
     Hood Incubator</a></p></li></ul>
   heading: ''
 - template: line
-  style: Dotted
+  style: Dashed
 - template: text-area
   style: Plain
   text_area: '<h3>Illinois Cannabis Unions</h3><p class="has-text-align-left">As part
