@@ -13,7 +13,7 @@ sections:
   alt_text: Person on laptop
 - template: text-area
   style: Two Column
-  text_area: <h3>Email us</h3><p>CannabisEquityIL@gmail.com - <a href="CannabisEquityIL@gmail.com"
+  text_area: <h3>Email</h3><p>CannabisEquityIL@gmail.com - <a href="CannabisEquityIL@gmail.com"
     title="">launch email</a></p>
   heading: Ways to Connect
   column_two: '<h3>Social Media</h3><p>Follow us on <a href="" title="">Instagram</a>,
