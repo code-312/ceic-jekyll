@@ -5,15 +5,6 @@ description: We work to make cannabis policy in Illinois more inclusive, transpa
   and accountable
 permalink: "/:path/:basename/"
 sections:
-- template: hero
-  image: assets/images/our-work/policy-and-advocacy/hero-policy.png
-  alt_text: State Capitol dome behind a wall
-  heading: Policy & Advocacy
-  subtitle: We work to make cannabis policy in Illinois more inclusive, transparent
-    and accountable
-  gradient: true
-  margin_color: false
-  style: Standard
 - template: quick-links
   quick_links:
   - icon: house
@@ -25,6 +16,15 @@ sections:
     type: External Link
     url: https://bit.ly/ceicpolicy
   heading: Quick Links
+- template: hero
+  image: assets/images/our-work/policy-and-advocacy/hero-policy.png
+  alt_text: State Capitol dome behind a wall
+  heading: Policy & Advocacy
+  subtitle: We work to make cannabis policy in Illinois more inclusive, transparent
+    and accountable
+  gradient: true
+  margin_color: false
+  style: Standard
 - template: purple-carousel
   heading: Policy in Action
   purple_block:
