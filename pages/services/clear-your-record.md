@@ -1,14 +1,17 @@
 ---
 layout: default
 title: Clear Your Record
-description: Clearing criminal records is a priority of the Coalition.
+description: We believe everyone who has a criminal record for a cannabis offense
+  should have their record cleared immediately
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/clearyourrecord.jpg"
-  alt_text: Blank placeholder image
+  image: "/assets/images/new19-group-2048x1536.jpeg"
+  alt_text: Image of the Coalition at National Expungement Week wearing matching blue
+    t-shirts
   heading: page-title
-  subtitle: page-description
+  subtitle: We believe everyone who has a criminal record for a cannabis offense should
+    have their record cleared immediately
   gradient: true
   margin_color: false
 - template: text-area
