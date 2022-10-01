@@ -9,7 +9,7 @@ sections:
   green_block:
   - heading: Instagram
     subtitle: Keep up to date on events and programming
-    text: "@Cannaequityil"
+    text: Instagram page
     type: External Link
     url: https://www.instagram.com/CannaEquityIL/
   - heading: Facebook
