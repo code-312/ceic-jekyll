@@ -61,7 +61,7 @@ sections:
     type: External Link
     url: https://www.youtube.com/watch?v=Foi3Hblg21s
 - template: testimonial
-  alt_text: FPO image of person
+  alt_text: Image of Jefferson Davis
   image: "/assets/images/img_20210724_214949103.jpg"
   name: Jefferson Davis
   paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
