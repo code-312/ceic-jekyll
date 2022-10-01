@@ -70,7 +70,7 @@ sections:
     R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
     Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
 - template: line
-  style: Dotted
+  style: Solid
 - template: text-area
   style: Plain
   text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
