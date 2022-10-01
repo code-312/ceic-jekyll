@@ -44,10 +44,7 @@ sections:
     Network for Pretrial Justice</a></p></li><li><p><a href="https://www.illinoiscannabistrainingcenter.com/">Illinois
     Cannabis Training Center</a></p><p></p><p></p></li></ul>
   style: Two Column
-  column_two: <h2><strong>National Partners</strong></h2><ul><li><p><a href="https://wocc.world/">Women
-    of Color in Cannabis</a></p></li><li><p><a href="https://massreccouncil.com/">Massachusetts
-    Recreational Consumer Council</a></p></li><li><p><a href="https://www.hoodincubator.org/">The
-    Hood Incubator</a></p></li></ul>
+  column_two: "<p></p>"
   heading: ''
 - template: text-area
   style: Plain
@@ -57,6 +54,14 @@ sections:
     href="https://www.cgla.net/">Cabrini Green Legal Aid</a></p></li><li><p><a href="https://newleafillinois.org/s/">New
     Leaf Illinois</a></p></li><li><p><a href="https://www.herballegal.co/">Herbal
     Legal</a></p></li></ul>
+- template: text-area
+  style: Plain
+  text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
+    the City of Chicago and State of Illinois have published about cannabis.</p><ul><li><p><a
+    href="https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html">City
+    of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
+    R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
+    Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
 - template: line
   style: Dashed
 - template: text-area
@@ -76,19 +81,9 @@ sections:
   style: Solid
 - template: text-area
   style: Plain
-  text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
-    the City of Chicago and State of Illinois have published about cannabis.</p><ul><li><p><a
-    href="https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html">City
-    of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
-    R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
-    Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
-- template: text-area
-  style: Plain
-  text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
-    adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
-    hendrerit dolor. Lacus vestibulum sed arcu non odio euismod lacinia at. Pharetra
-    magna ac placerat vestibulum lectus mauris ultrices eros. Pharetra magna ac placerat
-    vestibulum. Orci eu lobortis elementum nibh tellus. Libero nunc consequat interdum
-    varius sit.</p>"
+  text_area: <h2><strong>National Partners</strong></h2><ul><li><p><a href="https://wocc.world/">Women
+    of Color in Cannabis</a></p></li><li><p><a href="https://massreccouncil.com/">Massachusetts
+    Recreational Consumer Council</a></p></li><li><p><a href="https://www.hoodincubator.org/">The
+    Hood Incubator</a></p></li></ul><p></p>
 
 ---
