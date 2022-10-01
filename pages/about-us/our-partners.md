@@ -50,6 +50,8 @@ sections:
     href="https://massreccouncil.com/">Massachusetts Recreational Consumer Council</a></p></li><li><p><a
     href="https://www.hoodincubator.org/">The Hood Incubator</a></p></li></ul><p></p>
   heading: ''
+- template: line
+  style: Dashed
 - template: text-area
   style: Plain
   text_area: '<h3>Illinois Cannabis Unions</h3><p class="has-text-align-left">As part
@@ -63,8 +65,6 @@ sections:
     of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
     R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
     Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
-- template: line
-  style: Dashed
 - template: text-area
   style: Plain
   text_area: <h2>City &amp; State Resources</h2><p>Check out some of the resources
@@ -75,5 +75,19 @@ sections:
     Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>
 - template: line
   style: Solid
+- template: card-with-image
+  image: "/assets/images/placehold/544x320.png"
+  alt_text: Blank placeholder image
+  heading: Lorem ipsum
+  paragraph: |-
+    As part of the Cannabis Regulation and Tax Act, those applying for cannabis business licenses from the State can earn additional points towards their license by signing a labor peace agreement.
+
+    Learn more about what labor peace agreements and about the participating unions here: https://www.ilcannabisunions.com/
+  site_page: []
+  button_or_links: links
+  links:
+  - text: Illinois Cannabis Unions
+    type: External Link
+    url: https://www.ilcannabisunions.com/
 
 ---
