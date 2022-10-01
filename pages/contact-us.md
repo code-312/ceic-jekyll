@@ -7,10 +7,10 @@ sections:
 - template: green-carousel
   heading: How to get involved
   green_block:
-  - heading: Instagram
+  - heading: Insta
     subtitle: "Keep up to date on events and programming. \n#CannabisJusticeNow #CannabisEquityIL
       #SupportLocalWeed"
-    text: Our Insta
+    text: Our Instagram
     type: External Link
     url: https://www.instagram.com/CannaEquityIL/
   - heading: Facebook
