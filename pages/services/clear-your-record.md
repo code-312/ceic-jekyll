@@ -74,11 +74,15 @@ sections:
   style: Dotted
 - template: text-area
   style: Plain
-  text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
-    adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
-    hendrerit dolor. Lacus vestibulum sed arcu non odio euismod lacinia at. Pharetra
-    magna ac placerat vestibulum lectus mauris ultrices eros. Pharetra magna ac placerat
-    vestibulum. Orci eu lobortis elementum nibh tellus. Libero nunc consequat interdum
-    varius sit.</p>"
+  text_area: <h2>What We Do</h2><p>The Coalition organizes events quarterly in Chicago,
+    along with annual events for <a href="https://nationalexpungementweek.org/">National
+    Expungement Week</a>. We hope to expand our impact outside of Chicagoland, and
+    to partner with organizations across the state to host events. Please reach out
+    if your organization in interested in partnering!</p><p>The Coalition got involved
+    in National Expungement Week in 2019, having been introduced to NEW through our
+    partners in Boston, the <a href="https://massreccouncil.com/">Massachusetts Recreational
+    Consumer Council</a>. The Coalition hosted events in Back of the Yards and North
+    Lawndale, where community members were able to learn about the expungement process
+    and connect with an expungement attorney, FOR FREE!</p>
 
 ---
