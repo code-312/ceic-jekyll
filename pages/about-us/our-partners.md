@@ -14,6 +14,8 @@ sections:
   subtitle: Organizations we trust to help our community
   gradient: true
   margin_color: true
+- template: quick-links
+  heading: Quick Links
 - template: banner
   style: purple
   site_page: []
@@ -21,13 +23,6 @@ sections:
   paragraph: The Coalition would not be where it is today without our partners. We
     are incredibly grateful for the relationships we’ve built with all of the listed
     organization, and encourage you to plug in with our partners!
-- template: text-area
-  style: Two Column
-  text_area: "<p>The Coalition would not be where it is today without our partners.
-    We are incredibly grateful for the relationships we’ve built with all of the listed
-    organizations.</p><p>We encourage you to plug in with our partners!</p>"
-  heading: Partner Organizations
-  column_two: "<p></p>"
 - template: text-area
   text_area: <h3>Community Partners</h3><ul><li><p><a href="https://chicagovotes.com/">Chicago
     Votes</a></p></li><li><p><a href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a
