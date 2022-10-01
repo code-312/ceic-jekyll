@@ -59,7 +59,7 @@ sections:
 - template: green-carousel
   heading: How to get involved
   green_block:
-  - heading: Donate
+  - heading: Give
     subtitle: Support our work with a donation
     text: Make a Donation
     type: External Link
