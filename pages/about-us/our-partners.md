@@ -11,9 +11,8 @@ sections:
   image: "/assets/images/cytonn-photography-n95vmlxqm2i-unsplash.jpg"
   alt_text: Handshake between two people
   heading: Partners & Resources
-  subtitle: The Coalition would not be where it is today without our partners. We
-    are incredibly grateful for the relationships we’ve built with all of the listed
-    organizations.
+  subtitle: 'We are incredibly grateful for the relationships we’ve built, the Coalition
+    would not be where it is today without our partners. '
   gradient: true
   margin_color: true
 - template: text-area
