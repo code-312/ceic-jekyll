@@ -52,12 +52,6 @@ sections:
   - text: "@CannaEquityIL"
     type: External Link
     url: https://www.facebook.com/CannaEquityIL
-- template: text-area
-  style: Flashy
-  text_area: <p>If you are interested in supporting this mission by hosting an event,
-    sponsoring printing of crutch cards, or providing production of online resources,
-    DM us <a href="https://www.facebook.com/CannaEquityIL">@CannaEquityIL</a> or <a
-    href="https://www.cannabisequityil.org/contact">email</a></p>
 - template: banner
   style: purple
   site_page: []
