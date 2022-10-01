@@ -109,14 +109,17 @@ sections:
   site_page: []
   button_or_links: links
   links:
-  - type: External Link
-    url: https://lincolnlegal.org/apply-for-legal-services/
-    text: Land of Lincoln Legal Aid
+  - text: Illinois Legal Aid Online
+    type: External Link
+    url: https://www.illinoislegalaid.org/legal-information/expunging-or-sealing-criminal-record
   - type: External Link
     url: https://www.cgla.net/get-legal-help
     text: Cabrini-Green Legal Aid
   - text: 'Legal Aid Chicago '
     type: External Link
     url: https://www.legalaidchicago.org/get-help/
+  - type: External Link
+    url: https://lincolnlegal.org/apply-for-legal-services/
+    text: Land of Lincoln Legal Aid
 
 ---
