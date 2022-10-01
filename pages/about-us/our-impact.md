@@ -24,10 +24,10 @@ sections:
     subtitle: Community members initiated expungement
   heading: 2021 Impact at a Glance
 - template: text-area
-  text_area: "<p>Check out the Coalition’s 2021 Impact Report! In this report, we
-    highlight all of the Coalition’s work for the last 12 months, and the impact we
-    made.</p>"
   style: Plain
+  text_area: "<h2>Our 2021 Impact Report</h2><p>Check out the Coalition’s 2021 Impact
+    Report! In this report, we highlight all of the Coalition’s work for the last
+    12 months, and the impact we made.</p>"
 - template: embed
   code: |-
     <iframe style="width: 100%; height: 600px" src="https://www.canva.com/design/DAEyvLK9lOI/HJo00X8beXliHOcKIObjzw/view?embed">
@@ -38,10 +38,5 @@ sections:
 - template: text-area
   style: Flashy
   text_area: "<h2>Previous Reports</h2><p>2020 Impact Report</p>"
-- template: text-area
-  style: Plain
-  text_area: "<h2>Our 2021 Impact Report</h2><p>Check out the Coalition’s 2021 Impact
-    Report! In this report, we highlight all of the Coalition’s work for the last
-    12 months, and the impact we made.</p>"
 
 ---
