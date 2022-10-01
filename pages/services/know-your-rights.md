@@ -33,13 +33,16 @@ sections:
     DM us <a href="https://www.facebook.com/CannaEquityIL">@CannaEquityIL</a> or <a
     href="https://www.cannabisequityil.org/contact">email</a></p>
 - template: banner
-  style: purple
+  style: green
   site_page: []
   heading: POSSESSION LIMITS
   paragraph: Illinois residents can possess up to 30 grams of flower, 5 grams of cannabis
     concentrate, and less than 500mg of THC infused product.
+  text: Learn more
+  type: External Link
+  url: https://www.prevention.org/lets-talk-cannabis/the-law/
 - template: banner
-  style: green
+  style: purple
   site_page: []
   heading: WHAT TO SAY IF YOU ENCOUNTER LAW ENFORCEMENT | QUE DECIR SI TE ENCUENTRAS
     CON LA LEY
