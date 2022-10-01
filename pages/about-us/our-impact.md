@@ -34,5 +34,8 @@ sections:
 - template: text-area
   text_area: <p><a href="https://www.canva.com/design/DAEyvLK9lOI/HJo00X8beXliHOcKIObjzw/view">Coalition
     Impact Report</a> by Kay V</p>
+- template: text-area
+  style: Plain
+  text_area: "<h2>Previous Reports</h2><p>2020 Impact Rport</p>"
 
 ---
