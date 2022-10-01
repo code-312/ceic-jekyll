@@ -18,6 +18,15 @@ sections:
     increasing opportunities for black and brown business ownership, fighting for
     investment in our communities through policy change, and advocating for Community
     Benefits Agreements for cannabis businesses.</p>"
+- template: testimonial
+  alt_text: Blank placeholder image
+  name: "[Person's Name]"
+  paragraph: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  quote: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+    in culpa qui officia deserunt mollit anim id est laborum.
 - template: text-area
   style: Splashy
   text_area: "<h3>Grassroots Supporter<br>$4.20/month or $50/annually</h3><ul><li><p>Individual

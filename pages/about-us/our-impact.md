@@ -8,7 +8,7 @@ permalink: "/:path/:basename/"
 sections:
 - template: hero
   style: Standard
-  image: "/assets/images/placehold/1440x544.png"
+  image: "/assets/images/protest-5561x3707.jpg"
   alt_text: Blank placeholder image
   heading: Our Impact
   subtitle: It’s been another year of growth for the Coalition, and we remain steadfast
