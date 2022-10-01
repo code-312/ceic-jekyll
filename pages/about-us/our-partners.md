@@ -19,7 +19,7 @@ sections:
   quick_links:
   - icon: video
 - template: text-area
-  style: Flashy
+  style: Plain
   text_area: "<h2>Partner Organizations</h2><p>The Coalition would not be where it
     is today without our partners. We are incredibly grateful for the relationships
     we’ve built with all of the listed organizations, and encourage you to plug in
@@ -27,7 +27,7 @@ sections:
 - template: line
   style: Dotted
 - template: text-area
-  text_area: <h2><strong>Community Partners</strong></h2><ul><li><p><a href="https://chicagovotes.com/">Chicago
+  text_area: <h3><strong>Community Partners</strong></h3><ul><li><p><a href="https://chicagovotes.com/">Chicago
     Votes</a></p></li><li><p><a href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a
     href="https://www.theportministries.org/">Port Ministries</a></p></li><li><p><a
     href="https://www.herbalnotes.co/home">Herbal Notes</a></p></li><li><p><a href="https://www.instagram.com/movementandmedicine420/?hl=en">Movement
@@ -44,12 +44,12 @@ sections:
     Network for Pretrial Justice</a></p></li><li><p><a href="https://www.illinoiscannabistrainingcenter.com/">Illinois
     Cannabis Training Center</a></p><p></p><p></p></li></ul>
   style: Two Column
-  column_two: <h2><strong>Expungement &amp; Legal Aid Partners</strong></h2><ul><li><p><a
+  column_two: <h3><strong>Expungement &amp; Legal Aid Partners</strong></h3><ul><li><p><a
     href="https://nationalexpungementweek.org/">National Expungement Week</a></p></li><li><p><a
     href="https://www.legalaidchicago.org/">Legal Aid Chicago</a></p></li><li><p><a
     href="https://www.cgla.net/">Cabrini Green Legal Aid</a></p></li><li><p><a href="https://newleafillinois.org/s/">New
     Leaf Illinois</a></p></li><li><p><a href="https://www.herballegal.co/">Herbal
-    Legal</a></p></li></ul><h2><strong>National Partners</strong></h2><ul><li><p><a
+    Legal</a></p></li></ul><h3><strong>National Partners</strong></h3><ul><li><p><a
     href="https://wocc.world/">Women of Color in Cannabis</a></p></li><li><p><a href="https://massreccouncil.com/">Massachusetts
     Recreational Consumer Council</a></p></li><li><p><a href="https://www.hoodincubator.org/">The
     Hood Incubator</a></p></li></ul>
