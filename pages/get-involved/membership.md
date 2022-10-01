@@ -38,6 +38,8 @@ sections:
     sunt in culpa qui officia deserunt mollit anim id est laborum.
   button_or_links: button
   site_page: []
+  text: Button??
+  type: External Link
 - template: text-area
   style: Splashy
   text_area: "<h3>Equity Champion<br>$15/month or $120/annually</h3><ul><li><p>Individual

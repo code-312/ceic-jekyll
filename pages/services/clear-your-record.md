@@ -109,6 +109,9 @@ sections:
   site_page: []
   button_or_links: links
   links:
+  - text: 'Legal Aid Chicago '
+    type: External Link
+    url: https://www.legalaidchicago.org/get-help/
   - type: External Link
     url: https://www.cgla.net/get-legal-help
     text: Cabrini-Green Legal Aid
