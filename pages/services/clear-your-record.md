@@ -92,26 +92,12 @@ sections:
     a resource fair. The members are standing in front of tables with their logos
     on them.
   heading: Legal Aid Partners
-  paragraph: |-
-    The Coalition partners with legal aids organizations across the state to support record clearing, with greater emphasis in Chicagoland. You can also utilize online support through our partners here:
-
-    Cabrini-Green Legal Aid (Chicago/Cook County)
-
-    Legal Aid Chicago (Chicago/Cook County)
-
-    Land of Lincoln Legal Aid (Locations statewide)
-
-    Illinois Legal Aid Online
-
-    Prairie State Legal Aid
-
-    New Leaf Illinois (Support available statewide)
+  paragraph: 'The Coalition partners with legal aids organizations across the state
+    to support record clearing, with greater emphasis in Chicagoland. You can also
+    utilize online support through our partners here:'
   site_page: []
   button_or_links: links
   links:
-  - type: External Link
-    url: https://newleafillinois.org/s/
-    text: New Leaf Illinois
   - type: External Link
     url: https://www.cgla.net/get-legal-help
     text: Cabrini-Green Legal Aid
@@ -127,5 +113,8 @@ sections:
   - type: External Link
     url: https://pslegal.org/
     text: Prairie State Legal Aid
+  - type: External Link
+    url: https://newleafillinois.org/s/
+    text: New Leaf Illinois
 
 ---
