@@ -6,6 +6,13 @@ description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
   velit esse cillum dolore eu fugiat nulla pariatur.
 permalink: "/:path/:basename/"
 sections:
+- template: hero
+  style: Standard
+  image: "/assets/images/placehold/1440x544.png"
+  alt_text: Blank placeholder image
+  heading: page-title
+  subtitle: page-description
+  gradient: true
 - template: text-area
   text_area: '<h2>Partner Organizations</h2><p>The Coalition would not be where it
     is today without our partners. We are incredibly grateful for the relationships
@@ -46,5 +53,7 @@ sections:
     of Chicago Cannabis Information Center</a></p></li><li><p><a href="https://r3.illinois.gov/">Illinois
     R3 Program Site</a></p></li><li><p><a href="https://www2.illinois.gov/dceo/CannabisEquity/Pages/default.aspx">IL
     Department of Commerce &amp; Economic Opportunity Cannabis Center</a></p></li></ul>'
+- template: quick-links
+  heading: Quick Links
 
 ---
