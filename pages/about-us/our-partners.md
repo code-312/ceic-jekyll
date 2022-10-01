@@ -14,22 +14,6 @@ sections:
   subtitle: Organizations we trust to help our community
   gradient: true
   margin_color: true
-- template: quick-links
-  heading: Quick Links
-  quick_links:
-  - icon: house
-    text: Legal Aid Chicago
-    type: External Link
-    url: https://www.legalaidchicago.org/
-  - icon: house
-    type: External Link
-    site_page: pages/about-us/our-partners.md
-    text: Illinois Cannabis Unions
-    url: https://www.ilcannabisunions.com/
-  - icon: house
-    text: Chicago Cannabis Information Center
-    type: External Link
-    url: https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html
 - template: card-with-image
   image: "/assets/images/our-work/policy-and-advocacy/political-education.png"
   heading: Partner Organizations
@@ -39,13 +23,6 @@ sections:
   site_page: []
   alt_text: Resource fair with partner booths
   button_or_links: none
-- template: banner
-  style: purple
-  site_page: []
-  heading: Partner Organizations
-  paragraph: The Coalition would not be where it is today without our partners. We
-    are incredibly grateful for the relationships we’ve built with all of the listed
-    organization, and encourage you to plug in with our partners!
 - template: text-area
   text_area: <h3>Community Partners</h3><ul><li><p><a href="https://chicagovotes.com/">Chicago
     Votes</a></p></li><li><p><a href="https://codeforchicago.org/">Code for Chicago</a></p></li><li><p><a
