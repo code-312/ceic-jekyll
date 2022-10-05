@@ -132,6 +132,14 @@ p {
   line-height: 2.4rem;
 }
 
+a {
+  color: $green-600;
+
+  &:hover {
+    color: $green-400;
+  }
+}
+
 .utility-links {
   font-size: 1.2rem;
   line-height: 2.1rem;
