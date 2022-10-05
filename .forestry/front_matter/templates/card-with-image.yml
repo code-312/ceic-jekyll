@@ -2,6 +2,20 @@
 label: Card with Image
 hide_body: true
 fields:
+- name: style
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - default
+    - fancy
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Style
 - name: image
   type: file
   config:

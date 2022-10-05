@@ -46,6 +46,7 @@ sections:
   button_or_links: button
   text: Link Here
   type: Site Page
+  style: fancy
 - template: banner
   style: green
   site_page: []
