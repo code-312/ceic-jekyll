@@ -7,7 +7,7 @@ layout: default
 title: Sample Page
 sections:
 - template: hero
-  image: "/assets/images/chip.webp"
+  image: "/assets/images/hero.webp"
   alt_text: Squirrels are the best
   heading: A lot of people don't realize that squirrels are very smart. The recent
     documentary about Chip and Dale shows how clever they are, and everyone should
