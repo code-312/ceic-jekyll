@@ -7,17 +7,16 @@ layout: default
 title: Sample Page
 sections:
 - template: hero
-  image: "/assets/images/train-tunnel.png"
-  alt_text: Blank placeholder image
-  heading: page-title
+  image: "/assets/images/chip.webp"
+  alt_text: Squirrels are the best
+  heading: A lot of people don't realize that squirrels are very smart. The recent
+    documentary about Chip and Dale shows how clever they are, and everyone should
+    watch it!
   subtitle: page-description
   gradient: false
   margin_color: false
   style: ''
   scroll_button: ''
-- template: embed
-  code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCggVLJs4LlOaE9CjF-bO59CRnJs7AUro4poud08r4NBC-pQ/viewform?embedded=true"
-    width="640" height="772" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 - template: quick-links
   heading: Quick Links
   quick_links:
@@ -33,6 +32,9 @@ sections:
     url: https://en.wikipedia.org/wiki/Squirrel
     site_page: ''
     file: ''
+- template: embed
+  code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCggVLJs4LlOaE9CjF-bO59CRnJs7AUro4poud08r4NBC-pQ/viewform?embedded=true"
+    width="640" height="772" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 - template: text-area
   text_area: "<h2>Squirrels</h2><p>Squirrels are members of the family Sciuridae,
     a family that includes small or medium-size rodents. The squirrel family includes
