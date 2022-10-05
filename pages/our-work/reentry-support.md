@@ -66,8 +66,11 @@ sections:
 - template: testimonial
   alt_text: Image of Jefferson Davis
   image: "/assets/images/jefferson.jpg"
-  name: From the community
-  paragraph: More info here about Jefferson Davis and how the Coalition helped him
+  name: From the Community
+  paragraph: Mr. Davis started the record clearing process through the Coalition by
+    attending one of our RAP Sheet Assistance Days. After attending the event he was
+    connected with legal aids, and in 2022 was notified that his record has been fully
+    cleared & sealed!
   quote: Having the expungement brings me great joy.  It allows me to let go of a
     past that no longer represents who I am.  I'm now a proud owner of my own company,
     provider for my family and mentor for my community.
