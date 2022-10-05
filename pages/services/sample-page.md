@@ -13,6 +13,11 @@ sections:
   subtitle: page-description
   gradient: false
   margin_color: false
+  style: ''
+  scroll_button: ''
+- template: embed
+  code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCggVLJs4LlOaE9CjF-bO59CRnJs7AUro4poud08r4NBC-pQ/viewform?embedded=true"
+    width="640" height="772" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 - template: quick-links
   heading: Quick Links
   quick_links:
@@ -20,23 +25,28 @@ sections:
     text: Go Pro
     type: External Link
     url: https://www.youtube.com/watch?v=Foi3Hblg21s
+    site_page: ''
+    file: ''
   - icon: bill
     text: Learn More
     type: External Link
     url: https://en.wikipedia.org/wiki/Squirrel
+    site_page: ''
+    file: ''
 - template: text-area
   text_area: "<h2>Squirrels</h2><p>Squirrels are members of the family Sciuridae,
     a family that includes small or medium-size rodents. The squirrel family includes
     tree squirrels, ground squirrels (including chipmunks and prairie dogs, among
     others), and flying squirrels. Squirrels are indigenous to the Americas, Eurasia,
     and Africa, and were introduced by humans to Australia.</p><p></p>"
-
+  style: ''
+  heading: ''
+  column_two: ''
 - template: testimonial
   alt_text: Blank placeholder image
-  name: "Fievel"
+  name: Fievel
   paragraph: A famous mouse that has a lot of squirrel friends
-  quote: "They've always given me extra cheese in exchange for any nuts I find."
+  quote: They've always given me extra cheese in exchange for any nuts I find.
   image: "/assets/images/fievel.webp"
-
 
 ---
