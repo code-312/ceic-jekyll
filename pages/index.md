@@ -36,11 +36,11 @@ sections:
   heading: Get Involved
   paragraph: |
     We welcome anyone who believes in our mission to get involved with us.
-
+    <br><br>
     If you would like to support record clearing, you can get involved in organizing events and opportunities for expungement, assist people through the expungement process, or help promote education on record clearing!
-
+    <br><br>
     If you’re a creative, we encourage you to engage with the programming of the Coalition, and use your skills to promote this work, present these programs to the public through graphic design, video, etc., and to help curate content for our social media!
-
+    <br><br>
     We are organizing events like National Expungement Week, Know Your Rights, and resource fairs. We need support to ensure those events are effective, safe, and impactful for all involved!
   site_page: pages/get-involved/membership.md
   button_or_links: button

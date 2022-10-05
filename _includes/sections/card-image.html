@@ -1,6 +1,10 @@
+{% if block.style == "fancy" %}
+<section class="card--fancy">
+{% else %}
 <section class="card card--grey">
+{% endif %}
 
-<div class="card-image-container">
+  <div class="card-image-container">
   {% include components/image-card.html link=block.image alt=block.alt_text %}
 </div>
 
