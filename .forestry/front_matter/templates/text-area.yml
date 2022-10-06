@@ -1,6 +1,7 @@
 ---
 label: Text Area
 hide_body: false
+display_field: text_area
 fields:
 - name: style
   type: select
