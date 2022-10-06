@@ -37,7 +37,7 @@ sections:
   style: ''
   image: "/assets/images/chip.webp"
   alt_text: Blank placeholder image
-  heading: 'Famous Squirrels '
+  heading: Chipmunks are also smart!
   paragraph: The recent documentary about Chip and Dale shows how clever they are,
     and everyone should watch it!
   site_page: []
