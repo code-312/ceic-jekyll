@@ -53,3 +53,14 @@ fields:
   showOnly:
     field: style
     value: Two Column
+- name: add_button
+  type: boolean
+  label: Add Button
+- name: button
+  type: include
+  config: {}
+  template: button
+  label: Button
+  showOnly:
+    field: add_button
+    value: true
