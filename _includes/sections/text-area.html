@@ -19,4 +19,13 @@
 <section class="text-area">
   {{ block.text_area }}
 {% endif %}
+{% if block.add_button %}
+{% include components/button-link--light-bg.html
+  text = block.text
+  type = block.type
+  url = block.url
+  site_page = block.site_page
+  file = block.file
+%}
+{% endif %}
 </section>
