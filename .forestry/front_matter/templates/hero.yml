@@ -1,6 +1,7 @@
 ---
 label: Hero Image
 hide_body: true
+display_field: heading
 fields:
 - name: style
   type: select
