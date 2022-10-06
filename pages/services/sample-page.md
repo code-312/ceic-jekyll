@@ -56,6 +56,12 @@ sections:
   style: ''
   heading: ''
   column_two: ''
+  add_button: true
+  text: Learn More
+  type: External Link
+  site_page: ''
+  url: https://www.youtube.com/watch?v=hFZFjoX2cGg
+  file: ''
 - template: testimonial
   alt_text: Blank placeholder image
   name: Fievel
