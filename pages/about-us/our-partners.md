@@ -64,7 +64,7 @@ sections:
   paragraph: |-
     As part of the Cannabis Regulation and Tax Act, those applying for cannabis business licenses from the State can earn additional points towards their license by signing a labor peace agreement.
 
-    Learn more about what labor peace agreements and about the participating unions here: https://www.ilcannabisunions.com/
+    Learn more about what labor peace agreements and about the participating unions here:
   site_page: []
   button_or_links: links
   links:
