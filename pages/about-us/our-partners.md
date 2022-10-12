@@ -34,8 +34,8 @@ sections:
     title="">Instituto del Progreso Latino</a></p></li><li><p><a href="https://www.pilsenneighbors.org/"
     title="">Pilsen Neighbors Community Council</a></p><p></p></li></ul>
   style: Two Column
-  column_two: <ul><li><p><a href="https://ilwomenincannabis.org/" title="">IL Women
-    in Cannabis</a></p></li><li><p><a href="https://www.aclu-il.org/en" title="">ACLU
+  column_two: <p></p><p></p><ul><li><p><a href="https://ilwomenincannabis.org/" title="">IL
+    Women in Cannabis</a></p></li><li><p><a href="https://www.aclu-il.org/en" title="">ACLU
     IL</a></p></li><li><p><a href="https://livefreeillinois.org/" title="">Live Free
     Illinois</a></p></li><li><p><a href="https://livefreeillinois.org/" title="">Soul
     and Wellness</a></p></li><li><p><a href="https://moderncompassionatecare.com/"
