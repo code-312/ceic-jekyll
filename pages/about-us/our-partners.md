@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Our Partners
-description: We are incredibly grateful for the relationships we’ve built, the Coalition
+description: We are incredibly grateful for the relationships we’ve built. The Coalition
   would not be where it is today without our partners.
 permalink: "/:path/:basename/"
 sections:
