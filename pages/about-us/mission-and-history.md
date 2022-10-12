@@ -19,15 +19,15 @@ sections:
   text_area: "<h2>Mission</h2><p>Founded in 2019, the Cannabis Equity Illinois Coalition
     is a grassroots nonprofit that advances equity in the State of Illinois by elevating
     community voices and collaborating with partners to create change in the cannabis
-    industry. We fight to make sure the legalization of cannabis in Illinois repairs
-    and reinvests in the communities most impacted by the War on Drugs, and to ensure
-    the cannabis industry prioritizes people over profits.</p>"
+    industry.&lt;br&gt; We fight to make sure the legalization of cannabis in Illinois
+    repairs and reinvests in the communities most impacted by the War on Drugs, and
+    to ensure the cannabis industry prioritizes people over profits.</p>"
   style: Flashy
 - template: line
   style: Dotted
 - template: history
   event:
-  - date: '2019-04-01 00:00:00 -0500'
+  - date: 2019-04-01 00:00:00 -0500
     paragraph: During a series of town hall meetings hosted across the South Side
       of Chicago by Ilinois legislators, community members demanded accountability
       and transparency in the legalization law. This leads to the first Coalition
@@ -40,13 +40,13 @@ sections:
       of dollars for record clearing programming, and launches an expanded expungement
       program that includes RAP Sheet Assistance Day, a community resource fair, and
       virtual resource fair. '
-    date: '2020-05-01 00:00:00 -0500'
-  - date: '2021-04-01 00:00:00 -0500'
+    date: 2020-05-01 00:00:00 -0500
+  - date: 2021-04-01 00:00:00 -0500
     paragraph: The Coalition celebrates the passing of HB1443, legislation that Coalition
       members helped draft, secures the first of a number of grants for its work in
       community policy research, advocacy training, and education, and forms committees
       to research key legislative items.
-  - date: '2022-04-01 00:00:00 -0500'
+  - date: 2022-04-01 00:00:00 -0500
     paragraph: The Coalition launches a community legislative working group and invites
       the community to learn and engage with legislative session. The Coalition also
       hosts its first in-person fundraiser in partnership with Hush raising thousands
