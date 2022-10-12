@@ -30,16 +30,32 @@ sections:
     href="https://endmoneybond.org/">Coalition to End Money Bond</a></p></li><li><p><a
     href="https://endmoneybond.org/illinois-network-for-pretrial-justice/">Illinois
     Network for Pretrial Justice</a></p></li><li><p><a href="https://www.illinoiscannabistrainingcenter.com/">Illinois
-    Cannabis Training Center</a></p><p></p></li></ul>
+    Cannabis Training Center</a></p></li><li><p><a href="https://www.institutochicago.org/"
+    title="">Instituto del Progreso Latino</a></p></li><li><p><a href="https://www.pilsenneighbors.org/"
+    title="">Pilsen Neighbors Community Council</a></p></li><li><p><a href="https://ilwomenincannabis.org/"
+    title="">IL Women in Cannabis</a></p></li><li><p><a href="https://www.aclu-il.org/en"
+    title="">ACLU IL</a></p></li><li><p><a href="https://livefreeillinois.org/" title="">Live
+    Free Illinois</a></p></li><li><p><a href="https://livefreeillinois.org/" title="">Soul
+    and Wellness</a></p></li><li><p><a href="https://moderncompassionatecare.com/"
+    title="">Modern Compassionate Care</a></p></li><li><p><a href="https://www.1863fwd.org/"
+    title="">1863FWD</a></p></li><li><p><a href="https://www.injusticewatch.org/"
+    title="">Injustice Watch</a></p><p></p></li></ul>
   style: Two Column
-  column_two: <h3>Expungement &amp; Legal Aid Partners</h3><ul><li><p><a href="https://nationalexpungementweek.org/">National
-    Expungement Week</a></p></li><li><p><a href="https://www.legalaidchicago.org/">Legal
+  column_two: <h3>Expungement &amp; Legal Aid Partners</h3><ul><li><p><a href="https://www.legalaidchicago.org/">Legal
     Aid Chicago</a></p></li><li><p><a href="https://www.cgla.net/">Cabrini Green Legal
     Aid</a></p></li><li><p><a href="https://newleafillinois.org/s/">New Leaf Illinois</a></p></li><li><p><a
-    href="https://www.herballegal.co/">Herbal Legal</a></p></li></ul><p></p><h3>National
-    Partners</h3><ul><li><p><a href="https://wocc.world/">Women of Color in Cannabis</a></p></li><li><p><a
-    href="https://massreccouncil.com/">Massachusetts Recreational Consumer Council</a></p></li><li><p><a
-    href="https://www.hoodincubator.org/">The Hood Incubator</a></p></li></ul><p></p>
+    href="https://www.herballegal.co/">Herbal Legal</a></p></li><li><p><a href="https://www.law.northwestern.edu/legalclinic/civil/community-justice/"
+    title="">Northwestern University Community Justice and Civil Rights Clinic</a></p></li><li><p><a
+    href="https://www.instagram.com/westside_justice_center/?hl=en" title="">Westside
+    Justice Center</a></p></li><li><p><a href="https://www.teamworkenglewood.org/"
+    title="">Teamwork Englewood</a></p></li><li><p><a href="https://www.gclclaw.org/"
+    title="">Greater Chicago Legal Aid</a></p></li></ul><p></p><h3>National Partners</h3><ul><li><p><a
+    href="https://wocc.world/">Women of Color in Cannabis</a></p></li><li><p><a href="https://massreccouncil.com/">Massachusetts
+    Recreational Consumer Council</a></p></li><li><p><a href="https://www.hoodincubator.org/">The
+    Hood Incubator</a></p></li><li><p><a href="https://www.cannabisworkerscoalition.org/"
+    title="">Cannabis Workers Coalition</a></p></li><li><p><a href="https://www.marijuanajustice.org/"
+    title="">Marijuana Justice Virginia</a></p></li><li><p><a href="https://www.facebook.com/nmcjp/"
+    title="">NM Cannabis Justice Project</a></p></li></ul><p></p>
   heading: Partner Organizations
 - template: card-with-image
   image: "/assets/images/romain-dancre-doplsdelx7e-unsplash.jpg"
