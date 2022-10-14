@@ -22,6 +22,3 @@ sections:
     and #CannabisCBA</p>'
 
 ---
-<main class="container">
-  <h1>{{ page.title }}</h1>
-</main>
