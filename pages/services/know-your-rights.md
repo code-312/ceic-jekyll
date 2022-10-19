@@ -54,17 +54,6 @@ sections:
   - text: "@CannaEquityIL"
     type: External Link
     url: https://www.facebook.com/CannaEquityIL
-- template: banner
-  style: purple
-  site_page: []
-  heading: WHAT TO SAY IF YOU ENCOUNTER LAW ENFORCEMENT | QUE DECIR SI TE ENCUENTRAS
-    CON LA LEY
-  paragraph: '"Am I free to go?" "I do not consent to any search." "I will not talk
-    and I want my lawyer." | "¿Soy libre de irme?" "No autorizo ninguna búsqueda."
-    "No hablarmé, quiero mi abogado."'
-  text: Learn more
-  type: External Link
-  url: https://www.prevention.org/lets-talk-cannabis/the-law/
 - template: embed
   code: |-
     <div style="position: relative; width: 100%; height: 0; padding-top: 64.7059%;
