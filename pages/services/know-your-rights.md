@@ -19,6 +19,10 @@ sections:
   heading: Quick Links
   quick_links:
   - icon: bill
+    text: Key Facts about Cannabis in Illinois
+    type: External Link
+    url: https://www.prevention.org/lets-talk-cannabis/the-law/
+  - icon: bill
     text: Recreational Cannabis Use In Illinois
     type: File
     file: "/assets/images/kyr_flyer.pdf"
