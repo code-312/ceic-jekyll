@@ -6,6 +6,13 @@ description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
   velit esse cillum dolore eu fugiat nulla pariatur.
 permalink: "/:path/:basename/"
 sections:
+- template: hero
+  style: Standard
+  image: "/assets/images/20220619_172114.jpg"
+  alt_text: Coalition members gathered together
+  heading: Stay Informed
+  gradient: true
+  subtitle: Get the freshest updates and information straight from the Coalition.
 - template: text-area
   text_area: "<h2>Newsletter signup</h2><p>Thank you for signing up for the Cannabis
     Equity Illinois newsletter. You'll now receive updates from us.</p>"
