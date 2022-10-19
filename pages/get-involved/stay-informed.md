@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Stay Informed
-description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-  ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-  velit esse cillum dolore eu fugiat nulla pariatur.
+description: Get the freshest updates and information straight from the Coalition.
 permalink: "/:path/:basename/"
 sections:
 - template: hero
