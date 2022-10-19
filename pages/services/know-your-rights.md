@@ -85,5 +85,13 @@ sections:
       </iframe>
     </div>
     <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPhzmQ8ig&#x2F;view?utm_content=DAFPhzmQ8ig&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Peter Contos
+- template: text-area
+  style: Plain
+  text_area: "<h2>Recreational Cannabis Use in Illinois</h2><p>Know your rights and
+    limits under the new law that takes effect January 1, 2020. Click on the image
+    for Spanish translation.</p><p>Conozca sus derechos y límites bajo la nueva ley
+    que entra en vigencia el 1 de enero de 2020. Haga clic en la imagen para la traducción
+    al español.</p>"
+  site_page: []
 
 ---
