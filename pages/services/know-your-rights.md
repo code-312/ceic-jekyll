@@ -15,6 +15,13 @@ sections:
   subtitle: We need communities to know how their rights have changed with legalized
     cannabis
   gradient: true
+- template: quick-links
+  heading: Quick Links
+  quick_links:
+  - icon: bill
+    text: Recreational Cannabis Use In Illinois
+    type: File
+    file: "/assets/images/kyr_flyer.pdf"
 - template: banner
   style: green
   site_page: []
