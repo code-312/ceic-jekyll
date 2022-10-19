@@ -50,6 +50,7 @@ fields:
   - card-with-youtube
   - text-area
   - image
+  - images-with-captions
   - green-carousel
   - testimonial
   - history
