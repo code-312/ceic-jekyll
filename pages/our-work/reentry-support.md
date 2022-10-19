@@ -66,7 +66,7 @@ sections:
 - template: testimonial
   alt_text: Image of Jefferson Davis
   image: "/assets/images/jefferson.jpg"
-  name: From the Community
+  name: Jefferson Davis
   paragraph: Mr. Davis started the record clearing process through the Coalition by
     attending one of our RAP Sheet Assistance Days. After attending the event he was
     connected with legal aids, and in 2022 was notified that his record has been fully
