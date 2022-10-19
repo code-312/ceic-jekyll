@@ -11,12 +11,9 @@ sections:
     Equity Illinois newsletter. You'll now receive updates from us.</p>"
 - template: text-area
   style: Plain
-  text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
-    adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
-    hendrerit dolor. Lacus vestibulum sed arcu non odio euismod lacinia at. Pharetra
-    magna ac placerat vestibulum lectus mauris ultrices eros. Pharetra magna ac placerat
-    vestibulum. Orci eu lobortis elementum nibh tellus. Libero nunc consequat interdum
-    varius sit.</p>"
+  text_area: "<h2>Weekly Virtual Meetings</h2><p>If you’d like to connect, we meet
+    weekly every Thursday at 6pm. Sign up for our video meetings with the form below.
+    </p><p>Please reach out to CannabisEquityIL@gmail.com with any questions.</p>"
   site_page: []
 - template: embed
   code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5wrfcTJ7UeI6y7ne3F9CeeiNo-7rmSQIbIcXc3Y9cPg2Aug/viewform?embedded=true"
