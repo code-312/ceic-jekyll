@@ -27,7 +27,7 @@ sections:
   style: Dotted
 - template: history
   event:
-  - date: 2019-04-01 00:00:00 -0500
+  - date: '2019-04-01T00:00:00.000-05:00'
     paragraph: During a series of town hall meetings hosted across the South Side
       of Chicago by Ilinois legislators, community members demanded accountability
       and transparency in the legalization law. This leads to the first Coalition
@@ -40,13 +40,13 @@ sections:
       of dollars for record clearing programming, and launches an expanded expungement
       program that includes RAP Sheet Assistance Day, a community resource fair, and
       virtual resource fair. '
-    date: 2020-05-01 00:00:00 -0500
-  - date: 2021-04-01 00:00:00 -0500
+    date: '2020-05-01T00:00:00.000-05:00'
+  - date: '2021-04-01T00:00:00.000-05:00'
     paragraph: The Coalition celebrates the passing of HB1443, legislation that Coalition
       members helped draft, secures the first of a number of grants for its work in
       community policy research, advocacy training, and education, and forms committees
       to research key legislative items.
-  - date: 2022-04-01 00:00:00 -0500
+  - date: '2022-04-01T00:00:00.000-05:00'
     paragraph: The Coalition launches a community legislative working group and invites
       the community to learn and engage with legislative session. The Coalition also
       hosts its first in-person fundraiser in partnership with Hush raising thousands
@@ -68,6 +68,17 @@ sections:
     community feedback to ensure we're fighting for changes that will bring the largest
     benefit to communities.</p>"
   style: Plain
+- template: images-with-captions
+  images:
+  - image: "/assets/images/our-work/policy-and-advocacy/political-education.png"
+    alt_text: Coalition members at a booth
+    caption: We need a caption here
+  - image: "/assets/images/coalition-planning.jpg"
+    caption: We need a caption here
+    alt_text: Coalition members in a group shot
+  - image: "/assets/images/rectangle-172.png"
+    alt_text: Smiling coalition member
+    caption: We need a caption here
 - template: green-carousel
   heading: How to get involved
   green_block:
