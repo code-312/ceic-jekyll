@@ -66,5 +66,8 @@ sections:
 - template: image
   image: "/assets/images/kyr_flyer_page_1.jpg"
   alt_text: '1'
+- template: image
+  image: "/assets/images/kyr_flyer_page_2.jpg"
+  alt_text: '2'
 
 ---
