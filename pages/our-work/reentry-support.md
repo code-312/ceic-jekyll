@@ -11,8 +11,8 @@ sections:
   alt_text: A road through the forest with a large patch of light.
   heading: Reentry Support
   subtitle: CEIC supports community members with system involvement throughout the
-    reentry process with record clearing, wraparound resources, and more, to ensure
-    they have everything they need to be prosperous and whole.
+    reentry process to ensure they have everything they need to be prosperous and
+    whole.
   gradient: true
   margin_color: false
   style: Standard
