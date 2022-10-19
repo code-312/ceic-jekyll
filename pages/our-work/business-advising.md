@@ -7,7 +7,7 @@ description: CEIC works to ensure cannabis businesses in Illinois benefit the co
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/25388871824_4a61b9dbfc_k-copy.jpg"
+  image: "/assets/images/copyd.jpg"
   alt_text: Business person working.
   heading: Business Support and Outreach
   subtitle: page-description
