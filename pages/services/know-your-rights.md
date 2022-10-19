@@ -37,23 +37,6 @@ sections:
     resources and hosting events on expungement, and promoting awareness of newly
     developing legal vulnerabilities or protections afforded for the use of cannabis.</p></li><li><p>Online
     resources and videos</p></li></ul>"
-- template: card-with-image
-  image: "/assets/images/kyr6.jpg"
-  alt_text: Blank placeholder image
-  paragraph: If you are interested in supporting this mission by hosting an event,
-    sponsoring printing of crutch cards, or providing production of online resources,
-    DM us on social media or via email.
-  site_page: []
-  heading: Cannabis Rights Education
-  button_or_links: links
-  links:
-  - text: Contact Us
-    type: Site Page
-    url: https://www.cannabisequityil.org/contact
-    site_page: pages/contact-us.md
-  - text: "@CannaEquityIL"
-    type: External Link
-    url: https://www.facebook.com/CannaEquityIL
 - template: embed
   code: |-
     <div style="position: relative; width: 100%; height: 0; padding-top: 64.7059%;
@@ -82,5 +65,22 @@ sections:
       </iframe>
     </div>
     <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPhzmQ8ig&#x2F;view?utm_content=DAFPhzmQ8ig&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Peter Contos
+- template: card-with-image
+  image: "/assets/images/kyr6.jpg"
+  alt_text: Blank placeholder image
+  paragraph: If you are interested in supporting this mission by hosting an event,
+    sponsoring printing of crutch cards, or providing production of online resources,
+    DM us on social media or via email.
+  site_page: []
+  heading: Cannabis Rights Education
+  button_or_links: links
+  links:
+  - text: Contact Us
+    type: Site Page
+    url: https://www.cannabisequityil.org/contact
+    site_page: pages/contact-us.md
+  - text: "@CannaEquityIL"
+    type: External Link
+    url: https://www.facebook.com/CannaEquityIL
 
 ---
