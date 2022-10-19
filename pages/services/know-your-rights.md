@@ -63,14 +63,8 @@ sections:
   text: Learn more
   type: External Link
   url: https://www.prevention.org/lets-talk-cannabis/the-law/
-- template: card-with-image
+- template: image
   image: "/assets/images/kyr_flyer_page_1.jpg"
-  alt_text: Blank placeholder image
-  heading: Lorem ipsum
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-  site_page: []
-  style: fancy
+  alt_text: '1'
 
 ---
