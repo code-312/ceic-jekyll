@@ -63,5 +63,8 @@ sections:
   text: Learn more
   type: External Link
   url: https://www.prevention.org/lets-talk-cannabis/the-law/
+- template: image
+  image: "/assets/images/kyr_flyer.pdf"
+  alt_text: One second
 
 ---
