@@ -18,7 +18,7 @@ sections:
   style: Standard
 - template: quick-links
   quick_links:
-  - text: Expungement
+  - text: Clear Your Record
     link: "#"
     icon: bill
     type: Site Page
