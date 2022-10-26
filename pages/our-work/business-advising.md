@@ -7,10 +7,12 @@ description: CEIC works to ensure cannabis businesses in Illinois benefit the co
 permalink: "/:path/:basename/"
 sections:
 - template: hero
-  image: "/assets/images/copyd.jpg"
+  image: "/assets/images/briefing-for-the-client-2048x1152.jpg"
   alt_text: Business person working.
   heading: Business Support and Outreach
-  subtitle: page-description
+  subtitle: The Coalition works to ensure cannabis businesses in Illinois benefit
+    the communities most impacted by prohibition, and support entrepreneurs in achieving
+    their business goals.
   gradient: true
   margin_color: false
 - template: quick-links
