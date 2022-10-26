@@ -80,6 +80,9 @@ sections:
   site_page: []
   button_or_links: links
   links:
+  - text: IL Department of Agriculture - Cannabis Page
+    type: External Link
+    url: https://www.google.com/url?q=https://www2.illinois.gov/sites/agr/Plants/Pages/Adult-Use-Cannabis.aspx&sa=D&source=docs&ust=1666822265430101&usg=AOvVaw2lCiR-1Rv5CMbbF1OKchYf
   - text: City of Chicago Cannabis Information Center
     type: External Link
     url: https://www.chicago.gov/city/en/sites/cannabis-information-center/home.html
