@@ -54,6 +54,18 @@ sections:
     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
   site_page: []
+- template: card-with-youtube
+  heading: Nature’s Care Company
+  text: In March of 2020, Nature’s Care signed the first-of-its-kind Community Benefits
+    Agreement (CBA) with the Cannabis Equity Illinois Coalition (CEIC) and the ColaGroup.  The
+    purpose of Nature’s Care agreements with Cannabis Equity Illinois Coalition and
+    ColaGroup is to advocate and support disproportionately impacted individuals,
+    to reinvest in our communities and to enact positive change. Not only do we believe
+    in the beneficial properties of the plant, but we also believe the industry can
+    provide the community and state with much economic gain.
+  embed: <iframe src="https://www.youtube-nocookie.com/embed/d739K8dt-lE" title="YouTube
+    video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - template: green-carousel
   heading: How to get involved
   green_block:
@@ -72,17 +84,5 @@ sections:
     text: Become a member
     type: Site Page
     site_page: pages/get-involved/membership.md
-- template: card-with-youtube
-  heading: Nature’s Care Company
-  text: In March of 2020, Nature’s Care signed the first-of-its-kind Community Benefits
-    Agreement (CBA) with the Cannabis Equity Illinois Coalition (CEIC) and the ColaGroup.  The
-    purpose of Nature’s Care agreements with Cannabis Equity Illinois Coalition and
-    ColaGroup is to advocate and support disproportionately impacted individuals,
-    to reinvest in our communities and to enact positive change. Not only do we believe
-    in the beneficial properties of the plant, but we also believe the industry can
-    provide the community and state with much economic gain.
-  embed: <iframe src="https://www.youtube-nocookie.com/embed/d739K8dt-lE" title="YouTube
-    video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
