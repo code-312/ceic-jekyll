@@ -9,13 +9,13 @@ hero:
   alt_text: placeholder image
 sections:
 - template: hero
-  image: "/assets/images/group-photo2.jpg"
+  image: "/assets/images/group-photo3.jpg"
   alt_text: Coalition members holding a CEIC banner
   heading: Providing a space for community members to come together to share their
     experiences, and to organize and advocate to fight for cannabis equity and justice.
   subtitle: 
   gradient: true
-  margin_color: false
+  margin_color: true
   style: Home
   scroll_button: Learn More
 - template: text-area
