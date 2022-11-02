@@ -16,7 +16,7 @@ sections:
   style: Standard
 - template: quick-links
   quick_links:
-  - icon: video
+  - icon: bill
     text: Lobby Day Interest Form
     type: External Link
     url: https://docs.google.com/forms/d/e/1FAIpQLSclvmhzQn7slCBL0c98O_H_FCY6h9sTmZEsfEJzH5ZmPogheg/viewform
