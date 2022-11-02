@@ -1,0 +1,10 @@
+<section class="images-with-captions">
+  {% for item in block.images %}
+  <div>
+    <div class="image-container">
+      {% include components/image-with-caption.html link=item.image alt=item.alt_text %}
+    </div>
+      <p>{{ item.alt_text }}</p>
+  </div>
+  {% endfor %}
+</section>
