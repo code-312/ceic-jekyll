@@ -17,10 +17,10 @@ sections:
 - template: quick-links
   heading: Quick Links
   quick_links:
-  - icon: calendar
-    text: National Expungement Week
+  - icon: bill
+    text: New Leaf Illinois
     type: External Link
-    url: https://nationalexpungementweek.org/
+    url: https://newleafillinois.org/s/
   - icon: video
     text: Expungement 101
     type: External Link
