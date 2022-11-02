@@ -47,24 +47,6 @@ sections:
       </iframe>
     </div>
     <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPh9Z5ibg&#x2F;view?utm_content=DAFPh9Z5ibg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Peter Contos
-- template: text-area
-  style: Plain
-  text_area: "<h2>Recreational Cannabis Use in Illinois</h2><p>Know your rights and
-    limits under the new law that takes effect January 1, 2020. Click on the image
-    for Spanish translation.</p><p>Conozca sus derechos y límites bajo la nueva ley
-    que entra en vigencia el 1 de enero de 2020. Haga clic en la imagen para la traducción
-    al español.</p>"
-  site_page: []
-- template: embed
-  code: |-
-    <div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
-     padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
-     border-radius: 8px; will-change: transform;">
-      <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-        src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPhzmQ8ig&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-      </iframe>
-    </div>
-    <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPhzmQ8ig&#x2F;view?utm_content=DAFPhzmQ8ig&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Peter Contos
 - template: card-with-image
   image: "/assets/images/kyr6.jpg"
   alt_text: Blank placeholder image
