@@ -14,7 +14,7 @@ sections:
   heading: Providing a space for community members to come together to share their
     experiences, and to organize and advocate to fight for cannabis equity and justice.
   subtitle: 
-  gradient: false
+  gradient: true
   margin_color: true
   style: Home
   scroll_button: Learn More
