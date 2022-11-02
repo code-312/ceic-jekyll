@@ -4,8 +4,5 @@
 - name: Terms of Use
   link: pages/terms-of-use
 
-- name: Sitemap
-  link: sitemap.xml
-
 - name: Contact Us
   link: pages/contact-us
