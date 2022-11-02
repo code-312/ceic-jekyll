@@ -54,8 +54,11 @@ sections:
   image: assets/images/our-work/policy-and-advocacy/advocacy.webp
   alt_text: Group shot of Cannabis Equity Illinois Coalition members in front of statue
   heading: Advocacy
-  paragraph: We advocate for cannabis policies that support impacted communities and
-    entrepreneurs while staying within the limits of a 501(c)3 organization
+  paragraph: We advocate for policies to repair and reinvest into impacted communities
+    and entrepreneurs. We aim to end the war on drugs entirely, and enusre that all
+    impacted people can explore opportunities to build wealth in the new industry.
+    We are both a 501(c)3 & 501(c)4 organization, ensuring that our community programming
+    is not impacted by our advocacy work.
 - template: green-carousel
   heading: How to get involved
   green_block:
