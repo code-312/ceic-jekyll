@@ -21,9 +21,9 @@ sections:
     type: File
     file: "/assets/images/alliance-priorities-one-pager-_-4_5.pdf"
   - icon: bill
-    text: Sign Up
+    text: Sign Up for Policy Working Group
     type: External Link
-    url: https://bit.ly/ceicpolicy
+    url: https://docs.google.com/forms/d/e/1FAIpQLScLS52BiGAslDTJ5orW6i2JnMAIo4iHjdFWj_2iViKn3RwiVQ/viewform
   heading: Quick Links
 - template: purple-carousel
   heading: Policy in Action
