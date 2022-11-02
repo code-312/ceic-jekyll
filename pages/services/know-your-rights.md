@@ -15,15 +15,17 @@ sections:
   subtitle: We need communities to know how their rights have changed with legalized
     cannabis
   gradient: true
-- template: banner
-  style: green
-  site_page: []
-  heading: POSSESSION LIMITS
-  paragraph: Illinois residents can possess up to 30 grams of flower, 5 grams of cannabis
-    concentrate, and less than 500mg of THC infused product.
-  text: Learn more
-  type: External Link
-  url: https://www.prevention.org/lets-talk-cannabis/the-law/
+- template: quick-links
+  heading: Quick Links
+  quick_links:
+  - icon: bill
+    text: Key Facts about Cannabis in Illinois
+    type: External Link
+    url: https://www.prevention.org/lets-talk-cannabis/the-law/
+  - icon: bill
+    text: Recreational Cannabis Use In Illinois
+    type: File
+    file: "/assets/images/kyr_flyer.pdf"
 - template: text-area
   text_area: "<h2>Know Your Rights!</h2><p>We focus on providing legal education and
     support under the new laws to ensure everyone is staying safe.</p><p>We support
@@ -35,6 +37,16 @@ sections:
     resources and hosting events on expungement, and promoting awareness of newly
     developing legal vulnerabilities or protections afforded for the use of cannabis.</p></li><li><p>Online
     resources and videos</p></li></ul>"
+- template: embed
+  code: |-
+    <div style="position: relative; width: 100%; height: 0; padding-top: 64.7059%;
+     padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+     border-radius: 8px; will-change: transform;">
+      <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+        src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPh9Z5ibg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+      </iframe>
+    </div>
+    <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPh9Z5ibg&#x2F;view?utm_content=DAFPh9Z5ibg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Peter Contos
 - template: card-with-image
   image: "/assets/images/kyr6.jpg"
   alt_text: Blank placeholder image
@@ -52,16 +64,5 @@ sections:
   - text: "@CannaEquityIL"
     type: External Link
     url: https://www.facebook.com/CannaEquityIL
-- template: banner
-  style: purple
-  site_page: []
-  heading: WHAT TO SAY IF YOU ENCOUNTER LAW ENFORCEMENT | QUE DECIR SI TE ENCUENTRAS
-    CON LA LEY
-  paragraph: '"Am I free to go?" "I do not consent to any search." "I will not talk
-    and I want my lawyer." | "¿Soy libre de irme?" "No autorizo ninguna búsqueda."
-    "No hablarmé, quiero mi abogado."'
-  text: Learn more
-  type: External Link
-  url: https://www.prevention.org/lets-talk-cannabis/the-law/
 
 ---

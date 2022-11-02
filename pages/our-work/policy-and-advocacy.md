@@ -16,14 +16,18 @@ sections:
   style: Standard
 - template: quick-links
   quick_links:
-  - icon: house
+  - icon: bill
+    text: Lobby Day Interest Form
+    type: External Link
+    url: https://docs.google.com/forms/d/e/1FAIpQLSclvmhzQn7slCBL0c98O_H_FCY6h9sTmZEsfEJzH5ZmPogheg/viewform
+  - icon: bill
     text: Our Legislative Priorities
     type: File
     file: "/assets/images/alliance-priorities-one-pager-_-4_5.pdf"
   - icon: bill
-    text: Sign Up
+    text: Policy Working Group Sign-up
     type: External Link
-    url: https://bit.ly/ceicpolicy
+    url: https://docs.google.com/forms/d/e/1FAIpQLScLS52BiGAslDTJ5orW6i2JnMAIo4iHjdFWj_2iViKn3RwiVQ/viewform
   heading: Quick Links
 - template: purple-carousel
   heading: Policy in Action
@@ -54,8 +58,11 @@ sections:
   image: assets/images/our-work/policy-and-advocacy/advocacy.webp
   alt_text: Group shot of Cannabis Equity Illinois Coalition members in front of statue
   heading: Advocacy
-  paragraph: We advocate for cannabis policies that support impacted communities and
-    entrepreneurs while staying within the limits of a 501(c)3 organization
+  paragraph: We advocate for policies to repair and reinvest into impacted communities
+    and entrepreneurs. We aim to end the war on drugs entirely, and enusre that all
+    impacted people can explore opportunities to build wealth in the new industry.
+    We are both a 501(c)3 & 501(c)4 organization, ensuring that our community programming
+    is not impacted by our advocacy work.
 - template: green-carousel
   heading: How to get involved
   green_block:
