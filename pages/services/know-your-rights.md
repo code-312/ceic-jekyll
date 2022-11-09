@@ -32,8 +32,8 @@ sections:
     this mission through:</p><ul><li><p>Creating educational resources like our crutch
     cards, designed to inform the public of continued prohibited situations for the
     possession and consumption of cannabis.</p></li><li><p>Live workshops with partners
-    Legal Aid Chicago &amp;Herbal Legal on how cannabis can impact your housing, employment,
-    and immigration status. Check them out in our partners section!</p></li><li><p>Sharing
+    Legal Aid Chicago &amp; Herbal Legal on how cannabis can impact your housing,
+    employment, and immigration status. Check them out in our partners section!</p></li><li><p>Sharing
     resources and hosting events on expungement, and promoting awareness of newly
     developing legal vulnerabilities or protections afforded for the use of cannabis.</p></li><li><p>Online
     resources and videos</p></li></ul>"
