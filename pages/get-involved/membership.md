@@ -39,7 +39,7 @@ sections:
   add_button: true
   text: Example Button
   type: External Link
-  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=20.40&x_ask=33,66,99,123
+  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=20.40&x_ask=20,50,100,250&x_frequency=y
 - template: text-area
   style: Splashy
   text_area: "<h3>Equity Champion<br>$15/month or $120/annually</h3><ul><li><p>Individual
