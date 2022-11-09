@@ -11,3 +11,18 @@ fields:
     schema:
       format: markdown
   label: Embed Code
+- name: width
+  type: select
+  default: Standard
+  config:
+    required: false
+    options:
+    - Skinny
+    - Standard
+    - Wide
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Width
