@@ -12,6 +12,13 @@ sections:
   heading: page-title
   subtitle: page-description
   gradient: true
+- template: quick-links
+  quick_links:
+  - icon: house
+    text: Donate to the Coalition
+    type: External Link
+    url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/
+  heading: Quick Links
 - template: text-area
   text_area: "<h2>A member-supported movement</h2><p>Monthly and annual donations
     help us continue the work of cannabis justice that includes record clearing programming,
@@ -43,12 +50,5 @@ sections:
 - template: text-area
   style: Splashy
   text_area: "<h3>Entrepreneur<br>$250/annually</h3><ul><li><p>Corporate membership</p></li><li><p></p></li></ul>"
-- template: quick-links
-  quick_links:
-  - icon: video
-    text: Lorem ipsum
-    type: Site Page
-    url: 
-  heading: Quick Links
 
 ---
