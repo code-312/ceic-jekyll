@@ -19,7 +19,7 @@ sections:
   text_area: "<h2>Mission</h2><p>Founded in 2019, the Cannabis Equity Illinois Coalition
     is a grassroots nonprofit that advances equity in the State of Illinois by elevating
     community voices and collaborating with partners to create change in the cannabis
-    industry.&lt;br&gt; We fight to make sure the legalization of cannabis in Illinois
+    industry. </p><p>We fight to make sure the legalization of cannabis in Illinois
     repairs and reinvests in the communities most impacted by the War on Drugs, and
     to ensure the cannabis industry prioritizes people over profits.</p>"
   style: Flashy
