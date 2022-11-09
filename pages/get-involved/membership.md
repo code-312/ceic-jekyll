@@ -39,7 +39,7 @@ sections:
   add_button: true
   text: Example Button
   type: External Link
-  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=20.40&x_ask=20,50,100,250&x_frequency=y
+  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=50&x_ask=20,50,100,250&x_frequency=y
 - template: text-area
   style: Splashy
   text_area: "<h3>Equity Champion<br>$15/month or $120/annually</h3><ul><li><p>Individual
@@ -47,8 +47,15 @@ sections:
     partners</p></li><li><p>Discounts on Coalition merch and events</p></li><li><p>Curated
     member newsletter with playlists, infused recipes, interviews, and more</p></li><li><p>Exclusive
     member sessions with Movement and Medicine</p></li></ul>"
+  add_button: true
+  type: External Link
+  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=120&x_ask=20,50,100,250&x_frequency=y
+  text: Donate
 - template: text-area
   style: Splashy
   text_area: "<h3>Entrepreneur<br>$250/annually</h3><ul><li><p>Corporate membership</p></li><li><p></p></li></ul>"
+  add_button: true
+  type: External Link
+  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=250&x_ask=20,50,100,250&x_frequency=y
 
 ---
