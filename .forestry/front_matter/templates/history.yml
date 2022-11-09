@@ -5,6 +5,11 @@ fields:
 - name: event
   type: field_group_list
   fields:
+  - name: date
+    type: text
+    config:
+      required: false
+    label: Date
   - name: paragraph
     type: textarea
     default: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
@@ -16,11 +21,6 @@ fields:
       schema:
         format: markdown
     label: Paragraph
-  - name: date
-    type: text
-    config:
-      required: false
-    label: Date
   config:
     min: 
     max: 
