@@ -29,6 +29,10 @@ sections:
     membership</p></li><li><p>Curated member newsletter with playlists, infused recipes,
     interviews, and more</p></li><li><p>Exclusive member sessions with Movement and
     Medicine</p></li></ul>"
+  add_button: true
+  text: Example Button
+  type: External Link
+  url: https://trello.com/c/oUWEhA30/100-get-involved-membership
 - template: text-area
   style: Splashy
   text_area: "<h3>Equity Champion<br>$15/month or $120/annually</h3><ul><li><p>Individual
