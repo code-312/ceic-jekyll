@@ -27,7 +27,7 @@ sections:
   style: Dotted
 - template: history
   event:
-  - date: '2019-04-01T00:00:00.000-05:00'
+  - date: '2019'
     paragraph: During a series of town hall meetings hosted across the South Side
       of Chicago by Ilinois legislators, community members demanded accountability
       and transparency in the legalization law. This leads to the first Coalition
@@ -40,21 +40,23 @@ sections:
       of dollars for record clearing programming, and launches an expanded expungement
       program that includes RAP Sheet Assistance Day, a community resource fair, and
       virtual resource fair. '
-    date: '2020-05-01T00:00:00.000-05:00'
-  - date: '2021-04-01T00:00:00.000-05:00'
+    date: '2020'
+  - date: '2021'
     paragraph: The Coalition celebrates the passing of HB1443, legislation that Coalition
       members helped draft, secures the first of a number of grants for its work in
       community policy research, advocacy training, and education, and forms committees
       to research key legislative items.
-  - date: '2022-04-01T00:00:00.000-05:00'
+  - date: '2022'
     paragraph: The Coalition launches a community legislative working group and invites
       the community to learn and engage with legislative session. The Coalition also
       hosts its first in-person fundraiser in partnership with Hush raising thousands
       of dollars to support our ongoing community programs.
-  bottom_paragraph: 'Since Legalization, the Coalition has continued to meet weekly,
-    advocate for impacted communities in policy, organizing events & campaigns to
-    promote our mission, and watchdogging the state & the cannabis industry as legalization
-    is implemented. '
+  - date: Today
+    paragraph: 'Since Legalization, the Coalition has continued to meet weekly, advocate
+      for impacted communities in policy, organizing events & campaigns to promote
+      our mission, and watchdogging the state & the cannabis industry as legalization
+      is implemented. '
+  bottom_paragraph: ''
 - template: line
   style: Dotted
 - template: text-area
