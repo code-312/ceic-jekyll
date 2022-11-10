@@ -49,7 +49,7 @@ sections:
     <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPh9Z5ibg&#x2F;view?utm_content=DAFPh9Z5ibg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Peter Contos
 - template: card-with-image
   image: "/assets/images/kyr6.jpg"
-  alt_text: Blank placeholder image
+  alt_text: An image of Coalition member Peter presenting to a classroom of people
   paragraph: If you are interested in supporting this mission by hosting an event,
     sponsoring printing of crutch cards, or providing production of online resources,
     DM us on social media or via email.
