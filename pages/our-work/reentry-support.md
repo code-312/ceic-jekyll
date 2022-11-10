@@ -26,7 +26,7 @@ sections:
   heading: Quick Links
 - template: card-with-image
   image: assets/images/our-work/record-cleaning.webp
-  alt_text: Group members in front of City of Chicago plaque
+  alt_text: Coalition members in front of City of Chicago plaque
   heading: Record Clearing
   paragraph: CEIC supports people across the state in starting the process of clearing
     their records. Regardless of where the record is, and whether it is cannabis or
