@@ -99,6 +99,14 @@
   }
 }
 
+@mixin spacing-wide-nopad {
+  margin: 32px 0;
+
+  @include tablet {
+    margin: 64px 0;
+  }
+}
+
 @mixin spacing-large {
   padding: 32px;
 

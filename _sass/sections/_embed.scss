@@ -1,3 +1,11 @@
-.embed {
+.embed.standard {
+  @include spacing-std-nopad;
+}
+
+.embed.wide {
+  @include spacing-wide-nopad;
+}
+
+.embed.skinny {
   @include spacing-skinny-nopad;
 }

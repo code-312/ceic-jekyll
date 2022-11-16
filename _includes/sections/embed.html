@@ -1,3 +1,9 @@
-<section class="embed">
+{% if block.width == "Skinny" %}
+<section class="embed skinny">
+{% elsif block.width == "Wide" %}
+<section class="embed wide">
+{% else %}
+<section class="embed standard">
+{% endif %}
   {{ block.code }}
 </section>
