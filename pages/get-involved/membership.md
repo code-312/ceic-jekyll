@@ -7,7 +7,7 @@ permalink: "/:path/:basename/"
 sections:
 - template: hero
   style: Standard
-  image: "/assets/images/coalition-planning.jpg"
+  image: "/assets/images/protest-5561x3707.jpg"
   alt_text: Coalition members grouped together with some members raising their fists
     in the air
   heading: page-title
