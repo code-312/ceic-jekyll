@@ -23,6 +23,6 @@ sections:
 - template: embed
   width: Wide
   code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXoqlKZxVMrdyerfR0rvJ0L9aNLK1CdAFoRCSNf9PWbRB9mA/viewform?embedded=true"
-    width="1440" height="843" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    width="873" height="960" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
