@@ -63,59 +63,6 @@ sections:
   style: Plain
   text_area: "<h2>Member Spotlight</h2>"
   site_page: []
-- template: images-with-captions
-  images:
-  - image: "/assets/images/why-we-do-this-work-from-the-ceic-board-gary-little.png"
-    alt_text: 'Image shows a photo of Gary Little, a CEIC board member wearing a gray
-      suit and standing in front of a brick wall. The image shows the copy "Why we
-      do this work" From the CEIC Board: Gary Little with the additional quotes of
-      ""I am Hoping to move that needle for black and brown people that have been
-      disproportionately impacted in an industry that will be one of the largest in
-      our lifetime. We’ve done amazing work as partners."" There is also a link to
-      donate to the Coalition via Zelle, Venmo, or CashApp at bit.ly/DonateCEIC.'
-  - image: "/assets/images/why-we-do-this-work-from-the-ceic-board-mildred-white.png"
-    alt_text: 'Image shows a photo of Mildred White, a CEIC board member smiling in
-      front of a light brown background. The image shows the copy "Why we do this
-      work" From the CEIC Board: Mildred White with the additional quotes of "In the
-      words of Fannie Lou Hamer, ''I''m sick and tired, of the Black & Brown people
-      missing grand opportunities due to the color of our skin. We will not miss this
-      Cannabis industry opportunity!''" There is also a link to donate to the Coalition
-      via Zelle, Venmo, or CashApp at bit.ly/DonateCEIC.'
-  - image: "/assets/images/why-we-do-this-work-from-the-ceic-board-akele-parnell-1.png"
-    alt_text: 'Image shows a photo of Akele Parnell, a CEIC board member crossing
-      his arms with a graphic background. The image shows the copy "Why we do this
-      work" From the CEIC Board: Akele Parnell with the additional quotes of "The
-      coalition plays a critical role in the fight for social equity in the Illinois
-      cannabis industry. Without the Coalition, a lot of crucial equity work just
-      won''t get done." There is also a link to donate to the Coalition via Zelle,
-      Venmo, or CashApp at bit.ly/DonateCEIC.'
-- template: image
-  image: "/assets/images/why-we-do-this-work-from-the-ceic-board-gary-little.png"
-  alt_text: 'Image shows a photo of Gary Little, a CEIC board member wearing a gray
-    suit and standing in front of a brick wall. The image shows the copy "Why we do
-    this work" From the CEIC Board: Gary Little with the additional quotes of ""I
-    am Hoping to move that needle for black and brown people that have been disproportionately
-    impacted in an industry that will be one of the largest in our lifetime. We’ve
-    done amazing work as partners."" There is also a link to donate to the Coalition
-    via Zelle, Venmo, or CashApp at bit.ly/DonateCEIC.'
-- template: image
-  image: "/assets/images/why-we-do-this-work-from-the-ceic-board-mildred-white.png"
-  alt_text: 'Image shows a photo of Mildred White, a CEIC board member smiling in
-    front of a light brown background. The image shows the copy "Why we do this work"
-    From the CEIC Board: Mildred White with the additional quotes of "In the words
-    of Fannie Lou Hamer, ''I''m sick and tired, of the Black & Brown people missing
-    grand opportunities due to the color of our skin. We will not miss this Cannabis
-    industry opportunity!''" There is also a link to donate to the Coalition via Zelle,
-    Venmo, or CashApp at bit.ly/DonateCEIC.'
-- template: image
-  image: "/assets/images/why-we-do-this-work-from-the-ceic-board-akele-parnell-1.png"
-  alt_text: 'Image shows a photo of Akele Parnell, a CEIC board member crossing his
-    arms with a graphic background. The image shows the copy "Why we do this work"
-    From the CEIC Board: Akele Parnell with the additional quotes of "The coalition
-    plays a critical role in the fight for social equity in the Illinois cannabis
-    industry. Without the Coalition, a lot of crucial equity work just won''t get
-    done." There is also a link to donate to the Coalition via Zelle, Venmo, or CashApp
-    at bit.ly/DonateCEIC.'
 - template: embed
   width: Standard
   code: |-
