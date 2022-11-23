@@ -107,5 +107,14 @@ sections:
     grand opportunities due to the color of our skin. We will not miss this Cannabis
     industry opportunity!''" There is also a link to donate to the Coalition via Zelle,
     Venmo, or CashApp at bit.ly/DonateCEIC.'
+- template: image
+  image: "/assets/images/why-we-do-this-work-from-the-ceic-board-akele-parnell-1.png"
+  alt_text: 'Image shows a photo of Akele Parnell, a CEIC board member crossing his
+    arms with a graphic background. The image shows the copy "Why we do this work"
+    From the CEIC Board: Akele Parnell with the additional quotes of "The coalition
+    plays a critical role in the fight for social equity in the Illinois cannabis
+    industry. Without the Coalition, a lot of crucial equity work just won''t get
+    done." There is also a link to donate to the Coalition via Zelle, Venmo, or CashApp
+    at bit.ly/DonateCEIC.'
 
 ---
