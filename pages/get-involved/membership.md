@@ -65,6 +65,14 @@ sections:
   site_page: []
 - template: images-with-captions
   images:
+  - image: "/assets/images/why-we-do-this-work-from-the-ceic-board-mildred-white.png"
+    alt_text: 'Image shows a photo of Mildred White, a CEIC board member smiling in
+      front of a light brown background. The image shows the copy "Why we do this
+      work" From the CEIC Board: Mildred White with the additional quotes of "In the
+      words of Fannie Lou Hamer, ''I''m sick and tired, of the Black & Brown people
+      missing grand opportunities due to the color of our skin. We will not miss this
+      Cannabis industry opportunity!''" There is also a link to donate to the Coalition
+      via Zelle, Venmo, or CashApp at bit.ly/DonateCEIC.'
   - image: "/assets/images/why-we-do-this-work-from-the-ceic-board-akele-parnell-1.png"
     alt_text: 'Image shows a photo of Akele Parnell, a CEIC board member crossing
       his arms with a graphic background. The image shows the copy "Why we do this
