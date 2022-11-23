@@ -81,8 +81,9 @@ sections:
     caption: Early Coalition meeting in Back of the Yards.
     alt_text: Coalition members in a group shot raising their fists in the air.
   - image: "/assets/images/rectangle-172.png"
-    alt_text: Smiling coalition member
-    caption: We need a caption here
+    alt_text: Smiling coalition member Douglas Kelly standing behind a table at a
+      resource fair.
+    caption: Coalition Executive Director Douglas Kelly tabling at a resource fair.
 - template: green-carousel
   heading: How to get involved
   green_block:
