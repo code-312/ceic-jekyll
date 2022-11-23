@@ -62,7 +62,7 @@ sections:
 - template: line
   style: Dotted
 - template: text-area
-  style: Plain
+  style: Splashy
   text_area: "<h2>Member Spotlight</h2>"
   site_page: []
 - template: embed
