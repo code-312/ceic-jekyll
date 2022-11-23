@@ -89,5 +89,14 @@ sections:
       cannabis industry. Without the Coalition, a lot of crucial equity work just
       won''t get done." There is also a link to donate to the Coalition via Zelle,
       Venmo, or CashApp at bit.ly/DonateCEIC.'
+- template: image
+  image: "/assets/images/why-we-do-this-work-from-the-ceic-board-gary-little.png"
+  alt_text: 'Image shows a photo of Gary Little, a CEIC board member wearing a gray
+    suit and standing in front of a brick wall. The image shows the copy "Why we do
+    this work" From the CEIC Board: Gary Little with the additional quotes of ""I
+    am Hoping to move that needle for black and brown people that have been disproportionately
+    impacted in an industry that will be one of the largest in our lifetime. We’ve
+    done amazing work as partners."" There is also a link to donate to the Coalition
+    via Zelle, Venmo, or CashApp at bit.ly/DonateCEIC.'
 
 ---
