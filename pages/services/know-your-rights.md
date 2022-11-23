@@ -64,9 +64,5 @@ sections:
   - text: "@CannaEquityIL"
     type: External Link
     url: https://www.facebook.com/CannaEquityIL
-- template: text-area
-  style: Flashy
-  text_area: "<h2>Member Spotlight</h2>"
-  site_page: []
 
 ---
