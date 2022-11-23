@@ -98,5 +98,14 @@ sections:
     impacted in an industry that will be one of the largest in our lifetime. We’ve
     done amazing work as partners."" There is also a link to donate to the Coalition
     via Zelle, Venmo, or CashApp at bit.ly/DonateCEIC.'
+- template: image
+  image: "/assets/images/why-we-do-this-work-from-the-ceic-board-mildred-white.png"
+  alt_text: 'Image shows a photo of Mildred White, a CEIC board member smiling in
+    front of a light brown background. The image shows the copy "Why we do this work"
+    From the CEIC Board: Mildred White with the additional quotes of "In the words
+    of Fannie Lou Hamer, ''I''m sick and tired, of the Black & Brown people missing
+    grand opportunities due to the color of our skin. We will not miss this Cannabis
+    industry opportunity!''" There is also a link to donate to the Coalition via Zelle,
+    Venmo, or CashApp at bit.ly/DonateCEIC.'
 
 ---
