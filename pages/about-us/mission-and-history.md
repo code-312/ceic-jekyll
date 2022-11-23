@@ -78,8 +78,8 @@ sections:
       Cannabis Equity Illinois Coalition signage.
     caption: Coalition members hosting a record clearing event.
   - image: "/assets/images/coalition-planning.jpg"
-    caption: We need a caption here
-    alt_text: Coalition members in a group shot
+    caption: Early Coalition meeting in Back of the Yards.
+    alt_text: Coalition members in a group shot raising their fists in the air.
   - image: "/assets/images/rectangle-172.png"
     alt_text: Smiling coalition member
     caption: We need a caption here
