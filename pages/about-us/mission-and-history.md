@@ -36,7 +36,7 @@ sections:
       they met with lawmakers to share their strategies to achieve equity & justice,
       participated in National Expungement Week events, and launched the Know Your
       Rights program.
-  - paragraph: 'The Coalition announces the first ever Community Benefits Agreement
+  - paragraph: 'The Coalition organizes the first ever Community Benefits Agreement
       for a cannabis business in the nation, holds its first fundraiser raising thousands
       of dollars for record clearing programming, and launches an expanded expungement
       program that includes RAP Sheet Assistance Day, a community resource fair, and
