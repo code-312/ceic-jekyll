@@ -26,11 +26,6 @@ sections:
     increasing opportunities for black and brown business ownership, fighting for
     investment in our communities through policy change, and advocating for Community
     Benefits Agreements for cannabis businesses.</p>"
-- template: testimonial
-  alt_text: Blank placeholder image
-  name: "[Person's Name]"
-  paragraph: Description of member
-  quote: Quote about member's experience and why they choose to give to the Coalition
 - template: text-area
   style: Splashy
   text_area: "<h3>Grassroots Supporter<br>$4.20/month or $50/annually</h3><ul><li><p>Individual
