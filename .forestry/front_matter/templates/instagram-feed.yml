@@ -1,4 +1,25 @@
 ---
 label: Instagram Feed
 hide_body: true
-fields: []
+fields:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: paragraph
+  type: text
+  config:
+    required: false
+  label: Paragraph
+- name: first_post
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: First Post
+  description: Add post embed code <a href="https://help.instagram.com/620154495870484"
+    title="https://help.instagram.com/620154495870484" target="_blank">https://help.instagram.com/620154495870484</a>
