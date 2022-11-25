@@ -57,6 +57,7 @@ fields:
   - embed
   - line
   - banner
+  - instagram-feed
   config:
     min: 
     max: 
