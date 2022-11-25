@@ -26,6 +26,7 @@
 }
 
 .card--fancy {
+  @include content-width-std;
   font-size: 0;
   position: relative;
 

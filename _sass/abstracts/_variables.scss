@@ -3,7 +3,9 @@ $tablet-width: 768px;
 $desktop-width: 1024px;
 
 /* CONTENT WIDTHS */
+$std-content-width-percent: 94%;
 $std-content-width-max: 1204px;
+$skinny-content-width-percent: 88%;
 $skinny-content-width-max: 896px;
 
 /* COLORS */
@@ -29,7 +31,6 @@ $shadow-box: 0px 1px 2px rgba(0, 0, 0, 0.04), 0px 1px 3px rgba(0, 0, 0, 0.1);
 $input-grey: #909090;
 $link-green: #368370;
 $shadow: rgba(210, 215, 223, 0.25);
-
 
 /* TIMINGS */
 $speed-std: 0.4s;

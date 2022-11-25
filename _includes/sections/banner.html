@@ -1,7 +1,9 @@
 {% if block.style == "purple" %}
 <section class="banner banner-purple">
-  <h2 class="h1">{{ block.heading }}</h2>
-  <p class="h4">{{ block.paragraph }}</p>
+  <div>
+    <h2 class="h1">{{ block.heading }}</h2>
+    <p class="h4">{{ block.paragraph }}</p>
+  </div>
 {% else block.style == "green" %}
 <section class="banner banner-green">
   <h2 class="h1">{{ block.heading }}</h2>
