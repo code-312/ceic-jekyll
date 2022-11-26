@@ -1,0 +1,21 @@
+.instagram-feed {
+  @include spacing-std-nopad;
+}
+
+.post-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  div {
+    display: flex;
+    justify-content: center;
+  }
+
+  @include tablet {
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+}
