@@ -1,11 +1,24 @@
 .instagram-feed {
   @include spacing-std-nopad;
+
+  .text-container {
+    margin-left: 16px;
+
+    @include tablet {
+      margin-left: 32px;
+    }
+
+    @include desktop {
+      margin-left: 64px;
+    }
+  }
 }
 
 .post-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  gap: 32px;
 
   div {
     display: flex;
@@ -13,9 +26,21 @@
   }
 
   @include tablet {
-    flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
+  }
+
+  .third-post {
+    display: none;
+  }
+
+  @media screen and (min-width: 1100px) {
+
+    justify-content: space-between;
+
+    .third-post {
+      display: block;
+    }
   }
 
 }

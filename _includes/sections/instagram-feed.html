@@ -1,6 +1,9 @@
 <section class="instagram-feed">
-  <h2>{{ block.heading }}</h2>
-  <p>{{ block.paragraph }}</p>
+  <div class="text-container">
+    <h2>{{ block.heading }}</h2>
+    <p>{{ block.paragraph }}</p>
+  </div>
+
   <div class="post-container">
     <div>
       {{ block.first_post }}
@@ -8,7 +11,7 @@
     <div>
       {{ block.second_post }}
     </div>
-    <div>
+    <div class="third-post">
       {{ block.third_post }}
     </div>
   </div>
