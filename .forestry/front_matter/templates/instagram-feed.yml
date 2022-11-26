@@ -23,3 +23,21 @@ fields:
   label: First Post
   description: Add post embed code <a href="https://help.instagram.com/620154495870484"
     title="https://help.instagram.com/620154495870484" target="_blank">https://help.instagram.com/620154495870484</a>
+- name: second_post
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Second Post
+- name: third_post
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Third Post
