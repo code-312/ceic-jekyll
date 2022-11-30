@@ -13,6 +13,7 @@ sections:
   heading: page-title
   subtitle: page-description
   gradient: true
+  margin_color: true
 - template: quick-links
   quick_links:
   - icon: house
