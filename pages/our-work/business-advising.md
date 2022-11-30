@@ -14,7 +14,7 @@ sections:
     the communities most impacted by prohibition, and support entrepreneurs in achieving
     their business goals.
   gradient: true
-  margin_color: false
+  margin_color: true
 - template: quick-links
   quick_links:
   - text: Download the CBA Toolkit
