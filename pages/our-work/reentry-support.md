@@ -14,7 +14,7 @@ sections:
     reentry process to ensure they have everything they need to be prosperous and
     whole.
   gradient: true
-  margin_color: false
+  margin_color: true
   style: Standard
 - template: quick-links
   quick_links:
