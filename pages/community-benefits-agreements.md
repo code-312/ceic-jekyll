@@ -5,7 +5,7 @@ layout: default
 title: Community Benefits Agreements
 sections:
 - template: hero
-  image: "/assets/images/cba-press-conference_cropped.jpg"
+  image: "/assets/images/press-conference.JPG"
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
