@@ -15,6 +15,7 @@ sections:
   subtitle: We need communities to know how their rights have changed with legalized
     cannabis
   gradient: true
+  margin_color: true
 - template: quick-links
   heading: Quick Links
   quick_links:

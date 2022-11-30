@@ -11,6 +11,7 @@ sections:
   heading: Stay Informed
   gradient: true
   subtitle: Get the freshest updates and information straight from the Coalition.
+  margin_color: true
 - template: text-area
   text_area: "<h2>Newsletter signup</h2><p>Thank you for signing up for the Cannabis
     Equity Illinois newsletter. You'll now receive updates from us.</p>"
