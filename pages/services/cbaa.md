@@ -31,6 +31,5 @@ sections:
   type: ''
   url: ''
   file: ''
-published: false
 
 ---
