@@ -30,7 +30,7 @@ sections:
   style: Standard
   image: "/assets/images/seldoms-team.jpg"
   alt_text: Blank placeholder image
-  heading: page-title
+  heading: Community Benefits Agreements
   subtitle: Cannabis businesses should put their community first
   gradient: true
   scroll_button: ''
