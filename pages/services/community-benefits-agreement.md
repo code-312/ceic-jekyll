@@ -16,7 +16,7 @@ sections:
   subtitle: page-description
   gradient: true
   scroll_button: ''
-  margin_color: false
+  margin_color: true
 - template: text-area
   style: Plain
   text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
