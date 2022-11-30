@@ -5,7 +5,7 @@ layout: default
 title: Community Benefits Agreements
 sections:
 - template: hero
-  image: "/assets/images/press-conference.JPG"
+  image: "/assets/images/seldoms-team.jpg"
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
