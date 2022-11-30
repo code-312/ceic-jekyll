@@ -15,6 +15,22 @@ sections:
   gradient: true
   scroll_button: ''
   margin_color: false
+- template: text-area
+  style: Plain
+  text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
+    adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
+    hendrerit dolor. Lacus vestibulum sed arcu non odio euismod lacinia at. Pharetra
+    magna ac placerat vestibulum lectus mauris ultrices eros. Pharetra magna ac placerat
+    vestibulum. Orci eu lobortis elementum nibh tellus. Libero nunc consequat interdum
+    varius sit.</p>"
+  site_page: []
+  heading: ''
+  column_two: ''
+  add_button: false
+  text: ''
+  type: ''
+  url: ''
+  file: ''
 published: false
 
 ---

@@ -13,7 +13,7 @@ sections:
   subtitle: We believe everyone who has a criminal record for a cannabis offense should
     have their record cleared immediately
   gradient: true
-  margin_color: false
+  margin_color: true
 - template: quick-links
   heading: Quick Links
   quick_links:
