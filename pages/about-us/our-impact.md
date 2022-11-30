@@ -14,6 +14,7 @@ sections:
   subtitle: It’s been another year of growth for the Coalition, and we remain steadfast
     in our mission to end the War on Drugs and achieve true justice for our communities.
   gradient: true
+  margin_color: true
 - template: purple-carousel
   purple_block:
   - heading: "2"
