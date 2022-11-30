@@ -74,8 +74,8 @@ sections:
 - template: images-with-captions
   images:
   - image: "/assets/images/our-work/policy-and-advocacy/political-education.png"
-    alt_text: Coalition members helping others at a record clearing event booth with
-      Cannabis Equity Illinois Coalition signage.
+    alt_text: Coalition members hosting a record clearing event with Cannabis Equity
+      Illinois Coalition signage.
     caption: Coalition members hosting a record clearing event.
   - image: "/assets/images/coalition-planning.jpg"
     caption: Early Coalition meeting in Back of the Yards.
