@@ -12,7 +12,7 @@ sections:
   subtitle: We work to make cannabis policy in Illinois more inclusive, transparent
     and accountable
   gradient: true
-  margin_color: false
+  margin_color: true
   style: Standard
 - template: quick-links
   quick_links:

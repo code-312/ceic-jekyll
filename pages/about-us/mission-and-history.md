@@ -13,7 +13,7 @@ sections:
   subtitle: Elevating community voices and collaborating with partners to create change
     in the cannabis industry
   gradient: true
-  margin_color: false
+  margin_color: true
   style: Standard
 - template: text-area
   text_area: "<h2>Mission</h2><p>Founded in 2019, the Cannabis Equity Illinois Coalition
