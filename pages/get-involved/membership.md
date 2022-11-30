@@ -22,7 +22,7 @@ sections:
     url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/
   heading: Quick Links
 - template: text-area
-  text_area: "<h2>A member-supported movement</h2><p>Monthly and annual donations
+  text_area: "<h2>A Member-Supported Movement</h2><p>Monthly and annual donations
     help us continue the work of cannabis justice that includes record clearing programming,
     increasing opportunities for black and brown business ownership, fighting for
     investment in our communities through policy change, and advocating for Community
