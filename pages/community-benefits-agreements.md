@@ -9,8 +9,8 @@ sections:
   alt_text: Blank placeholder image
   heading: page-title
   subtitle: page-description
-  gradient: false
-  margin_color: false
+  gradient: true
+  margin_color: true
   style: ''
   scroll_button: ''
 - template: text-area
