@@ -22,8 +22,8 @@ fields:
     schema:
       format: markdown
   label: First Post
-  description: Add post embed code <a href="https://help.instagram.com/620154495870484"
-    title="https://help.instagram.com/620154495870484" target="_blank">https://help.instagram.com/620154495870484</a>
+  description: 'Add post embed code. Details on how to get it: <a href="https://help.instagram.com/620154495870484"
+    title="https://help.instagram.com/620154495870484" target="_blank">https://help.instagram.com/620154495870484</a>'
 - name: second_post
   type: textarea
   default: ''
@@ -42,3 +42,4 @@ fields:
     schema:
       format: markdown
   label: Third Post
+  description: Does not display below 1100px, due to sizing/layout stuff...
