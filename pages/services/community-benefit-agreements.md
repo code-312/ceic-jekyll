@@ -42,18 +42,18 @@ sections:
     designed to ensure local needs are met when new developments come to town. From
     housing developments, museums &amp; casinos, to the cannabis industry, businesses
     have an obligation to listen to the community and include them in their plans.
-    The Obama Center CBA is a great example that inspired our organizing.</p><h2>Why
-    Are CBAs Important to Us?</h2><p>As part of cannabis legalization, Illinois lawmakers
-    allowed for the existing medical cannabis dispensary operators to open a “Plus-1”
-    recreational dispensary. These existing operators, none of whom are led by individuals
-    from impacted communities, are allowed to get a head start on expanding their
-    businesses in Illinois, while new entrepreneurs are forced to wait.</p><p>To ensure
-    that these companies, many of whom are multi-state operators, are doing their
-    fair share to support communities impacted by prohibition, we started the #CannabisCBA
-    campaign. Alongside <a href="https://www.clccrul.org/">Chicago Lawyers’ Committee
-    for Civil Rights</a>, we’ve drafted the first Cannabis Community Benefits Agreement
-    in the country.</p><h2>The Country''s First Cannabis CBA</h2><p>On March 3, 2020,
-    we <a href="https://mailchi.mp/clccrul/cannabis-equity-coalition-natures-care-cba">announced</a>
+    <a href="http://www.obamacba.org/" title="">The Obama Center CBA</a> is a great
+    example that inspired our organizing.</p><h2>Why Are CBAs Important to Us?</h2><p>As
+    part of cannabis legalization, Illinois lawmakers allowed for the existing medical
+    cannabis dispensary operators to open a “Plus-1” recreational dispensary. These
+    existing operators, none of whom are led by individuals from impacted communities,
+    are allowed to get a head start on expanding their businesses in Illinois, while
+    new entrepreneurs are forced to wait.</p><p>To ensure that these companies, many
+    of whom are multi-state operators, are doing their fair share to support communities
+    impacted by prohibition, we started the #CannabisCBA campaign. Alongside <a href="https://www.clccrul.org/">Chicago
+    Lawyers’ Committee for Civil Rights</a>, we’ve drafted the first Cannabis Community
+    Benefits Agreement in the country.</p><h2>The Country''s First Cannabis CBA</h2><p>On
+    March 3, 2020, we <a href="https://mailchi.mp/clccrul/cannabis-equity-coalition-natures-care-cba">announced</a>
     our very first CBA with a dispensary! Read about our agreement with Nature’s Care
     Company in <a href="https://github.com/Code-For-Chicago/cecil_website/raw/master/src/images/Crains_cba.pdf">Crain’s</a>
     and <a href="https://blockclubchicago.org/2020/03/06/weed-company-vows-to-hire-those-hurt-by-war-on-drugs-and-more-in-milestone-agreement-with-cannabis-equity-coalition/">Block
