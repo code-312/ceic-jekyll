@@ -49,7 +49,7 @@ sections:
     interviews, and more</p></li><li><p>Exclusive member sessions with Movement and
     Medicine</p></li></ul>"
   add_button: true
-  text: Donate
+  text: 32 character button length test
   type: External Link
   url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=50&x_ask=20,50,100,250&x_frequency=y
 - template: text-area
