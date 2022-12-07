@@ -7,8 +7,10 @@ fields:
   type: text
   config:
     required: false
-    max: 20
+    max: 
   label: Button Text
+  description: 'Maximum 20 characters recommended. Some components will break/look
+    very bad with long buttons. '
 - name: type
   type: select
   default: ''
