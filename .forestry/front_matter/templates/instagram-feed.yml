@@ -1,6 +1,7 @@
 ---
-label: Instagram Feed
+label: Social Media Posts
 hide_body: true
+display_field: heading
 fields:
 - name: heading
   type: text
