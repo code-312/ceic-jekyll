@@ -9,8 +9,8 @@ fields:
     required: false
     max: 
   label: Button Text
-  description: 'Maximum 20 characters recommended. Some components will break/look
-    very bad with long buttons. '
+  description: Maximum 20 characters recommended. Some components will break/look
+    very bad with long buttons, but some will be fine.
 - name: type
   type: select
   default: ''
