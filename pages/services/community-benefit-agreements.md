@@ -78,7 +78,7 @@ sections:
   url: ''
   file: ''
 - template: embed
-  width: Standard
+  width: Skinny
   code: |-
     <h2>CBA Toolkit</h2>
     <div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
