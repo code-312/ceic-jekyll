@@ -65,15 +65,6 @@ sections:
   type: ''
   url: ''
   file: ''
-- template: quick-links
-  heading: Community Benefit Agreement Toolkit
-  quick_links:
-  - icon: bill
-    type: File
-    file: "/assets/images/cba-toolkit-final.pdf"
-    text: Download the CBA toolkit
-    site_page: ''
-    url: ''
 - template: embed
   width: Skinny
   code: |-
@@ -84,5 +75,14 @@ sections:
         src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFG_oHktko&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
       </iframe>
     </div>
+- template: quick-links
+  heading: Community Benefit Agreement Toolkit
+  quick_links:
+  - icon: bill
+    type: File
+    file: "/assets/images/cba-toolkit-final.pdf"
+    text: Download the CBA toolkit
+    site_page: ''
+    url: ''
 
 ---
