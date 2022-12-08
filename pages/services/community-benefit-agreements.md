@@ -1,30 +1,12 @@
 ---
-description: 'What is a Community Benefit Agreement?  As part of cannabis legalization,
-  Illinois lawmakers allowed for the existing medical cannabis dispensary operators
-  to open a “Plus-1” recreational dispensary. These existing operators, none of whom
-  are led by individuals from impacted communities, are allowed to get a head start
-  on expanding their businesses in Illinois, while new entrepreneurs are forced to
-  wait.  To ensure that these companies, many of whom are multi-state operators, are
-  doing their fair share to support communities impacted by prohibition, we started
-  the #CannabisCBA campaign. Alongside Chicago Lawyers’ Committee for Civil Rights,
-  we’ve drafted the first Cannabis Community Benefits Agreement in the country.  The
-  Country''s First Cannabis CBA  On March 3, 2020, we announced our very first CBA
-  with a dispensary! Read about our agreement with Nature’s Care Company in Crain’s
-  and Block Club Chicago. We signed our second agreement in the Summer of 2020, and
-  hope all “Plus-1” dispensaries will work with organizations like ours to ensure
-  most impacted communities are benefiting from these dispensaries.  The most impactful
-  community benefits partnerships will result in all of the goals and commitments
-  listed below becoming memorialized in a Community Benefits Agreement between the
-  new dispensary and the Coalition.  The Future  We have an action plan to bring this
-  CBA and negotiate its binding terms with licensed cannabis businesses. We encourage
-  you to join us, especially at public meetings for proposed dispensaries in 2020
-  — for the most up to date public meetings regarding new sites for cannabis businesses,
-  DM or follow us @CannaEquityIL. We welcome everyone across the state to engage with
-  this campaign, so that the “plus-1” dispensaries statewide are working with community
-  partners.'
+description: Community Benefits Agreements (CBAs) are agreements between community
+  members/organizations and businesses, designed to ensure local needs are met when
+  new developments come to town. From housing developments, museums & casinos, to
+  the cannabis industry, businesses have an obligation to listen to the community
+  and include them in their plans.
 permalink: "/:path/:basename/"
 layout: default
-title: CBA Toolkit
+title: Organize Your Community
 sections:
 - template: hero
   style: Standard
