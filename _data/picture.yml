@@ -6,7 +6,7 @@ media-queries:
 presets:
   hero:
     formats: [webp]
-    widths: [1440]
+    widths: [1600]
     format_quality:
       png: 85
       jpg: 85
