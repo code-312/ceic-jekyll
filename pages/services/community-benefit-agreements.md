@@ -17,15 +17,6 @@ sections:
   gradient: true
   scroll_button: ''
   margin_color: true
-- template: quick-links
-  heading: Quick Links
-  quick_links:
-  - icon: bill
-    type: File
-    file: "/assets/images/cba-toolkit-final.pdf"
-    text: Download the CBA toolkit
-    site_page: ''
-    url: ''
 - template: text-area
   style: Plain
   text_area: '<h2>What is a Community Benefit Agreement?</h2><p>Community Benefits
@@ -74,6 +65,15 @@ sections:
   type: ''
   url: ''
   file: ''
+- template: quick-links
+  heading: Community Benefit Agreement Toolkit
+  quick_links:
+  - icon: bill
+    type: File
+    file: "/assets/images/cba-toolkit-final.pdf"
+    text: Download the CBA toolkit
+    site_page: ''
+    url: ''
 - template: embed
   width: Skinny
   code: |-
