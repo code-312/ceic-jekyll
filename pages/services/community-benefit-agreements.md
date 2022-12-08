@@ -77,6 +77,17 @@ sections:
   type: ''
   url: ''
   file: ''
+- template: text-area
+  style: Plain
+  text_area: "<h2>CBA Toolkit</h2>"
+  site_page: []
+  heading: ''
+  column_two: ''
+  add_button: false
+  text: ''
+  type: ''
+  url: ''
+  file: ''
 - template: embed
   width: ''
   code: |-
