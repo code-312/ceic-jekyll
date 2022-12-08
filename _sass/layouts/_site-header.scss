@@ -1,5 +1,5 @@
 .site-header {
-  box-shadow: 0px 4px 20px $shadow;
+  @include site-width;
 }
 
 .header__container {

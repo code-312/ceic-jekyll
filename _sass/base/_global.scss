@@ -10,7 +10,8 @@ html {
   box-sizing: inherit;
 }
 
-
 main {
-  flex-grow: 1;
+  @include site-width;
+  background-color: $white;
+  max-width: 1600px;
 }
