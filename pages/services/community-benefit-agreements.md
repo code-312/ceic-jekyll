@@ -76,13 +76,19 @@ sections:
       </iframe>
     </div>
 - template: quick-links
-  heading: Community Benefit Agreement Toolkit
+  heading: Community Benefit Agreement Resources
   quick_links:
   - icon: bill
     type: File
     file: "/assets/images/cba-toolkit-final.pdf"
-    text: Download the CBA toolkit
+    text: Download our CBA toolkit
     site_page: ''
     url: ''
+  - icon: bill
+    text: Read more about CBAs
+    type: External Link
+    url: https://shelterforce.org/2016/10/21/making-community-benefits-agreements-count/
+    site_page: ''
+    file: ''
 
 ---
