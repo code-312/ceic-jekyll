@@ -1,6 +1,7 @@
 .quick-links {
   background-color: $neutral-50;
   text-align: center;
+  outline: 1px solid $neutral-100;
 
   @include spacing-std;
 
