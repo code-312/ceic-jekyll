@@ -62,7 +62,7 @@ sections:
   add_button: true
   type: External Link
   url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=120&x_ask=20,50,100,250&x_frequency=y
-  text: Donate
+  text: Become an Equity Champion
 - template: text-area
   style: Splashy
   text_area: "<h3>Entrepreneur<br>$250/annually</h3><ul><li><p>Corporate membership</p></li><li><p></p></li></ul>"
