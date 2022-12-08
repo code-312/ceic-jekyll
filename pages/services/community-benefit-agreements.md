@@ -68,18 +68,8 @@ sections:
     in 2020 — for the most up to date public meetings regarding new sites for cannabis
     businesses, DM or follow us <a href="https://www.facebook.com/CannaEquityIL">@CannaEquityIL</a>.
     We welcome everyone across the state to engage with this campaign, so that the
-    “plus-1” dispensaries statewide are working with community partners.</p>'
-  site_page: []
-  heading: ''
-  column_two: ''
-  add_button: false
-  text: ''
-  type: ''
-  url: ''
-  file: ''
-- template: text-area
-  style: Plain
-  text_area: "<h2>CBA Toolkit</h2>"
+    “plus-1” dispensaries statewide are working with community partners.</p><h2>CBA
+    Toolkit</h2>'
   site_page: []
   heading: ''
   column_two: ''
