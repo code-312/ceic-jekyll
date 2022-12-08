@@ -28,15 +28,15 @@ sections:
     type: File
     file: "/assets/images/kyr_flyer.pdf"
 - template: text-area
-  text_area: "<h2>Know Your Rights!</h2><p>We focus on providing legal education and
-    support under the new laws to ensure everyone is staying safe.</p><p>We support
-    this mission through:</p><ul><li><p>Creating educational resources like our crutch
-    cards, designed to inform the public of continued prohibited situations for the
-    possession and consumption of cannabis.</p></li><li><p>Live workshops with partners
-    Legal Aid Chicago &amp; Herbal Legal on how cannabis can impact your housing,
-    employment, and immigration status. Check them out in our partners section!</p></li><li><p>Sharing
-    resources and hosting events on expungement, and promoting awareness of newly
-    developing legal vulnerabilities or protections afforded for the use of cannabis.</p></li><li><p>Online
+  text_area: "<h2>Know Your Rights!</h2><p>We provide legal education and support
+    to our communities to ensure everyone is staying safe under new laws. We support
+    our mission through education by:</p><ul><li><p>Hosting workshops with community
+    partners on how cannabis impacts your legal rights, including housing, employment,
+    and immigration status. Check them out in our partners section!</p></li><li><p>Sharing
+    resources and events on expungement, and promoting awareness of new legal vulnerabilities
+    or protections afforded for the use of cannabis.</p></li><li><p>Creating educational
+    resources like our crutch cards, designed to inform the public of continued prohibited
+    situations for the possession and consumption of cannabis.</p></li><li><p>Online
     resources and videos</p></li></ul>"
 - template: embed
   code: |-
@@ -47,7 +47,6 @@ sections:
         src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPh9Z5ibg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
       </iframe>
     </div><br>
-    <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPh9Z5ibg&#x2F;view?utm_content=DAFPh9Z5ibg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Know Your Rights</a> by Cannabis Equity Coalition Illinois
 - template: card-with-image
   image: "/assets/images/kyr6.jpg"
   alt_text: An image of Coalition member Peter presenting to a classroom of people

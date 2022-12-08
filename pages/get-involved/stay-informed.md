@@ -17,10 +17,9 @@ sections:
     Equity Illinois newsletter. You'll now receive updates from us.</p>"
 - template: text-area
   style: Plain
-  text_area: <h2>Weekly Virtual Meetings</h2><p>If you’d like to connect, we meet
-    weekly every Thursday at 6pm. Sign up for our video meetings with the form below.</p><p>Please
-    reach out to <a href="mailto:CannabisEquityIL@gmail.com" title="CannabisEquityIL@gmail.com">CannabisEquityIL@gmail.com</a>
-    with any questions.</p>
+  text_area: "<h2>Weekly Virtual Meetings</h2><p>Want to join our community? We meet
+    as a group every other Thursday at 6PM on zoom!</p><p>Please reach out to CannabisEquityIL@gmail.com
+    with any questions.</p>"
   site_page: []
 - template: embed
   code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5wrfcTJ7UeI6y7ne3F9CeeiNo-7rmSQIbIcXc3Y9cPg2Aug/viewform?embedded=true"
