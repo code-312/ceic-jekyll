@@ -81,7 +81,7 @@ sections:
   - icon: bill
     type: File
     file: "/assets/images/cba-toolkit-final.pdf"
-    text: Download our CBA toolkit
+    text: Download our CBA toolkit (pdf)
     site_page: ''
     url: ''
   - icon: bill
