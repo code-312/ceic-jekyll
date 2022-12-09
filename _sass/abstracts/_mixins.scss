@@ -59,6 +59,36 @@
   }
 }
 
+@mixin spacing-slim {
+  padding: 16px;
+  margin: 32px;
+
+  @include tablet {
+    padding: 32px;
+    margin: 64px;
+  }
+
+  @include desktop {
+    margin: 64px auto;
+    width: $slim-content-width-percent;
+    max-width: $slim-content-width-max;
+  }
+}
+
+@mixin spacing-slim-nopad {
+  margin: 32px;
+
+  @include tablet {
+    margin: 64px;
+  }
+
+  @include desktop {
+    margin: 64px auto;
+    width: $slim-content-width-percent;
+    max-width: $slim-content-width-max;
+  }
+}
+
 @mixin spacing-short {
   padding: 16px;
   margin: 16px;

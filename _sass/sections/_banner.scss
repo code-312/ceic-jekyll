@@ -12,7 +12,9 @@
   }
 
   div {
-    @include content-width-std
+    margin-left: auto;
+    margin-right: auto;
+    max-width: $std-content-width-max;
   }
 }
 
