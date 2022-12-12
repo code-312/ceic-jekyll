@@ -26,7 +26,7 @@ sections:
     benefits those most impacted by cannabis prohibition.
 - template: card-with-image
   image: "/assets/images/group-new2020-sharped.png"
-  alt_text: Blank placeholdxvczxcv
+  alt_text: Blank placehold]
   heading: Get Involved
   paragraph: |
     We welcome anyone who believes in our mission to get involved with us.
@@ -41,6 +41,8 @@ sections:
   text: Link Here
   type: Site Page
   style: fancy
+  image_two: "/assets/images/juneteenth-w-small-group.jpg"
+  alt_text_two: Placeholder
 - template: banner
   style: green
   site_page: []
