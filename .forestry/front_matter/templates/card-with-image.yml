@@ -23,6 +23,14 @@ fields:
     maxSize: 64
   label: Image
   default: "/assets/images/placehold/544x320.png"
+- name: second_image
+  type: include
+  config: {}
+  template: image
+  label: Second Image
+  showOnly:
+    field: style
+    value: fancy
 - name: alt_text
   type: text
   config:
