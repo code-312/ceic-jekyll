@@ -26,7 +26,7 @@ sections:
     benefits those most impacted by cannabis prohibition.
 - template: card-with-image
   image: "/assets/images/group-new2020-sharped.png"
-  alt_text: Blank placeholder image
+  alt_text: Blank placeholdxvczxcv
   heading: Get Involved
   paragraph: |
     We welcome anyone who believes in our mission to get involved with us.
