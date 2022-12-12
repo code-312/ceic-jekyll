@@ -18,11 +18,10 @@ fields:
       path: 
   label: Style
 - name: image
-  type: file
-  config:
-    maxSize: 64
+  type: include
+  config: {}
+  template: image
   label: Image
-  default: "/assets/images/placehold/544x320.png"
 - name: second_image
   type: include
   config: {}
@@ -31,13 +30,6 @@ fields:
   showOnly:
     field: style
     value: fancy
-- name: alt_text
-  type: text
-  config:
-    required: false
-  label: Alt text
-  description: Required to maintain accessibility standards.
-  default: Blank placeholder image
 - name: heading
   type: text
   config:
