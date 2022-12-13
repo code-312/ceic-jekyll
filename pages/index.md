@@ -293,6 +293,11 @@ sections:
     font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A
     post shared by Canna Equity IL Coalition (@cannaequityil)</a></p></div></blockquote>
     <script async src=\"//www.instagram.com/embed.js\"></script>\n\n"
+  posts:
+  - {}
+  - image: "/assets/images/ig1.jpg"
+    link: https://www.instagram.com/p/ClZs8AtrpJy/
+    alt_text: Rap Sheet Assistance Day
 description: Site under construction
 
 ---
