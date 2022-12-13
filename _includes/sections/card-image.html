@@ -1,35 +1,40 @@
 {% if block.style == "fancy" %}
 <section class="card--fancy">
+  <div class="card-image-container">
+    <div>
+      {% include components/image-card.html link=block.image_two alt=block.alt_text_two %}
+    </div>
+    <div>
+      {% include components/image-card.html link=block.image alt=block.alt_text %}
+    </div>
+  </div>
 {% else %}
 <section class="card card--grey">
-{% endif %}
-
   <div class="card-image-container">
-  {% include components/image-card.html link=block.image alt=block.alt_text %}
-</div>
-
-<div class="card-text">
-  <h3>{{ block.heading }}</h3>
-  <p>{{ block.paragraph }}</p>
-  {% if block.button_or_links == "button" %}
-  <div class="foot">
-    {% include components/button-link--light-bg.html
-        text = block.text
-        external = block.external
-        url = block.url
-        site_page = block.site_page
-    %}
+    {% include components/image-card.html link=block.image alt=block.alt_text %}
   </div>
-  {% elsif block.button_or_links == "links"%}
-  <div class="foot">
-    {% for link in block.links %}
-    <a href="{{ link.url }}" class="link-icon--green">
-      {{ link.text }}
-      {% include components/icon-social.html id="chevron" %}
-    </a><br>
-    {% endfor %}
+{% endif %}
+  <div class="card-text">
+    <h3>{{ block.heading }}</h3>
+    <p>{{ block.paragraph }}</p>
+    {% if block.button_or_links == "button" %}
+    <div class="foot">
+      {% include components/button-link--light-bg.html
+          text = block.text
+          external = block.external
+          url = block.url
+          site_page = block.site_page
+      %}
+    </div>
+    {% elsif block.button_or_links == "links"%}
+    <div class="foot">
+      {% for link in block.links %}
+      <a href="{{ link.url }}" class="link-icon--green">
+        {{ link.text }}
+        {% include components/icon-social.html id="chevron" %}
+      </a><br>
+      {% endfor %}
+    </div>
+    {% endif %}
   </div>
-  {% endif %}
-</div>
-
 </section>
