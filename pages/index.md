@@ -300,6 +300,9 @@ sections:
   - image: "/assets/images/ig2.jpg"
     link: https://www.instagram.com/p/ClWmInJLI7L/
     alt_text: Legislative session is here!!!
+  - image: "/assets/images/ig3.jpg"
+    alt_text: Community Resource Fair
+    link: https://www.instagram.com/p/ClUjXHOvUH7/
 description: Site under construction
 
 ---
