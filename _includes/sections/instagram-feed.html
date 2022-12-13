@@ -7,7 +7,9 @@
   <div class="post-container">
     {% for post in block.posts %}
     <div>
-      <a href="{{ post.link }}"><img src="{{ post.image }}" alt="{{ post.alt_text }}"></a>
+      <a href="{{ post.link }}">
+        {% include components/image.html link=post.image alt=post.alt_text %}
+      </a>
     </div>
     {% endfor %}
   </div>
