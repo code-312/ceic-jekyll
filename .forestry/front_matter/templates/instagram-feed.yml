@@ -13,33 +13,16 @@ fields:
   config:
     required: false
   label: Paragraph
-- name: first_post
-  type: textarea
-  default: ''
+- name: posts
+  type: field_group_list
+  fields:
+  - name: posts
+    type: include
+    config: {}
+    template: image-with-link
+    label: Posts
   config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: First Post
-  description: 'Add post embed code. Details on how to get it: <a href="https://help.instagram.com/620154495870484"
-    title="https://help.instagram.com/620154495870484" target="_blank">https://help.instagram.com/620154495870484</a>'
-- name: second_post
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Second Post
-- name: third_post
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Third Post
-  description: Does not display below 1100px, due to sizing/layout stuff...
+    min: 
+    max: 
+    labelField: 
+  label: Posts
