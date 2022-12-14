@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Volunteer
-description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-  ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-  velit esse cillum dolore eu fugiat nulla pariatur.
+description: We welcome anyone who believes in our mission to get involved! We need
+  all talents to help!
 permalink: "/:path/:basename/"
 sections:
 - template: hero
