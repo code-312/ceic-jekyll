@@ -66,6 +66,8 @@ sections:
   - image: "/assets/images/ig3.jpg"
     alt_text: Community Resource Fair
     link: https://www.instagram.com/p/ClUjXHOvUH7/
-description: Site under construction
+description: 'Cannabis Equity Illinois Coalition: Providing a space for community
+  members to come together to share their experiences, and to organize and advocate
+  to fight for cannabis equity and justice.'
 
 ---
