@@ -6,13 +6,6 @@ description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
   velit esse cillum dolore eu fugiat nulla pariatur.
 permalink: "/:path/:basename/"
 sections:
-- template: quick-links
-  heading: Quick Links
-  quick_links:
-  - icon: calendar
-    text: Biweekly Meeting & Newsletter Signup
-    type: External Link
-    url: https://docs.google.com/forms/d/e/1FAIpQLSf5wrfcTJ7UeI6y7ne3F9CeeiNo-7rmSQIbIcXc3Y9cPg2Aug/viewform?fbzx=-2495019821929962422&pli=1
 - template: hero
   image: "/assets/images/volunteer.jpg"
   alt_text: A coalition member assisting two other people at a tabling event.
@@ -21,6 +14,13 @@ sections:
     all talents to help!
   gradient: true
   margin_color: true
+- template: quick-links
+  heading: Quick Links
+  quick_links:
+  - icon: calendar
+    text: Biweekly Meeting & Newsletter Signup
+    type: External Link
+    url: https://docs.google.com/forms/d/e/1FAIpQLSf5wrfcTJ7UeI6y7ne3F9CeeiNo-7rmSQIbIcXc3Y9cPg2Aug/viewform?fbzx=-2495019821929962422&pli=1
 - template: text-area
   text_area: <h2>Event Organizers</h2><p class="column-description">Are you interested
     in organizing events like record clearing days or resource fairs? We host them
