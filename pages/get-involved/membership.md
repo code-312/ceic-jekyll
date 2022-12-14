@@ -65,7 +65,11 @@ sections:
   text: Become an Equity Champion
 - template: text-area
   style: Splashy
-  text_area: "<h3>Entrepreneur<br>$250/annually</h3><ul><li><p>Corporate membership</p></li><li><p></p></li></ul>"
+  text_area: "<h3>Entrepreneur<br>$250/annually</h3><p>Corporate Membership includes
+    Equity Champion Tier items, plus:</p><ul><li><p>Community Benefits Agreement consultation
+    support</p></li><li><p>Visibility of Brand at Coalition events</p></li><li><p>Coalition-led
+    Workshops for your staff</p></li><li><p>Access to exclusive events co-hosted by
+    Coalition equity partners</p></li><li><p>And more!</p></li></ul>"
   add_button: true
   type: External Link
   url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=250&x_ask=20,50,100,250&x_frequency=y
