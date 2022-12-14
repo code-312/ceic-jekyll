@@ -24,7 +24,7 @@ sections:
 - template: text-area
   text_area: "<h2>A Member-Supported Movement</h2><p>Monthly and annual donations
     help us continue the work of cannabis justice that includes record clearing programming,
-    increasing opportunities for black and brown business ownership, fighting for
+    increasing opportunities for Black and Brown business ownership, fighting for
     investment in our communities through policy change, and advocating for Community
     Benefits Agreements for cannabis businesses.</p>"
 - template: line
