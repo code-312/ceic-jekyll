@@ -50,7 +50,7 @@ sections:
     benefits those most impacted by cannabis prohibition.
 - template: card-with-image
   image: "/assets/images/group-new2020-sharped.png"
-  alt_text: Blank placehold]
+  alt_text: Coalition and Legal Aid booths at RAP Sheet Day
   heading: Get Involved
   paragraph: |
     We welcome anyone who believes in our mission to get involved with us.
@@ -62,11 +62,11 @@ sections:
     We are organizing events like National Expungement Week, Know Your Rights, and resource fairs. We need support to ensure those events are effective, safe, and impactful for all involved!
   site_page: pages/get-involved/membership.md
   button_or_links: button
-  text: Link Here
+  text: Become a member
   type: Site Page
   style: fancy
   image_two: "/assets/images/juneteenth-w-small-group.jpg"
-  alt_text_two: Placeholder
+  alt_text_two: Coalition volunteers in a group photo
 - template: banner
   style: green
   site_page: []
