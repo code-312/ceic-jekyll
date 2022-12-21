@@ -99,7 +99,7 @@ sections:
     type: External Link
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - heading: Participate
-    subtitle: quis nostrud exercitation ullamco
+    subtitle: Learn about more paths for involvement.
     text: Become a Member
     type: Site Page
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
