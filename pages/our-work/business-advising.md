@@ -80,7 +80,7 @@ sections:
     type: External Link
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - heading: Member
-    subtitle: 'lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do '
+    subtitle: Actively participate in the change
     text: Become a member
     type: Site Page
     site_page: pages/get-involved/membership.md
