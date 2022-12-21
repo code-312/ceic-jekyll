@@ -1,0 +1,22 @@
+<section class="cards-with-links">
+  {% for card in block.card %}
+
+  <div>
+  {% if card.type == "File" %}
+  <a href="{{ card.file | relative_url }}" target="_blank">
+{% elsif card.type == "External Link" %}
+  <a href="{{ card.url }}" target="_blank">
+{% elsif card.site_page contains "pages/index" %}
+  <a href="{{ / | relative_url }}">
+{% else %}
+  <a href="{{ card.site_page | replace: ".md" "/" | relative_url }}">
+{% endif %}
+      <span class="card-icon">
+        {% include components/icon-svg.html id="arrow" %}
+      </span>
+      <p class="card-heading">{{ card.heading }}</p>
+      <p class="card-body">{{ card.paragraph }}</p>
+    </a>
+  </div>
+  {% endfor %}
+</section>
