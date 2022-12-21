@@ -43,21 +43,22 @@ fields:
   type: blocks
   label: Sections
   template_types:
-  - hero
-  - quick-links
-  - purple-carousel
+  - banner
   - card-with-image
+  - cards-with-links
   - card-with-youtube
-  - text-area
+  - green-carousel
+  - embed
+  - hero
+  - history
   - image
   - images-with-captions
-  - green-carousel
-  - testimonial
-  - history
-  - embed
   - line
-  - banner
+  - purple-carousel
+  - quick-links
   - instagram-feed
+  - testimonial
+  - text-area
   config:
     min: 
     max: 
