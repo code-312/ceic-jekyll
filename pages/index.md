@@ -19,6 +19,30 @@ sections:
     and advocate to fight for cannabis equity and justice. The Coalition supports
     individuals and communities in the following ways:</p>"
   style: Plain
+- template: cards-with-links
+  card:
+  - paragraph: Using legislative education to increase engagement amongst our community
+      members in the policy process.
+    type: Site Page
+    heading: Legislative Education
+    site_page: pages/our-work/policy-and-advocacy.md
+  - heading: Expungement Resources
+    paragraph: Provides services and support for individuals to expunge or seal their
+      criminal records, especially for cannabis offenses. We advocate to promote the
+      expansion of automatic expungement, and to ensure anyone with a criminal record
+      is able to access record clearing in a timely manner.
+    type: Site Page
+    site_page: pages/services/clear-your-record.md
+  - heading: Community Benefits Agreements
+    type: Site Page
+    site_page: pages/services/community-benefits-agreement.md
+    paragraph: 'Advocate for cannabis dispensaries to formally partner with community
+      organizations by encouraging the implementation of Community Benefits Agreements. '
+  - heading: Know Your Rights
+    paragraph: We host Know Your Rights education sessions and promote KYR information
+      to ensure nobody else is criminalized for cannabis.
+    type: Site Page
+    site_page: pages/services/know-your-rights.md
 - template: banner
   style: purple
   heading: WE ARE THE WATCHDOG
