@@ -1,4 +1,31 @@
 ---
 label: Cards with Links
 hide_body: true
-fields: []
+fields:
+- name: card
+  type: field_group_list
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: paragraph
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Paragraph
+  - name: link
+    type: include
+    config: {}
+    template: link
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Card
