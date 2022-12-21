@@ -99,7 +99,7 @@ sections:
     type: External Link
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - heading: Participate
-    subtitle: Get more involved
+    subtitle: Find out how to get involved
     text: Become a Member
     type: Site Page
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
