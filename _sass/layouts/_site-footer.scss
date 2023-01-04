@@ -1,6 +1,7 @@
 .site-footer {
   @include site-width;
   border-top: 1px solid $neutral-50;
+  background-color: $white;
 }
 
 .footer__content {
