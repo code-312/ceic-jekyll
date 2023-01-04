@@ -6,7 +6,7 @@ description: Community Benefits Agreements (CBAs) are agreements between communi
   and include them in their plans.
 permalink: "/:path/:basename/"
 layout: default
-title: Organize Your Community
+title: Community Benefits Agreements
 sections:
 - template: hero
   style: Standard
