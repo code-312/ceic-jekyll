@@ -56,6 +56,5 @@ sections:
 - template: embed
   width: Standard
   code: ''
-published: false
 
 ---
