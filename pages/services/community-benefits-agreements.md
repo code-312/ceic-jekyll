@@ -47,11 +47,11 @@ sections:
     new dispensary and the Coalition.</p><h2>The Future</h2><p>We have an action plan
     to bring this CBA and negotiate its binding terms with licensed cannabis businesses.
     We encourage you to join us, especially at public meetings for proposed dispensaries
-    in 2020 — for the most up to date public meetings regarding new sites for cannabis
-    businesses, DM or follow us <a href="https://www.facebook.com/CannaEquityIL">@CannaEquityIL</a>.
+    — for the most up to date public meetings regarding new sites for cannabis businesses,
+    DM or follow us <a href="https://www.facebook.com/CannaEquityIL">@CannaEquityIL</a>.
     We welcome everyone across the state to engage with this campaign, so that the
     “plus-1” dispensaries statewide are working with community partners.</p><h2>How
-    to Create a Community Benefit Agreement </h2><p>The Cannabis Equity Illinois Coalition
+    to Create a Community Benefit Agreement</h2><p>The Cannabis Equity Illinois Coalition
     welcomes you to use our Community Benefits Agreement toolkit to develop your own
     plan to bring positive investment and opportunity to your community.<br><br>Every
     community is different. You, and other leaders in your community, know the needs
