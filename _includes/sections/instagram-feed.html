@@ -1,17 +1,20 @@
 <section class="instagram-feed">
-  <div class="text-container">
-    <h2>{{ block.heading }}</h2>
-    <p>{{ block.paragraph }}</p>
-  </div>
+  <div class="content-container">
 
-  <div class="post-container">
-    {% for post in block.posts %}
-    <div>
-      <a href="{{ post.link }}">
-        {% include components/image.html link=post.image alt=post.alt_text %}
-      </a>
+    <div class="text-container">
+      <h2>{{ block.heading }}</h2>
+      <p>{{ block.paragraph }}</p>
     </div>
-    {% endfor %}
+    
+    <div class="post-container">
+      {% for post in block.posts %}
+      <div>
+        <a href="{{ post.link }}">
+          {% include components/image.html link=post.image alt=post.alt_text %}
+        </a>
+      </div>
+      {% endfor %}
+    </div>
   </div>
 
 </section>

@@ -29,6 +29,30 @@
   }
 }
 
+@mixin spacing-std-nomargin {
+  padding: 32px 16px;
+
+  @include tablet {
+    padding: 64px 32px;
+  }
+
+  @include desktop {
+    padding: 64px auto;
+  }
+}
+
+@mixin spacing-std-nomargin-short {
+  padding: 32px 16px;
+
+  @include tablet {
+    padding: 64px 32px;
+  }
+
+  @include desktop {
+    padding: 64px auto;
+  }
+}
+
 @mixin spacing-skinny {
   padding: 16px;
   margin: 32px;
@@ -169,7 +193,7 @@
 }
 
 @mixin site-width {
-  margin: auto;
+  margin: 0 auto;
   width: 100%;
   max-width: $max-site-width;
 }

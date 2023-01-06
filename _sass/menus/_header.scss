@@ -1,4 +1,5 @@
 .nav-primary {
+  background-color: $white;
 
   .icon-triangle {
     display: none;
@@ -20,7 +21,6 @@
   .icon-plus:before, .icon-plus:after {
     background-color: $green-800;
   }
-
 }
 
 .nav-drop-down-only {
@@ -38,7 +38,7 @@
 
 .bar {
   margin-top: 4px;
-  background-color: white;
+  background-color: $white;
   height: 3px;
   width: 100%;
   border-radius: 99px;
@@ -136,7 +136,7 @@
   }
 
   &.current span{
-    color: white;
+    color: $white;
   }
 
 
@@ -144,7 +144,7 @@
     &:hover, &:focus-within {
       background: $green-600;
       a {
-        color: white
+        color: $white
       }
     }
 
@@ -153,7 +153,7 @@
     }
 
     &.current span{
-      color: white;
+      color: $white;
     }
 
     &:active {

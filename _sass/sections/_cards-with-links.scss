@@ -12,11 +12,18 @@
   }
 
   div {
+    height: 100%;
+    width: 100%;
     background-color: white;
     padding: 16px;
     box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.03), 0px 4px 6px -1px rgba(0, 0, 0, 0.1);
     border-radius: 4px;
     position: relative;
+    transition: box-shadow $speed-std;
+  }
+
+  div:hover {
+    box-shadow: 0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 10px 10px -5px rgba(0, 0, 0, 0.02);
   }
 
   .card-icon {
