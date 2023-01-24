@@ -8,7 +8,8 @@ sections:
 - template: hero
   style: Standard
   image: "/assets/images/protest-5561x3707.jpg"
-  alt_text: Blank placeholder image
+  alt_text: Image of a hand holding up a red and white bullhorn with a tall tan building
+    in the background
   heading: Our Impact
   subtitle: It’s been another year of growth for the Coalition, and we remain steadfast
     in our mission to end the War on Drugs and achieve true justice for our communities.
