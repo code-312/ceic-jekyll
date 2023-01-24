@@ -13,7 +13,7 @@ sections:
   subtitle: Get the freshest updates and information straight from the Coalition.
   margin_color: true
 - template: text-area
-  style: Flashy
+  style: Splashy
   text_area: "<h2>Biweekly Virtual Meetings &amp; Newsletter Signup</h2><p>Want to
     join our community? We meet as a group every other Thursday at 6PM on Zoom! You
     can also sign up for our newsletter.</p><p>Please reach out to CannabisEquityIL@gmail.com
