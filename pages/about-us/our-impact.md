@@ -38,6 +38,7 @@ sections:
       </iframe>
     </div>
     <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFVsWotPAo&#x2F;view?utm_content=DAFVsWotPAo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">22’ Coalition Impact Report (Instagram Post (Square))</a> by Peter Contos
+  width: Standard
 - template: text-area
   text_area: <p><a href="https://www.canva.com/design/DAEyvLK9lOI/HJo00X8beXliHOcKIObjzw/view">Coalition
     Impact Report</a> by Kay V</p>
