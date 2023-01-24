@@ -26,7 +26,7 @@ sections:
   heading: 2021 Impact at a Glance
 - template: text-area
   style: Plain
-  text_area: "<h2>Our 2021 Impact Report</h2><p>Check out the Coalition’s 2021 Impact
+  text_area: "<h2>Our 2022 Impact Report</h2><p>Check out the Coalition’s 2022 Impact
     Report! In this report, we highlight all of the Coalition’s work for the last
     12 months, and the impact we made.</p>"
 - template: embed
