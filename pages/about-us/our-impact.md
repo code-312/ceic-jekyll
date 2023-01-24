@@ -29,7 +29,7 @@ sections:
     Report! In this report, we highlight all of the Coalition’s work for the last
     12 months, and the impact we made.</p>"
 - template: embed
-  code: |-
+  code: |
     <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
      padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
      border-radius: 8px; will-change: transform;">
@@ -37,7 +37,6 @@ sections:
         src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFVsWotPAo&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
       </iframe>
     </div>
-    <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFVsWotPAo&#x2F;view?utm_content=DAFVsWotPAo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">22’ Coalition Impact Report (Instagram Post (Square))</a> by Peter Contos
   width: Standard
 - template: text-area
   text_area: <p><a href="https://www.canva.com/design/DAEyvLK9lOI/HJo00X8beXliHOcKIObjzw/view">Coalition
