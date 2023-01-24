@@ -13,13 +13,11 @@ sections:
   subtitle: Get the freshest updates and information straight from the Coalition.
   margin_color: true
 - template: text-area
-  text_area: "<h2>Newsletter signup</h2><p>Thank you for signing up for the Cannabis
-    Equity Illinois newsletter. You'll now receive updates from us.</p>"
-- template: text-area
-  style: Plain
-  text_area: "<h2>Biweekly Virtual Meetings</h2><p>Want to join our community? We
-    meet as a group every other Thursday at 6PM on Zoom!</p><p>Please reach out to
-    CannabisEquityIL@gmail.com with any questions.</p>"
+  style: Flashy
+  text_area: "<h2>Biweekly Virtual Meetings &amp; Newsletter Signup</h2><p>Want to
+    join our community? We meet as a group every other Thursday at 6PM on Zoom! You
+    can also sign up for our newsletter.</p><p>Please reach out to CannabisEquityIL@gmail.com
+    with any questions.</p>"
   site_page: []
 - template: embed
   code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5wrfcTJ7UeI6y7ne3F9CeeiNo-7rmSQIbIcXc3Y9cPg2Aug/viewform?embedded=true"
