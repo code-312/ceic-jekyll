@@ -39,11 +39,9 @@ sections:
     </div>
   width: Standard
 - template: text-area
-  text_area: <p><a href="https://www.canva.com/design/DAEyvLK9lOI/HJo00X8beXliHOcKIObjzw/view">Coalition
-    Impact Report</a> by Kay V</p>
-- template: text-area
   style: Flashy
-  text_area: <h2>Previous Reports</h2><p><a href="https://www.canva.com/design/DAERK-8UNvo/MUYnKKaxxqJMWzeR7ACZSw/view?utm_content=DAERK-8UNvo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link"
+  text_area: <h2>Previous Reports</h2><p><a href="https://www.canva.com/design/DAEyvLK9lOI/HJo00X8beXliHOcKIObjzw/view#1"
+    title="2021 Impact Report">2021 Impact Report</a></p><p><a href="https://www.canva.com/design/DAERK-8UNvo/MUYnKKaxxqJMWzeR7ACZSw/view?utm_content=DAERK-8UNvo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link"
     title="2020 Impact Report">2020 Impact Report</a></p>
 
 ---
