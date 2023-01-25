@@ -17,7 +17,7 @@ sections:
   margin_color: true
 - template: purple-carousel
   purple_block:
-  - heading: "2"
+  - heading: "7"
     subtitle: Grants awarded to the coalition
   - heading: "8"
     subtitle: Coalition working groups officially established
