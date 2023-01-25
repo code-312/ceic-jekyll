@@ -23,7 +23,7 @@ sections:
     subtitle: Coalition working groups officially established
   - heading: "152"
     subtitle: Community members initiated expungement
-  heading: 2021 Impact at a Glance
+  heading: Impact at a Glance
 - template: text-area
   style: Plain
   text_area: "<h2>Our 2022 Impact Report</h2><p>Check out the Coalition’s 2022 Impact
