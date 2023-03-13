@@ -9,7 +9,9 @@
     background: transparent;
     position: absolute;
     margin: auto;
-    top: 0; bottom: 0; right: 8px;
+    top: 0;
+    bottom: 0;
+    right: 8px;
   }
 
   .search-submit {
@@ -58,19 +60,21 @@
 }
 
 .form-email {
+  .mce_inline_error {
+    text-align: left;
+    margin: 8px 0 0 0 !important;
+  }
 
   @include tablet {
-      text-align: right;
+    text-align: right;
   }
 
   @include desktop {
     height: inherit;
     display: inline-block;
-
   }
 
   @media screen and (max-width: #{$tablet-width}) {
-
     .btn {
       font-size: 0;
       position: absolute;
@@ -91,5 +95,4 @@
       margin-left: 16px;
     }
   }
-
 }
