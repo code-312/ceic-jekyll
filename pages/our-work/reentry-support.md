@@ -48,6 +48,7 @@ sections:
   external: true
   url: https://www.instagram.com/cannaequityil/?hl=en
   type: External Link
+  style: default
 - template: card-with-image
   image: assets/images/our-work/legal-aid.webp
   alt_text: Group members wearing t-shirts for nation engagement week 2019
