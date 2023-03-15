@@ -32,9 +32,10 @@ sections:
     their records. Regardless of where the record is, and whether it is cannabis or
     not, the Coalition will help you start the record clearing process.
   button_or_links: button
-  text: Expungement
+  text: Learn About Expungement
   external: false
   site_page: pages/services/clear-your-record.md
+  type: Site Page
 - template: card-with-image
   image: assets/images/our-work/community-resource.webp
   alt_text: Members at a table with different household products.
