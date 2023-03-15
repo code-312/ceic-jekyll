@@ -18,7 +18,7 @@ sections:
   scroll_button: ''
   margin_color: true
 - template: quick-links
-  heading: Community Benefit Agreement Resources
+  heading: Quick Links
   quick_links:
   - icon: bill
     type: File
