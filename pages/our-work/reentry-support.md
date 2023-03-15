@@ -65,7 +65,7 @@ sections:
     url: https://www.illinoislegalaid.org/
   - text: Public Benefits at LAC
     type: External Link
-    url: https://www.youtube.com/watch?v=Foi3Hblg21s
+    url: ''
 - template: testimonial
   alt_text: Jefferson Davis, who is a Coalition member, wearing a white shirt and
     pants
