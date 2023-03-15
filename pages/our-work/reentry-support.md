@@ -64,7 +64,7 @@ sections:
     type: External Link
     url: https://www.youtube.com/watch?v=Foi3Hblg21s
 - template: testimonial
-  alt_text: Image of Jefferson Davis
+  alt_text: Image of Jefferson Davis, Coalition member wearing a white shirt and pants
   image: "/assets/images/jefferson.jpg"
   name: Jefferson Davis
   paragraph: Mr. Davis started the record clearing process through the Coalition by
