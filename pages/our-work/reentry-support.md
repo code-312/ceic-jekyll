@@ -44,9 +44,10 @@ sections:
     Illinois. These fairs bring vital resources such as housing, jobs, food assistance
     IDs, education, and more, directly to impacted communities.
   button_or_links: button
-  text: Events
+  text: Stay Up to Date on Events
   external: true
   url: https://www.facebook.com/CannaEquityIL/events/
+  type: External Link
 - template: card-with-image
   image: assets/images/our-work/legal-aid.webp
   alt_text: Group members wearing t-shirts for nation engagement week 2019
