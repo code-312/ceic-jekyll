@@ -48,7 +48,7 @@ sections:
     to bring this CBA and negotiate its binding terms with licensed cannabis businesses.
     We encourage you to join us, especially at public meetings for proposed dispensaries
     — for the most up to date public meetings regarding new sites for cannabis businesses,
-    DM or follow us <a href="https://www.facebook.com/CannaEquityIL">@CannaEquityIL</a>.
+    DM or follow us <a href="https://www.instagram.com/cannaequityil/?hl=en" title="">@CannaEquityIL</a>.
     We welcome everyone across the state to engage with this campaign, so that the
     “plus-1” dispensaries statewide are working with community partners.</p><h2>How
     to Create a Community Benefit Agreement</h2><p>The Cannabis Equity Illinois Coalition
