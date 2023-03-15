@@ -44,7 +44,7 @@ sections:
     Illinois. These fairs bring vital resources such as housing, jobs, food assistance
     IDs, education, and more, directly to impacted communities.
   button_or_links: button
-  text: Stay Up to Date on Events
+  text: Follow our Events
   external: true
   url: https://www.instagram.com/cannaequityil/?hl=en
   type: External Link
