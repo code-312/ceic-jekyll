@@ -17,6 +17,21 @@ sections:
   gradient: true
   scroll_button: ''
   margin_color: true
+- template: quick-links
+  heading: Community Benefit Agreement Resources
+  quick_links:
+  - icon: bill
+    type: File
+    file: "/assets/images/cba-toolkit-final.pdf"
+    text: Download our CBA toolkit (pdf)
+    site_page: ''
+    url: ''
+  - icon: bill
+    text: Read more about CBAs
+    type: External Link
+    url: https://shelterforce.org/2016/10/21/making-community-benefits-agreements-count/
+    site_page: ''
+    file: ''
 - template: text-area
   style: Plain
   text_area: '<h2>What is a Community Benefit Agreement?</h2><p>Community Benefits
@@ -75,20 +90,5 @@ sections:
         src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFG_oHktko&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
       </iframe>
     </div>
-- template: quick-links
-  heading: Community Benefit Agreement Resources
-  quick_links:
-  - icon: bill
-    type: File
-    file: "/assets/images/cba-toolkit-final.pdf"
-    text: Download our CBA toolkit (pdf)
-    site_page: ''
-    url: ''
-  - icon: bill
-    text: Read more about CBAs
-    type: External Link
-    url: https://shelterforce.org/2016/10/21/making-community-benefits-agreements-count/
-    site_page: ''
-    file: ''
 
 ---
