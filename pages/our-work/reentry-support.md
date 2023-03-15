@@ -46,7 +46,7 @@ sections:
   button_or_links: button
   text: Stay Up to Date on Events
   external: true
-  url: https://www.facebook.com/CannaEquityIL/events/
+  url: https://www.instagram.com/cannaequityil/?hl=en
   type: External Link
 - template: card-with-image
   image: assets/images/our-work/legal-aid.webp
