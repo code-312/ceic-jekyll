@@ -59,7 +59,7 @@ sections:
   links:
   - text: New Leaf Illinois
     type: External Link
-    url: https://www.youtube.com/watch?v=Foi3Hblg21s
+    url: https://www.newleafillinois.org/s
   - text: Illinois Legal Aid
     type: External Link
     url: https://www.youtube.com/watch?v=Foi3Hblg21s
