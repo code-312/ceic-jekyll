@@ -10,9 +10,9 @@ sections:
   image: "/assets/images/john-towner-3kv48ns4wuu-unsplash-2.jpg"
   alt_text: A road through the forest with a large patch of light.
   heading: Reentry Support
-  subtitle: CEIC supports community members with system involvement throughout the
-    reentry process to ensure they have everything they need to be prosperous and
-    whole.
+  subtitle: The Coalition supports community members with system involvement throughout
+    the reentry process to ensure they have everything they need to be prosperous
+    and whole.
   gradient: true
   margin_color: true
   style: Standard
