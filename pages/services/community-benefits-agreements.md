@@ -11,7 +11,7 @@ sections:
 - template: hero
   style: Standard
   image: "/assets/images/seldoms-team.jpg"
-  alt_text: Blank placeholder image
+  alt_text: Coalition members gathered together
   heading: Community Benefits Agreements
   subtitle: Cannabis businesses should put their community first
   gradient: true
