@@ -62,7 +62,7 @@ sections:
     url: https://www.newleafillinois.org/s
   - text: Illinois Legal Aid
     type: External Link
-    url: https://www.youtube.com/watch?v=Foi3Hblg21s
+    url: https://www.illinoislegalaid.org/
   - text: Public Benefits at LAC
     type: External Link
     url: https://www.youtube.com/watch?v=Foi3Hblg21s
