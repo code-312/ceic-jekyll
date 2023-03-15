@@ -50,7 +50,7 @@ sections:
     — for the most up to date public meetings regarding new sites for cannabis businesses,
     DM or follow us <a href="https://www.instagram.com/cannaequityil/?hl=en" title="">@CannaEquityIL</a>.
     We welcome everyone across the state to engage with this campaign, so that the
-    “plus-1” dispensaries statewide are working with community partners.</p><h2>How
+    “Plus-1” dispensaries statewide are working with community partners.</p><h2>How
     to Create a Community Benefit Agreement</h2><p>The Cannabis Equity Illinois Coalition
     welcomes you to use our Community Benefits Agreement toolkit to develop your own
     plan to bring positive investment and opportunity to your community.<br><br>Every
