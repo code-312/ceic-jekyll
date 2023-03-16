@@ -11,12 +11,27 @@ sections:
 - template: hero
   style: Standard
   image: "/assets/images/seldoms-team.jpg"
-  alt_text: Blank placeholder image
+  alt_text: Coalition members gathered together
   heading: Community Benefits Agreements
   subtitle: Cannabis businesses should put their community first
   gradient: true
   scroll_button: ''
   margin_color: true
+- template: quick-links
+  heading: Quick Links
+  quick_links:
+  - icon: bill
+    type: File
+    file: "/assets/images/cba-toolkit-final.pdf"
+    text: Download our CBA toolkit (pdf)
+    site_page: ''
+    url: ''
+  - icon: bill
+    text: Read more about CBAs
+    type: External Link
+    url: https://shelterforce.org/2016/10/21/making-community-benefits-agreements-count/
+    site_page: ''
+    file: ''
 - template: text-area
   style: Plain
   text_area: '<h2>What is a Community Benefit Agreement?</h2><p>Community Benefits
@@ -48,9 +63,9 @@ sections:
     to bring this CBA and negotiate its binding terms with licensed cannabis businesses.
     We encourage you to join us, especially at public meetings for proposed dispensaries
     — for the most up to date public meetings regarding new sites for cannabis businesses,
-    DM or follow us <a href="https://www.facebook.com/CannaEquityIL">@CannaEquityIL</a>.
+    DM or follow us <a href="https://www.instagram.com/cannaequityil/?hl=en" title="">@CannaEquityIL</a>.
     We welcome everyone across the state to engage with this campaign, so that the
-    “plus-1” dispensaries statewide are working with community partners.</p><h2>How
+    “Plus-1” dispensaries statewide are working with community partners.</p><h2>How
     to Create a Community Benefit Agreement</h2><p>The Cannabis Equity Illinois Coalition
     welcomes you to use our Community Benefits Agreement toolkit to develop your own
     plan to bring positive investment and opportunity to your community.<br><br>Every
@@ -75,20 +90,5 @@ sections:
         src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFG_oHktko&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
       </iframe>
     </div>
-- template: quick-links
-  heading: Community Benefit Agreement Resources
-  quick_links:
-  - icon: bill
-    type: File
-    file: "/assets/images/cba-toolkit-final.pdf"
-    text: Download our CBA toolkit (pdf)
-    site_page: ''
-    url: ''
-  - icon: bill
-    text: Read more about CBAs
-    type: External Link
-    url: https://shelterforce.org/2016/10/21/making-community-benefits-agreements-count/
-    site_page: ''
-    file: ''
 
 ---

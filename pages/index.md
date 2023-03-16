@@ -35,7 +35,7 @@ sections:
     site_page: pages/services/clear-your-record.md
   - heading: Community Benefits Agreements
     type: Site Page
-    site_page: pages/services/community-benefits-agreement.md
+    site_page: pages/services/community-benefits-agreements.md
     paragraph: 'Advocate for cannabis dispensaries to formally partner with community
       organizations by encouraging the implementation of Community Benefits Agreements. '
   - heading: Know Your Rights

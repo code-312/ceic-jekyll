@@ -10,9 +10,9 @@ sections:
   image: "/assets/images/john-towner-3kv48ns4wuu-unsplash-2.jpg"
   alt_text: A road through the forest with a large patch of light.
   heading: Reentry Support
-  subtitle: CEIC supports community members with system involvement throughout the
-    reentry process to ensure they have everything they need to be prosperous and
-    whole.
+  subtitle: The Coalition supports community members with system involvement throughout
+    the reentry process to ensure they have everything they need to be prosperous
+    and whole.
   gradient: true
   margin_color: true
   style: Standard
@@ -32,9 +32,10 @@ sections:
     their records. Regardless of where the record is, and whether it is cannabis or
     not, the Coalition will help you start the record clearing process.
   button_or_links: button
-  text: Expungement
+  text: Learn About Expungement
   external: false
   site_page: pages/services/clear-your-record.md
+  type: Site Page
 - template: card-with-image
   image: assets/images/our-work/community-resource.webp
   alt_text: Members at a table with different household products.
@@ -43,9 +44,11 @@ sections:
     Illinois. These fairs bring vital resources such as housing, jobs, food assistance
     IDs, education, and more, directly to impacted communities.
   button_or_links: button
-  text: Events
+  text: Follow our Events
   external: true
-  url: https://www.facebook.com/CannaEquityIL/events/
+  url: https://www.instagram.com/cannaequityil/?hl=en
+  type: External Link
+  style: default
 - template: card-with-image
   image: assets/images/our-work/legal-aid.webp
   alt_text: Group members wearing t-shirts for nation engagement week 2019
@@ -56,15 +59,16 @@ sections:
   links:
   - text: New Leaf Illinois
     type: External Link
-    url: https://www.youtube.com/watch?v=Foi3Hblg21s
+    url: https://www.newleafillinois.org/s
   - text: Illinois Legal Aid
     type: External Link
-    url: https://www.youtube.com/watch?v=Foi3Hblg21s
+    url: https://www.illinoislegalaid.org/
   - text: Public Benefits at LAC
     type: External Link
-    url: https://www.youtube.com/watch?v=Foi3Hblg21s
+    url: ''
 - template: testimonial
-  alt_text: Image of Jefferson Davis
+  alt_text: Jefferson Davis, who is a Coalition member, wearing a white shirt and
+    pants
   image: "/assets/images/jefferson.jpg"
   name: Jefferson Davis
   paragraph: Mr. Davis started the record clearing process through the Coalition by
