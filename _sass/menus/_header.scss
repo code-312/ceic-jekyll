@@ -58,7 +58,7 @@
     transition: max-height $speed-slow;
   }
 
-  &:focus-within {
+  &.sub-menu-clicked {
     .icon-plus:after {
       transform: rotate(0);
     }

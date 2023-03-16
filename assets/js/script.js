@@ -5,6 +5,10 @@ function menuToggle() {
   header.classList.remove("search-clicked")
 }
 
+function subMenuToggle(event) {
+  event.currentTarget.parentNode.classList.toggle("sub-menu-clicked")
+}
+
 function searchToggle() {
   header.classList.toggle("search-clicked")
   header.classList.remove("menu-clicked")

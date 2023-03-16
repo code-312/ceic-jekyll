@@ -2,7 +2,7 @@
   <ul class="list list--responsive">
     {% for item in site.data.menu-header %}
       <li class="list-item">
-        <button class="btn--ghost btn--icons">
+        <button class="btn--ghost btn--icons" onClick="subMenuToggle(event)">
           <span class="icon-plus"></span>
             <span class="navigation">{{ item.title }}</span>
             <svg class="icon icon-triangle icon--small" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
