@@ -68,7 +68,7 @@ sections:
   green_block:
   - heading: Participate
     subtitle: Actively participate in the change
-    text: Become a member
+    text: Become a Member
     type: Site Page
     site_page: pages/get-involved/membership.md
   - heading: Donate
