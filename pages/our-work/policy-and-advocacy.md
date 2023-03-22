@@ -66,6 +66,11 @@ sections:
 - template: green-carousel
   heading: How to get involved
   green_block:
+  - heading: Participate
+    subtitle: Actively participate in the change
+    text: Become a member
+    type: Site Page
+    site_page: pages/get-involved/membership.md
   - heading: Donate
     subtitle: Support our work with a donation
     text: Make a Donation
