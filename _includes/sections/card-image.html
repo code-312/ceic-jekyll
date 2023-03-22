@@ -21,7 +21,7 @@
     <div class="foot">
       {% include components/button-link--light-bg.html
           text = block.text
-          external = block.external
+          type = block.type
           url = block.url
           site_page = block.site_page
       %}
@@ -29,10 +29,14 @@
     {% elsif block.button_or_links == "links"%}
     <div class="foot">
       {% for link in block.links %}
-      <a href="{{ link.url }}" class="link-icon--green">
-        {{ link.text }}
-        {% include components/icon-social.html id="chevron" %}
-      </a><br>
+        <div>
+        {% include components/link-chevron-right.html
+          text = link.text
+          type = link.type
+          url = link.url
+          site_page = link.site_page
+        %}
+        </div>
       {% endfor %}
     </div>
     {% endif %}

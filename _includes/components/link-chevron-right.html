@@ -1,0 +1,21 @@
+{% if include.type == "File" %}
+<a class="link-icon--green" href="{{ include.file | relative_url }}" target="_blank">
+  <span>{{ include.text }}</span>
+  {% include components/icon-social.html id=include.icon %}
+</a>
+{% elsif include.type == "External Link" %}
+<a class="link-icon--green" href="{{ include.url }}" target="_blank">
+  <span>{{ include.text }}</span>
+  {% include components/icon-social.html id="chevron" %}
+</a>
+{% elsif include.site_page contains "pages/index" %}
+<a class="link-icon--green" href="{{ / | relative_url }}">
+  <span>{{ include.text }}</span>
+  {% include components/icon-social.html id="chevron" %}
+</a>
+{% else %}
+<a class="link-icon--green" href="{{ include.site_page | replace: ".md" "/" | relative_url }}">
+  <span>{{ include.text }}</span>
+  {% include components/icon-social.html id="chevron" %}
+</a>
+{% endif %}
