@@ -41,7 +41,7 @@ sections:
     records as widely as possible, especially those that are not ‘Stand-alone’ offenses.</p>"
   column_two: "<h2>What We Do</h2><p>The Coalition organizes record clearing events
     every other month in Chicago, along with quarterly community reentry resources
-    fairs events to support our neighbors come home. Our programming is available
+    fairs events to support our neighbors who come home. Our programming is available
     to all people, not just those who have cannabis records.</p><p>We also provide
     connections and resources for people outside of Chicagoland, and partner with
     organizations across the state to host events.</p><p>If you are in need of expungement
