@@ -76,7 +76,7 @@ sections:
     type: File
     file: "/assets/images/cba-toolkit-final.pdf"
   - heading: Schedule
-    subtitle: Schedule an entrepreneurs session
+    subtitle: Schedule an entrepreneur support session
     text: Schedule a session
     type: External Link
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
