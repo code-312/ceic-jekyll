@@ -91,7 +91,7 @@ sections:
     text: Expungement
     type: Site Page
     site_page: pages/services/clear-your-record.md
-  - heading: Participate
+  - heading: Attend
     subtitle: Attend a community resource fair or one of our other events
     external: true
     text: Events
