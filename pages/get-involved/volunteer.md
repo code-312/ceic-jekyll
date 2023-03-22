@@ -27,7 +27,7 @@ sections:
     partners to host these events.</p><h2>Fundraisers</h2><p>Have ideas about fundraising
     campaigns or other ways to generate revenue? We welcome all support exploring
     fundraising strategies!</p><h2>Policy Shapers</h2><p class="column-description">Interested
-    in shaping policy at the local and state level?<br>We are always looking for people
+    in shaping policy at the local and state level? We are always looking for people
     to think of innovative policies to support communities, to create and analyze
     policies, and to connect directly with our elected officials in advocating for
     policy change!</p><h2>Creatives</h2><p class="column-description">Are you interested
@@ -44,8 +44,8 @@ sections:
     and we hope to eventually pay staff for this work full time! Donations help us
     continue this work by paying staff, and to help us access necessary resources
     to continue this work. We are organising events like National Expungement Week,
-    Know Your Rights, and resource fairs. Those events are incredibly important, but
-    aren’t free! We hope to one day open up a physical office, that can be a resource
+    Know Your Rights, and resource fairs. Those events are incredibly important but
+    aren’t free! We hope to one day open up a physical office that can be a resource
     center for the community.</p>
 
 ---

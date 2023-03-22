@@ -78,5 +78,10 @@ sections:
     type: External Link
     site_page: pages/get-involved/volunteer.md
     url: https://docs.google.com/forms/d/e/1FAIpQLScLS52BiGAslDTJ5orW6i2JnMAIo4iHjdFWj_2iViKn3RwiVQ/viewform
+  - heading: Participate
+    subtitle: Actively participate in the change
+    text: Become a Member
+    type: Site Page
+    site_page: pages/get-involved/membership.md
 
 ---

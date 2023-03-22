@@ -43,9 +43,10 @@ sections:
   paragraph: 'The Coalition organized the nation’s first community benefits agreement
     in the cannabis industry. To support our communities organize campaigns across
     the State, we created a toolkit to guide through the process. '
-  site_page: pages/community-benefits-agreements.md
+  site_page: pages/services/community-benefits-agreements.md
   button_or_links: button
   text: Learn more about CBA
+  type: Site Page
 - template: card-with-image
   image: "/assets/images/group-in-front-of-car.png"
   alt_text: Group members posing in front of a car.
@@ -75,11 +76,11 @@ sections:
     type: File
     file: "/assets/images/cba-toolkit-final.pdf"
   - heading: Schedule
-    subtitle: Schedule an entrepreneurs session
+    subtitle: Schedule an entrepreneur support session
     text: Schedule a session
     type: External Link
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-  - heading: Member
+  - heading: Participate
     subtitle: Actively participate in the change
     text: Become a member
     type: Site Page

@@ -36,8 +36,8 @@ sections:
     resources and events on expungement, and promoting awareness of new legal vulnerabilities
     or protections afforded for the use of cannabis.</p></li><li><p>Creating educational
     resources like our crutch cards, designed to inform the public of continued prohibited
-    situations for the possession and consumption of cannabis.</p></li><li><p>Online
-    resources and videos</p></li></ul>"
+    situations for the possession and consumption of cannabis.</p></li><li><p>Providing
+    online resources and videos</p></li></ul>"
 - template: embed
   code: |-
     <div style="position: relative; width: 100%; height: 0; padding-top: 64.7059%;
