@@ -43,9 +43,10 @@ sections:
   paragraph: 'The Coalition organized the nation’s first community benefits agreement
     in the cannabis industry. To support our communities organize campaigns across
     the State, we created a toolkit to guide through the process. '
-  site_page: pages/community-benefits-agreements.md
+  site_page: pages/services/community-benefits-agreements.md
   button_or_links: button
   text: Learn more about CBA
+  type: Site Page
 - template: card-with-image
   image: "/assets/images/group-in-front-of-car.png"
   alt_text: Group members posing in front of a car.
