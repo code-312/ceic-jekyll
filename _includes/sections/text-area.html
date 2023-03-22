@@ -6,7 +6,9 @@
   {{ block.text_area }}
 {% elsif block.style == "Two Column" %}
 <section class="text-area two-column">
+  {% if block.heading %}
   <h2>{{ block.heading }}</h2>
+  {% endif %}
   <div class="row">
     <div class="column">
       {{ block.text_area}}

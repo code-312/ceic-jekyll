@@ -27,13 +27,17 @@
 
 .two-column {
   @include spacing-std;
+
+  @include tablet {
+    .row {
+      display: flex;
+      gap: 32px;
+    }
+    
+    .column {
+      flex: 50%;
+    }
+    
+  }
 }
 
-.row {
-  display: flex;
-  gap: 32px;
-}
-
-.column {
-  flex: 50%;
-}
