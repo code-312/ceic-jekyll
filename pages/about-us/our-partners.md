@@ -21,8 +21,8 @@ sections:
     href="https://www.herbalnotes.co/home">Herbal Notes</a></p></li><li><p><a href="https://www.instagram.com/movementandmedicine420/?hl=en">Movement
     &amp; Medicine / Jean &amp; Jane</a></p></li><li><p><a href="https://www.organizedcommunities.org/">Organized
     Communities Against Deportation</a></p></li><li><p><a href="https://www.chicagonorml.org/">Chicago
-    NORML</a></p></li><li><p><a href="https://home.equityempower.org/">Social Equity
-    Empowerment Network</a></p></li><li><p><a href="https://www.eatchicago.org/">Equity
+    NORML</a></p></li><li><p><a href="https://www.equityempower.org/ " title="">Social
+    Equity Empowerment Network</a></p></li><li><p><a href="https://www.eatchicago.org/">Equity
     And Transformation</a></p></li><li><p><a href="http://google.com/">PURE Coalition</a></p></li><li><p><a
     href="https://www.illinoisequitystaffing.com/">IL Equity Staffing</a></p></li><li><p><a
     href="https://www.thcstaffinggroup.com/">THC Staffing Group</a></p></li><li><p><a
