@@ -51,9 +51,9 @@ sections:
   image: "/assets/images/group-in-front-of-car.png"
   alt_text: Group members posing in front of a car.
   heading: Corporate Social Responsibility
-  paragraph: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  paragraph: 'It is more important than ever before that businesses do right by their
+    customers and community, especially cannabis companies. The Coalition can support
+    your business and develop a CSR plan that benefits everyone. '
   site_page: []
 - template: card-with-youtube
   heading: Nature’s Care Company
