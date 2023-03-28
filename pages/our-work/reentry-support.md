@@ -63,9 +63,9 @@ sections:
   - text: Illinois Legal Aid
     type: External Link
     url: https://www.illinoislegalaid.org/
-  - text: Public Benefits at LAC
+  - text: Accessing Public Benefits in Illinois
     type: External Link
-    url: ''
+    url: 'https://www.illinoislegalaid.org/legal-information/health-benefits '
 - template: testimonial
   alt_text: Jefferson Davis, who is a Coalition member, wearing a white shirt and
     pants
