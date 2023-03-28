@@ -36,6 +36,10 @@ sections:
     generational wealth in this industry. Coalition members have lots of experience
     in the cannabis industry, and can support you to make your business dreams a reality! '
   site_page: []
+  button_or_links: button
+  text: State of Illinois IDFPR Site
+  type: External Link
+  url: https://idfpr.illinois.gov/profs/adultusecan.asp
 - template: card-with-image
   image: "/assets/images/capitol.png"
   alt_text: Two coalition members in front of the capitol steps.
