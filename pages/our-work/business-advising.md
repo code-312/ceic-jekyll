@@ -79,7 +79,7 @@ sections:
     subtitle: Schedule an entrepreneur support session
     text: Schedule a session
     type: External Link
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    url: 'https://calendly.com/ceiccoalition/30min '
   - heading: Participate
     subtitle: Actively participate in the change
     text: Become a member
