@@ -26,7 +26,7 @@ sections:
     link: "#"
     icon: calendar
     type: External Link
-    url: "#"
+    url: 'https://calendly.com/ceiccoalition/30min '
   heading: Quick Links
 - template: card-with-image
   image: "/assets/images/business-table.png"
