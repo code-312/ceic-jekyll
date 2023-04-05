@@ -337,5 +337,65 @@ sections:
     that you review each privacy policy posted on the websites that you visit to better
     understand privacy practices on those websites.</p><p><br></p>"
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: '<h2><strong>2. How Do We Collect Information</strong></h2><p>We may
+    collect information from you in several different areas on the Website, including,
+    without limitation, those described below:</p><p><strong>Subscribing to Services</strong></p><p>You
+    may be asked to complete a registration form and provide personally identifiable
+    information; you may also be asked to choose a user ID and password in order to
+    take advantage of certain features the Website or digital messaging services,
+    such as magazines or Cannabis Equity content. Your decision to register is voluntary
+    and you will have the opportunity to decide whether or not to disclose information
+    to us and what communications you would like to receive; however, please be advised
+    that many services available on the Website require registration and if you elect
+    not to provide such information, you will not be able to take advantage of those
+    services.</p><p><strong>Cookies and Tracking Technology</strong></p><p>We may
+    use any number of tools to collect information about you, your computer access
+    points, and the web browser that you use to connect to our Website. For example,
+    “cookies” are tiny text files that we place on your computer’s hard drive when
+    you visit our Website. We may use cookies to personalize your Website experience.
+    We may use cookies or similar devices to remember or store your login information
+    (username/email address) so we can save you the time of having to re-enter this
+    information. Most common web browsers today allow you to modify your settings
+    to block cookies entirely, alert you every time they are being sent, or allow
+    their use by only those Websites you approve. We may use web beacons, which are
+    small electronic image files that can be embedded within a web page or included
+    in an e-mail message, to collect: (1) certain Website usage information such as
+    whether a visitor is a one-time or repeat visitor and which pages a visitor has
+    viewed and for how long, and (2) email information such as the time a e-mail was
+    opened, if and how many times it was forwarded, and what links a recipient clicks
+    on from within the e-mail message. You do not have to accept our cookies and you
+    may delete them after they have been placed on your hard drive. If you do not
+    accept or delete our cookies, some areas of our Website that you access may take
+    more time to work, or may not function properly. For more information about cookies,
+    visit: <a href="http://www.allaboutcookies.org." title="http://www.allaboutcookies.org.">http://www.allaboutcookies.org.</a></p><p>We
+    may also collect additional information from your web browser each time you visit
+    our Website. We may collect information on the pages that you visit, the promotions
+    or advertisements that you click on, and other actions that you take while using
+    our Website. This information may include your IP address, the type of browser,
+    the time that your browser was used to access our Website, and the referring Website
+    address.</p><p>Our Internet Service Providers (defined below) may also use other
+    standard web-based technologies to analyze your movements while accessing our
+    Website. The technologies include analytic solutions, web “beacons,” “pixel tags,”
+    and “clear gifs.” These technologies help us ascertain the effectiveness of our
+    product and service campaigns and marketing programs, allow us to customize the
+    services offered on or through our Website, and help determine the best use for
+    Website content, and product and service offerings. Some of this information,
+    including the IP address, may be stored on our Internet service provider’s server
+    logs, and may be available for extended periods of time.</p><p><strong>Transaction
+    Information</strong></p><p>If you conduct a financial or other transaction with
+    the Website we may direct you to a third party vendor Website to collect this
+    information from you directly. Even though the collection form may have the look
+    and feel of the Website, please be aware you will be giving your information directly
+    to the third party vendor, and that in some instances such third party vendor''s
+    privacy policy will govern the collection of your personal information. Please
+    reference the privacy policies available from these pages for any privacy related
+    concerns.</p><p>We and/or our vendors will use this information to complete the
+    financial or other transaction that you have requested, i.e., to deliver the information,
+    other services that you request, to invoice you, and in a manner consistent with
+    this Privacy Policy. For your protection, financial information is collected and
+    stored through encrypted means.</p>'
+  site_page: []
 
 ---
