@@ -29,7 +29,7 @@ sections:
   event:
   - date: '2019'
     paragraph: During a series of town hall meetings hosted across the South Side
-      of Chicago by Ilinois legislators, community members demanded accountability
+      of Chicago by Illinois legislators, community members demanded accountability
       and transparency in the legalization law. This leads to the first Coalition
       meeting at the Port Ministries in Back of the Yards where the group develops
       a list of priorities for legalized cannabis. During the Coalition’s first year,
