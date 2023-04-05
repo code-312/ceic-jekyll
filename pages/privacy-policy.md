@@ -231,12 +231,13 @@ sections:
   site_page: []
 - template: text-area
   style: Plain
-  text_area: "<h2>7. Data Retention Periods</h2><p>We will retain your information
+  text_area: '<h2>7. Data Retention Periods</h2><p>We will retain your information
     for as long as your account is active or as needed to provide you services. If
     applicable, if you wish to cancel your account or request that we no longer use
-    your information to provide you services contact us at: info@cannabisequityil.org.
-    . We will retain and use your information as necessary to comply with our legal
-    obligations, resolve disputes, and enforce our agreements.</p>"
+    your information to provide you services contact us at: <a href="mailto: info@cannabisequityil.org"
+    title="">info@cannabisequityil.org</a>. We will retain and use your information
+    as necessary to comply with our legal obligations, resolve disputes, and enforce
+    our agreements.</p>'
   site_page: []
 - template: text-area
   style: Plain
@@ -283,16 +284,16 @@ sections:
     of third parties to whom the personal information was sold, if applicable;</p></li><li><p>deletion
     of your personal information; and</p></li><li><p>an opt out of having your personal
     information disclosed or sold to third parties.</p></li></ul><p><br>To submit
-    a request, please contact us at: info@cannabisequityil.org, or complete the <a
-    href="" title=""><em>web form located here</em></a><em>. </em>To verify your identity
-    when you submit a request, we will match the identifying information you provide
-    us to the personal information we have about you. If you have an account with
-    us, we will also verify your identity through our existing authentication practices
-    for your account.</p><p>We will not be required to comply with your request to
-    delete your personal information if it is necessary for us to maintain your personal
-    information in order to:</p><ul><li><p>complete the transaction for which the
-    personal information was collected, provide a good or service requested by you,
-    or reasonably anticipated within the context of our ongoing business relationship
+    a request, please contact us at: <a href="mailto: info@cannabisequityil.org" title="">info@cannabisequityil.org</a>,
+    or complete the <strong><em>web form located here</em></strong><em>. </em>To verify
+    your identity when you submit a request, we will match the identifying information
+    you provide us to the personal information we have about you. If you have an account
+    with us, we will also verify your identity through our existing authentication
+    practices for your account.</p><p>We will not be required to comply with your
+    request to delete your personal information if it is necessary for us to maintain
+    your personal information in order to:</p><ul><li><p>complete the transaction
+    for which the personal information was collected, provide a good or service requested
+    by you, or reasonably anticipated within the context of our ongoing business relationship
     with you, or otherwise perform a contract between you and us;</p></li><li><p>detect
     security incidents, protect against malicious, deceptive, fraudulent, or illegal
     activity; or prosecute those responsible for that activity;</p></li><li><p>debug
