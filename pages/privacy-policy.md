@@ -452,7 +452,7 @@ sections:
     own privacy policies, not this one. Please visit <a href="http://www.networkadvertising.org"
     title="http://www.networkadvertising.org">http://www.networkadvertising.org</a>
     in order to learn more about the information collection practices and "opt-out"
-    procedures of third-party ad servers we may use.</p><p><br></p>'
+    procedures of third-party ad servers we may use.</p>'
   site_page: []
 
 ---
