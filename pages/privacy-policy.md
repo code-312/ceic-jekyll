@@ -300,5 +300,42 @@ sections:
     Policy</strong></p><p>If you have any questions about this Privacy Policy or the
     privacy practices of this Website, please contact us by email at: info@cannabisequityil.org.</p><p></p><p></p><p></p><p><br><br></p>'
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2><strong>1. What Information Is Collected</strong></h2><p>The following
+    are the types of information we may collect:</p><p>We may collect personal information
+    like name, telephone number, email address, home or business mailing address,
+    and account information, when you access certain areas of the Website, or if you
+    require more information about those services. For certain aspects of our services,
+    we may require login information such as username and password, secret answers
+    to certain security questions, or other similar information that allows us to
+    uniquely identify your account or authenticate you prior to giving you access
+    to your account information or certain online activities. We may capture certain
+    information automatically on our Website (even if you do not voluntarily provide
+    us with Personal Information, or in addition to any Personal Information that
+    you do provide), including your Internet protocol address, Internet service provider,
+    browser type, and linking information. Typically, this information is for us to
+    develop aggregated Website server statistics (how many people access our Website
+    and what pages are they interested in). At times, our systems may make this information
+    identifiable to you, and, if so, it will be treated and protected as Personal
+    Information.</p><p><strong>Non-Personal Information</strong></p><p>At other times,
+    we may collect information that cannot be used to directly identify you, such
+    as browser type, Dynamic Internet Protocol (IP) address, “click stream” data,
+    and similar non-personally identifiable information. For example, we may aggregate
+    non-personal information about you and other customers who visit certain areas
+    of our Website. Aggregated information will not contain any information that can
+    be linked directly back to you.</p><p>While we take all reasonable steps to protect
+    the privacy of our Website visitors, we cannot promise that the current limitations
+    of our online applications programming will address every browser setting or honor
+    every personal browser preference. In particular, we have not implemented the
+    necessary program changes to honor “Do Not Track” or “DNT” browser signals. As
+    our online applications programming is refined, we will take all reasonable steps
+    to honor such requests in the future. Please return to this privacy policy for
+    further updates on this topic.</p><p>Further, our online service providers or
+    business partners may implement technologies that allow for the collection of
+    personally identifiable information over time and across websites. We recommend
+    that you review each privacy policy posted on the websites that you visit to better
+    understand privacy practices on those websites.</p><p><br></p>"
+  site_page: []
 
 ---
