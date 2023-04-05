@@ -282,12 +282,12 @@ sections:
     may arise out of, relate to, or be in any way connected with our Website, or these
     Terms, shall be brought exclusively in the state and federal courts located in
     Cook County Illinois and you waive any jurisdictional, venue, or inconvenient
-    forum objections to such courts.</p><p><br></p>"
+    forum objections to such courts.</p>"
   site_page: []
 - template: text-area
   style: Plain
   text_area: "<h2>13. AMENDMENT TO TERMS</h2><p>We reserve the right to modify, change,
-    or add terms, or features of the Website at any time, and at our sole discretion.</p><p><br></p>"
+    or add terms, or features of the Website at any time, and at our sole discretion.</p>"
   site_page: []
 - template: text-area
   style: Plain
@@ -319,7 +319,7 @@ sections:
     due to conflicting terms, the terms shall control over all others.</p><p><strong>No
     Assignment or Third Party Beneficiaries.</strong></p><p>These Terms may not be
     assigned by you to anyone. No provision of this Agreement is intended to create,
-    or creates, any rights in or benefits to any third party.</p><p><br></p>"
+    or creates, any rights in or benefits to any third party.</p>"
   site_page: []
 
 ---
