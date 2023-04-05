@@ -48,5 +48,36 @@ sections:
     of any downloading, copying, printing or use of this Website. All rights not expressly
     granted to you by these Terms are reserved.</p>
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2><strong>3. WEB SITE ACCESS, CONTENT AND PROHIBITED USES</strong></h2><p>Access
+    to and uses of this Website are solely for your personal use, information, education,
+    and communication with Cannabis Equity. You may not circumvent, disable or otherwise
+    interfere with security-related features of the Website, including, without limitation,
+    any features that prevent or restrict use or copying of any content or enforce
+    limitations on the use of the Website or Website Content. You may not reproduce,
+    distribute, publicly display, publicly perform, create derivative works, publish,
+    transmit Content or any element of the Website, except as permitted by these Terms.</p><p>You
+    may not rely on any information and opinions expressed on the Website for any
+    other purpose than permitted by these Terms. In all instances, it is your responsibility
+    to evaluate the accuracy, timeliness, completeness, or usefulness of Website Content.
+    Under no circumstances will we be liable for any loss or damage caused by your
+    reliance on any Website Content.</p><p>You are prohibited from using the Website
+    or its Content: (a) for any unlawful purpose; (b) to solicit others to perform
+    or participate in any unlawful acts; (c) to violate any international, federal,
+    or state regulations, rules, laws, or local ordinances; (d) to infringe upon or
+    violate our intellectual property rights or the intellectual property rights of
+    others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate,
+    or discriminate based on gender, sexual orientation, religion, ethnicity, race,
+    age, national origin, or disability; (f) to submit false or misleading information;
+    (g) to upload or transmit viruses or any other type of malicious code that will
+    or may be used in any way that will affect the functionality or operation of this
+    Website, other websites, or the Internet; (h) to collect or track the personal
+    information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape;
+    (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent
+    the security features of this Website, other websites, or the Internet. We reserve
+    the right to terminate your account or otherwise deny you access to the Website
+    in our sole discretion for any or no reason without notice and without liability.</p>"
+  site_page: []
 
 ---
