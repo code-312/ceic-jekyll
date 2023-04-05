@@ -27,26 +27,26 @@ sections:
     Information," we mean information that identifies a particular individual, such
     as your full name, street address or email address. When other information is
     associated with personal information, it also becomes personally identifiable
-    information for the purposes of this Privacy Policy.</p><p> <strong>What Information
-    Is Collected</strong></p><p> <strong>How Do We Collect Information</strong></p><p>
-    <strong>How Is your Information Used</strong></p><p> <strong>Shared Information</strong></p><p>
-    <strong>Links To Third-party Websites</strong></p><p> <strong>Information Security</strong></p><p>
-    <strong>Data Retention Periods</strong></p><p> <strong>Other Social Media Websites,
-    Blogs, Message Boards</strong></p><p> <strong>Other State</strong> <strong>Privacy
-    Rights</strong></p><p> <strong>General Audience Web Website Not Directed Toward
-    Children</strong></p><p> <strong>Consent to Privacy Policy</strong></p><p> <strong>Access
-    to Personal Information</strong></p><p> <strong>Questions About This Privacy
-    Policy</strong></p><p><br></p><p><strong>1. What Information Is Collected</strong></p><p><br></p><p>The
-    following are the types of information we may collect:</p><p><br></p><p>We may
-    collect personal information like name, telephone number, email address, home
-    or business mailing address, and account information, when you access certain
-    areas of the Website, or if you require more information about those services.
-    For certain aspects of our services, we may require login information such as
-    username and password, secret answers to certain security questions, or other
-    similar information that allows us to uniquely identify your account or authenticate
-    you prior to giving you access to your account information or certain online activities.
-    We may capture certain information automatically on our Website (even if you do
-    not voluntarily provide us with Personal Information, or in addition to any Personal
+    information for the purposes of this Privacy Policy.</p><ol><li><p><strong>What
+    Information Is Collected</strong></p></li><li><p><strong>How Do We Collect Information</strong></p></li><li><p><strong>How
+    Is your Information Used</strong></p></li><li><p><strong>Shared Information</strong></p></li><li><p><strong>Links
+    To Third-party Websites</strong></p></li><li><p><strong>Information Security</strong></p></li><li><p><strong>Data
+    Retention Periods</strong></p></li><li><p><strong>Other Social Media Websites,
+    Blogs, Message Boards</strong></p></li><li><p><strong>Other State</strong> <strong>Privacy
+    Rights</strong></p></li><li><p><strong>General Audience Web Website Not Directed
+    Toward Children</strong></p></li><li><p><strong>Consent to Privacy Policy</strong></p></li><li><p><strong>Access
+    to Personal Information</strong></p></li><li><p><strong>Questions About This Privacy
+    Policy</strong></p></li></ol><p></p><h2><strong>1. What Information Is Collected</strong></h2><p>The
+    following are the types of information we may collect:<br></p><p>We may collect
+    personal information like name, telephone number, email address, home or business
+    mailing address, and account information, when you access certain areas of the
+    Website, or if you require more information about those services. For certain
+    aspects of our services, we may require login information such as username and
+    password, secret answers to certain security questions, or other similar information
+    that allows us to uniquely identify your account or authenticate you prior to
+    giving you access to your account information or certain online activities. We
+    may capture certain information automatically on our Website (even if you do not
+    voluntarily provide us with Personal Information, or in addition to any Personal
     Information that you do provide), including your Internet protocol address, Internet
     service provider, browser type, and linking information. Typically, this information
     is for us to develop aggregated Website server statistics (how many people access
@@ -69,8 +69,8 @@ sections:
     business partners may implement technologies that allow for the collection of
     personally identifiable information over time and across websites. We recommend
     that you review each privacy policy posted on the websites that you visit to better
-    understand privacy practices on those websites.</p><p><strong>2. How Do We Collect
-    Information</strong></p><p>We may collect information from you in several different
+    understand privacy practices on those websites.</p><h2><strong>2. How Do We Collect
+    Information</strong></h2><p>We may collect information from you in several different
     areas on the Website, including, without limitation, those described below:</p><p>Subscribing
     to Services</p><p>You may be asked to complete a registration form and provide
     personally identifiable information; you may also be asked to choose a user ID
