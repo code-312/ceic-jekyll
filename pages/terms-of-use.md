@@ -50,8 +50,8 @@ sections:
   site_page: []
 - template: text-area
   style: Plain
-  text_area: "<h2><strong>3. WEB SITE ACCESS, CONTENT AND PROHIBITED USES</strong></h2><p>Access
-    to and uses of this Website are solely for your personal use, information, education,
+  text_area: "<h2>3. WEB SITE ACCESS, CONTENT AND PROHIBITED USES</h2><p>Access to
+    and uses of this Website are solely for your personal use, information, education,
     and communication with Cannabis Equity. You may not circumvent, disable or otherwise
     interfere with security-related features of the Website, including, without limitation,
     any features that prevent or restrict use or copying of any content or enforce
