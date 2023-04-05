@@ -79,5 +79,44 @@ sections:
     the right to terminate your account or otherwise deny you access to the Website
     in our sole discretion for any or no reason without notice and without liability.</p>"
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2>4. CONDITIONS FOR THIRD-PARTY LINKING TO WEB SITE</h2><p>In limited
+    circumstances, we may permit third-party links to the Website home page from any
+    website that is not commercially competitive with the Website and does not criticize
+    or otherwise injure us, so long as the website where the link resides, and all
+    other locations to which such website links, comply with all applicable laws.
+    All of our rights and remedies are expressly reserved. Notwithstanding anything
+    to the contrary contained in these Terms or applicable Additional Terms, we reserve
+    the right to prohibit linking to the Website for any reason, in our sole and absolute
+    discretion, even if the linking complies with the requirements described above.</p><p>Although
+    third-party links may be posted on this Website, the posting of those links or
+    associated content does not constitute Cannabis Equity’s endorsement of such material.
+    Similarly, although third-party products and services may be sold or purchased
+    via links on this Website, the sale and purchase of those products and services
+    does not constitute Cannabis Equity’s endorsement of the same. Cannabis Equity
+    is not responsible or liable for any claim, including, without limitation, loss
+    or injury to real, tangible, or intellectual property, violations of personal
+    privacy or privacy rights, actual, direct, indirect, incidental, consequential
+    or punitive damages, personal injury, or wrongful death in connection with third-party
+    websites, content, or products and services.</p>"
+  site_page: []
+- template: text-area
+  style: Plain
+  text_area: '<h2>5. USER REGISTRATION</h2><p>In order to access or use some (or potentially
+    all) of the features of the Website, you may have to become subscribing user.
+    If you are under the age of sixteen (16), then you are not permitted to register
+    as a user or otherwise submit personal information to Cannabis Equity.</p><p>Under
+    these Terms, you agree to: (a) create only one account; (b) provide accurate,
+    truthful, current and complete information when creating your account; (c) maintain
+    and promptly update your account information; (d) maintain the security of your
+    account by not sharing your username or password with others and restricting access
+    to your account and your Access Device; (e) promptly notify us if you discover
+    or otherwise suspect any security breaches relating to your account or the Website
+    at: <a href="mailto:info@cannabisequityil.org" title="">info@cannabisequityil.org</a>;
+    (f) not sell, transfer or assign your username and password; and (g) accept sole
+    responsibility for all activities that occur under your username and password,
+    whether or not you have authorized the activity.</p>'
+  site_page: []
 
 ---
