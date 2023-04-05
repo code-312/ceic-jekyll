@@ -25,5 +25,28 @@ sections:
     and used by Cannabis Equity. By accessing or using the Website, you are also signifying
     your acknowledgement and agreement to Cannabis Equity’s Privacy Policy.</p>"
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: <h2>2. INTELLECTUAL PROPERTY</h2><p><strong>Trademarks.</strong></p><p>The
+    trademarks, trade names, trade dress, logos, and service marks (collectively,
+    the "Trademarks") displayed on this Website are the registered and/or unregistered
+    Trademarks of Cannabis Equity, or such other third party that may own the displayed
+    Trademarks. Nothing contained on this Website or in the Terms serves to grant
+    to you, by implication or otherwise, any license or right to use any Trademarks
+    displayed on this Website without the written permission of Cannabis Equity or
+    such other third party that may own the displayed Trademarks.</p><p><strong>Site
+    Contents and Copyright.</strong></p><p>The text, Trademarks, logos, images, graphics,
+    photos, video files, application functionality, or any other digital media, and
+    their arrangement on this Website (“Content”) are all subject to patent, copyright,
+    trademark and other intellectual property protection. Content may not be copied
+    for commercial use or redistribution, nor may Content be modified, processed,
+    or reposted to other websites. Access to and use of this Website are solely for
+    your purchase of Cannabis Equity products for personal use, information, education
+    and communication with Cannabis Equity. You may download, copy or print the Content
+    of this Website for your personal non-commercial use only. No right, title or
+    interest in any of the Content of this Website is transferred to you as a result
+    of any downloading, copying, printing or use of this Website. All rights not expressly
+    granted to you by these Terms are reserved.</p>
+  site_page: []
 
 ---
