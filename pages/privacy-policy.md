@@ -192,5 +192,27 @@ sections:
     in order to learn more about the information collection practices and "opt-out"
     procedures of third-party ad servers we may use.</p>'
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2>5. Links To Third-party Websites</h2><p>Links of this Website may
+    allow you to directly access websites operated by third parties, including, without
+    limitation, our service providers (such as third-party shopping cart service provider)
+    or marketing providers. Some of these third-party marketing channels may be “co-branded”
+    with a with our logo; even so, these third-party channels are not operated, controlled
+    or maintained by us. These channels or links are provided for your convenience
+    only and should be used with your discretion and prudent judgment. Links from
+    our Website to third-party websites do not constitute sponsorship, endorsement,
+    or approval of the content, policies or practices of such third-party websites.
+    The collection and use of your information by such co-branding third parties is
+    the responsibility of the co-branding partner. We are not responsible for any
+    information these websites or digital channels may obtain and we do not oversee
+    their policies or practices. This Privacy Policy does not apply to information
+    provided to or gathered by the third parties that operate them. The privacy policies
+    of these third-party websites may differ from ours. These websites may ask you
+    for Personal Information. Please review the privacy policy on third-party channels
+    before submitting information, because we do not have control over the use of
+    information collected on these websites. Please review the privacy policies and
+    practices of these digital channels before providing any Personal Information.</p>"
+  site_page: []
 
 ---
