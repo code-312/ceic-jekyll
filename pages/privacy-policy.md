@@ -32,11 +32,11 @@ sections:
     Do We Collect Information</strong></p></li><li><p><strong>How Is your Information
     Used</strong></p></li><li><p><strong>Shared Information</strong></p></li><li><p><strong>Links
     To Third-party Websites</strong></p></li><li><p><strong>Information Security</strong></p></li><li><p><strong>Data
-    Retention Periods</strong></p></li><li><p><strong>Other Social Media Websites,
-    Blogs, Message Boards</strong></p></li><li><p><strong>Other State</strong> <strong>Privacy
+    Retention Periods</strong></p></li><li><p><em>Other Social Media Websites, Blogs,
+    Message Boards</em></p></li><li><p><strong>Other State</strong> <strong>Privacy
     Rights</strong></p></li><li><p><strong>General Audience Web Website Not Directed
-    Toward Children</strong></p></li><li><p><strong>Consent to Privacy Policy</strong></p></li><li><p><strong>Access
-    to Personal Information</strong></p></li><li><p><strong>Questions About This Privacy
+    Toward Children</strong></p></li><li><p><strong>Consent to Privacy Policy</strong></p></li><li><p><em>Access
+    to Personal Information</em></p></li><li><p><strong>Questions About This Privacy
     Policy</strong></p></li></ol>'
   site_page: []
 - template: text-area
