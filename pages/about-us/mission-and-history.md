@@ -54,9 +54,8 @@ sections:
       of dollars to support our ongoing community programs.
   - date: Today
     paragraph: 'Since Legalization, the Coalition has continued to meet weekly, advocate
-      for impacted communities in policy, organizing events & campaigns to promote
-      our mission, and watchdogging the state & the cannabis industry as legalization
-      is implemented. '
+      for impacted communities in policy, organize events & campaigns to promote our
+      mission, and watchdog the state & the cannabis industry as legalization is implemented. '
   bottom_paragraph: ''
 - template: line
   style: Dotted
