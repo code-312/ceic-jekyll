@@ -238,5 +238,15 @@ sections:
     . We will retain and use your information as necessary to comply with our legal
     obligations, resolve disputes, and enforce our agreements.</p>"
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2>8. Other State Privacy Notice</h2><p>The states laws of certain
+    states permit residents of such states to request certain details about information
+    we disclose to third parties for direct marketing purposes. If you are a resident
+    of such state and would like to request this information, please contact us at
+    the address listed below. Please note you are limited to one request per calendar
+    year. .</p><p>Pursuant to applicable state law, we make the following disclosures
+    regarding the personal information we have collected within the last 12 months:</p>"
+  site_page: []
 
 ---
