@@ -327,5 +327,18 @@ sections:
     who have questions about personal information that may have been submitted by
     a child under the age of 16 should email us at: info@cannabisequityil.org.</p>"
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2>10. Consent to Privacy Policy</h2><p>By using the Website, you signify
+    your agreement to the terms of this Privacy Policy. We may amend this Privacy
+    Policy at any time. If we make a material change to the way in which we collect,
+    use, and/or share your personal information, we will post a notice on the Website
+    or send an email to users who have provided an email address. We will assume that
+    you have given your permission for your information to be used under the terms
+    of the Privacy Policy, as modified, if you do not respond to our email within
+    thirty days or continue to use the Website thirty days after a notice is posted.
+    Please note that you should always update your personal information to provide
+    us with a current email address.</p>"
+  site_page: []
 
 ---
