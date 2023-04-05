@@ -229,5 +229,14 @@ sections:
     username or password that you are required to use to access services on this Website
     or online service.</p>"
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2>7. Data Retention Periods</h2><p>We will retain your information
+    for as long as your account is active or as needed to provide you services. If
+    applicable, if you wish to cancel your account or request that we no longer use
+    your information to provide you services contact us at: info@cannabisequityil.org.
+    . We will retain and use your information as necessary to comply with our legal
+    obligations, resolve disputes, and enforce our agreements.</p>"
+  site_page: []
 
 ---
