@@ -64,7 +64,7 @@ sections:
     collective to expand opportunities for record clearing in Chicagoland and across
     Illinois, and to educate communities about their rights and record clearing opportunities.</p><p>The
     Coalition utilizes its grassroots strength to advocate for ‘Plus-1’ dispensaries
-    to sign onto a Community Benefits Agreements, tying the economic success of those
+    to sign onto Community Benefits Agreements, tying the economic success of those
     dispensaries to impacted communities.</p><p>The Coalition's grassroots structure
     shapes the development of the Coalition's legislative priorities, as we gather
     community feedback to ensure we're fighting for changes that will bring the largest
