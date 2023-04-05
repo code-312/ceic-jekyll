@@ -249,14 +249,17 @@ sections:
     regarding the personal information we have collected within the last 12 months:</p>"
   site_page: []
 - template: text-area
-  style: Two Column
-  text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
-    adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
-    hendrerit dolor. Lacus vestibulum sed arcu non odio euismod lacinia at. Pharetra
-    magna ac placerat vestibulum lectus mauris ultrices eros. Pharetra magna ac placerat
-    vestibulum. Orci eu lobortis elementum nibh tellus. Libero nunc consequat interdum
-    varius sit.</p>"
+  style: Plain
+  text_area: "<p><strong>Category of Personal Information</strong></p><ol><li><p>Contact
+    information such as name, e-mail address, zip code</p></li><li><p>Automatically
+    collected information such as IP address, browser type, and device type</p></li></ol><p><strong>Category
+    of Source from Which Data is Collected</strong></p><ol><li><p>Directly from consumers</p></li><li><p>Cookies
+    and other tracking technologies</p></li></ol><p><strong>Purpose of Collection</strong></p><ol><li><p>To
+    provide to communicate with users and market our services</p></li><li><p>To analyze
+    and track usage data; to determine the popularity of certain content; to deliver
+    advertising and content targeted to user interests</p></li></ol><p><strong>Category
+    of Third Parties to Whom Data is Disclosed</strong></p><ol><li><p>Our Service
+    Providers</p></li><li><p>Service Providers</p></li></ol>"
   site_page: []
-  heading: Category of Personal Information
 
 ---
