@@ -137,15 +137,15 @@ sections:
   site_page: []
 - template: text-area
   style: Plain
-  text_area: "<h2><strong>3. How Is your Information Used</strong></h2><p>We may use
-    your personal information to contact you via mail, email, or telephone in order
-    to give you updates about our special events, new services, that may be of interest
-    to you. We also use return email addresses to answer the e-mail we receive from
-    you. We may also use your IP address to help protect us and our Internet Service
-    Providers from fraud.</p><p>Additional uses of your non-personal and personal
-    information will allow us to tailor services specific to your needs, to help organize
-    and manage your customer relationship and our business, to conduct business, to
-    provide you with customer and member support, to perform functions that are described
+  text_area: "<h2>3. How Is your Information Used</h2><p>We may use your personal
+    information to contact you via mail, email, or telephone in order to give you
+    updates about our special events, new services, that may be of interest to you.
+    We also use return email addresses to answer the e-mail we receive from you. We
+    may also use your IP address to help protect us and our Internet Service Providers
+    from fraud.</p><p>Additional uses of your non-personal and personal information
+    will allow us to tailor services specific to your needs, to help organize and
+    manage your customer relationship and our business, to conduct business, to provide
+    you with customer and member support, to perform functions that are described
     to you at the time of collection, and to enforce our Website’s Terms.</p><p>We
     use the services of independent companies to provide certain services to you,
     including, without limitation, Website hosting services, and Internet connectivity
@@ -159,35 +159,35 @@ sections:
   site_page: []
 - template: text-area
   style: Plain
-  text_area: '<h2><strong>4. Shared Information</strong></h2><p>We may share your
-    personal information with the Internet Service Providers as appropriate. We may
-    also share personally identifiable information with outside, non-affiliated third
-    parties that offer products and services that are complementary to our product
-    lines. We may also disclose your personal information as is necessary to: (a)
-    comply with a subpoena or court order; (b) cooperate with law enforcement or other
-    government agency; (c) establish or exercise our legal rights; (d) protect the
-    property or safety of Cannabis Equity and employees, contractors, vendors, and
-    suppliers; (e) defend against legal claims; (f) help with internal and external
-    investigations; or (g) as otherwise required by law or permitted by law. We may
-    disclose your information in connection with the sale or merger or any transaction
-    that involves the sale or assignment of some or all of our assets.</p><p>Third-Party
-    Ad Serving and Audience and Traffic Measurement Services: We may use a third-party
-    network advertiser to serve the advertisements on the Website or may use a traffic
-    measurement service to analyze the traffic on the Website. Network advertisers
-    are third parties that display advertisements based on your visits to this Website
-    and other Websites you have visited the Website. Third-party ad serving enables
-    us to target advertisements to you for products or Websites you might be interested
-    in. Audience and Traffic Measurement Services allow us to collect anonymous traffic
-    and behavior information from the Website by monitoring anonymous visitor activity.
-    Although advertisers or other companies do not have access to the Website cookies,
-    the Website''s advertisers, sponsors and/or traffic measurement services may themselves
-    set and access their own cookies on your computer if you choose to have your cookies
-    enabled in your browser. Cookies allow third-party advertisers to show you advertisements
-    or content you might be interested in. Note that any images (or any other parts
-    of a web page) served by third parties in association with third-party cookies
-    may serve as web beacons, which enable third parties to carry out the previously
-    described activities. Other companies'' uses of their cookies are subject to their
-    own privacy policies, not this one. Please visit <a href="http://www.networkadvertising.org"
+  text_area: '<h2>4. Shared Information</h2><p>We may share your personal information
+    with the Internet Service Providers as appropriate. We may also share personally
+    identifiable information with outside, non-affiliated third parties that offer
+    products and services that are complementary to our product lines. We may also
+    disclose your personal information as is necessary to: (a) comply with a subpoena
+    or court order; (b) cooperate with law enforcement or other government agency;
+    (c) establish or exercise our legal rights; (d) protect the property or safety
+    of Cannabis Equity and employees, contractors, vendors, and suppliers; (e) defend
+    against legal claims; (f) help with internal and external investigations; or (g)
+    as otherwise required by law or permitted by law. We may disclose your information
+    in connection with the sale or merger or any transaction that involves the sale
+    or assignment of some or all of our assets.</p><p>Third-Party Ad Serving and Audience
+    and Traffic Measurement Services: We may use a third-party network advertiser
+    to serve the advertisements on the Website or may use a traffic measurement service
+    to analyze the traffic on the Website. Network advertisers are third parties that
+    display advertisements based on your visits to this Website and other Websites
+    you have visited the Website. Third-party ad serving enables us to target advertisements
+    to you for products or Websites you might be interested in. Audience and Traffic
+    Measurement Services allow us to collect anonymous traffic and behavior information
+    from the Website by monitoring anonymous visitor activity. Although advertisers
+    or other companies do not have access to the Website cookies, the Website''s advertisers,
+    sponsors and/or traffic measurement services may themselves set and access their
+    own cookies on your computer if you choose to have your cookies enabled in your
+    browser. Cookies allow third-party advertisers to show you advertisements or content
+    you might be interested in. Note that any images (or any other parts of a web
+    page) served by third parties in association with third-party cookies may serve
+    as web beacons, which enable third parties to carry out the previously described
+    activities. Other companies'' uses of their cookies are subject to their own privacy
+    policies, not this one. Please visit <a href="http://www.networkadvertising.org"
     title="http://www.networkadvertising.org">http://www.networkadvertising.org</a>
     in order to learn more about the information collection practices and "opt-out"
     procedures of third-party ad servers we may use.</p>'
