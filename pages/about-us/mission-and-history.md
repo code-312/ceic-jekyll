@@ -49,8 +49,8 @@ sections:
       to research key legislative items.
   - date: '2022'
     paragraph: The Coalition launches a community legislative working group and invites
-      the community to learn and engage with legislative session. The Coalition also
-      hosts its first in-person fundraiser in partnership with Hush raising thousands
+      the community to learn and engage with the legislative session. The Coalition
+      also hosts its first in-person fundraiser in partnership with Hush raising thousands
       of dollars to support our ongoing community programs.
   - date: Today
     paragraph: 'Since Legalization, the Coalition has continued to meet weekly, advocate
