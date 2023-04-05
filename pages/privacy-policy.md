@@ -261,5 +261,59 @@ sections:
     of Third Parties to Whom Data is Disclosed</strong></p><ol><li><p>Our Service
     Providers</p></li><li><p>Service Providers</p></li></ol>"
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: '<p>We have not sold consumers’ personal information in the twelve (12)
+    months preceding the Effective Date of this Privacy Policy. However, we do allow
+    certain third-party advertising partners to collect information about the users
+    of our Service for the purposes of serving ads that are more relevant, for ad
+    campaign measurement and analytics, and for fraud detection and reporting. This
+    activity can be considered a “sale” under certain state law.</p><p>You have the
+    right to opt out of the “sale” of your Personal Information. Such requests may
+    be submitted by as described in the How to Contact US section of our terms and
+    conditions. You may also exercise your rights using the mechanisms described in
+    the Interest Based Advertising section of this Policy above.</p><p>Under certain
+    state law that may apply to you, you have the right to request:</p><ul><li><p>the
+    categories of personal information we has collected about you;</p></li><li><p>the
+    categories of sources from which your personal information is collected;</p></li><li><p>the
+    business or commercial purpose of collecting or selling your personal information;</p></li><li><p>the
+    categories of third parties with whom we share your personal information;</p></li><li><p>the
+    specific pieces of personal information we collected about you;</p></li><li><p>the
+    categories of personal information that we have sold about you and the categories
+    of third parties to whom the personal information was sold, if applicable;</p></li><li><p>deletion
+    of your personal information; and</p></li><li><p>an opt out of having your personal
+    information disclosed or sold to third parties.</p></li></ul><p><br>To submit
+    a request, please contact us at: info@cannabisequityil.org, or complete the <a
+    href="" title="">web form located here</a>. To verify your identity when you submit
+    a request, we will match the identifying information you provide us to the personal
+    information we have about you. If you have an account with us, we will also verify
+    your identity through our existing authentication practices for your account.</p><p>We
+    will not be required to comply with your request to delete your personal information
+    if it is necessary for us to maintain your personal information in order to:</p><ul><li><p>complete
+    the transaction for which the personal information was collected, provide a good
+    or service requested by you, or reasonably anticipated within the context of our
+    ongoing business relationship with you, or otherwise perform a contract between
+    you and us;</p></li><li><p>detect security incidents, protect against malicious,
+    deceptive, fraudulent, or illegal activity; or prosecute those responsible for
+    that activity;</p></li><li><p>debug to identify and repair errors that impair
+    existing intended functionality;</p></li><li><p>exercise free speech, ensure the
+    right of another consumer to exercise his or her right of free speech, or exercise
+    another right provided for by law;</p></li><li><p>engage in public or peer-reviewed
+    scientific, historical, or statistical research in the public interest that adheres
+    to all other applicable ethics and privacy laws, when our deletion of the information
+    is likely to render impossible or seriously impair the achievement of such research,
+    if you have provided informed consent;</p></li><li><p>to enable solely internal
+    uses that are reasonably aligned with your expectations based on your relationship
+    with us;</p></li><li><p>comply with a legal obligation; or</p></li><li><p>otherwise
+    use your personal information, internally, in a lawful manner that is compatible
+    with the context in which you provided the information.</p></li></ul><p><br>We
+    will not discriminate against you in the event you exercise any of the aforementioned
+    rights by:</p><ul><li><p>denying goods or services to you;</p></li><li><p>charging
+    different prices or rates for goods or services, including through the use of
+    discounts or other benefits or imposing penalties;</p></li><li><p>providing a
+    different level or quality of goods or services to you; or</p></li><li><p>suggesting
+    that you will receive a different price or rate for goods or services or a different
+    level or quality of goods or services.</p></li></ul>'
+  site_page: []
 
 ---
