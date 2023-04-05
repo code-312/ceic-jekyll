@@ -214,5 +214,20 @@ sections:
     information collected on these websites. Please review the privacy policies and
     practices of these digital channels before providing any Personal Information.</p>"
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2>6. Information Security</h2><p>We make reasonable efforts to ensure
+    that our Internet Service Providers have implemented physical, electronic, and
+    procedural security measures to assist with safeguarding your personal information,
+    and to help protect against unauthorized access and disclosure. Only our authorized
+    personnel and our Internet Service Providers who perform legitimate business functions
+    for us are authorized to access your personal information.</p><p>Notwithstanding
+    our efforts, the Internet and online services have inherent security risks. We
+    cannot promise, and you should not expect, that your personal information, personal
+    searches, and other communications will always remain secure. You should take
+    care with regard to how you handle and disclose your personal information or any
+    username or password that you are required to use to access services on this Website
+    or online service.</p>"
+  site_page: []
 
 ---
