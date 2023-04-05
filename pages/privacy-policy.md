@@ -284,29 +284,29 @@ sections:
     of your personal information; and</p></li><li><p>an opt out of having your personal
     information disclosed or sold to third parties.</p></li></ul><p><br>To submit
     a request, please contact us at: info@cannabisequityil.org, or complete the <a
-    href="" title="">web form located here</a>. To verify your identity when you submit
-    a request, we will match the identifying information you provide us to the personal
-    information we have about you. If you have an account with us, we will also verify
-    your identity through our existing authentication practices for your account.</p><p>We
-    will not be required to comply with your request to delete your personal information
-    if it is necessary for us to maintain your personal information in order to:</p><ul><li><p>complete
-    the transaction for which the personal information was collected, provide a good
-    or service requested by you, or reasonably anticipated within the context of our
-    ongoing business relationship with you, or otherwise perform a contract between
-    you and us;</p></li><li><p>detect security incidents, protect against malicious,
-    deceptive, fraudulent, or illegal activity; or prosecute those responsible for
-    that activity;</p></li><li><p>debug to identify and repair errors that impair
-    existing intended functionality;</p></li><li><p>exercise free speech, ensure the
-    right of another consumer to exercise his or her right of free speech, or exercise
-    another right provided for by law;</p></li><li><p>engage in public or peer-reviewed
-    scientific, historical, or statistical research in the public interest that adheres
-    to all other applicable ethics and privacy laws, when our deletion of the information
-    is likely to render impossible or seriously impair the achievement of such research,
-    if you have provided informed consent;</p></li><li><p>to enable solely internal
-    uses that are reasonably aligned with your expectations based on your relationship
-    with us;</p></li><li><p>comply with a legal obligation; or</p></li><li><p>otherwise
-    use your personal information, internally, in a lawful manner that is compatible
-    with the context in which you provided the information.</p></li></ul><p><br>We
+    href="" title=""><em>web form located here</em></a><em>. </em>To verify your identity
+    when you submit a request, we will match the identifying information you provide
+    us to the personal information we have about you. If you have an account with
+    us, we will also verify your identity through our existing authentication practices
+    for your account.</p><p>We will not be required to comply with your request to
+    delete your personal information if it is necessary for us to maintain your personal
+    information in order to:</p><ul><li><p>complete the transaction for which the
+    personal information was collected, provide a good or service requested by you,
+    or reasonably anticipated within the context of our ongoing business relationship
+    with you, or otherwise perform a contract between you and us;</p></li><li><p>detect
+    security incidents, protect against malicious, deceptive, fraudulent, or illegal
+    activity; or prosecute those responsible for that activity;</p></li><li><p>debug
+    to identify and repair errors that impair existing intended functionality;</p></li><li><p>exercise
+    free speech, ensure the right of another consumer to exercise his or her right
+    of free speech, or exercise another right provided for by law;</p></li><li><p>engage
+    in public or peer-reviewed scientific, historical, or statistical research in
+    the public interest that adheres to all other applicable ethics and privacy laws,
+    when our deletion of the information is likely to render impossible or seriously
+    impair the achievement of such research, if you have provided informed consent;</p></li><li><p>to
+    enable solely internal uses that are reasonably aligned with your expectations
+    based on your relationship with us;</p></li><li><p>comply with a legal obligation;
+    or</p></li><li><p>otherwise use your personal information, internally, in a lawful
+    manner that is compatible with the context in which you provided the information.</p></li></ul><p><br>We
     will not discriminate against you in the event you exercise any of the aforementioned
     rights by:</p><ul><li><p>denying goods or services to you;</p></li><li><p>charging
     different prices or rates for goods or services, including through the use of
