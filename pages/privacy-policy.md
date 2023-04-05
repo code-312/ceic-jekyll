@@ -6,30 +6,31 @@ description: 'Privacy Policy for Cannabis Equity IL '
 sections:
 - template: text-area
   style: Plain
-  text_area: '<p>Last Updated: 01/01/2023</p><p>This privacy policy (the "Privacy
-    Policy") applies to this Website. We at Cannabis Equity IL (“us,” “our” “we,”
-    or “Cannabis Equity”) consider the protection of your personal information to
-    be a priority when you visit our Website, www.cannabisquityil.org, (the “Website”).
-    The purpose of this Privacy Policy is to disclose to you what information we may
-    collect, how we may collect it, with whom we may share it, and certain other matters
-    related to such information, including the choices you have regarding our collection
-    of information and our use and disclosure to other parties of information we may
-    have collected from you.</p><p>We reserve the right to modify this Privacy Policy
-    at any time without notice (for example, if we modify our practices regarding
-    the collection or use of information). We will revise our Last Updated date to
-    reflect any revisions to this Privacy Policy. Your continued use of the Website
-    following the posting of any revisions shall constitute your acceptance thereof.
-    We own the information collected via the Website and we may use it for our own
-    purposes, including marketing. Please note that this Privacy Policy applies only
-    to information collected on this Website; it does not apply to any other information
-    collected or obtained through other means or information collected by third-parties.</p><p>When
-    this Privacy Policy uses the term "Personally Identifiable Information" or "Personal
-    Information," we mean information that identifies a particular individual, such
-    as your full name, street address or email address. When other information is
-    associated with personal information, it also becomes personally identifiable
-    information for the purposes of this Privacy Policy.</p><ol><li><p><strong>What
-    Information Is Collected</strong></p></li><li><p><strong>How Do We Collect Information</strong></p></li><li><p><strong>How
-    Is your Information Used</strong></p></li><li><p><strong>Shared Information</strong></p></li><li><p><strong>Links
+  text_area: '<h1>Privacy Policy</h1><p>Last Updated: 01/01/2023</p><p>This privacy
+    policy (the "Privacy Policy") applies to this Website. We at Cannabis Equity IL
+    (“us,” “our” “we,” or “Cannabis Equity”) consider the protection of your personal
+    information to be a priority when you visit our Website, www.cannabisquityil.org,
+    (the “Website”). The purpose of this Privacy Policy is to disclose to you what
+    information we may collect, how we may collect it, with whom we may share it,
+    and certain other matters related to such information, including the choices you
+    have regarding our collection of information and our use and disclosure to other
+    parties of information we may have collected from you.</p><p>We reserve the right
+    to modify this Privacy Policy at any time without notice (for example, if we modify
+    our practices regarding the collection or use of information). We will revise
+    our Last Updated date to reflect any revisions to this Privacy Policy. Your continued
+    use of the Website following the posting of any revisions shall constitute your
+    acceptance thereof. We own the information collected via the Website and we may
+    use it for our own purposes, including marketing. Please note that this Privacy
+    Policy applies only to information collected on this Website; it does not apply
+    to any other information collected or obtained through other means or information
+    collected by third-parties.</p><p>When this Privacy Policy uses the term "Personally
+    Identifiable Information" or "Personal Information," we mean information that
+    identifies a particular individual, such as your full name, street address or
+    email address. When other information is associated with personal information,
+    it also becomes personally identifiable information for the purposes of this Privacy
+    Policy.</p><ol><li><p><strong>What Information Is Collected</strong></p></li><li><p><strong>How
+    Do We Collect Information</strong></p></li><li><p><strong>How Is your Information
+    Used</strong></p></li><li><p><strong>Shared Information</strong></p></li><li><p><strong>Links
     To Third-party Websites</strong></p></li><li><p><strong>Information Security</strong></p></li><li><p><strong>Data
     Retention Periods</strong></p></li><li><p><strong>Other Social Media Websites,
     Blogs, Message Boards</strong></p></li><li><p><strong>Other State</strong> <strong>Privacy
