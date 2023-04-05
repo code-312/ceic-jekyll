@@ -318,14 +318,15 @@ sections:
   site_page: []
 - template: text-area
   style: Plain
-  text_area: "<h2>9. General Audience Website Not Directed Toward Children</h2><p>This
+  text_area: '<h2>9. General Audience Website Not Directed Toward Children</h2><p>This
     Website is a general audience Website. Our content is neither directed toward
     minors nor children who are under the age of 16. We do not knowingly collect personal
     information from children under the age of 16. If we or our Internet Service Providers
     become aware that a minor or a child under the age of 16 has provided us with
     personal information without the parental consent, that information will be deleted
     from our databases. Parents who have questions about personal information that
-    may have been submitted by a child under the age of 16 should email us at: info@cannabisequityil.org.</p>"
+    may have been submitted by a child under the age of 16 should email us at: <a
+    href="mailto: info@cannabisequityil.org" title="">info@cannabisequityil.org</a>.</p>'
   site_page: []
 - template: text-area
   style: Plain
@@ -342,9 +343,9 @@ sections:
   site_page: []
 - template: text-area
   style: Plain
-  text_area: "<h2>11. Questions About This Privacy Policy</h2><p>If you have any questions
+  text_area: '<h2>11. Questions About This Privacy Policy</h2><p>If you have any questions
     about this Privacy Policy or the privacy practices of this Website, please contact
-    us by email at: info@cannabisequityil.org.</p>"
+    us by email at: <a href="mailto: info@cannabisequityil.org" title="">info@cannabisequityil.org</a>.</p>'
   site_page: []
 
 ---
