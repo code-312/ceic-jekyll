@@ -397,5 +397,27 @@ sections:
     this Privacy Policy. For your protection, financial information is collected and
     stored through encrypted means.</p>'
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2><strong>3. How Is your Information Used</strong></h2><p>We may use
+    your personal information to contact you via mail, email, or telephone in order
+    to give you updates about our special events, new services, that may be of interest
+    to you. We also use return email addresses to answer the e-mail we receive from
+    you. We may also use your IP address to help protect us and our Internet Service
+    Providers from fraud.</p><p>Additional uses of your non-personal and personal
+    information will allow us to tailor services specific to your needs, to help organize
+    and manage your customer relationship and our business, to conduct business, to
+    provide you with customer and member support, to perform functions that are described
+    to you at the time of collection, and to enforce our Website’s Terms.</p><p>We
+    use the services of independent companies to provide certain services to you,
+    including, without limitation, Website hosting services, and Internet connectivity
+    services (“Internet Service Providers”).</p><p>We may also use non-personal aggregate
+    information to improve our Website. For example, our Internet Service Providers
+    may report to us that there were a particular number of visitors to a certain
+    area of our Website, or that a certain number of men or a certain number of women
+    completed our registration form in particular areas of our Website. Such information
+    may also be used to analyze the effectiveness of our business and advertising
+    models.</p>"
+  site_page: []
 
 ---
