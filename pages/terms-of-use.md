@@ -135,5 +135,15 @@ sections:
     notice thereof to: Cannabis Equity at: <a href="mailto: info@cannabisequityil.org"
     title="">info@cannabisequityil.org</a>.</p>'
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2><strong>7. INDEMNIFICATION</strong></h2><p>YOU AGREE TO INDEMNIFY
+    AND HOLD CANNABIS EQUITY, ITS DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, BUSINESS
+    PARTNERS AND AFFILIATES HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS, DAMAGES,
+    COSTS AND EXPENSES, INCLUDING ATTORNEY FEES, ARISING FROM OR RELATED TO YOUR USE
+    OF THIS WEB SITE OR BREACH OF THESE TERMS. You agree to cooperate fully with us
+    in the defence of any claim that is the subject of your obligations under these
+    Terms.<br></p>"
+  site_page: []
 
 ---
