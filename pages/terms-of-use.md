@@ -118,5 +118,22 @@ sections:
     responsibility for all activities that occur under your username and password,
     whether or not you have authorized the activity.</p>'
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: '<h2><strong>6. USER CONTENT AND PERSONAL INFORMATION</strong></h2><p>Your
+    grant to Cannabis Equity of the right to verify correctness of registration and
+    services eligibility requirements, print, publish, broadcast and use, worldwide,
+    in any media now known or hereafter discovered and at any time, personal information
+    such as your name, address, picture, voice, likeness and/or biographical information
+    for compliance and promotional purposes without additional compensation and without
+    additional consent.</p><p>The rights granted by you hereunder may not be terminated,
+    revoked or rescinded and are not subject to reversion. The rights granted by us
+    may be terminated, revoked or rescinded and are subject to reversion. If you become
+    aware that User Content you have submitted includes any material for which you
+    lack the unrestricted right to grant us the rights set forth above without obligations
+    or liability to any party, you agree to promptly provide us with detailed written
+    notice thereof to: Cannabis Equity at: <a href="mailto: info@cannabisequityil.org"
+    title="">info@cannabisequityil.org</a>.</p>'
+  site_page: []
 
 ---
