@@ -340,5 +340,11 @@ sections:
     Please note that you should always update your personal information to provide
     us with a current email address.</p>"
   site_page: []
+- template: text-area
+  style: Plain
+  text_area: "<h2>11. Questions About This Privacy Policy</h2><p>If you have any questions
+    about this Privacy Policy or the privacy practices of this Website, please contact
+    us by email at: info@cannabisequityil.org.</p>"
+  site_page: []
 
 ---
