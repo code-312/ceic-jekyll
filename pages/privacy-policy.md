@@ -248,5 +248,15 @@ sections:
     year. .</p><p>Pursuant to applicable state law, we make the following disclosures
     regarding the personal information we have collected within the last 12 months:</p>"
   site_page: []
+- template: text-area
+  style: Two Column
+  text_area: "<h2>Lorem Ipsum</h2><p>Viverra maecenas accumsan lacus vel. Pellentesque
+    adipiscing commodo elit at imperdiet dui. Pharetra massa massa ultricies mi quis
+    hendrerit dolor. Lacus vestibulum sed arcu non odio euismod lacinia at. Pharetra
+    magna ac placerat vestibulum lectus mauris ultrices eros. Pharetra magna ac placerat
+    vestibulum. Orci eu lobortis elementum nibh tellus. Libero nunc consequat interdum
+    varius sit.</p>"
+  site_page: []
+  heading: Category of Personal Information
 
 ---
