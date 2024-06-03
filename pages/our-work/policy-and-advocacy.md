@@ -71,7 +71,7 @@ sections:
     text: Make a Donation
     type: External Link
     site_page: pages/get-involved/donate.md
-    url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/
+    url: https://www.gofundme.com/f/empower-equity-driving-cannabis-reform-in-il
   - heading: Join
     subtitle: Join our Policy Research working groups
     text: Join a Working Group

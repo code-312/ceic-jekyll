@@ -19,7 +19,7 @@ sections:
   - icon: house
     text: Donate to the Coalition
     type: External Link
-    url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/
+    url: https://www.gofundme.com/f/empower-equity-driving-cannabis-reform-in-il
   heading: Quick Links
 - template: text-area
   text_area: "<h2>A Member-Supported Movement</h2><p>Monthly and annual donations
@@ -51,7 +51,7 @@ sections:
   add_button: true
   text: Become a Grassroots Supporter
   type: External Link
-  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=50&x_ask=20,50,100,250&x_frequency=y
+  url: https://www.gofundme.com/f/empower-equity-driving-cannabis-reform-in-il
 - template: text-area
   style: Splashy
   text_area: "<h3>Equity Champion<br>$15/month or $120/annually</h3><ul><li><p>Individual
@@ -61,7 +61,7 @@ sections:
     member sessions with Movement and Medicine</p></li></ul>"
   add_button: true
   type: External Link
-  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=120&x_ask=20,50,100,250&x_frequency=y
+  url: https://www.gofundme.com/f/empower-equity-driving-cannabis-reform-in-il
   text: Become an Equity Champion
 - template: text-area
   style: Splashy
@@ -72,7 +72,7 @@ sections:
     Coalition equity partners</p></li><li><p>And more!</p></li></ul>"
   add_button: true
   type: External Link
-  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/?x_amount=250&x_ask=20,50,100,250&x_frequency=y
+  url: https://www.gofundme.com/f/empower-equity-driving-cannabis-reform-in-il
   text: Become an Entrepreneur
 
 ---

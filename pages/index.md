@@ -75,7 +75,7 @@ sections:
     supporters like you maximize your impact towards equity and justice.
   text: Donate
   type: External Link
-  url: https://funraise.org/give/Ceic-Corp/3aca7fd5-e9cb-4eb4-8574-807dbbb8bc93/
+  url: https://www.gofundme.com/f/empower-equity-driving-cannabis-reform-in-il
 - template: instagram-feed
   heading: Follow us
   paragraph: Check us out on Instagram to stay up to date on our news, resources and
